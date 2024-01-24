@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380421e_SK_09.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9589" LABEL="numbering" DESCRIPTION="block type numbering"/><OtherTag ID="BT9588" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3604" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1914"
+          HEIGHT="2662"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1914"
+                  HEIGHT="2662">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c7e47ad2"
+                    TAGREFS="LT3604"
+                    BASELINE="874 232 1023 237" 
+                    HPOS="872"
+                    VPOS="188"
+                    WIDTH="151"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="874 232 872 259 1021 255 1023 237 1023 206 874 188 874 232"/></Shape>
+	    <String CONTENT="- 9 -"
+                    HPOS="872"
+                    VPOS="188"
+                    WIDTH="151"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a81a5a5a"
+                    TAGREFS="LT3604"
+                    BASELINE="1536 261 1612 265" 
+                    HPOS="1532"
+                    VPOS="215"
+                    WIDTH="77"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1534 259 1532 292 1607 292 1609 263 1607 224 1534 215 1534 259"/></Shape>
+	    <String CONTENT="35"
+                    HPOS="1532"
+                    VPOS="215"
+                    WIDTH="77"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_326573f2"
+                    TAGREFS="LT3604"
+                    BASELINE="393 361 1827 361" 
+                    HPOS="393"
+                    VPOS="310"
+                    WIDTH="1434"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="393 361 393 388 1827 388 1827 361 1827 326 1703 310 1700 310 1614 321 1600 323 1592 321 1543 310 1540 310 1538 310 1281 319 1123 323 1090 317 1056 310 1054 310 943 315 770 323 726 312 714 310 712 310 710 310 688 312 603 323 393 310 393 361"/></Shape>
+	    <String CONTENT="četnícke veliteľstvo v Bratislave so žiadosťou o bezodklad-"
+                    HPOS="393"
+                    VPOS="310"
+                    WIDTH="1434"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1eb1bf2d"
+                    TAGREFS="LT3604"
+                    BASELINE="390 450 1740 450" 
+                    HPOS="390"
+                    VPOS="414"
+                    WIDTH="1350"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="390 450 390 472 1740 472 1740 450 1738 414 390 417 390 450"/></Shape>
+	    <String CONTENT="né učinenie opatrení, aby aj na tomto úseku čs. hranice"
+                    HPOS="390"
+                    VPOS="414"
+                    WIDTH="1350"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a39bedcb"
+                    TAGREFS="LT3604"
+                    BASELINE="393 534 1736 530" 
+                    HPOS="390"
+                    VPOS="501"
+                    WIDTH="1346"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="393 534 393 559 1731 563 1736 530 1729 501 390 503 393 534"/></Shape>
+	    <String CONTENT="od Bratislavy k Parkanu boly hliadky finančnej stráže a"
+                    HPOS="390"
+                    VPOS="501"
+                    WIDTH="1346"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75fc598d"
+                    TAGREFS="LT3604"
+                    BASELINE="395 621 1734 614" 
+                    HPOS="393"
+                    VPOS="581"
+                    WIDTH="1341"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="395 621 395 643 1729 647 1734 614 1727 581 393 590 395 621"/></Shape>
+	    <String CONTENT="hliadky četnícke okamžitte sosilnené tak, aby akýmkoľvek"
+                    HPOS="393"
+                    VPOS="581"
+                    WIDTH="1341"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4288907"
+                    TAGREFS="LT3604"
+                    BASELINE="393 707 1716 700" 
+                    HPOS="390"
+                    VPOS="665"
+                    WIDTH="1326"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="393 707 393 729 1714 723 1716 700 1709 665 390 676 393 707"/></Shape>
+	    <String CONTENT="pokusom židovských uprchlíkov o prekročenie čs. hraníc"
+                    HPOS="390"
+                    VPOS="665"
+                    WIDTH="1326"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb59ad98"
+                    TAGREFS="LT3604"
+                    BASELINE="397 789 1776 789" 
+                    HPOS="397"
+                    VPOS="758"
+                    WIDTH="1379"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="397 789 397 816 1776 816 1776 789 1776 758 397 758 397 789"/></Shape>
+	    <String CONTENT="smerom cez Dunaj bolo zabránené a tieto včas boly znemož-"
+                    HPOS="397"
+                    VPOS="758"
+                    WIDTH="1379"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57423cf3"
+                    TAGREFS="LT3604"
+                    BASELINE="393 876 541 871" 
+                    HPOS="390"
+                    VPOS="842"
+                    WIDTH="151"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="393 876 393 898 461 909 464 909 541 891 541 871 535 842 390 845 393 876"/></Shape>
+	    <String CONTENT="nené."
+                    HPOS="390"
+                    VPOS="842"
+                    WIDTH="151"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2bf09ab"
+                    TAGREFS="LT3604"
+                    BASELINE="615 956 1789 951" 
+                    HPOS="612"
+                    VPOS="909"
+                    WIDTH="1177"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="615 956 615 982 1789 978 1789 951 1782 909 612 918 615 956"/></Shape>
+	    <String CONTENT="Poznamenávam, že túto vec sleduje krajinský úrad"
+                    HPOS="612"
+                    VPOS="909"
+                    WIDTH="1177"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20dccc0e"
+                    TAGREFS="LT3604"
+                    BASELINE="401 1044 1518 1035" 
+                    HPOS="399"
+                    VPOS="1007"
+                    WIDTH="1119"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="401 1044 401 1064 1518 1055 1518 1035 1512 1007 399 1009 401 1044"/></Shape>
+	    <String CONTENT="i úrady mu podriadené s nakväčšou pečlivost&#x27;ou."
+                    HPOS="399"
+                    VPOS="1007"
+                    WIDTH="1119"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8522843"
+                    TAGREFS="LT3604"
+                    BASELINE="617 1126 1691 1120" 
+                    HPOS="615"
+                    VPOS="1091"
+                    WIDTH="1076"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="617 1126 617 1151 1689 1144 1691 1120 1685 1091 615 1095 617 1126"/></Shape>
+	    <String CONTENT="0 event. d&#x27;alších udalostiach bude predložená"
+                    HPOS="615"
+                    VPOS="1091"
+                    WIDTH="1076"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa166383"
+                    TAGREFS="LT3604"
+                    BASELINE="404 1208 712 1208" 
+                    HPOS="404"
+                    VPOS="1171"
+                    WIDTH="308"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="404 1208 404 1240 435 1253 437 1253 439 1253 712 1246 712 1208 710 1171 404 1177 404 1208"/></Shape>
+	    <String CONTENT="včas zpráva."
+                    HPOS="404"
+                    VPOS="1171"
+                    WIDTH="308"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31c46745"
+                    TAGREFS="LT3604"
+                    BASELINE="788 1288 1290 1288" 
+                    HPOS="788"
+                    VPOS="1257"
+                    WIDTH="502"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="788 1288 788 1326 1290 1315 1290 1288 1287 1257 788 1257 788 1288"/></Shape>
+	    <String CONTENT="Krajinský prezident:"
+                    HPOS="788"
+                    VPOS="1257"
+                    WIDTH="502"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

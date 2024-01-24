@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-ZIH3010106_05.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9604" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3614" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1298"
+          HEIGHT="1676"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1298"
+                  HEIGHT="1676">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_05e7afee"
+                    TAGREFS="LT3614"
+                    BASELINE="600 110 712 110" 
+                    HPOS="600"
+                    VPOS="90"
+                    WIDTH="112"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="600 110 600 127 711 128 712 110 711 90 600 92 600 110"/></Shape>
+	    <String CONTENT="- 5 -"
+                    HPOS="600"
+                    VPOS="90"
+                    WIDTH="112"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49591a4e"
+                    TAGREFS="LT3614"
+                    BASELINE="234 215 1271 205" 
+                    HPOS="233"
+                    VPOS="180"
+                    WIDTH="1038"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="234 215 234 234 1271 219 1271 205 1268 180 736 180 734 180 691 187 674 189 549 189 546 188 533 181 532 181 530 181 529 181 528 181 518 188 514 189 489 188 381 182 380 182 378 182 359 189 356 192 233 192 234 215"/></Shape>
+	    <String CONTENT="Widząc to dałem przez tylne okno znak do rozpoczęcia akcji. Krawiec"
+                    HPOS="233"
+                    VPOS="180"
+                    WIDTH="1038"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cb28211"
+                    TAGREFS="LT3614"
+                    BASELINE="236 266 1219 254" 
+                    HPOS="234"
+                    VPOS="227"
+                    WIDTH="985"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="236 266 236 284 307 279 336 284 343 286 345 286 352 284 384 277 487 283 500 283 501 283 502 283 504 283 512 276 547 282 557 283 558 283 560 283 565 282 593 275 625 282 631 282 632 282 639 280 674 273 705 280 709 280 711 280 720 280 783 272 820 279 827 279 828 279 839 277 899 270 915 277 916 277 917 277 919 277 931 276 1000 269 1024 275 1028 276 1029 276 1031 276 1219 272 1219 254 1216 234 1109 227 1107 227 1073 234 568 234 567 234 532 241 294 238 293 238 234 245 236 266"/></Shape>
+	    <String CONTENT="Zalcbergz baraku drugiego zaczął strzelać do Kittnera. Kittner"
+                    HPOS="234"
+                    VPOS="227"
+                    WIDTH="985"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29c2c5ad"
+                    TAGREFS="LT3614"
+                    BASELINE="238 317 1253 305" 
+                    HPOS="237"
+                    VPOS="283"
+                    WIDTH="1016"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="238 317 240 337 259 331 349 336 363 336 364 336 1253 319 1253 305 1249 283 237 289 238 317"/></Shape>
+	    <String CONTENT="zaczął uciekać do swego baraku po broń maszynową. Akcja się rozpo-"
+                    HPOS="237"
+                    VPOS="283"
+                    WIDTH="1016"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9834dbc0"
+                    TAGREFS="LT3614"
+                    BASELINE="238 365 1191 354" 
+                    HPOS="237"
+                    VPOS="332"
+                    WIDTH="954"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="238 365 238 379 1190 372 1191 354 1187 332 237 339 238 365"/></Shape>
+	    <String CONTENT="częła. Nie mogąc już wykonać swego zadania rozerwałem z moimi"
+                    HPOS="237"
+                    VPOS="332"
+                    WIDTH="954"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66b08860"
+                    TAGREFS="LT3614"
+                    BASELINE="240 416 1207 403" 
+                    HPOS="238"
+                    VPOS="375"
+                    WIDTH="969"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="240 416 241 442 271 432 421 435 423 435 561 427 592 435 593 435 595 435 596 435 617 427 628 437 630 437 631 437 632 437 962 431 964 431 993 421 1052 430 1053 430 1109 423 1204 430 1207 403 1204 384 1098 375 1096 375 1095 375 1094 375 1082 384 1068 377 1067 377 1066 377 989 385 884 378 883 378 881 378 845 386 711 381 709 381 708 381 706 381 697 388 624 382 623 382 621 382 620 382 611 389 561 382 560 382 558 382 539 391 437 385 435 385 434 385 409 392 394 385 392 385 391 385 389 385 373 392 310 386 308 386 238 395 240 416"/></Shape>
+	    <String CONTENT="ludźmi druty kolczaste, ażeby dostać się do tylnego wyjścia do"
+                    HPOS="238"
+                    VPOS="375"
+                    WIDTH="969"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7d5ec9f"
+                    TAGREFS="LT3614"
+                    BASELINE="238 465 1221 453" 
+                    HPOS="237"
+                    VPOS="427"
+                    WIDTH="984"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="238 465 238 480 1221 467 1221 453 1216 427 1127 434 1106 428 1100 427 1099 427 1098 427 1096 427 1088 428 1061 435 1012 430 989 428 987 428 986 428 985 428 982 431 972 437 924 432 897 430 895 430 876 432 849 438 810 434 772 431 771 431 727 437 695 439 565 439 269 438 268 438 266 438 237 445 238 465"/></Shape>
+	    <String CONTENT="wieży, gdzie byli ukraińcy. Największe zadanie miał b.porucznik"
+                    HPOS="237"
+                    VPOS="427"
+                    WIDTH="984"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80f43229"
+                    TAGREFS="LT3614"
+                    BASELINE="238 515 1209 504" 
+                    HPOS="237"
+                    VPOS="479"
+                    WIDTH="972"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="238 515 238 541 602 537 603 537 611 534 627 526 723 526 774 530 804 533 806 533 824 529 846 525 931 525 937 527 944 532 945 532 947 532 948 532 950 532 961 526 968 523 1021 523 1026 525 1043 532 1045 532 1046 532 1080 523 1091 522 1208 522 1209 504 1207 484 971 479 969 479 968 479 945 487 944 487 940 487 887 480 885 480 884 480 883 480 874 487 818 481 817 481 764 488 723 481 722 481 652 483 651 483 649 483 641 490 361 487 360 487 359 487 357 487 349 494 307 487 305 487 237 495 238 515"/></Shape>
+	    <String CONTENT="armii czeskiej im.Rudolf. On z drugim więźniem z Czech zawiózł"
+                    HPOS="237"
+                    VPOS="479"
+                    WIDTH="972"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c12f91ec"
+                    TAGREFS="LT3614"
+                    BASELINE="238 565 1235 554" 
+                    HPOS="237"
+                    VPOS="522"
+                    WIDTH="998"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="238 582 1235 568 1235 554 1232 536 1148 526 1147 526 1145 526 1144 526 1131 534 1110 529 1109 529 1107 529 1106 529 1105 529 1095 537 1026 537 992 526 990 526 989 526 987 526 966 533 950 522 948 522 947 522 947 547 910 544 824 548 759 549 713 540 611 533 610 533 609 533 593 541 579 532 578 532 577 532 575 532 532 543 428 543 391 533 389 533 388 533 347 541 332 532 331 532 329 532 328 532 326 532 307 540 269 534 268 534 266 534 237 544 238 565"/></Shape>
+	    <String CONTENT="z ludźmi wózkiem C.K.M. na teren zwierzyńca obozowego, wszedł na"
+                    HPOS="237"
+                    VPOS="522"
+                    WIDTH="998"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc408d70"
+                    TAGREFS="LT3614"
+                    BASELINE="240 615 1204 603" 
+                    HPOS="238"
+                    VPOS="576"
+                    WIDTH="966"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="240 615 240 628 1202 617 1204 603 1200 576 651 589 593 587 455 585 454 585 452 585 451 585 451 586 445 590 444 592 431 592 353 586 352 586 350 586 349 586 342 593 340 594 238 594 240 615"/></Shape>
+	    <String CONTENT="wieżyczkę i z niej rozpoczął obstrzał sztabu obozu i wartowni."
+                    HPOS="238"
+                    VPOS="576"
+                    WIDTH="966"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8291a6c7"
+                    TAGREFS="LT3614"
+                    BASELINE="238 666 1239 655" 
+                    HPOS="237"
+                    VPOS="627"
+                    WIDTH="1002"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="238 666 238 685 310 678 350 684 360 685 361 685 389 684 497 675 578 681 611 682 613 682 614 682 623 680 642 674 776 678 860 680 862 680 885 675 913 671 922 675 929 678 930 678 931 678 1237 670 1239 655 1236 635 1151 627 1149 627 1050 635 968 629 966 629 965 629 964 629 952 636 856 631 855 631 853 631 832 639 632 639 616 632 614 632 613 632 498 634 497 634 475 642 448 635 447 635 445 635 444 635 442 635 431 642 322 636 321 636 319 636 318 636 308 643 247 636 245 636 244 636 243 636 243 638 237 642 238 666"/></Shape>
+	    <String CONTENT="Nikt z Niemców i Ukraińców tam się znajdujących nie mógł się tam"
+                    HPOS="237"
+                    VPOS="627"
+                    WIDTH="1002"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f000520f"
+                    TAGREFS="LT3614"
+                    BASELINE="240 716 670 709" 
+                    HPOS="238"
+                    VPOS="678"
+                    WIDTH="432"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="240 716 240 731 289 740 290 740 403 733 507 727 669 734 670 709 666 687 646 687 645 685 638 680 638 678 637 678 635 678 634 678 546 685 496 689 482 685 469 681 468 681 466 681 465 681 463 681 459 685 452 691 403 691 384 685 375 682 374 682 335 682 333 682 332 682 331 682 331 684 328 685 319 692 238 685 240 716"/></Shape>
+	    <String CONTENT="wydostać i wszyscy zginęli."
+                    HPOS="238"
+                    VPOS="678"
+                    WIDTH="432"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a2bd113"
+                    TAGREFS="LT3614"
+                    BASELINE="350 763 1179 754" 
+                    HPOS="349"
+                    VPOS="727"
+                    WIDTH="830"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="350 763 350 787 396 777 440 786 444 786 445 786 447 786 448 786 475 776 558 783 584 784 585 784 606 782 646 776 666 780 680 783 681 783 683 783 691 780 706 773 716 779 718 780 719 780 720 780 722 780 723 780 727 779 741 773 792 777 831 780 832 780 834 780 835 780 835 779 839 776 843 772 892 772 908 775 936 780 937 780 938 780 957 773 966 770 990 773 1050 779 1052 779 1053 779 1054 779 1054 777 1061 772 1131 777 1133 777 1177 768 1179 754 1176 736 1064 727 1063 727 1061 727 1040 736 1039 736 1032 736 945 729 944 729 943 729 919 736 915 737 902 736 835 730 834 730 832 730 820 737 814 740 349 740 350 763"/></Shape>
+	    <String CONTENT="Baraki zostały podpalone. W czasie walki zginęło dużo"
+                    HPOS="349"
+                    VPOS="727"
+                    WIDTH="830"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_559d9c5d"
+                    TAGREFS="LT3614"
+                    BASELINE="241 815 1212 804" 
+                    HPOS="240"
+                    VPOS="777"
+                    WIDTH="972"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="241 815 241 831 1211 817 1212 804 1209 782 1033 777 1032 777 1031 777 1029 777 1019 784 1017 786 931 786 920 786 859 779 857 779 856 779 838 786 835 787 828 787 786 780 785 780 713 789 706 789 701 789 651 782 649 782 595 790 591 790 588 790 529 783 528 783 482 791 480 791 479 791 417 784 416 784 359 793 262 786 261 786 259 786 240 793 241 815"/></Shape>
+	    <String CONTENT="więźniów, ale prawie cała obsługa obozu, która wówczas była na"
+                    HPOS="240"
+                    VPOS="777"
+                    WIDTH="972"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c1a93f5"
+                    TAGREFS="LT3614"
+                    BASELINE="241 867 1214 851" 
+                    HPOS="240"
+                    VPOS="825"
+                    WIDTH="974"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="241 867 241 879 1214 870 1214 851 1211 831 1059 825 1057 825 1056 825 1039 832 1033 833 1017 832 959 826 958 826 957 826 955 826 947 833 943 835 926 833 876 828 874 828 803 835 769 838 748 835 713 831 712 831 684 836 666 839 651 836 624 832 623 832 621 832 604 836 591 840 557 838 512 833 511 833 509 833 508 833 508 835 507 835 504 838 501 842 473 839 441 835 440 835 240 840 241 867"/></Shape>
+	    <String CONTENT="miejscu zginęła. Obóz palił się ze wszystkich stron. Widziałem"
+                    HPOS="240"
+                    VPOS="825"
+                    WIDTH="974"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9274b52c"
+                    TAGREFS="LT3614"
+                    BASELINE="241 916 1180 902" 
+                    HPOS="240"
+                    VPOS="881"
+                    WIDTH="940"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="241 916 241 937 343 928 416 934 419 934 420 934 421 934 423 934 434 927 512 932 521 932 522 932 523 932 525 932 543 925 598 931 604 931 606 931 610 931 645 924 695 930 705 930 706 930 708 930 711 928 734 923 788 927 801 928 803 928 815 927 857 921 1180 921 1180 902 1177 881 804 881 803 881 801 881 800 881 792 886 789 888 778 888 712 882 711 882 662 889 659 889 656 889 623 884 621 884 620 884 618 884 609 891 606 891 581 891 392 888 391 888 240 896 241 916"/></Shape>
+	    <String CONTENT="na własne oczy, jak zginął Kittner i SS Suchomil, zastrzelony"
+                    HPOS="240"
+                    VPOS="881"
+                    WIDTH="940"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3e10152"
+                    TAGREFS="LT3614"
+                    BASELINE="241 966 1251 953" 
+                    HPOS="240"
+                    VPOS="923"
+                    WIDTH="1011"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="241 966 241 986 1250 967 1251 953 1249 931 1186 923 1184 923 1183 923 1182 923 1172 930 1005 925 1004 925 936 931 908 935 240 935 241 966"/></Shape>
+	    <String CONTENT="w oknie baraku. SS-owiec szef SS Strasebahn, którego nazwiska nie"
+                    HPOS="240"
+                    VPOS="923"
+                    WIDTH="1011"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19ebda63"
+                    TAGREFS="LT3614"
+                    BASELINE="243 1016 1225 1004" 
+                    HPOS="241"
+                    VPOS="977"
+                    WIDTH="984"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="243 1016 243 1029 565 1033 567 1033 568 1033 592 1026 596 1025 609 1026 674 1032 676 1032 720 1025 729 1023 736 1023 779 1030 781 1030 815 1023 822 1022 829 1023 853 1029 855 1029 856 1029 898 1022 910 1020 920 1022 952 1027 954 1027 955 1027 973 1022 978 1020 994 1020 1080 1026 1081 1026 1223 1018 1225 1004 1221 977 663 990 635 988 579 984 578 984 577 984 575 984 568 990 565 991 543 990 459 984 458 984 400 993 399 993 398 993 359 986 357 986 241 995 243 1016"/></Shape>
+	    <String CONTENT="pamiętam, zginął z ręki pewnego szofera – więźnia. Jego zabójcę"
+                    HPOS="241"
+                    VPOS="977"
+                    WIDTH="984"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74648628"
+                    TAGREFS="LT3614"
+                    BASELINE="241 1065 1233 1053" 
+                    HPOS="240"
+                    VPOS="1032"
+                    WIDTH="993"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="241 1065 241 1078 1232 1065 1233 1053 1229 1032 240 1041 241 1065"/></Shape>
+	    <String CONTENT="zastrzelił z kolei pewien Ukrainiec. Akcja trwała błyskawicznie."
+                    HPOS="240"
+                    VPOS="1032"
+                    WIDTH="993"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_274cd8ff"
+                    TAGREFS="LT3614"
+                    BASELINE="241 1114 1265 1103" 
+                    HPOS="240"
+                    VPOS="1076"
+                    WIDTH="1025"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="241 1114 241 1129 1264 1118 1265 1103 1261 1076 240 1088 241 1114"/></Shape>
+	    <String CONTENT="O godz. 16 minut 30 cały obóz z bronią czy bez broni był na wolności"
+                    HPOS="240"
+                    VPOS="1076"
+                    WIDTH="1025"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66e3c271"
+                    TAGREFS="LT3614"
+                    BASELINE="241 1166 1191 1152" 
+                    HPOS="240"
+                    VPOS="1124"
+                    WIDTH="951"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="241 1166 241 1178 428 1184 430 1184 431 1184 449 1177 454 1175 461 1177 494 1182 496 1182 497 1182 519 1175 526 1174 547 1175 616 1181 617 1181 674 1174 688 1173 708 1174 781 1178 782 1178 1190 1167 1191 1152 1187 1127 1049 1132 1039 1128 1032 1124 1031 1124 1029 1124 1028 1124 1015 1128 997 1135 903 1135 856 1129 831 1127 829 1127 828 1127 827 1127 824 1129 817 1135 771 1131 746 1128 744 1128 743 1128 741 1128 739 1131 733 1135 723 1131 716 1128 715 1128 713 1128 683 1131 610 1139 505 1134 483 1132 482 1132 462 1134 368 1142 350 1135 347 1134 346 1134 345 1134 335 1135 294 1142 286 1135 285 1135 283 1135 282 1135 240 1135 241 1166"/></Shape>
+	    <String CONTENT="i uciekaliśmy do okolicznych lasów. Pościgu za nami nie było."
+                    HPOS="240"
+                    VPOS="1124"
+                    WIDTH="951"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3df2eb77"
+                    TAGREFS="LT3614"
+                    BASELINE="241 1213 1260 1203" 
+                    HPOS="240"
+                    VPOS="1175"
+                    WIDTH="1020"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="241 1213 241 1229 810 1227 811 1227 814 1226 825 1220 944 1226 965 1226 966 1226 986 1226 1114 1217 1257 1223 1260 1203 1254 1175 1235 1182 1075 1178 1026 1177 1025 1177 1008 1178 962 1185 884 1181 838 1178 836 1178 835 1178 834 1178 829 1181 820 1187 743 1182 679 1180 677 1180 676 1180 663 1184 651 1189 463 1189 448 1187 420 1182 419 1182 417 1182 396 1188 384 1192 282 1192 279 1189 272 1184 271 1184 269 1184 268 1184 240 1189 241 1213"/></Shape>
+	    <String CONTENT="Niestety nie udało nam się włączyć do akcji pociągu z robotnikami,"
+                    HPOS="240"
+                    VPOS="1175"
+                    WIDTH="1020"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32da1f68"
+                    TAGREFS="LT3614"
+                    BASELINE="241 1265 1270 1252" 
+                    HPOS="240"
+                    VPOS="1226"
+                    WIDTH="1030"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="241 1265 241 1286 357 1277 523 1282 582 1283 584 1283 811 1280 813 1280 814 1280 818 1277 828 1272 898 1276 934 1277 936 1277 937 1277 945 1275 959 1270 975 1275 986 1277 987 1277 989 1277 1011 1273 1042 1269 1092 1273 1141 1276 1142 1276 1165 1272 1182 1268 1189 1270 1196 1275 1197 1275 1198 1275 1268 1269 1270 1252 1265 1226 1219 1233 1202 1226 1200 1226 1198 1226 1197 1226 1183 1227 1128 1233 1082 1229 1059 1227 1057 1227 1056 1227 1054 1227 1052 1230 1040 1236 948 1231 902 1230 901 1230 878 1233 853 1237 845 1234 836 1230 835 1230 834 1230 832 1230 824 1234 815 1238 750 1236 680 1233 679 1233 611 1238 577 1241 557 1240 508 1234 507 1234 505 1234 480 1241 473 1243 459 1241 402 1236 400 1236 399 1236 382 1243 304 1238 303 1238 240 1245 241 1265"/></Shape>
+	    <String CONTENT="gdyż na odgłos strzałów pociąg zatrzymany został w drodze. Z obozu"
+                    HPOS="240"
+                    VPOS="1226"
+                    WIDTH="1030"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c10bb060"
+                    TAGREFS="LT3614"
+                    BASELINE="243 1312 1182 1301" 
+                    HPOS="241"
+                    VPOS="1279"
+                    WIDTH="941"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="243 1312 243 1326 357 1333 359 1333 535 1326 596 1324 1182 1324 1182 1301 1177 1279 241 1287 243 1312"/></Shape>
+	    <String CONTENT="Treblinka I i II uciekli wszyscy którzy mogli. Inż. Galewski"
+                    HPOS="241"
+                    VPOS="1279"
+                    WIDTH="941"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66e56131"
+                    TAGREFS="LT3614"
+                    BASELINE="244 1364 1168 1350" 
+                    HPOS="244"
+                    VPOS="1322"
+                    WIDTH="924"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="244 1377 325 1386 326 1386 328 1386 329 1386 343 1377 409 1385 410 1385 412 1385 430 1375 540 1382 542 1382 585 1374 610 1382 611 1382 613 1382 891 1368 898 1368 899 1368 955 1377 957 1377 1011 1375 1012 1375 1014 1375 1026 1367 1149 1374 1151 1374 1152 1374 1154 1374 1168 1365 1168 1350 1163 1322 1066 1332 836 1326 800 1326 799 1326 797 1326 793 1328 758 1338 653 1338 638 1329 637 1329 635 1329 634 1329 632 1329 631 1329 610 1339 491 1333 490 1333 426 1342 308 1335 297 1335 296 1335 294 1335 292 1335 264 1343 244 1336 244 1364 244 1377"/></Shape>
+	    <String CONTENT="uciekł razem ze mną. Niestety po kilku kilometrach ucieczki"
+                    HPOS="244"
+                    VPOS="1322"
+                    WIDTH="924"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4cae648"
+                    TAGREFS="LT3614"
+                    BASELINE="244 1417 1214 1405" 
+                    HPOS="243"
+                    VPOS="1375"
+                    WIDTH="971"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="244 1417 244 1435 463 1427 536 1427 546 1434 547 1434 549 1434 550 1434 634 1432 688 1431 690 1431 704 1424 992 1427 993 1427 994 1427 996 1427 1005 1420 1212 1425 1214 1405 1211 1384 1113 1375 1112 1375 1110 1375 1081 1384 1080 1384 1064 1384 788 1379 786 1379 785 1379 767 1386 761 1389 243 1389 244 1417"/></Shape>
+	    <String CONTENT="zawiodły go nerwy, wyjął jakąś truciznę z kieszeni, połknął ją"
+                    HPOS="243"
+                    VPOS="1375"
+                    WIDTH="971"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ad4a84c"
+                    TAGREFS="LT3614"
+                    BASELINE="247 1465 1225 1451" 
+                    HPOS="245"
+                    VPOS="1424"
+                    WIDTH="980"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="247 1465 247 1477 268 1487 269 1487 271 1487 339 1477 343 1477 347 1477 398 1487 399 1487 400 1487 402 1487 413 1477 414 1477 423 1477 528 1484 529 1484 530 1484 551 1477 561 1474 584 1477 635 1484 637 1484 669 1477 686 1473 694 1477 706 1483 708 1483 709 1483 711 1483 726 1477 741 1472 790 1477 821 1480 822 1480 841 1477 877 1470 943 1477 966 1479 968 1479 969 1479 976 1477 1000 1469 1014 1476 1015 1476 1017 1476 1053 1470 1110 1477 1121 1477 1123 1477 1124 1477 1128 1476 1170 1466 1223 1476 1225 1451 1221 1424 245 1442 247 1465"/></Shape>
+	    <String CONTENT="i skonał w moich oczach natychmiast. Ja w grupie kilku więźniów"
+                    HPOS="245"
+                    VPOS="1424"
+                    WIDTH="980"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

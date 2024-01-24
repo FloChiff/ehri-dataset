@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-NISKO-19391112_DE_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1200"
+          HEIGHT="1711"
+          PHYSICAL_IMG_NR="53"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1200"
+                  HEIGHT="1711">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_93385bd3"
+                    TAGREFS="LT3625"
+                    BASELINE="472 28 533 28" 
+                    HPOS="472"
+                    VPOS="1"
+                    WIDTH="61"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="500 1 493 1 472 4 472 28 472 39 533 39 533 28 533 5 510 1 500 1"/></Shape>
+	    <String CONTENT="-3-"
+                    HPOS="472"
+                    VPOS="1"
+                    WIDTH="61"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a7e8251"
+                    TAGREFS="LT3625"
+                    BASELINE="151 104 1131 104" 
+                    HPOS="151"
+                    VPOS="69"
+                    WIDTH="980"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="151 104 151 118 1131 115 1131 104 1131 71 1060 69 1058 69 1057 69 1055 69 1054 71 1038 84 851 84 829 74 821 71 820 71 819 71 804 74 764 84 536 84 519 76 506 72 505 72 503 72 502 72 500 72 495 76 486 82 430 82 423 78 416 72 415 72 413 72 412 72 355 78 339 79 333 78 299 69 298 69 186 69 185 69 184 69 151 79 151 104"/></Shape>
+	    <String CONTENT="gegenteilig ausgewirkt. Aus der Begeisterung für Polen wurde info-"
+                    HPOS="151"
+                    VPOS="69"
+                    WIDTH="980"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41b7b0ec"
+                    TAGREFS="LT3625"
+                    BASELINE="154 129 1111 126" 
+                    HPOS="152"
+                    VPOS="108"
+                    WIDTH="959"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="154 129 154 148 1110 141 1111 126 1108 108 152 108 154 129"/></Shape>
+	    <String CONTENT="ge des zu langen Aufenthaltes hier das Gegenteil erreicht und hat"
+                    HPOS="152"
+                    VPOS="108"
+                    WIDTH="959"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec8d4280"
+                    TAGREFS="LT3625"
+                    BASELINE="154 151 814 153" 
+                    HPOS="152"
+                    VPOS="132"
+                    WIDTH="662"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="154 151 152 166 811 169 814 153 813 135 154 132 154 151"/></Shape>
+	    <String CONTENT="fast niemand mehr Lust, nach Polen zu reisen."
+                    HPOS="152"
+                    VPOS="132"
+                    WIDTH="662"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b2a8800"
+                    TAGREFS="LT3625"
+                    BASELINE="373 202 1128 199" 
+                    HPOS="372"
+                    VPOS="182"
+                    WIDTH="756"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="373 202 373 216 1127 216 1128 199 1125 182 372 182 373 202"/></Shape>
+	    <String CONTENT="Aber auch andere Gründe haben dazu beigetragen, die"
+                    HPOS="372"
+                    VPOS="182"
+                    WIDTH="756"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7169c3f1"
+                    TAGREFS="LT3625"
+                    BASELINE="152 223 1127 226" 
+                    HPOS="151"
+                    VPOS="205"
+                    WIDTH="976"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="152 223 151 236 1124 239 1127 226 1125 208 152 205 152 223"/></Shape>
+	    <String CONTENT="Begeisterung für Polen abzuschwächen. Durch den langen Aufenthalt"
+                    HPOS="151"
+                    VPOS="205"
+                    WIDTH="976"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0f7de89"
+                    TAGREFS="LT3625"
+                    BASELINE="155 250 1158 250" 
+                    HPOS="155"
+                    VPOS="233"
+                    WIDTH="1003"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="155 250 155 265 1158 265 1158 250 1158 233 155 233 155 250"/></Shape>
+	    <String CONTENT="im Asyl konnten wir das für den Transport bestimmte Menschenmaterial"
+                    HPOS="155"
+                    VPOS="233"
+                    WIDTH="1003"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6188cea2"
+                    TAGREFS="LT3625"
+                    BASELINE="155 275 1170 275" 
+                    HPOS="155"
+                    VPOS="256"
+                    WIDTH="1015"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="155 275 155 292 1170 289 1170 275 1168 256 155 256 155 275"/></Shape>
+	    <String CONTENT="beobachten und mussten zu unserem Leidwesen entsetzliche Feststellun-"
+                    HPOS="155"
+                    VPOS="256"
+                    WIDTH="1015"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb0055f8"
+                    TAGREFS="LT3625"
+                    BASELINE="164 300 1171 300" 
+                    HPOS="164"
+                    VPOS="282"
+                    WIDTH="1007"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="164 300 164 313 1170 315 1171 300 1171 282 164 282 164 300"/></Shape>
+	    <String CONTENT="gen machen. Was sollen wir als verantwortliche Menschen mit den in den"
+                    HPOS="164"
+                    VPOS="282"
+                    WIDTH="1007"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d4cad59"
+                    TAGREFS="LT3625"
+                    BASELINE="155 322 1167 326" 
+                    HPOS="154"
+                    VPOS="303"
+                    WIDTH="1013"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="155 322 154 333 1164 337 1167 326 1165 307 155 303 155 322"/></Shape>
+	    <String CONTENT="Transport eingeteilten Halbidioten, Vollidioten und sonstigen zu jed-"
+                    HPOS="154"
+                    VPOS="303"
+                    WIDTH="1013"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8f436e7"
+                    TAGREFS="LT3625"
+                    BASELINE="155 350 1170 352" 
+                    HPOS="154"
+                    VPOS="330"
+                    WIDTH="1016"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="155 350 154 360 1167 365 1170 352 1168 332 155 330 155 350"/></Shape>
+	    <String CONTENT="weder Arbeit unfähigen Geschöpfen beginnen? Die Anzahl jener mit ver-"
+                    HPOS="154"
+                    VPOS="330"
+                    WIDTH="1016"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4889335b"
+                    TAGREFS="LT3625"
+                    BASELINE="154 373 1131 376" 
+                    HPOS="154"
+                    VPOS="355"
+                    WIDTH="977"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="154 373 154 389 1130 387 1131 376 1130 357 154 355 154 373"/></Shape>
+	    <String CONTENT="krüppelten Gliedmassen, Lungenkranke, Nieren- und Magenkranken und"
+                    HPOS="154"
+                    VPOS="355"
+                    WIDTH="977"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31d08b2d"
+                    TAGREFS="LT3625"
+                    BASELINE="155 400 1157 397" 
+                    HPOS="154"
+                    VPOS="379"
+                    WIDTH="1003"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="155 400 155 413 1155 410 1157 397 1152 379 154 380 155 400"/></Shape>
+	    <String CONTENT="sonstigen bresten Menschen ist im Verhältnis zur Gesamtzahl eine er-"
+                    HPOS="154"
+                    VPOS="379"
+                    WIDTH="1003"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86716748"
+                    TAGREFS="LT3625"
+                    BASELINE="154 426 1117 424" 
+                    HPOS="152"
+                    VPOS="406"
+                    WIDTH="965"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="154 426 154 437 1115 436 1117 424 1112 406 152 406 154 426"/></Shape>
+	    <String CONTENT="schreckend grosse, wobei noch zu bemerken ist, dass sich in Polen"
+                    HPOS="152"
+                    VPOS="406"
+                    WIDTH="965"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04cc5695"
+                    TAGREFS="LT3625"
+                    BASELINE="154 450 1160 446" 
+                    HPOS="152"
+                    VPOS="429"
+                    WIDTH="1008"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="154 450 154 463 1158 459 1160 446 1155 429 152 430 154 450"/></Shape>
+	    <String CONTENT="noch die unausbleiblichen Arbeitsunfälle und eventuelle Erfrierungen"
+                    HPOS="152"
+                    VPOS="429"
+                    WIDTH="1008"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_156f9de1"
+                    TAGREFS="LT3625"
+                    BASELINE="155 474 1152 473" 
+                    HPOS="154"
+                    VPOS="454"
+                    WIDTH="998"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="155 474 155 487 1151 486 1152 473 1148 454 154 454 155 474"/></Shape>
+	    <String CONTENT="dazu gesellen. Trotzdem wir für alle aus irgend einem Grunde arbeits-"
+                    HPOS="154"
+                    VPOS="454"
+                    WIDTH="998"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3dd36e45"
+                    TAGREFS="LT3625"
+                    BASELINE="152 499 1170 496" 
+                    HPOS="151"
+                    VPOS="479"
+                    WIDTH="1019"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="152 499 152 514 1168 514 1170 496 1165 479 151 479 152 499"/></Shape>
+	    <String CONTENT="unfähigen Menschen gerne bereit wären durch unserer Hände Arbeit für"
+                    HPOS="151"
+                    VPOS="479"
+                    WIDTH="1019"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0841a37"
+                    TAGREFS="LT3625"
+                    BASELINE="154 524 1128 524" 
+                    HPOS="154"
+                    VPOS="507"
+                    WIDTH="974"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="154 524 154 536 1125 537 1128 524 1127 507 154 507 154 524"/></Shape>
+	    <String CONTENT="selbe in Hinkunft zu sorgen, müssen wir zu unserem Leidwesen fest-"
+                    HPOS="154"
+                    VPOS="507"
+                    WIDTH="974"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89f50c80"
+                    TAGREFS="LT3625"
+                    BASELINE="155 548 1141 546" 
+                    HPOS="154"
+                    VPOS="528"
+                    WIDTH="987"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="155 548 155 561 1138 563 1141 546 1137 528 154 530 155 548"/></Shape>
+	    <String CONTENT="stellen, dass dies infolge der grossen Anzahl jener bedauernswerten"
+                    HPOS="154"
+                    VPOS="528"
+                    WIDTH="987"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8ea2d8f"
+                    TAGREFS="LT3625"
+                    BASELINE="154 570 1170 573" 
+                    HPOS="152"
+                    VPOS="551"
+                    WIDTH="1018"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="154 570 152 584 1167 586 1170 573 1168 554 154 551 154 570"/></Shape>
+	    <String CONTENT="Menschen unmöglich sein wird. Begrüssenswert ist es, mit welcher Auf-"
+                    HPOS="152"
+                    VPOS="551"
+                    WIDTH="1018"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f28856d3"
+                    TAGREFS="LT3625"
+                    BASELINE="162 598 1138 595" 
+                    HPOS="161"
+                    VPOS="578"
+                    WIDTH="977"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="162 598 162 613 1137 613 1138 595 1134 578 161 580 162 598"/></Shape>
+	    <String CONTENT="opferung die hier sich befindenden gesunden Menschen ihrer minder-"
+                    HPOS="161"
+                    VPOS="578"
+                    WIDTH="977"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0844d22b"
+                    TAGREFS="LT3625"
+                    BASELINE="155 623 1124 621" 
+                    HPOS="154"
+                    VPOS="603"
+                    WIDTH="970"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="155 623 155 637 1122 637 1124 621 1121 603 154 603 155 623"/></Shape>
+	    <String CONTENT="tauglichen Glaubensgenossen annehmen. Dementgegen mussten wir aber"
+                    HPOS="154"
+                    VPOS="603"
+                    WIDTH="970"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d33a8e1c"
+                    TAGREFS="LT3625"
+                    BASELINE="154 645 1128 648" 
+                    HPOS="152"
+                    VPOS="627"
+                    WIDTH="976"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="154 645 152 658 1125 663 1128 648 1127 630 154 627 154 645"/></Shape>
+	    <String CONTENT="beobachten, dass sich eine nicht ganz unberechtigte Stimmung gegen"
+                    HPOS="152"
+                    VPOS="627"
+                    WIDTH="976"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e05c0c4b"
+                    TAGREFS="LT3625"
+                    BASELINE="156 671 1125 672" 
+                    HPOS="155"
+                    VPOS="650"
+                    WIDTH="970"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="156 671 155 681 1122 685 1125 672 1124 654 156 650 156 671"/></Shape>
+	    <String CONTENT="jene Persönlichkeiten richtet, welche für die Zusammenstellung der"
+                    HPOS="155"
+                    VPOS="650"
+                    WIDTH="970"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43b6863d"
+                    TAGREFS="LT3625"
+                    BASELINE="154 694 1170 697" 
+                    HPOS="152"
+                    VPOS="672"
+                    WIDTH="1018"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="154 694 152 707 1167 710 1170 697 1168 677 154 672 154 694"/></Shape>
+	    <String CONTENT="Polentransporte verantwortlich sind. Ununterbrochen vernehmen wir ab-"
+                    HPOS="152"
+                    VPOS="672"
+                    WIDTH="1018"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f82b5ec9"
+                    TAGREFS="LT3625"
+                    BASELINE="155 720 1114 722" 
+                    HPOS="154"
+                    VPOS="700"
+                    WIDTH="960"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="155 720 154 731 1111 734 1114 722 1112 704 155 700 155 720"/></Shape>
+	    <String CONTENT="fällige Aeusserungen und zwar darüber, wieso es möglich ist, eine"
+                    HPOS="154"
+                    VPOS="700"
+                    WIDTH="960"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67e66568"
+                    TAGREFS="LT3625"
+                    BASELINE="154 744 1128 747" 
+                    HPOS="152"
+                    VPOS="725"
+                    WIDTH="976"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="154 744 152 757 1125 762 1128 747 1127 730 154 725 154 744"/></Shape>
+	    <String CONTENT="Auslese an minderwertigem Menschenmaterial zusammen zu stellen, um"
+                    HPOS="152"
+                    VPOS="725"
+                    WIDTH="976"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ed3eacf"
+                    TAGREFS="LT3625"
+                    BASELINE="155 772 1158 772" 
+                    HPOS="155"
+                    VPOS="752"
+                    WIDTH="1003"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="155 772 155 785 1158 785 1158 772 1158 755 155 752 155 772"/></Shape>
+	    <String CONTENT="selbe zu Aufbauarbeiten in Polen einzusetzen, dagegen eine Garde von"
+                    HPOS="155"
+                    VPOS="752"
+                    WIDTH="1003"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fbd74a5"
+                    TAGREFS="LT3625"
+                    BASELINE="152 795 1144 798" 
+                    HPOS="152"
+                    VPOS="775"
+                    WIDTH="992"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="152 795 152 809 1142 808 1144 798 1142 779 152 775 152 795"/></Shape>
+	    <String CONTENT="jungen, kräftigen, daher arbeitsfähigen Menschen dazu verwendet, um"
+                    HPOS="152"
+                    VPOS="775"
+                    WIDTH="992"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f43e2345"
+                    TAGREFS="LT3625"
+                    BASELINE="152 818 1152 822" 
+                    HPOS="151"
+                    VPOS="799"
+                    WIDTH="1001"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="152 818 151 831 1150 835 1152 822 1151 804 152 799 152 818"/></Shape>
+	    <String CONTENT="mitzuhelfen, die gebrechlichen Leute nach Polen zu bringen. Die Bei-"
+                    HPOS="151"
+                    VPOS="799"
+                    WIDTH="1001"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aff12ee"
+                    TAGREFS="LT3625"
+                    BASELINE="154 844 1167 846" 
+                    HPOS="154"
+                    VPOS="822"
+                    WIDTH="1013"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="154 844 154 859 1165 859 1167 846 1165 825 154 822 154 844"/></Shape>
+	    <String CONTENT="stellung der Ordner durch die Kultusgemeinde hat daher für die Polen-"
+                    HPOS="154"
+                    VPOS="822"
+                    WIDTH="1013"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2433bba2"
+                    TAGREFS="LT3625"
+                    BASELINE="154 869 1154 871" 
+                    HPOS="152"
+                    VPOS="849"
+                    WIDTH="1002"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="154 869 152 879 1151 881 1154 871 1152 851 154 849 154 869"/></Shape>
+	    <String CONTENT="aktion bisher keinen Nutzen gebracht, im Gegenteil hören wir des öf-"
+                    HPOS="152"
+                    VPOS="849"
+                    WIDTH="1002"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dffc405d"
+                    TAGREFS="LT3625"
+                    BASELINE="152 892 1155 896" 
+                    HPOS="151"
+                    VPOS="874"
+                    WIDTH="1004"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="152 892 151 903 1152 909 1155 896 1154 875 152 874 152 892"/></Shape>
+	    <String CONTENT="teren, man möge das Geld, das für den Ordnerdienst aufgebracht werden"
+                    HPOS="151"
+                    VPOS="874"
+                    WIDTH="1004"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae8a2158"
+                    TAGREFS="LT3625"
+                    BASELINE="154 918 1122 919" 
+                    HPOS="152"
+                    VPOS="899"
+                    WIDTH="970"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="154 918 152 929 1120 931 1122 919 1121 901 154 899 154 918"/></Shape>
+	    <String CONTENT="muss, dazu verwenden, um die vielen Frauen, die nur ein paar Halb-"
+                    HPOS="152"
+                    VPOS="899"
+                    WIDTH="970"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e5c0afc"
+                    TAGREFS="LT3625"
+                    BASELINE="154 941 1128 943" 
+                    HPOS="152"
+                    VPOS="922"
+                    WIDTH="976"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="154 941 152 952 1125 958 1128 943 1127 925 154 922 154 941"/></Shape>
+	    <String CONTENT="schuhe besitzen, sowie keine warme Unterwäsche haben, entsprechend"
+                    HPOS="152"
+                    VPOS="922"
+                    WIDTH="976"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7415d460"
+                    TAGREFS="LT3625"
+                    BASELINE="152 966 1142 969" 
+                    HPOS="151"
+                    VPOS="946"
+                    WIDTH="991"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="152 966 151 980 1140 983 1142 969 1141 948 152 946 152 966"/></Shape>
+	    <String CONTENT="ausstatten zu können. Es hat sich bis heute trotz der verzweifelten"
+                    HPOS="151"
+                    VPOS="946"
+                    WIDTH="991"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3a0411b"
+                    TAGREFS="LT3625"
+                    BASELINE="152 989 1125 995" 
+                    HPOS="151"
+                    VPOS="970"
+                    WIDTH="974"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="152 989 151 1000 1122 1006 1125 995 1124 973 152 970 152 989"/></Shape>
+	    <String CONTENT="Stimmung kein Fall ergeben, wo es notwendig gewesen wäre, zur Auf-"
+                    HPOS="151"
+                    VPOS="970"
+                    WIDTH="974"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34790699"
+                    TAGREFS="LT3625"
+                    BASELINE="154 1015 1154 1019" 
+                    HPOS="152"
+                    VPOS="996"
+                    WIDTH="1002"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="154 1015 152 1028 1151 1030 1154 1019 1152 1000 154 996 154 1015"/></Shape>
+	    <String CONTENT="rechterhaltung der Ordnung, einzugreifen. Die schwierigsten und ver-"
+                    HPOS="152"
+                    VPOS="996"
+                    WIDTH="1002"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9aeceac"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1040 1165 1043" 
+                    HPOS="151"
+                    VPOS="1022"
+                    WIDTH="1014"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="152 1040 151 1052 1162 1055 1165 1043 1164 1025 152 1022 152 1040"/></Shape>
+	    <String CONTENT="antwortlichsten Stellungen haben die Saalkommandanten- und kommandan-"
+                    HPOS="151"
+                    VPOS="1022"
+                    WIDTH="1014"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_048d094b"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1062 1152 1069" 
+                    HPOS="151"
+                    VPOS="1045"
+                    WIDTH="1001"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="152 1062 151 1075 1150 1086 1152 1069 1151 1050 152 1045 152 1062"/></Shape>
+	    <String CONTENT="tinnen und wenn diese Stellen von Mitgliedern aus den eigenen Reihen"
+                    HPOS="151"
+                    VPOS="1045"
+                    WIDTH="1001"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c48fc88d"
+                    TAGREFS="LT3625"
+                    BASELINE="156 1089 1152 1093" 
+                    HPOS="155"
+                    VPOS="1067"
+                    WIDTH="997"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="156 1089 155 1103 1150 1109 1152 1093 1151 1075 156 1067 156 1089"/></Shape>
+	    <String CONTENT="besetzt wurden, so werden sich bestimmt unter der grossen Masse noch"
+                    HPOS="155"
+                    VPOS="1067"
+                    WIDTH="997"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb4f26f2"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1115 1152 1119" 
+                    HPOS="151"
+                    VPOS="1092"
+                    WIDTH="1001"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="152 1115 151 1127 1150 1129 1152 1119 1151 1100 152 1092 152 1115"/></Shape>
+	    <String CONTENT="Leute finden, die dazu befähigt sind, die einlaufende Post aufzutei-"
+                    HPOS="151"
+                    VPOS="1092"
+                    WIDTH="1001"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2aa508a"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1139 1180 1142" 
+                    HPOS="151"
+                    VPOS="1122"
+                    WIDTH="1029"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="152 1139 151 1150 1177 1153 1180 1142 1180 1123 152 1122 152 1139"/></Shape>
+	    <String CONTENT="len, nebensächliche Schreibarbeiten zu leisten, da die verantwortungs-"
+                    HPOS="151"
+                    VPOS="1122"
+                    WIDTH="1029"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d24b42df"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1163 1181 1169" 
+                    HPOS="151"
+                    VPOS="1144"
+                    WIDTH="1030"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="152 1163 151 1174 1178 1180 1181 1169 1180 1147 152 1144 152 1163"/></Shape>
+	    <String CONTENT="vollen Schreibarbeiten ohnedies von uns erledigt werden. Der Sanitäts-"
+                    HPOS="151"
+                    VPOS="1144"
+                    WIDTH="1030"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e60aadd"
+                    TAGREFS="LT3625"
+                    BASELINE="151 1187 1191 1191" 
+                    HPOS="149"
+                    VPOS="1167"
+                    WIDTH="1042"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="151 1187 149 1200 1188 1204 1191 1191 1190 1173 151 1167 151 1187"/></Shape>
+	    <String CONTENT="dienst, der infolge des sich hier befindlichen minderwertigen Menschen-"
+                    HPOS="149"
+                    VPOS="1167"
+                    WIDTH="1042"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c44c1aa5"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1213 1152 1216" 
+                    HPOS="151"
+                    VPOS="1194"
+                    WIDTH="1001"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="152 1213 151 1226 1150 1227 1152 1216 1151 1197 152 1194 152 1213"/></Shape>
+	    <String CONTENT="materials ein besonders aufreibender ist, wird inklusive der Zahnbe-"
+                    HPOS="151"
+                    VPOS="1194"
+                    WIDTH="1001"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e685bd5"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1237 1167 1241" 
+                    HPOS="151"
+                    VPOS="1219"
+                    WIDTH="1016"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="152 1237 151 1249 1164 1253 1167 1241 1165 1223 152 1219 152 1237"/></Shape>
+	    <String CONTENT="handlung aus den Reihen der Polenfahrer in vorbildlicher Weise durch-"
+                    HPOS="151"
+                    VPOS="1219"
+                    WIDTH="1016"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bd30160"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1263 1141 1267" 
+                    HPOS="151"
+                    VPOS="1243"
+                    WIDTH="990"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="152 1263 151 1276 1138 1280 1141 1267 1140 1249 152 1243 152 1263"/></Shape>
+	    <String CONTENT="geführt, wobei wir bemerken müssen, dass dem Arzt kein eigener Raum"
+                    HPOS="151"
+                    VPOS="1243"
+                    WIDTH="990"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91dacf3d"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1287 1094 1293" 
+                    HPOS="151"
+                    VPOS="1268"
+                    WIDTH="943"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="152 1287 151 1298 1091 1303 1094 1293 1092 1271 152 1268 152 1287"/></Shape>
+	    <String CONTENT="zur Verfügung steht, sondern die Behandlung und Untersuchung der"
+                    HPOS="151"
+                    VPOS="1268"
+                    WIDTH="943"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7d13248"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1311 1157 1316" 
+                    HPOS="151"
+                    VPOS="1291"
+                    WIDTH="1006"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="152 1311 151 1324 1154 1328 1157 1316 1155 1296 152 1291 152 1311"/></Shape>
+	    <String CONTENT="Kranken in einem Schlafraum am Bette des Arztes mit den primitivsten"
+                    HPOS="151"
+                    VPOS="1291"
+                    WIDTH="1006"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7058df48"
+                    TAGREFS="LT3625"
+                    BASELINE="151 1336 694 1343" 
+                    HPOS="149"
+                    VPOS="1317"
+                    WIDTH="545"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="151 1336 149 1350 692 1355 694 1343 693 1323 151 1317 151 1336"/></Shape>
+	    <String CONTENT="Hilfsmitteln vorgenommen werden muss."
+                    HPOS="149"
+                    VPOS="1317"
+                    WIDTH="545"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a655fcc"
+                    TAGREFS="LT3625"
+                    BASELINE="355 1385 1152 1390" 
+                    HPOS="353"
+                    VPOS="1367"
+                    WIDTH="799"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="355 1385 353 1397 1150 1401 1152 1390 1151 1371 355 1367 355 1385"/></Shape>
+	    <String CONTENT="Wir wollen mit diesem Berichte keine wie immer gearte-"
+                    HPOS="353"
+                    VPOS="1367"
+                    WIDTH="799"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e9b57eb"
+                    TAGREFS="LT3625"
+                    BASELINE="154 1410 1145 1413" 
+                    HPOS="152"
+                    VPOS="1391"
+                    WIDTH="993"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="154 1410 152 1422 1142 1427 1145 1413 1144 1394 154 1391 154 1410"/></Shape>
+	    <String CONTENT="ten Anschuldigungen der Kultusgemeinde gegenüber zum Ausdrucke brin-"
+                    HPOS="152"
+                    VPOS="1391"
+                    WIDTH="993"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8cdabb7"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1438 1148 1438" 
+                    HPOS="152"
+                    VPOS="1421"
+                    WIDTH="996"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="152 1438 152 1455 1148 1451 1148 1438 1148 1421 152 1421 152 1438"/></Shape>
+	    <String CONTENT="gen, weil wir uns dessen überzeugt sind, dass das Wohl und Wehe die-"
+                    HPOS="152"
+                    VPOS="1421"
+                    WIDTH="996"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e21073ca"
+                    TAGREFS="LT3625"
+                    BASELINE="152 1462 1152 1464" 
+                    HPOS="151"
+                    VPOS="1444"
+                    WIDTH="1001"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="152 1462 151 1472 1150 1474 1152 1464 1151 1445 152 1444 152 1462"/></Shape>
+	    <String CONTENT="ser Gruppe von Menschen der Kultusgemeinde nicht mindere Sorgen ver-"
+                    HPOS="151"
+                    VPOS="1444"
+                    WIDTH="1001"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_859495aa"
+                    TAGREFS="LT3625"
+                    BASELINE="149 1485 1125 1488" 
+                    HPOS="148"
+                    VPOS="1467"
+                    WIDTH="977"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="149 1485 148 1497 1122 1499 1125 1488 1124 1470 149 1467 149 1485"/></Shape>
+	    <String CONTENT="ursacht als uns selbst, aber als pflichtbewusste Menschen sind wir"
+                    HPOS="148"
+                    VPOS="1467"
+                    WIDTH="977"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c11394b"
+                    TAGREFS="LT3625"
+                    BASELINE="151 1509 1150 1514" 
+                    HPOS="149"
+                    VPOS="1491"
+                    WIDTH="1001"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="151 1509 149 1522 1147 1529 1150 1514 1148 1495 151 1491 151 1509"/></Shape>
+	    <String CONTENT="verpflichtet alles beizutragen, um die Not und das Elend aller unse-"
+                    HPOS="149"
+                    VPOS="1491"
+                    WIDTH="1001"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83598301"
+                    TAGREFS="LT3625"
+                    BASELINE="151 1534 866 1537" 
+                    HPOS="149"
+                    VPOS="1515"
+                    WIDTH="717"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="151 1534 149 1552 211 1562 212 1564 378 1564 378 1562 379 1562 380 1562 389 1555 399 1562 400 1562 402 1562 509 1564 510 1564 512 1564 539 1557 567 1564 569 1564 570 1564 652 1557 669 1564 670 1564 672 1564 673 1564 674 1564 687 1557 804 1557 814 1564 816 1564 817 1564 819 1564 864 1555 866 1537 864 1518 151 1515 151 1534"/></Shape>
+	    <String CONTENT="rer Glaubensgenossen nach Möglichkeit zu lindern."
+                    HPOS="149"
+                    VPOS="1515"
+                    WIDTH="717"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

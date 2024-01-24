@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-YV3549264_05.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1729"
+          HEIGHT="3081"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1729"
+                  HEIGHT="3081">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_35f43cf0"
+                    TAGREFS="LT3626"
+                    BASELINE="71 223 1657 218" 
+                    HPOS="66"
+                    VPOS="177"
+                    WIDTH="1588"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1633 177 1608 177 1582 177 1556 177 1531 177 1505 177 1479 177 1454 177 1428 177 1402 177 1377 177 1351 177 1325 177 1299 177 1274 177 1248 177 1222 177 1197 177 1171 177 1145 177 1120 179 1094 179 1068 179 1043 179 1017 179 991 179 965 179 940 179 914 179 888 179 863 179 837 179 811 179 786 179 760 179 734 179 709 179 683 179 657 179 631 179 606 179 580 182 554 182 529 182 503 182 477 182 452 182 426 182 400 182 375 182 349 182 323 182 298 182 272 182 246 182 220 182 195 182 169 182 143 182 118 182 92 182 66 182 69 220 69 251 1654 238 1654 215 1649 177 1633 177"/></Shape>
+	    <String CONTENT="Mortality Rate. Finally the crematorium has to be mentioned, which had been"
+                    HPOS="66"
+                    VPOS="177"
+                    WIDTH="1588"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92ea956e"
+                    TAGREFS="LT3626"
+                    BASELINE="472 267 1626 254" 
+                    HPOS="470"
+                    VPOS="223"
+                    WIDTH="1156"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="472 267 472 287 1623 272 1626 254 1618 223 470 231 472 267"/></Shape>
+	    <String CONTENT="built after the mortality rate had become very high. Be-"
+                    HPOS="470"
+                    VPOS="223"
+                    WIDTH="1156"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a9d2547"
+                    TAGREFS="LT3626"
+                    BASELINE="84 305 1585 297" 
+                    HPOS="82"
+                    VPOS="269"
+                    WIDTH="1503"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="84 305 84 326 1582 318 1585 297 1577 269 82 272 84 305"/></Shape>
+	    <String CONTENT="fore 1944, at the time when the place was inhabited by up to 68,000, about"
+                    HPOS="82"
+                    VPOS="269"
+                    WIDTH="1503"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ad19def"
+                    TAGREFS="LT3626"
+                    BASELINE="87 349 1636 336" 
+                    HPOS="84"
+                    VPOS="300"
+                    WIDTH="1552"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="87 349 87 369 1633 367 1636 336 1628 300 84 313 87 349"/></Shape>
+	    <String CONTENT="130 people died daily. When I arrived in Feb. 1944 the death rate was about"
+                    HPOS="84"
+                    VPOS="300"
+                    WIDTH="1552"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f46f10dc"
+                    TAGREFS="LT3626"
+                    BASELINE="82 387 1654 379" 
+                    HPOS="79"
+                    VPOS="351"
+                    WIDTH="1575"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="82 387 82 410 1651 408 1654 379 1646 351 79 354 82 387"/></Shape>
+	    <String CONTENT="30 a day, and decreased later to 10. The reason was obvious. The old people"
+                    HPOS="79"
+                    VPOS="351"
+                    WIDTH="1575"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59f29d3f"
+                    TAGREFS="LT3626"
+                    BASELINE="82 431 1662 421" 
+                    HPOS="79"
+                    VPOS="390"
+                    WIDTH="1583"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="82 431 82 451 1662 451 1662 421 1654 390 79 392 82 431"/></Shape>
+	    <String CONTENT="had died or had been deported, the remaining ones had accustomed themselves to"
+                    HPOS="79"
+                    VPOS="390"
+                    WIDTH="1583"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_715c472b"
+                    TAGREFS="LT3626"
+                    BASELINE="82 472 1559 459" 
+                    HPOS="79"
+                    VPOS="428"
+                    WIDTH="1480"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="82 472 82 492 1556 485 1559 459 1551 428 79 433 82 472"/></Shape>
+	    <String CONTENT="the meagre diet and were thus able to endure the hardships. It cannot be"
+                    HPOS="79"
+                    VPOS="428"
+                    WIDTH="1480"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a303294"
+                    TAGREFS="LT3626"
+                    BASELINE="82 510 1615 503" 
+                    HPOS="79"
+                    VPOS="469"
+                    WIDTH="1536"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="82 510 82 531 1610 534 1615 503 1608 469 79 472 82 510"/></Shape>
+	    <String CONTENT="doubted that under-nourishment had been the chief cause of death of the many"
+                    HPOS="79"
+                    VPOS="469"
+                    WIDTH="1536"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5bb86f6"
+                    TAGREFS="LT3626"
+                    BASELINE="84 552 1533 544" 
+                    HPOS="82"
+                    VPOS="516"
+                    WIDTH="1451"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="84 552 84 572 1531 569 1533 544 1528 516 82 516 84 552"/></Shape>
+	    <String CONTENT="old Jews who found their grave in Theresienstadt. At the time when the"
+                    HPOS="82"
+                    VPOS="516"
+                    WIDTH="1451"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8318a0e7"
+                    TAGREFS="LT3626"
+                    BASELINE="82 595 1608 582" 
+                    HPOS="79"
+                    VPOS="549"
+                    WIDTH="1529"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="82 595 82 618 1605 616 1608 582 1600 549 79 562 82 595"/></Shape>
+	    <String CONTENT="settlement was started the dead were buried; afterwards they were cremated"
+                    HPOS="79"
+                    VPOS="549"
+                    WIDTH="1529"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bc17861"
+                    TAGREFS="LT3626"
+                    BASELINE="77 634 1199 629" 
+                    HPOS="74"
+                    VPOS="598"
+                    WIDTH="1125"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="77 634 77 654 192 667 195 667 315 654 339 654 341 654 369 670 372 670 375 672 588 672 588 670 590 670 626 654 634 652 639 654 655 667 657 667 660 667 662 667 752 654 786 652 798 654 834 667 837 667 840 667 842 667 878 654 886 654 899 654 981 667 983 667 1197 654 1199 629 1194 598 74 598 77 634"/></Shape>
+	    <String CONTENT="and the urns kept in a more or less honoured place. X"
+                    HPOS="74"
+                    VPOS="598"
+                    WIDTH="1125"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92580a15"
+                    TAGREFS="LT3626"
+                    BASELINE="74 708 1646 708" 
+                    HPOS="74"
+                    VPOS="672"
+                    WIDTH="1572"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="74 708 74 731 1646 731 1646 708 1646 672 74 672 74 708"/></Shape>
+	    <String CONTENT="Starvation Diet. The diet was absolutely insufficient. The SS allocated to"
+                    HPOS="74"
+                    VPOS="672"
+                    WIDTH="1572"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9edf8f15"
+                    TAGREFS="LT3626"
+                    BASELINE="77 749 1597 749" 
+                    HPOS="77"
+                    VPOS="713"
+                    WIDTH="1520"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="77 749 77 772 1597 772 1597 749 1597 718 77 713 77 749"/></Shape>
+	    <String CONTENT="the Jewish self-administration provisions calculated on the basis of an in-"
+                    HPOS="77"
+                    VPOS="713"
+                    WIDTH="1520"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25b3f837"
+                    TAGREFS="LT3626"
+                    BASELINE="79 793 1597 788" 
+                    HPOS="77"
+                    VPOS="759"
+                    WIDTH="1520"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="79 793 79 813 1592 819 1597 788 1590 759 77 759 79 793"/></Shape>
+	    <String CONTENT="adequate daily ration. But even so, the self-administration had had to cut"
+                    HPOS="77"
+                    VPOS="759"
+                    WIDTH="1520"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24a9cce8"
+                    TAGREFS="LT3626"
+                    BASELINE="82 834 1667 832" 
+                    HPOS="79"
+                    VPOS="793"
+                    WIDTH="1585"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="79 831 79 852 1662 857 1664 831 1662 793 79 795 79 831"/></Shape>
+	    <String CONTENT="these meagre rations in order to be able to give priority to heavy workers and"
+                    HPOS="79"
+                    VPOS="793"
+                    WIDTH="1585"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc078d52"
+                    TAGREFS="LT3626"
+                    BASELINE="82 872 1646 870" 
+                    HPOS="77"
+                    VPOS="837"
+                    WIDTH="1567"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="79 870 79 893 1639 898 1644 867 1639 839 77 837 79 870"/></Shape>
+	    <String CONTENT="a special diet to children. It must be pointed out that the food allocation"
+                    HPOS="77"
+                    VPOS="837"
+                    WIDTH="1567"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbe01db9"
+                    TAGREFS="LT3626"
+                    BASELINE="77 911 1590 911" 
+                    HPOS="77"
+                    VPOS="878"
+                    WIDTH="1513"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="77 911 77 932 1587 942 1590 911 1587 878 77 878 77 911"/></Shape>
+	    <String CONTENT="described below, though meagre enough, had been even worse before 1944. At"
+                    HPOS="77"
+                    VPOS="878"
+                    WIDTH="1513"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49410498"
+                    TAGREFS="LT3626"
+                    BASELINE="77 949 1536 952" 
+                    HPOS="74"
+                    VPOS="916"
+                    WIDTH="1462"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="77 949 74 970 249 985 251 985 1533 980 1536 952 1533 921 77 916 77 949"/></Shape>
+	    <String CONTENT="that time many new inmates died not only from under-nourishment but from"
+                    HPOS="74"
+                    VPOS="916"
+                    WIDTH="1462"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f357277"
+                    TAGREFS="LT3626"
+                    BASELINE="69 991 724 996" 
+                    HPOS="66"
+                    VPOS="957"
+                    WIDTH="658"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="69 991 66 1024 92 1034 95 1034 97 1034 100 1034 123 1027 146 1019 177 1027 202 1034 205 1034 208 1034 238 1029 292 1016 333 1029 346 1034 349 1034 351 1034 354 1034 362 1032 395 1016 485 1034 495 1034 498 1034 506 1034 583 1019 719 1037 724 996 721 957 69 957 69 991"/></Shape>
+	    <String CONTENT="dysentery or a similar disease."
+                    HPOS="66"
+                    VPOS="957"
+                    WIDTH="658"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fa1d68f"
+                    TAGREFS="LT3626"
+                    BASELINE="159 1075 1017 1075" 
+                    HPOS="159"
+                    VPOS="1034"
+                    WIDTH="858"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="159 1075 159 1096 220 1114 223 1114 226 1114 228 1114 231 1114 251 1098 254 1098 421 1098 431 1104 457 1114 459 1114 462 1116 590 1116 590 1114 593 1114 596 1114 596 1111 603 1106 611 1098 778 1109 845 1114 847 1114 850 1114 858 1111 901 1098 1014 1114 1017 1075 1014 1034 159 1039 159 1075"/></Shape>
+	    <String CONTENT="The rations available on food cards were:"
+                    HPOS="159"
+                    VPOS="1034"
+                    WIDTH="858"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80b317f9"
+                    TAGREFS="LT3626"
+                    BASELINE="69 1155 1592 1155" 
+                    HPOS="69"
+                    VPOS="1111"
+                    WIDTH="1523"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="69 1155 69 1181 1592 1178 1592 1155 1590 1111 69 1111 69 1155"/></Shape>
+	    <String CONTENT="In the morning half a loaf of bread for 3 days, black bread about 750 grms."
+                    HPOS="69"
+                    VPOS="1111"
+                    WIDTH="1523"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a2cf8c2"
+                    TAGREFS="LT3626"
+                    BASELINE="71 1193 1654 1199" 
+                    HPOS="69"
+                    VPOS="1160"
+                    WIDTH="1585"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="71 1193 69 1209 1649 1214 1654 1199 1651 1160 71 1160 71 1193"/></Shape>
+	    <String CONTENT="i.e. 250 grms. daily. Heavy workers received a loaf of 1,000 grms. for three"
+                    HPOS="69"
+                    VPOS="1160"
+                    WIDTH="1585"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02882242"
+                    TAGREFS="LT3626"
+                    BASELINE="71 1234 1677 1234" 
+                    HPOS="71"
+                    VPOS="1199"
+                    WIDTH="1606"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="71 1234 71 1263 531 1270 534 1270 603 1260 631 1258 652 1260 698 1270 701 1270 788 1260 816 1258 850 1260 971 1270 973 1270 976 1270 1004 1260 1007 1258 1007 1260 1017 1268 1017 1270 1019 1270 1022 1270 1025 1273 1266 1273 1266 1270 1520 1258 1644 1270 1646 1270 1649 1270 1677 1255 1677 1234 1675 1199 71 1201 71 1234"/></Shape>
+	    <String CONTENT="days. – Coffee substitute – 70 grms. sugar, 60 grms. margarine a week. Workers’"
+                    HPOS="71"
+                    VPOS="1199"
+                    WIDTH="1606"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13436591"
+                    TAGREFS="LT3626"
+                    BASELINE="66 1273 1122 1281" 
+                    HPOS="64"
+                    VPOS="1242"
+                    WIDTH="1058"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="66 1273 64 1294 1117 1304 1122 1281 1120 1247 66 1242 66 1273"/></Shape>
+	    <String CONTENT="ration was – 100 grms. sugar and 80 grms. margarine."
+                    HPOS="64"
+                    VPOS="1242"
+                    WIDTH="1058"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08b3260a"
+                    TAGREFS="LT3626"
+                    BASELINE="61 1355 1595 1358" 
+                    HPOS="59"
+                    VPOS="1306"
+                    WIDTH="1536"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="61 1355 59 1373 295 1389 298 1389 1592 1381 1595 1358 1592 1306 61 1314 61 1355"/></Shape>
+	    <String CONTENT="Lunch: Soup consisting of water, salt and barely (0.30 liters) without any"
+                    HPOS="59"
+                    VPOS="1306"
+                    WIDTH="1536"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a45afc4"
+                    TAGREFS="LT3626"
+                    BASELINE="71 1396 1592 1401" 
+                    HPOS="69"
+                    VPOS="1358"
+                    WIDTH="1523"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="71 1396 69 1414 1587 1424 1592 1401 1590 1365 71 1358 71 1396"/></Shape>
+	    <String CONTENT="nourishment value – 350 grms. potatoes and 0/25 litres of a sauce made from"
+                    HPOS="69"
+                    VPOS="1358"
+                    WIDTH="1523"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd180b11"
+                    TAGREFS="LT3626"
+                    BASELINE="69 1437 1628 1442" 
+                    HPOS="66"
+                    VPOS="1404"
+                    WIDTH="1562"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="69 1437 66 1460 1623 1468 1628 1442 1626 1404 69 1404 69 1437"/></Shape>
+	    <String CONTENT="powder sometimes with a little meat, or 0.30 to 0.40 litre vegetables, mostly"
+                    HPOS="66"
+                    VPOS="1404"
+                    WIDTH="1562"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac8710c8"
+                    TAGREFS="LT3626"
+                    BASELINE="69 1476 1641 1486" 
+                    HPOS="64"
+                    VPOS="1437"
+                    WIDTH="1575"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="66 1473 64 1499 1633 1501 1639 1484 1639 1445 66 1437 66 1473"/></Shape>
+	    <String CONTENT="cabbage. Instead of potatoes occasionally dumplings were served. Sometimes"
+                    HPOS="64"
+                    VPOS="1437"
+                    WIDTH="1575"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc7e7efa"
+                    TAGREFS="LT3626"
+                    BASELINE="61 1514 1482 1525" 
+                    HPOS="59"
+                    VPOS="1478"
+                    WIDTH="1423"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="61 1514 59 1537 1477 1550 1482 1525 1479 1491 61 1478 61 1514"/></Shape>
+	    <String CONTENT="we had barley (0.40 litre). Very seldom the kitchen received lettuce."
+                    HPOS="59"
+                    VPOS="1478"
+                    WIDTH="1423"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33f181d5"
+                    
+                    BASELINE="65 1594 1608 1609" 
+                    HPOS="61"
+                    VPOS="1553"
+                    WIDTH="1544"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="61 1612 375 1630 377 1630 531 1620 578 1632 580 1632 583 1632 775 1622 832 1635 834 1635 837 1635 1603 1627 1605 1607 1603 1568 1382 1568 1377 1566 1351 1553 1350 1573 64 1573 64 1591"/></Shape>
+	    <String CONTENT="Supper: For supper we had a thick barley soup four times a week, and twice"
+                    HPOS="61"
+                    VPOS="1553"
+                    WIDTH="1544"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27de5d70"
+                    
+                    BASELINE="68 1636 803 1641" 
+                    HPOS="64"
+                    VPOS="1611"
+                    WIDTH="737"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="64 1663 236 1666 249 1671 310 1689 313 1689 490 1691 493 1691 495 1691 534 1681 552 1676 570 1681 593 1691 596 1691 598 1691 647 1684 696 1679 796 1689 801 1640 798 1621 64 1611 66 1635"/></Shape>
+	    <String CONTENT="a week a drink of coffee substitute."
+                    HPOS="64"
+                    VPOS="1611"
+                    WIDTH="737"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75cfcafe"
+                    TAGREFS="LT3626"
+                    BASELINE="56 1717 1305 1730" 
+                    HPOS="53"
+                    VPOS="1666"
+                    WIDTH="1252"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="53 1738 1299 1756 1305 1730 1302 1689 860 1689 827 1679 796 1674 793 1674 703 1676 565 1684 557 1674 554 1674 554 1671 552 1671 549 1671 547 1671 480 1674 305 1681 223 1668 213 1668 210 1668 197 1668 82 1679 61 1666 56 1717 53 1738"/></Shape>
+	    <String CONTENT="Heavy Workers received 50% of the described diet in addition."
+                    HPOS="53"
+                    VPOS="1666"
+                    WIDTH="1252"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6992bb33"
+                    TAGREFS="LT3626"
+                    BASELINE="156 1802 1592 1810" 
+                    HPOS="154"
+                    VPOS="1758"
+                    WIDTH="1438"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="156 1802 154 1820 1587 1835 1592 1810 1590 1758 156 1758 156 1802"/></Shape>
+	    <String CONTENT="The food was well cooked and our cooks did everything to serve a tasty"
+                    HPOS="154"
+                    VPOS="1758"
+                    WIDTH="1438"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8eca2800"
+                    TAGREFS="LT3626"
+                    BASELINE="66 1843 1585 1851" 
+                    HPOS="64"
+                    VPOS="1810"
+                    WIDTH="1521"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="66 1843 64 1861 1579 1871 1585 1851 1582 1817 66 1810 66 1843"/></Shape>
+	    <String CONTENT="meal. &quot;Buchten&quot; (yeast dumplings) served once a week with coffee and sugar"
+                    HPOS="64"
+                    VPOS="1810"
+                    WIDTH="1521"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9b2548c"
+                    TAGREFS="LT3626"
+                    BASELINE="66 1881 1647 1894" 
+                    HPOS="61"
+                    VPOS="1846"
+                    WIDTH="1585"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="64 1879 61 1899 393 1917 395 1917 624 1910 691 1907 698 1910 719 1925 721 1925 724 1925 727 1925 809 1915 1086 1928 1089 1928 1163 1917 1199 1912 1233 1917 1287 1928 1289 1928 1292 1928 1294 1928 1307 1920 1315 1915 1335 1920 1387 1930 1389 1930 1644 1923 1646 1892 1646 1858 64 1846 64 1879"/></Shape>
+	    <String CONTENT="sauce were specially popular. Very occasionally the Red Cross supplied little"
+                    HPOS="61"
+                    VPOS="1846"
+                    WIDTH="1585"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c8ddc09"
+                    TAGREFS="LT3626"
+                    BASELINE="64 1923 534 1923" 
+                    HPOS="64"
+                    VPOS="1887"
+                    WIDTH="470"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="64 1923 64 1946 398 1964 400 1966 503 1966 503 1964 506 1964 508 1964 534 1948 534 1923 534 1889 64 1887 64 1923"/></Shape>
+	    <String CONTENT="cheeses or liver paste."
+                    HPOS="64"
+                    VPOS="1887"
+                    WIDTH="470"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8694c01d"
+                    TAGREFS="LT3626"
+                    BASELINE="161 1997 1675 2021" 
+                    HPOS="156"
+                    VPOS="1956"
+                    WIDTH="1516"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="159 1994 156 2012 1667 2043 1672 2020 1669 1971 159 1956 159 1994"/></Shape>
+	    <String CONTENT="All in all, these rations provided nothing but a starvation diet. During"
+                    HPOS="156"
+                    VPOS="1956"
+                    WIDTH="1516"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70fb9174"
+                    TAGREFS="LT3626"
+                    BASELINE="59 2041 1656 2059" 
+                    HPOS="53"
+                    VPOS="2002"
+                    WIDTH="1601"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="56 2038 53 2056 1649 2082 1654 2056 1651 2023 56 2002 56 2038"/></Shape>
+	    <String CONTENT="the first three months of my stay in Theresienstadt I was hardly able to sleep"
+                    HPOS="53"
+                    VPOS="2002"
+                    WIDTH="1601"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8cec28e"
+                    TAGREFS="LT3626"
+                    BASELINE="82 2084 1639 2103" 
+                    HPOS="77"
+                    VPOS="2048"
+                    WIDTH="1559"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="79 2082 77 2102 1631 2115 1636 2102 1633 2069 79 2048 79 2082"/></Shape>
+	    <String CONTENT="at nights. I could think of nothing but food, I even dreamt of food when I"
+                    HPOS="77"
+                    VPOS="2048"
+                    WIDTH="1559"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_918e4f1b"
+                    TAGREFS="LT3626"
+                    BASELINE="59 2120 1631 2133" 
+                    HPOS="56"
+                    VPOS="2087"
+                    WIDTH="1575"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1600 2095 1574 2095 1549 2095 1523 2095 1497 2095 1472 2095 1446 2095 1420 2095 1395 2095 1369 2095 1343 2095 1317 2095 1292 2095 1266 2095 1240 2095 1220 2092 1104 2092 1086 2092 1061 2092 1035 2092 1009 2092 983 2092 958 2092 932 2092 906 2092 881 2092 855 2092 840 2089 580 2089 572 2089 547 2089 521 2089 495 2089 470 2089 462 2087 59 2087 59 2120 56 2138 1626 2159 1631 2133 1628 2095 1600 2092 1600 2095"/></Shape>
+	    <String CONTENT="managed to fall asleep. At that time I was hungrier than later in Auschwitz,"
+                    HPOS="56"
+                    VPOS="2087"
+                    WIDTH="1575"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_081b5c13"
+                    TAGREFS="LT3626"
+                    BASELINE="64 2161 1638 2177" 
+                    HPOS="59"
+                    VPOS="2125"
+                    WIDTH="1577"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="61 2159 59 2179 1631 2192 1636 2174 1633 2143 61 2125 61 2159"/></Shape>
+	    <String CONTENT="or in the Gleiwitz camp. When working in the office of the administration I"
+                    HPOS="59"
+                    VPOS="2125"
+                    WIDTH="1577"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff590098"
+                    TAGREFS="LT3626"
+                    BASELINE="61 2202 1713 2225" 
+                    HPOS="56"
+                    VPOS="2169"
+                    WIDTH="1655"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="59 2200 56 2215 113 2236 115 2236 118 2236 120 2236 187 2220 267 2238 269 2238 387 2226 552 2238 554 2238 557 2238 560 2238 572 2228 578 2226 1705 2254 1711 2223 1708 2184 59 2169 59 2200"/></Shape>
+	    <String CONTENT="could only concentrate my mind for the first two or three hours, and later failed"
+                    HPOS="56"
+                    VPOS="2169"
+                    WIDTH="1655"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16dbd516"
+                    TAGREFS="LT3626"
+                    BASELINE="59 2243 1148 2251" 
+                    HPOS="56"
+                    VPOS="2210"
+                    WIDTH="1092"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="59 2243 56 2267 169 2292 172 2292 287 2272 354 2285 357 2285 359 2285 362 2285 382 2272 390 2272 513 2285 516 2285 596 2274 601 2274 606 2274 698 2295 701 2295 778 2285 786 2295 788 2295 788 2297 791 2297 793 2297 796 2297 1145 2279 1148 2251 1145 2218 59 2210 59 2243"/></Shape>
+	    <String CONTENT="to do sums. Naturally everybody lost weight rapidly."
+                    HPOS="56"
+                    VPOS="2210"
+                    WIDTH="1092"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a3baaf2"
+                    TAGREFS="LT3626"
+                    BASELINE="46 2477 1605 2493" 
+                    HPOS="43"
+                    VPOS="2441"
+                    WIDTH="1562"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="46 2477 43 2495 1600 2516 1605 2493 1603 2457 46 2441 46 2477"/></Shape>
+	    <String CONTENT="X A letter from a former member of a Jewish Women’s Organisation in Berlin,"
+                    HPOS="43"
+                    VPOS="2441"
+                    WIDTH="1562"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_307a3bc8"
+                    TAGREFS="LT3626"
+                    BASELINE="53 2521 1579 2534" 
+                    HPOS="51"
+                    VPOS="2480"
+                    WIDTH="1528"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="53 2521 51 2539 1574 2559 1579 2534 1577 2500 53 2480 53 2521"/></Shape>
+	    <String CONTENT="who was released from Theresienstadt in February 1945, states that the urns"
+                    HPOS="51"
+                    VPOS="2480"
+                    WIDTH="1528"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5889904b"
+                    TAGREFS="LT3626"
+                    BASELINE="51 2559 1454 2572" 
+                    HPOS="48"
+                    VPOS="2526"
+                    WIDTH="1406"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="51 2559 48 2600 149 2585 223 2585 246 2603 254 2611 256 2611 259 2611 331 2613 333 2613 390 2600 457 2588 631 2600 655 2600 657 2600 680 2600 827 2588 883 2593 888 2598 912 2618 914 2618 917 2618 919 2621 1138 2621 1138 2618 1233 2595 1451 2593 1454 2572 1451 2539 51 2526 51 2559"/></Shape>
+	    <String CONTENT="were removed by the SS one day. Nobody knows what happened to them."
+                    HPOS="48"
+                    VPOS="2526"
+                    WIDTH="1406"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-DEGOB3648_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3623" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2448"
+          HEIGHT="3496"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2448"
+                  HEIGHT="3496">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d25be2c1"
+                    TAGREFS="LT3623"
+                    BASELINE="1145 256 1346 256" 
+                    HPOS="1145"
+                    VPOS="186"
+                    WIDTH="201"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1145 256 1145 279 1346 276 1346 256 1343 186 1145 198 1145 256"/></Shape>
+	    <String CONTENT="- 4 -"
+                    HPOS="1145"
+                    VPOS="186"
+                    WIDTH="201"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_520daa9f"
+                    TAGREFS="LT3623"
+                    BASELINE="507 404 2444 402" 
+                    HPOS="501"
+                    VPOS="332"
+                    WIDTH="1941"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="504 402 504 434 2439 428 2442 399 2439 358 2386 332 2383 332 2142 332 2139 332 2136 332 2133 332 2098 358 1640 358 1582 337 1579 337 1576 337 1471 355 1369 332 1366 332 1363 332 1293 358 1180 358 1145 332 1142 332 1139 332 926 332 923 332 920 332 874 355 792 332 789 332 786 332 783 332 781 332 746 358 501 358 504 402"/></Shape>
+	    <String CONTENT="szerencsénk. A csendőrök ugyan többé nem jelentkeztek, azonban"
+                    HPOS="501"
+                    VPOS="332"
+                    WIDTH="1941"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35bc7363"
+                    TAGREFS="LT3623"
+                    BASELINE="507 460 2319 454" 
+                    HPOS="504"
+                    VPOS="413"
+                    WIDTH="1815"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="507 460 507 486 2313 492 2319 454 2313 416 504 413 507 460"/></Shape>
+	    <String CONTENT="ekkor már nyilvánvalóvá vált előttünk, hogy simán megúszni"
+                    HPOS="504"
+                    VPOS="413"
+                    WIDTH="1815"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d038c3ce"
+                    TAGREFS="LT3623"
+                    BASELINE="507 515 1136 506" 
+                    HPOS="504"
+                    VPOS="469"
+                    WIDTH="632"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="507 515 507 550 1133 550 1136 506 1130 469 504 469 507 515"/></Shape>
+	    <String CONTENT="a dolgot nem fogjuk."
+                    HPOS="504"
+                    VPOS="469"
+                    WIDTH="632"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd141985"
+                    TAGREFS="LT3623"
+                    BASELINE="507 611 2378 600" 
+                    HPOS="504"
+                    VPOS="553"
+                    WIDTH="1874"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="507 611 507 640 2375 626 2378 600 2369 553 504 562 507 611"/></Shape>
+	    <String CONTENT="Erre vallott az u. n. &quot;Nemzeti Számonkérő Szék&quot; két nyomozó-"
+                    HPOS="504"
+                    VPOS="553"
+                    WIDTH="1874"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11f179f5"
+                    TAGREFS="LT3623"
+                    BASELINE="515 661 2281 652" 
+                    HPOS="512"
+                    VPOS="617"
+                    WIDTH="1769"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="515 661 515 696 2278 678 2281 652 2276 617 512 617 515 661"/></Shape>
+	    <String CONTENT="jának egy egész délelőttre terjedő látogatása a &quot;Vadász-"
+                    HPOS="512"
+                    VPOS="617"
+                    WIDTH="1769"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9f9bcb8"
+                    TAGREFS="LT3623"
+                    BASELINE="512 710 2427 699" 
+                    HPOS="510"
+                    VPOS="661"
+                    WIDTH="1917"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="512 710 512 734 1465 745 1468 745 2016 739 2019 739 2057 725 2080 739 2083 739 2086 739 2089 739 2092 739 2124 725 2133 725 2392 739 2395 739 2398 739 2427 722 2427 699 2418 661 510 672 512 710"/></Shape>
+	    <String CONTENT="utcában&quot;, akinek látogatása ugyan csak hamisított &quot;Schutz-"
+                    HPOS="510"
+                    VPOS="661"
+                    WIDTH="1917"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4316885"
+                    TAGREFS="LT3623"
+                    BASELINE="510 763 2258 751" 
+                    HPOS="507"
+                    VPOS="716"
+                    WIDTH="1751"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="510 763 510 798 2255 780 2258 751 2249 716 507 716 510 763"/></Shape>
+	    <String CONTENT="passzokra&quot; vonatkozott, de aki az épületben elhelyezett"
+                    HPOS="507"
+                    VPOS="716"
+                    WIDTH="1751"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6416d927"
+                    TAGREFS="LT3623"
+                    BASELINE="515 809 2386 801" 
+                    HPOS="512"
+                    VPOS="766"
+                    WIDTH="1874"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="515 809 515 839 2383 839 2386 801 2378 766 512 769 515 809"/></Shape>
+	    <String CONTENT="tömegek száma és eredete iránt is meleg érdeklődést mutattak."
+                    HPOS="512"
+                    VPOS="766"
+                    WIDTH="1874"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edd18440"
+                    TAGREFS="LT3623"
+                    BASELINE="510 862 2334 853" 
+                    HPOS="507"
+                    VPOS="818"
+                    WIDTH="1827"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="510 862 510 888 2331 879 2334 853 2325 818 507 818 510 862"/></Shape>
+	    <String CONTENT="Egyben nem titkolták abbéli véleményüket, hogy az egész kö-"
+                    HPOS="507"
+                    VPOS="818"
+                    WIDTH="1827"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a3854c7"
+                    TAGREFS="LT3623"
+                    BASELINE="512 911 2316 903" 
+                    HPOS="510"
+                    VPOS="868"
+                    WIDTH="1806"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="512 911 512 938 2313 932 2316 903 2311 868 510 868 512 911"/></Shape>
+	    <String CONTENT="vetségi ház bújtatási célokat szolgál és miután, mint mon-"
+                    HPOS="510"
+                    VPOS="868"
+                    WIDTH="1806"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62b762ad"
+                    TAGREFS="LT3623"
+                    BASELINE="512 964 2313 955" 
+                    HPOS="510"
+                    VPOS="911"
+                    WIDTH="1803"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="512 964 512 987 2308 990 2313 955 2305 911 510 920 512 964"/></Shape>
+	    <String CONTENT="dották, ők maguk közvetlenül a &quot; nemzetvezető testvér&quot;- nek"
+                    HPOS="510"
+                    VPOS="911"
+                    WIDTH="1803"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0a78a85"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1010 2287 1002" 
+                    HPOS="510"
+                    VPOS="970"
+                    WIDTH="1777"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="512 1010 512 1037 2281 1042 2287 1002 2278 970 510 970 512 1010"/></Shape>
+	    <String CONTENT="teszik meg a jelentésüket, remélhetjük, hogy néhány napon"
+                    HPOS="510"
+                    VPOS="970"
+                    WIDTH="1777"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6832f3c9"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1063 2031 1051" 
+                    HPOS="510"
+                    VPOS="1019"
+                    WIDTH="1521"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="512 1063 512 1095 871 1109 874 1109 877 1109 932 1095 950 1092 976 1095 1049 1107 1052 1107 1151 1095 1186 1092 1221 1095 1299 1104 1302 1104 1305 1104 1308 1104 1320 1095 1326 1089 1340 1095 1363 1104 1366 1104 1369 1104 2028 1092 2031 1051 2022 1019 510 1022 512 1063"/></Shape>
+	    <String CONTENT="belül nagy tisztogatási akció indul meg ellenünk."
+                    HPOS="510"
+                    VPOS="1019"
+                    WIDTH="1521"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94660d42"
+                    TAGREFS="LT3623"
+                    BASELINE="510 1162 2346 1150" 
+                    HPOS="507"
+                    VPOS="1092"
+                    WIDTH="1839"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="510 1162 510 1188 2343 1176 2346 1150 2337 1092 2060 1107 2013 1092 2007 1092 2005 1092 2002 1092 1984 1092 1882 1109 1859 1095 1856 1095 1853 1095 1850 1095 1847 1095 1809 1109 507 1107 510 1162"/></Shape>
+	    <String CONTENT="Ugyanakkor egyéb megbízottaink is sűrűn jelentkeztek és je-"
+                    HPOS="507"
+                    VPOS="1092"
+                    WIDTH="1839"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d20b9b58"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1214 2337 1203" 
+                    HPOS="510"
+                    VPOS="1162"
+                    WIDTH="1827"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="512 1214 512 1243 2334 1243 2337 1203 2328 1162 510 1174 512 1214"/></Shape>
+	    <String CONTENT="lentették, hogy az Albrecht- laktanya nyilasai erősen készü-"
+                    HPOS="510"
+                    VPOS="1162"
+                    WIDTH="1827"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b761a25e"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1264 2293 1255" 
+                    HPOS="510"
+                    VPOS="1214"
+                    WIDTH="1783"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="512 1264 512 1287 2290 1281 2293 1255 2284 1214 510 1223 512 1264"/></Shape>
+	    <String CONTENT="lődnek a &quot;Vadász utca&quot; ellen. Az első jelentések egészen"
+                    HPOS="510"
+                    VPOS="1214"
+                    WIDTH="1783"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dc42bc6"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1316 2366 1302" 
+                    HPOS="512"
+                    VPOS="1267"
+                    WIDTH="1854"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="515 1316 515 1340 2363 1337 2366 1302 2357 1267 512 1270 515 1316"/></Shape>
+	    <String CONTENT="fantasztikusak voltak. Ezek szerint a terv az volt, hogy át-"
+                    HPOS="512"
+                    VPOS="1267"
+                    WIDTH="1854"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7847ca62"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1363 2287 1354" 
+                    HPOS="512"
+                    VPOS="1319"
+                    WIDTH="1775"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="515 1363 515 1395 2284 1380 2287 1354 2281 1319 512 1319 515 1363"/></Shape>
+	    <String CONTENT="kísérve és beterelve bennünket a pálvölgyi barlangba, ott"
+                    HPOS="512"
+                    VPOS="1319"
+                    WIDTH="1775"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58edc6b0"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1412 2258 1401" 
+                    HPOS="512"
+                    VPOS="1366"
+                    WIDTH="1746"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="515 1412 515 1447 2255 1427 2258 1401 2249 1366 512 1375 515 1412"/></Shape>
+	    <String CONTENT="kézigránátokkal végeznek velünk. Később azonban ár csak"
+                    HPOS="512"
+                    VPOS="1366"
+                    WIDTH="1746"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2d19522"
+                    TAGREFS="LT3623"
+                    BASELINE="511 1459 2346 1456" 
+                    HPOS="507"
+                    VPOS="1412"
+                    WIDTH="1839"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="510 1456 510 1482 2343 1479 2346 1453 2337 1412 507 1418 510 1456"/></Shape>
+	    <String CONTENT="a &quot;kinyírás&quot;- ról szóltak az értesülések. Nagy meglepetés te-"
+                    HPOS="507"
+                    VPOS="1412"
+                    WIDTH="1839"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34ecc795"
+                    TAGREFS="LT3623"
+                    BASELINE="510 1512 2398 1500" 
+                    HPOS="507"
+                    VPOS="1465"
+                    WIDTH="1891"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="510 1512 510 1544 2395 1535 2398 1500 2389 1465 507 1468 510 1512"/></Shape>
+	    <String CONTENT="hát nem érte a vezetőséget december 31-én, mikor egy nyilas"
+                    HPOS="507"
+                    VPOS="1465"
+                    WIDTH="1891"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b48e439"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1564 2316 1552" 
+                    HPOS="510"
+                    VPOS="1512"
+                    WIDTH="1806"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="512 1564 512 1593 2313 1581 2316 1552 2308 1512 510 1520 512 1564"/></Shape>
+	    <String CONTENT="különítmény géppisztolyok sortüze és kézigránátok dobálása"
+                    HPOS="510"
+                    VPOS="1512"
+                    WIDTH="1806"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e5aa096"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1613 2395 1596" 
+                    HPOS="512"
+                    VPOS="1555"
+                    WIDTH="1883"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="515 1613 515 1651 2392 1634 2395 1596 2386 1555 512 1570 515 1613"/></Shape>
+	    <String CONTENT="közben az épületbe behatolt. Ennek a betörésnek három halott-"
+                    HPOS="512"
+                    VPOS="1555"
+                    WIDTH="1883"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60f85513"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1666 2407 1651" 
+                    HPOS="512"
+                    VPOS="1611"
+                    WIDTH="1895"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="515 1666 515 1686 2407 1683 2407 1651 2398 1611 512 1625 515 1666"/></Shape>
+	    <String CONTENT="ja és 17 sebesült áldozata volt s nagy szerencsénk volt mond-"
+                    HPOS="512"
+                    VPOS="1611"
+                    WIDTH="1895"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12a94d11"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1713 2343 1701" 
+                    HPOS="510"
+                    VPOS="1663"
+                    WIDTH="1833"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="512 1713 512 1739 2340 1727 2343 1701 2334 1663 510 1672 512 1713"/></Shape>
+	    <String CONTENT="ható, hogy az utcára lesorakoztatott tömeget az elhurcolás-"
+                    HPOS="510"
+                    VPOS="1663"
+                    WIDTH="1833"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a7d0cac"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1765 2346 1750" 
+                    HPOS="512"
+                    VPOS="1715"
+                    WIDTH="1834"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="515 1765 515 1785 2346 1782 2346 1750 2337 1715 512 1718 515 1765"/></Shape>
+	    <String CONTENT="tól a városparancsnokság és a főkapitányság megmozgatásával"
+                    HPOS="512"
+                    VPOS="1715"
+                    WIDTH="1834"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd26135a"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1815 2340 1800" 
+                    HPOS="510"
+                    VPOS="1765"
+                    WIDTH="1830"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="512 1815 512 1847 2340 1832 2340 1800 2331 1765 510 1777 512 1815"/></Shape>
+	    <String CONTENT="meg tudtuk menteni. A nyilas különítmény dühét így külön is"
+                    HPOS="510"
+                    VPOS="1765"
+                    WIDTH="1830"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b18dee1"
+                    TAGREFS="LT3623"
+                    BASELINE="515 1861 2281 1849" 
+                    HPOS="512"
+                    VPOS="1812"
+                    WIDTH="1769"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="515 1861 515 1896 2278 1887 2281 1849 2273 1812 512 1823 515 1861"/></Shape>
+	    <String CONTENT="magunkra vontuk és ennek volt köszönhető Weisz Artúrnak,"
+                    HPOS="512"
+                    VPOS="1812"
+                    WIDTH="1769"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4df38d37"
+                    TAGREFS="LT3623"
+                    BASELINE="512 1914 2095 1902" 
+                    HPOS="510"
+                    VPOS="1867"
+                    WIDTH="1585"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="512 1914 512 1946 1296 1957 1299 1957 1302 1957 1326 1949 1358 1940 1419 1951 1448 1954 1451 1954 1497 1951 1602 1940 1666 1951 1693 1954 1696 1954 1699 1954 1710 1951 1757 1937 1935 1937 1952 1951 1955 1951 1958 1951 1961 1951 1964 1951 2034 1937 2086 1951 2095 1902 2086 1867 510 1873 512 1914"/></Shape>
+	    <String CONTENT="hősies kiálló elvbarátunknak másnapi elhurcolása."
+                    HPOS="510"
+                    VPOS="1867"
+                    WIDTH="1585"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fbb7b2d"
+                    TAGREFS="LT3623"
+                    BASELINE="515 2016 2421 2001" 
+                    HPOS="512"
+                    VPOS="1946"
+                    WIDTH="1909"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="515 2016 515 2048 2421 2033 2421 2001 2413 1946 512 1960 515 2016"/></Shape>
+	    <String CONTENT="A nyilas brigantik betörései a házba ezek után úgy szólván napi-"
+                    HPOS="512"
+                    VPOS="1946"
+                    WIDTH="1909"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_568676f1"
+                    TAGREFS="LT3623"
+                    BASELINE="515 2065 2369 2050" 
+                    HPOS="512"
+                    VPOS="2016"
+                    WIDTH="1857"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="515 2065 515 2091 2369 2083 2369 2050 2360 2016 512 2027 515 2065"/></Shape>
+	    <String CONTENT="renden voltak s ha a január 18.felszabadulás nem követ-"
+                    HPOS="512"
+                    VPOS="2016"
+                    WIDTH="1857"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17207143"
+                    TAGREFS="LT3623"
+                    BASELINE="512 2115 2354 2106" 
+                    HPOS="510"
+                    VPOS="2059"
+                    WIDTH="1844"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="512 2115 512 2147 2351 2138 2354 2106 2346 2059 510 2074 512 2115"/></Shape>
+	    <String CONTENT="kezik be, igazán nehéz elképzelni, hogy az összegyűlt tömeg"
+                    HPOS="510"
+                    VPOS="2059"
+                    WIDTH="1844"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58e72598"
+                    TAGREFS="LT3623"
+                    BASELINE="515 2167 2089 2152" 
+                    HPOS="512"
+                    VPOS="2117"
+                    WIDTH="1577"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="515 2167 515 2211 748 2202 821 2211 874 2219 877 2219 926 2211 1005 2199 1066 2211 1104 2219 1107 2219 1110 2219 1113 2219 1122 2211 1145 2196 1171 2211 1180 2217 1183 2217 1186 2217 1244 2211 1413 2196 1448 2211 1451 2214 1454 2214 1457 2214 1460 2214 1468 2211 1524 2199 1608 2211 1626 2214 1629 2214 1632 2214 1634 2214 1634 2211 1666 2193 1792 2208 1795 2208 1798 2208 1841 2190 1929 2211 1932 2211 1935 2211 1938 2211 1955 2196 2083 2211 2089 2152 2080 2117 512 2129 515 2167"/></Shape>
+	    <String CONTENT="további mentése ilyen módon sikerülhetett volna..."
+                    HPOS="512"
+                    VPOS="2117"
+                    WIDTH="1577"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59c0983e"
+                    TAGREFS="LT3623"
+                    BASELINE="518 2394 1395 2383" 
+                    HPOS="515"
+                    VPOS="2324"
+                    WIDTH="880"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="518 2394 518 2432 667 2444 670 2444 673 2444 711 2429 714 2429 728 2444 731 2444 734 2444 737 2444 816 2429 842 2423 848 2429 859 2438 859 2441 862 2441 865 2441 868 2444 952 2444 952 2441 1034 2426 1060 2420 1075 2423 1107 2435 1110 2435 1113 2435 1395 2418 1395 2383 1390 2339 987 2324 985 2324 982 2324 950 2336 918 2345 894 2333 874 2324 871 2324 760 2324 757 2324 754 2324 751 2324 751 2327 743 2333 731 2345 696 2333 684 2330 681 2330 679 2330 676 2330 673 2330 670 2333 652 2348 629 2333 617 2327 614 2327 612 2327 609 2327 594 2333 559 2345 515 2333 518 2394"/></Shape>
+	    <String CONTENT="A jegyzőkönyvet felvette:"
+                    HPOS="515"
+                    VPOS="2324"
+                    WIDTH="880"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35bb1604"
+                    TAGREFS="LT3623"
+                    BASELINE="1751 2383 2375 2377" 
+                    HPOS="1748"
+                    VPOS="2313"
+                    WIDTH="627"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1751 2383 1751 2412 1905 2435 1908 2435 2072 2412 2124 2432 2127 2432 2130 2435 2340 2435 2340 2432 2343 2432 2346 2432 2375 2409 2375 2377 2369 2327 2060 2313 2057 2313 1967 2316 1964 2316 1961 2316 1938 2333 1815 2319 1812 2319 1809 2319 1748 2336 1751 2383"/></Shape>
+	    <String CONTENT="Salamon Mihály s.k."
+                    HPOS="1748"
+                    VPOS="2313"
+                    WIDTH="627"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98cae774"
+                    TAGREFS="LT3623"
+                    BASELINE="512 2490 1320 2490" 
+                    HPOS="512"
+                    VPOS="2435"
+                    WIDTH="808"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="512 2490 512 2531 1320 2531 1320 2490 1320 2453 999 2453 996 2450 950 2435 947 2435 944 2435 512 2447 512 2490"/></Shape>
+	    <String CONTENT="Oblath Margit"
+                    HPOS="512"
+                    VPOS="2435"
+                    WIDTH="808"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_006bd749"
+                    TAGREFS="LT3623"
+                    BASELINE="1279 2732 1646 2732" 
+                    HPOS="1279"
+                    VPOS="2674"
+                    WIDTH="367"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1279 2732 1279 2799 1527 2773 1605 2773 1637 2799 1646 2732 1643 2674 1279 2674 1279 2732"/></Shape>
+	    <String CONTENT="hitelesitő:"
+                    HPOS="1279"
+                    VPOS="2674"
+                    WIDTH="367"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

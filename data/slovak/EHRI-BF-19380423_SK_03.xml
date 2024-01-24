@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380423_SK_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9589" LABEL="numbering" DESCRIPTION="block type numbering"/><OtherTag ID="BT9588" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3604" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1815"
+          HEIGHT="2563"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1815"
+                  HEIGHT="2563">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1e553bf7"
+                    TAGREFS="LT3604"
+                    BASELINE="1374 247 1466 247" 
+                    HPOS="1374"
+                    VPOS="198"
+                    WIDTH="92"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1374 247 1374 273 1464 277 1466 247 1464 198 1374 209 1374 247"/></Shape>
+	    <String CONTENT="102"
+                    HPOS="1374"
+                    VPOS="198"
+                    WIDTH="92"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e977d97"
+                    TAGREFS="LT3604"
+                    BASELINE="346 354 1661 360" 
+                    HPOS="344"
+                    VPOS="299"
+                    WIDTH="1317"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="344 382 455 399 457 399 553 397 555 397 557 397 568 386 594 399 596 399 790 401 793 401 876 388 904 401 906 401 908 401 1068 390 1086 401 1088 401 1090 401 1092 401 1291 392 1306 403 1308 403 1310 403 1312 403 1658 388 1661 360 1661 322 1556 322 1549 320 1505 305 1502 305 1500 305 1321 316 1224 320 1137 311 1062 305 1060 305 1058 305 1056 305 1049 309 1036 318 1026 309 1015 303 1013 303 1011 303 1009 303 938 309 825 318 741 305 709 301 707 301 654 303 528 311 506 301 504 301 502 301 500 301 495 301 399 316 348 299 346 354 344 382"/></Shape>
+	    <String CONTENT="Československej republiky vo Viedni, s platnosťou do roku"
+                    HPOS="344"
+                    VPOS="299"
+                    WIDTH="1317"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6694f421"
+                    TAGREFS="LT3604"
+                    BASELINE="346 425 487 425" 
+                    HPOS="346"
+                    VPOS="386"
+                    WIDTH="141"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="346 425 346 461 446 452 483 463 487 425 487 397 346 386 346 425"/></Shape>
+	    <String CONTENT="1940."
+                    HPOS="346"
+                    VPOS="386"
+                    WIDTH="141"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1f37bdd"
+                    TAGREFS="LT3604"
+                    BASELINE="534 482 1643 486" 
+                    HPOS="532"
+                    VPOS="448"
+                    WIDTH="1111"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="534 482 532 510 1639 516 1643 486 1641 448 534 448 534 482"/></Shape>
+	    <String CONTENT="Následkom udalostí v Rakúsku ľudia prestali môj"
+                    HPOS="532"
+                    VPOS="448"
+                    WIDTH="1111"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b69f081"
+                    TAGREFS="LT3604"
+                    BASELINE="348 555 1688 555" 
+                    HPOS="348"
+                    VPOS="525"
+                    WIDTH="1340"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="348 555 348 576 1688 576 1688 555 1686 525 348 525 348 555"/></Shape>
+	    <String CONTENT="obchod navštevovať a ja som ho bol nútený dať do prenjmu"
+                    HPOS="348"
+                    VPOS="525"
+                    WIDTH="1340"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec071c47"
+                    TAGREFS="LT3604"
+                    BASELINE="346 621 1708 625" 
+                    HPOS="346"
+                    VPOS="589"
+                    WIDTH="1362"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="346 621 346 653 823 647 878 651 938 657 940 657 942 657 944 657 953 651 964 647 1100 651 1378 659 1381 659 1428 649 1432 649 1436 649 1492 659 1494 659 1496 659 1498 659 1511 649 1513 649 1705 649 1708 625 1705 589 346 589 346 621"/></Shape>
+	    <String CONTENT="mojmu zamestnancovi Juliusovi Genserovi, ktorý mi poskytnul"
+                    HPOS="346"
+                    VPOS="589"
+                    WIDTH="1362"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bd2c310"
+                    TAGREFS="LT3604"
+                    BASELINE="348 689 756 698" 
+                    HPOS="346"
+                    VPOS="653"
+                    WIDTH="410"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="348 689 346 717 446 713 472 724 474 724 476 724 478 724 487 724 543 715 752 728 756 698 756 659 348 653 348 689"/></Shape>
+	    <String CONTENT="iba byt a stravu."
+                    HPOS="346"
+                    VPOS="653"
+                    WIDTH="410"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff8e8e6a"
+                    TAGREFS="LT3604"
+                    BASELINE="534 760 1710 764" 
+                    HPOS="532"
+                    VPOS="732"
+                    WIDTH="1178"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="534 760 532 788 1708 788 1710 764 1708 734 534 732 534 760"/></Shape>
+	    <String CONTENT="Podotýkám, že môj bývalý zamestnanec prevzal obchod"
+                    HPOS="532"
+                    VPOS="732"
+                    WIDTH="1178"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73b171c5"
+                    TAGREFS="LT3604"
+                    BASELINE="346 832 1682 839" 
+                    HPOS="344"
+                    VPOS="800"
+                    WIDTH="1338"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="346 832 344 850 1678 856 1682 839 1680 803 346 800 346 832"/></Shape>
+	    <String CONTENT="dňa 1. apríla 1938 a mne do obchodu bolo zakázané vstúpiť."
+                    HPOS="344"
+                    VPOS="800"
+                    WIDTH="1338"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d32cfafe"
+                    TAGREFS="LT3604"
+                    BASELINE="352 903 1727 907" 
+                    HPOS="350"
+                    VPOS="871"
+                    WIDTH="1377"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="352 903 350 924 367 935 369 935 371 935 374 935 1725 926 1727 907 1723 871 352 871 352 903"/></Shape>
+	    <String CONTENT="Iní židia v obci, ktorí nedali svoje obchody do prenájmu, ne-"
+                    HPOS="350"
+                    VPOS="871"
+                    WIDTH="1377"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23e90ae7"
+                    TAGREFS="LT3604"
+                    BASELINE="348 971 1688 976" 
+                    HPOS="348"
+                    VPOS="933"
+                    WIDTH="1340"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="348 971 348 995 1686 993 1688 976 1686 946 1049 946 1045 944 1021 933 1019 933 1017 933 348 939 348 971"/></Shape>
+	    <String CONTENT="smeli tieto asi od 3.-4. apríla otvoriť. Asi dva dni na to"
+                    HPOS="348"
+                    VPOS="933"
+                    WIDTH="1340"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65295892"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1044 1684 1040" 
+                    HPOS="346"
+                    VPOS="1012"
+                    WIDTH="1338"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="348 1044 348 1065 1682 1063 1684 1040 1680 1012 346 1012 348 1044"/></Shape>
+	    <String CONTENT="bol v každom obchode komisár, který viedol obchod, lebo ži-"
+                    HPOS="346"
+                    VPOS="1012"
+                    WIDTH="1338"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64d094bd"
+                    TAGREFS="LT3604"
+                    BASELINE="346 1114 1109 1108" 
+                    HPOS="344"
+                    VPOS="1080"
+                    WIDTH="765"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="346 1114 346 1142 1094 1142 1094 1140 1096 1140 1098 1140 1109 1129 1109 1108 1103 1080 344 1082 346 1114"/></Shape>
+	    <String CONTENT="dia do obchodov nesmeli vkročiť."
+                    HPOS="344"
+                    VPOS="1080"
+                    WIDTH="765"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5261d29d"
+                    TAGREFS="LT3604"
+                    BASELINE="534 1178 1682 1183" 
+                    HPOS="532"
+                    VPOS="1134"
+                    WIDTH="1150"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="534 1178 532 1198 1678 1206 1682 1183 1680 1136 1530 1136 1528 1136 1526 1136 1524 1136 1524 1138 1509 1151 1475 1138 1470 1136 1468 1136 1466 1136 1453 1138 1372 1151 987 1151 981 1142 972 1136 972 1134 970 1134 968 1134 921 1134 919 1134 917 1134 914 1134 914 1136 906 1144 900 1151 846 1151 835 1144 816 1134 814 1134 812 1134 810 1134 784 1144 773 1151 726 1151 722 1146 711 1136 711 1134 709 1134 707 1134 705 1134 703 1134 660 1146 647 1149 534 1149 534 1178"/></Shape>
+	    <String CONTENT="V nedeľu večer /dňa 17. apríla 1938/ asi o 20 hod."
+                    HPOS="532"
+                    VPOS="1134"
+                    WIDTH="1150"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7de79d2c"
+                    TAGREFS="LT3604"
+                    BASELINE="346 1253 1753 1249" 
+                    HPOS="344"
+                    VPOS="1213"
+                    WIDTH="1409"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="346 1253 346 1275 540 1290 543 1290 622 1275 628 1275 632 1275 656 1283 658 1283 660 1283 983 1275 1165 1270 1171 1275 1184 1285 1184 1287 1186 1287 1188 1287 1190 1290 1421 1290 1421 1287 1483 1275 1500 1270 1511 1275 1543 1287 1545 1287 1547 1287 1549 1287 1577 1275 1584 1270 1596 1275 1631 1283 1633 1283 1635 1283 1753 1272 1753 1249 1746 1213 344 1219 346 1253"/></Shape>
+	    <String CONTENT="30 min. prišli dvaja členovia od SA v civile /boli to Rössler"
+                    HPOS="344"
+                    VPOS="1213"
+                    WIDTH="1409"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33aae3c5"
+                    TAGREFS="LT3604"
+                    BASELINE="346 1326 1710 1322" 
+                    HPOS="344"
+                    VPOS="1283"
+                    WIDTH="1366"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="346 1326 346 1341 389 1354 391 1354 393 1354 528 1351 530 1351 532 1351 543 1341 545 1341 551 1341 664 1354 666 1354 795 1351 797 1351 799 1351 810 1341 829 1354 831 1354 833 1354 835 1354 838 1354 872 1343 1015 1354 1017 1354 1019 1354 1051 1341 1519 1351 1522 1351 1524 1351 1526 1351 1539 1339 1708 1337 1710 1322 1703 1283 344 1294 346 1326"/></Shape>
+	    <String CONTENT="a Lang:/ , z ktorých jeden /Rössler/ nás vyzval, aby sme be-"
+                    HPOS="344"
+                    VPOS="1283"
+                    WIDTH="1366"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02b996e8"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1394 1691 1386" 
+                    HPOS="346"
+                    VPOS="1345"
+                    WIDTH="1345"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="348 1394 348 1424 513 1424 515 1426 528 1437 528 1439 530 1439 532 1439 534 1439 932 1428 1026 1426 1686 1431 1691 1386 1684 1351 1432 1356 1395 1351 1353 1345 1351 1345 1312 1351 1267 1358 1150 1351 1105 1349 1103 1349 1077 1351 996 1360 949 1351 932 1349 929 1349 927 1349 921 1351 904 1360 855 1351 848 1351 846 1351 827 1351 652 1362 346 1354 348 1394"/></Shape>
+	    <String CONTENT="hom 3 hodin opustili Nemecko, na čo pristúpil ku mne druhý"
+                    HPOS="346"
+                    VPOS="1345"
+                    WIDTH="1345"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa736725"
+                    TAGREFS="LT3604"
+                    BASELINE="350 1465 1738 1458" 
+                    HPOS="348"
+                    VPOS="1424"
+                    WIDTH="1390"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="350 1465 350 1497 1075 1501 1077 1501 1231 1486 1274 1482 1738 1480 1738 1458 1733 1428 380 1424 378 1424 376 1424 348 1433 350 1465"/></Shape>
+	    <String CONTENT="/Lang/ a dal mi niekoľko faciek. Na to menovaní odišli a ho-"
+                    HPOS="348"
+                    VPOS="1424"
+                    WIDTH="1390"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52fb4f3b"
+                    TAGREFS="LT3604"
+                    BASELINE="350 1533 1024 1524" 
+                    HPOS="348"
+                    VPOS="1492"
+                    WIDTH="676"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="350 1533 350 1552 852 1559 855 1559 857 1559 893 1548 1004 1557 1006 1557 1009 1557 1011 1557 1024 1546 1024 1524 1017 1492 348 1503 350 1533"/></Shape>
+	    <String CONTENT="vorili, že sa o 3 hod. vrátia."
+                    HPOS="348"
+                    VPOS="1492"
+                    WIDTH="676"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc2cf74e"
+                    TAGREFS="LT3604"
+                    BASELINE="536 1604 1697 1597" 
+                    HPOS="534"
+                    VPOS="1550"
+                    WIDTH="1163"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="536 1604 536 1623 1697 1623 1697 1597 1688 1550 1658 1567 1308 1567 1286 1552 1284 1550 1282 1550 1280 1550 1203 1550 1201 1550 1199 1550 1197 1550 1195 1552 1175 1567 1128 1554 1113 1550 1111 1550 1077 1550 1075 1550 1073 1550 1071 1550 1071 1552 1066 1554 1053 1567 955 1559 953 1559 951 1559 917 1571 765 1571 750 1559 748 1559 746 1559 743 1559 741 1559 699 1569 684 1557 679 1554 679 1552 677 1552 675 1552 673 1552 534 1557 536 1604"/></Shape>
+	    <String CONTENT="Ja som medzitým išiel na četnícku stanicu, kde som"
+                    HPOS="534"
+                    VPOS="1550"
+                    WIDTH="1163"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23c650a7"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1676 1691 1665" 
+                    HPOS="346"
+                    VPOS="1633"
+                    WIDTH="1345"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="348 1676 348 1704 1688 1693 1691 1665 1684 1633 346 1642 348 1676"/></Shape>
+	    <String CONTENT="zobudil službu konajúceho strážmajstra a žiadal som ho, aby"
+                    HPOS="346"
+                    VPOS="1633"
+                    WIDTH="1345"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be1cc7f3"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1749 1693 1740" 
+                    HPOS="346"
+                    VPOS="1710"
+                    WIDTH="1347"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="348 1749 348 1764 1693 1755 1693 1740 1686 1710 346 1717 348 1749"/></Shape>
+	    <String CONTENT="niečo urobil, aby sme mohli odísť až ráno. Na to mi on hovo-"
+                    HPOS="346"
+                    VPOS="1710"
+                    WIDTH="1347"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e2fb923"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1819 1652 1806" 
+                    HPOS="346"
+                    VPOS="1777"
+                    WIDTH="1306"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="348 1819 348 1838 444 1851 446 1851 570 1838 577 1838 585 1838 690 1849 692 1849 694 1849 696 1849 696 1847 707 1838 707 1836 788 1836 857 1836 1212 1845 1214 1845 1652 1832 1652 1806 1646 1777 346 1785 348 1819"/></Shape>
+	    <String CONTENT="ril, že oni nemajú žiadnu moc a mladí chlapci čo chcú, to"
+                    HPOS="346"
+                    VPOS="1777"
+                    WIDTH="1306"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_293f5459"
+                    TAGREFS="LT3604"
+                    BASELINE="348 1888 538 1883" 
+                    HPOS="346"
+                    VPOS="1856"
+                    WIDTH="192"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="348 1888 348 1907 536 1907 538 1883 532 1856 346 1856 348 1888"/></Shape>
+	    <String CONTENT="urobia."
+                    HPOS="346"
+                    VPOS="1856"
+                    WIDTH="192"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cf750d3"
+                    TAGREFS="LT3604"
+                    BASELINE="560 1937 1742 1932" 
+                    HPOS="557"
+                    VPOS="1892"
+                    WIDTH="1185"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="560 1937 560 1964 1740 1964 1742 1932 1738 1903 1169 1892 1167 1892 1165 1892 1143 1903 647 1894 645 1894 557 1905 560 1937"/></Shape>
+	    <String CONTENT="O 22.30 hod. prišlo pred náš dom auto, ktoré zabali"
+                    HPOS="557"
+                    VPOS="1892"
+                    WIDTH="1185"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45bc9ec7"
+                    TAGREFS="LT3604"
+                    BASELINE="350 2009 1720 2005" 
+                    HPOS="348"
+                    VPOS="1973"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="350 2009 350 2035 1720 2029 1720 2005 1714 1973 348 1975 350 2009"/></Shape>
+	    <String CONTENT="židovi Steinovi, v ktorom bol už menovaný Lang a šofér, kto-"
+                    HPOS="348"
+                    VPOS="1973"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d6a94bb"
+                    TAGREFS="LT3604"
+                    BASELINE="350 2082 1716 2073" 
+                    HPOS="348"
+                    VPOS="2041"
+                    WIDTH="1368"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="350 2082 350 2101 1714 2101 1716 2073 1710 2041 348 2048 350 2082"/></Shape>
+	    <String CONTENT="rí vošli do izby, my sme sa museli zbaliť a vyviezli nás, t."
+                    HPOS="348"
+                    VPOS="2041"
+                    WIDTH="1368"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_912234bd"
+                    TAGREFS="LT3604"
+                    BASELINE="354 2155 1701 2142" 
+                    HPOS="352"
+                    VPOS="2105"
+                    WIDTH="1349"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="354 2155 354 2170 1701 2163 1701 2142 1697 2112 1032 2105 1030 2105 1028 2105 989 2116 987 2116 976 2116 801 2108 799 2108 741 2118 737 2118 726 2118 577 2110 575 2110 352 2120 354 2155"/></Shape>
+	    <String CONTENT="j. mňa, manželku a svokru na maďarské hranice a my sme boli"
+                    HPOS="352"
+                    VPOS="2105"
+                    WIDTH="1349"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25b9520e"
+                    TAGREFS="LT3604"
+                    BASELINE="357 2231 1682 2208" 
+                    HPOS="354"
+                    VPOS="2178"
+                    WIDTH="1328"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="357 2231 359 2263 395 2253 410 2263 412 2263 414 2263 416 2263 423 2263 478 2251 538 2261 545 2261 547 2261 555 2261 615 2249 705 2257 707 2257 709 2257 711 2257 724 2246 788 2255 790 2255 1079 2240 1680 2240 1682 2208 1676 2178 354 2199 357 2231"/></Shape>
+	    <String CONTENT="nútení illegálne prekročiť hranice, čo nám umožnili dvaja"
+                    HPOS="354"
+                    VPOS="2178"
+                    WIDTH="1328"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

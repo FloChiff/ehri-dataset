@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19440419-DK_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="771"
+          HEIGHT="1018"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="771"
+                  HEIGHT="1018">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e1376c41"
+                    TAGREFS="LT3627"
+                    BASELINE="337 67 397 65" 
+                    HPOS="335"
+                    VPOS="39"
+                    WIDTH="62"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="337 67 337 76 397 75 397 65 394 47 377 48 372 45 363 39 362 39 361 39 360 39 335 42 337 67"/></Shape>
+	    <String CONTENT="- 3 -"
+                    HPOS="335"
+                    VPOS="39"
+                    WIDTH="62"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d685f65b"
+                    TAGREFS="LT3627"
+                    BASELINE="135 128 721 133" 
+                    HPOS="135"
+                    VPOS="103"
+                    WIDTH="586"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="135 128 135 138 720 141 721 133 720 104 694 113 669 104 668 104 667 104 604 103 506 103 505 103 504 103 498 106 487 112 450 108 449 108 448 108 447 108 442 113 388 113 381 108 380 108 379 108 378 108 377 108 377 108 370 112 348 108 344 107 343 107 324 108 268 111 260 109 247 104 247 104 246 104 245 104 244 104 236 109 232 111 185 111 181 110 163 104 162 104 161 104 135 110 135 128"/></Shape>
+	    <String CONTENT="Den 16. ds. bekendtgjordes et Dekret angaaende Anmeldelse og"
+                    HPOS="135"
+                    VPOS="103"
+                    WIDTH="586"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4ebe998"
+                    TAGREFS="LT3627"
+                    BASELINE="59 162 759 162" 
+                    HPOS="58"
+                    VPOS="147"
+                    WIDTH="700"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="58 161 58 172 80 176 81 176 103 172 111 171 117 172 135 177 136 177 137 177 166 172 175 171 242 171 244 172 257 177 258 177 258 178 344 178 344 177 345 177 360 172 362 172 369 172 412 177 413 177 414 177 423 172 426 171 602 171 606 172 628 176 629 176 630 176 643 172 645 172 647 172 660 176 661 176 662 176 758 172 758 161 757 147 58 147 58 161"/></Shape>
+	    <String CONTENT="Spærring af Jødernes Formue (Bilag 3). Herefter maa Jøderne anmelde de-"
+                    HPOS="58"
+                    VPOS="147"
+                    WIDTH="700"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_108772dd"
+                    TAGREFS="LT3627"
+                    BASELINE="58 193 742 195" 
+                    HPOS="57"
+                    VPOS="178"
+                    WIDTH="685"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="58 193 57 201 740 203 742 195 741 178 58 178 58 193"/></Shape>
+	    <String CONTENT="res samlede Formue til vedkommende Finansmyndigheder med Undtagelse af"
+                    HPOS="57"
+                    VPOS="178"
+                    WIDTH="685"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6d24299"
+                    TAGREFS="LT3627"
+                    BASELINE="59 224 747 226" 
+                    HPOS="58"
+                    VPOS="210"
+                    WIDTH="689"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="59 224 58 233 745 234 747 226 745 210 59 210 59 224"/></Shape>
+	    <String CONTENT="deres personlige Bohave, Husholdningsgenstande og Beklædningsgenstande,"
+                    HPOS="58"
+                    VPOS="210"
+                    WIDTH="689"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5d6b52c"
+                    TAGREFS="LT3627"
+                    BASELINE="59 257 740 257" 
+                    HPOS="59"
+                    VPOS="244"
+                    WIDTH="681"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="59 257 59 266 740 266 740 257 740 244 59 244 59 257"/></Shape>
+	    <String CONTENT="saafremt den samlede Værdi deraf ikke overstiger 10.000 Pengö. Anmel-"
+                    HPOS="59"
+                    VPOS="244"
+                    WIDTH="681"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_426b5901"
+                    TAGREFS="LT3627"
+                    BASELINE="60 287 740 290" 
+                    HPOS="59"
+                    VPOS="273"
+                    WIDTH="681"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="60 287 59 297 738 298 740 290 739 275 60 273 60 287"/></Shape>
+	    <String CONTENT="delsespligten omfatter ogsaa Kunstgenstande, Tæpper, Bordsølv og andre"
+                    HPOS="59"
+                    VPOS="273"
+                    WIDTH="681"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d28a028"
+                    TAGREFS="LT3627"
+                    BASELINE="59 318 721 320" 
+                    HPOS="58"
+                    VPOS="305"
+                    WIDTH="663"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="59 318 58 326 73 331 74 331 75 331 206 328 225 328 234 328 281 332 282 332 399 330 478 329 490 331 501 333 502 334 720 334 721 320 720 307 59 305 59 318"/></Shape>
+	    <String CONTENT="Luksusartikler. Foruden Løsøre maa Jøderne yderligere anmelde deres"
+                    HPOS="58"
+                    VPOS="305"
+                    WIDTH="663"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ec1a8f4"
+                    TAGREFS="LT3627"
+                    BASELINE="58 347 741 352" 
+                    HPOS="57"
+                    VPOS="335"
+                    WIDTH="684"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="58 347 57 357 70 362 71 362 172 363 173 363 740 362 741 352 740 341 58 335 58 347"/></Shape>
+	    <String CONTENT="Grundejendom. Aktier og Obligationer maa, allerede før Anmeldelsen er"
+                    HPOS="57"
+                    VPOS="335"
+                    WIDTH="684"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af6f220d"
+                    TAGREFS="LT3627"
+                    BASELINE="58 382 748 385" 
+                    HPOS="57"
+                    VPOS="367"
+                    WIDTH="691"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="58 382 57 389 86 395 87 396 153 396 153 395 154 395 155 395 161 391 242 396 243 397 350 397 350 396 351 396 365 391 366 391 371 391 416 397 417 397 502 392 515 392 517 392 522 397 523 397 523 397 524 397 556 393 564 392 567 393 579 397 579 397 580 397 747 394 748 385 747 369 58 367 58 382"/></Shape>
+	    <String CONTENT="foretaget, deponeres i en Bank. Jøders Bankboxer er spærrede, og deres"
+                    HPOS="57"
+                    VPOS="367"
+                    WIDTH="691"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e36352fe"
+                    TAGREFS="LT3627"
+                    BASELINE="59 413 741 416" 
+                    HPOS="58"
+                    VPOS="398"
+                    WIDTH="683"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="59 413 58 421 739 425 741 416 740 402 59 398 59 413"/></Shape>
+	    <String CONTENT="Indhold skal anmeldes af Ejeren. Samtlige jødiske Tilgodehavender paa"
+                    HPOS="58"
+                    VPOS="398"
+                    WIDTH="683"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e32e168c"
+                    TAGREFS="LT3627"
+                    BASELINE="58 445 748 447" 
+                    HPOS="58"
+                    VPOS="432"
+                    WIDTH="690"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="58 445 58 457 748 456 748 447 748 435 58 432 58 445"/></Shape>
+	    <String CONTENT="Sparekassebøger og løbende Konti anmeldes of spærres; af disse spærrede"
+                    HPOS="58"
+                    VPOS="432"
+                    WIDTH="690"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf585be0"
+                    TAGREFS="LT3627"
+                    BASELINE="57 475 744 477" 
+                    HPOS="56"
+                    VPOS="458"
+                    WIDTH="688"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="57 475 56 485 68 489 69 489 70 489 506 486 516 491 517 491 517 491 743 486 744 477 743 465 666 460 665 460 590 464 582 464 581 464 573 460 572 460 571 460 545 464 540 464 536 464 501 459 500 459 470 464 469 464 436 459 435 459 394 464 391 464 388 464 357 459 356 459 332 464 328 464 327 464 319 459 318 459 317 459 291 464 286 464 270 463 183 458 182 458 162 463 160 463 157 463 118 458 117 458 57 462 57 475"/></Shape>
+	    <String CONTENT="Tilgodehavender kan der udbetales ialt 1000 Pengö maanedlig til Ejeren."
+                    HPOS="56"
+                    VPOS="458"
+                    WIDTH="688"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14a4a760"
+                    TAGREFS="LT3627"
+                    BASELINE="58 506 739 509" 
+                    HPOS="57"
+                    VPOS="490"
+                    WIDTH="682"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="58 506 57 517 737 519 739 509 738 497 525 492 524 492 464 494 400 496 396 493 394 492 393 492 393 492 392 492 340 492 244 495 230 492 228 491 227 491 226 491 202 491 93 494 58 490 58 506"/></Shape>
+	    <String CONTENT="Det paahviler Jøderne af deres Indkomst at indbetale nærmere fastsatte"
+                    HPOS="57"
+                    VPOS="490"
+                    WIDTH="682"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21cce574"
+                    TAGREFS="LT3627"
+                    BASELINE="58 537 748 542" 
+                    HPOS="58"
+                    VPOS="520"
+                    WIDTH="690"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="747 529 655 529 652 527 641 524 640 524 639 524 562 526 516 527 496 525 471 522 470 522 410 524 334 526 309 523 298 521 297 521 272 522 199 525 192 521 191 520 191 520 190 520 189 520 172 520 80 525 59 520 58 537 58 549 405 549 416 550 472 553 473 553 594 550 608 550 612 550 644 554 645 554 747 550 748 542 747 529"/></Shape>
+	    <String CONTENT="Beløb til en Bank eller Sparekasse; disse Beløb spærres. Industrimini-"
+                    HPOS="58"
+                    VPOS="520"
+                    WIDTH="690"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d3b73b1"
+                    TAGREFS="LT3627"
+                    BASELINE="58 570 748 575" 
+                    HPOS="57"
+                    VPOS="557"
+                    WIDTH="691"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="58 570 57 580 746 584 748 575 747 559 58 557 58 570"/></Shape>
+	    <String CONTENT="steren har Bemyndigelse til at foretage Spærring af jødiske Handels- og"
+                    HPOS="57"
+                    VPOS="557"
+                    WIDTH="691"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3aa714d"
+                    TAGREFS="LT3627"
+                    BASELINE="58 602 738 604" 
+                    HPOS="57"
+                    VPOS="585"
+                    WIDTH="681"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="58 602 57 613 737 615 738 604 737 591 615 591 614 590 604 586 603 586 602 586 602 586 601 586 596 590 595 591 450 591 443 590 398 585 397 585 361 589 360 589 337 585 337 585 302 589 300 589 298 589 259 585 258 585 58 588 58 602"/></Shape>
+	    <String CONTENT="Industrivirksomheders Raastof- og Varebeholdninger samt Forretningsin-"
+                    HPOS="57"
+                    VPOS="585"
+                    WIDTH="681"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdbcfa31"
+                    TAGREFS="LT3627"
+                    BASELINE="59 633 131 634" 
+                    HPOS="57"
+                    VPOS="616"
+                    WIDTH="73"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="58 632 57 642 63 646 64 646 65 646 66 646 129 641 130 633 129 621 108 616 107 616 58 620 58 632"/></Shape>
+	    <String CONTENT="ventar."
+                    HPOS="57"
+                    VPOS="616"
+                    WIDTH="73"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afa0e8af"
+                    TAGREFS="LT3627"
+                    BASELINE="132 665 754 667" 
+                    HPOS="131"
+                    VPOS="648"
+                    WIDTH="623"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="132 665 131 671 174 677 175 678 263 678 263 677 264 677 271 673 272 673 277 674 304 677 305 677 306 677 307 677 310 674 312 673 318 674 342 678 343 678 366 675 372 674 376 675 384 678 385 678 386 678 387 678 394 675 397 674 450 676 520 678 521 678 530 676 546 674 752 679 754 667 753 651 132 648 132 665"/></Shape>
+	    <String CONTENT="Hoslagt følger et Udklip af &quot;Pester Lloyd&quot; af 18. ds. (Bilag 4),"
+                    HPOS="131"
+                    VPOS="648"
+                    WIDTH="623"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6eee03e"
+                    TAGREFS="LT3627"
+                    BASELINE="58 695 748 698" 
+                    HPOS="57"
+                    VPOS="682"
+                    WIDTH="691"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="58 695 57 704 336 709 337 709 500 705 509 705 510 705 516 710 517 710 517 710 518 710 748 705 748 698 748 684 58 682 58 695"/></Shape>
+	    <String CONTENT="indeholdende Gengivelse af nogle af Statssekretæren i Indenrigsministre-"
+                    HPOS="57"
+                    VPOS="682"
+                    WIDTH="691"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ba52f36"
+                    TAGREFS="LT3627"
+                    BASELINE="57 727 754 730" 
+                    HPOS="56"
+                    VPOS="713"
+                    WIDTH="698"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="57 727 56 735 753 738 754 730 754 716 57 713 57 727"/></Shape>
+	    <String CONTENT="riet fremsatte Udtalelser angaaende yderligere forestaaende Forholdsreg-"
+                    HPOS="56"
+                    VPOS="713"
+                    WIDTH="698"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_095636e0"
+                    TAGREFS="LT3627"
+                    BASELINE="57 758 755 761" 
+                    HPOS="56"
+                    VPOS="739"
+                    WIDTH="699"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="57 758 56 771 206 774 207 774 208 774 216 771 225 770 258 771 303 775 304 775 322 771 331 771 337 771 347 775 348 775 348 775 349 775 350 775 354 771 358 771 405 771 430 771 491 776 492 776 515 771 519 771 527 771 568 776 569 776 570 776 579 771 581 771 585 771 618 777 619 777 619 777 634 772 754 772 755 761 754 749 719 743 718 743 700 747 694 743 693 743 692 743 692 743 691 743 675 747 672 748 669 747 648 743 647 743 586 746 564 747 556 745 537 742 536 742 517 745 504 747 478 744 449 742 448 742 447 742 446 742 443 744 438 747 415 743 399 742 399 742 365 743 291 746 258 742 252 741 251 741 247 742 230 746 87 746 57 739 57 758"/></Shape>
+	    <String CONTENT="ler, herunder jødiske Lægers Praskis og Jødernes fremtidige Bosættelses-"
+                    HPOS="56"
+                    VPOS="739"
+                    WIDTH="699"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7875c0f5"
+                    TAGREFS="LT3627"
+                    BASELINE="58 791 247 788" 
+                    HPOS="57"
+                    VPOS="776"
+                    WIDTH="190"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="58 791 58 804 90 810 91 810 92 810 109 805 112 805 121 805 152 809 153 809 168 806 184 803 246 807 247 788 245 777 57 776 58 791"/></Shape>
+	    <String CONTENT="forhold i Budapest."
+                    HPOS="57"
+                    VPOS="776"
+                    WIDTH="190"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

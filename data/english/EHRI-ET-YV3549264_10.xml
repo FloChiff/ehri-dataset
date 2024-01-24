@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-YV3549264_10.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1778"
+          HEIGHT="3102"
+          PHYSICAL_IMG_NR="51"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1778"
+                  HEIGHT="3102">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_da379258"
+                    TAGREFS="LT3626"
+                    BASELINE="33 170 1604 193" 
+                    HPOS="28"
+                    VPOS="144"
+                    WIDTH="1574"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1583 162 1558 162 1532 162 1506 162 1480 162 1454 162 1428 160 1402 160 1376 160 1350 160 1325 160 1299 160 1273 160 1247 160 1221 157 1195 157 1169 157 1143 157 1118 157 1092 157 1066 157 1040 157 1014 155 988 155 962 155 936 155 910 155 885 155 856 155 830 155 804 152 779 152 753 152 727 152 701 152 675 152 649 152 623 152 597 149 571 149 546 149 520 149 494 149 468 149 442 149 416 149 390 147 364 147 339 147 313 147 287 147 261 147 235 147 209 147 183 144 157 144 131 144 106 144 80 144 54 144 31 144 31 168 28 191 1596 217 1602 191 1599 162 1583 162"/></Shape>
+	    <String CONTENT="a work detachment on the 1st October. He had seen his brother, the engineer,"
+                    HPOS="28"
+                    VPOS="144"
+                    WIDTH="1574"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0f617c7"
+                    TAGREFS="LT3626"
+                    BASELINE="38 214 1576 235" 
+                    HPOS="36"
+                    VPOS="180"
+                    WIDTH="1540"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="38 214 36 240 1570 253 1576 235 1573 201 38 180 38 214"/></Shape>
+	    <String CONTENT="go to the left, selected as one of the 900, and left the camp under the im-"
+                    HPOS="36"
+                    VPOS="180"
+                    WIDTH="1540"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ce8dfbd"
+                    TAGREFS="LT3626"
+                    BASELINE="41 255 1563 276" 
+                    HPOS="38"
+                    VPOS="224"
+                    WIDTH="1525"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="41 255 38 274 1558 299 1563 276 1560 237 41 224 41 255"/></Shape>
+	    <String CONTENT="pression that his brother had been asphyxiated with the others. But Spitz,"
+                    HPOS="38"
+                    VPOS="224"
+                    WIDTH="1525"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64a4970c"
+                    TAGREFS="LT3626"
+                    BASELINE="41 297 1646 317" 
+                    HPOS="38"
+                    VPOS="261"
+                    WIDTH="1608"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="41 297 38 315 408 320 419 325 458 341 460 341 463 341 559 328 574 328 577 330 595 341 597 341 600 341 820 343 823 343 861 336 890 330 905 338 926 346 929 346 931 346 967 338 1006 330 1042 341 1068 348 1071 348 1074 348 1128 343 1172 338 1262 346 1330 351 1332 351 1335 351 1343 348 1369 338 1640 354 1646 317 1643 284 41 261 41 297"/></Shape>
+	    <String CONTENT="the engineer, was alive at least at the time of my leaving Auschwitz in the middle"
+                    HPOS="38"
+                    VPOS="261"
+                    WIDTH="1608"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cfed33b"
+                    TAGREFS="LT3626"
+                    BASELINE="41 338 274 336" 
+                    HPOS="38"
+                    VPOS="305"
+                    WIDTH="236"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="41 338 41 359 271 367 274 336 266 305 38 305 41 338"/></Shape>
+	    <String CONTENT="of October."
+                    HPOS="38"
+                    VPOS="305"
+                    WIDTH="236"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5d1a565"
+                    TAGREFS="LT3626"
+                    BASELINE="139 421 1570 431" 
+                    HPOS="137"
+                    VPOS="385"
+                    WIDTH="1433"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="139 421 137 444 1565 457 1570 431 1568 398 139 385 139 421"/></Shape>
+	    <String CONTENT="Among the selected men were Engineer Zucker, one of Dr. Epstein&#x27;s col-"
+                    HPOS="137"
+                    VPOS="385"
+                    WIDTH="1433"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c7a809c"
+                    TAGREFS="LT3626"
+                    BASELINE="36 460 1586 478" 
+                    HPOS="33"
+                    VPOS="426"
+                    WIDTH="1553"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="36 460 33 480 1581 498 1586 478 1583 439 36 426 36 460"/></Shape>
+	    <String CONTENT="leagues in the Theresienstadt camp administration, an able and distinguished"
+                    HPOS="33"
+                    VPOS="426"
+                    WIDTH="1553"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e268b2f"
+                    TAGREFS="LT3626"
+                    BASELINE="41 501 1568 519" 
+                    HPOS="38"
+                    VPOS="470"
+                    WIDTH="1530"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="41 501 38 522 1563 545 1568 519 1565 485 41 470 41 501"/></Shape>
+	    <String CONTENT="man, and the actors Max Ehrlich and Willy Rosen, Ehrlich conspicuous by his"
+                    HPOS="38"
+                    VPOS="470"
+                    WIDTH="1530"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82636d1d"
+                    TAGREFS="LT3626"
+                    BASELINE="38 542 326 542" 
+                    HPOS="38"
+                    VPOS="511"
+                    WIDTH="288"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="38 542 38 573 326 573 326 542 326 511 38 511 38 542"/></Shape>
+	    <String CONTENT="grey hair. X"
+                    HPOS="38"
+                    VPOS="511"
+                    WIDTH="288"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fffa7ac8"
+                    
+                    BASELINE="132 616 1638 645" 
+                    HPOS="129"
+                    VPOS="584"
+                    WIDTH="1506"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="131 615 129 659 258 643 587 664 590 664 592 664 595 664 615 651 812 654 867 672 869 672 872 672 874 672 910 654 1314 687 1361 690 1363 690 1366 690 1374 687 1451 664 1493 690 1493 692 1495 692 1498 692 1501 695 1633 695 1635 643 1633 604 131 584 131 615"/></Shape>
+	    <String CONTENT="We stayed in Section E of Auschwitz, the so-called gypsycamp, a quaran-"
+                    HPOS="129"
+                    VPOS="584"
+                    WIDTH="1506"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d9605f5"
+                    
+                    BASELINE="41 660 512 668" 
+                    HPOS="36"
+                    VPOS="622"
+                    WIDTH="473"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="38 659 36 679 504 687 509 666 509 633 38 622 38 659"/></Shape>
+	    <String CONTENT="tine for new arrivals."
+                    HPOS="36"
+                    VPOS="622"
+                    WIDTH="473"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afec64f7"
+                    TAGREFS="LT3626"
+                    BASELINE="28 739 1583 762" 
+                    HPOS="25"
+                    VPOS="705"
+                    WIDTH="1558"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="28 739 25 783 385 791 388 791 390 791 406 783 429 772 613 772 867 783 975 788 978 788 1004 783 1048 775 1071 783 1084 788 1086 788 1089 788 1221 783 1327 780 1350 783 1415 796 1418 796 1420 796 1467 783 1472 783 1480 783 1534 798 1537 798 1539 798 1542 798 1581 783 1583 762 1583 726 28 705 28 739"/></Shape>
+	    <String CONTENT="Human Guinea-Pigs. There I heard from the Dutch Jewish doctor Sal. De Jong,"
+                    HPOS="25"
+                    VPOS="705"
+                    WIDTH="1558"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a8903ac"
+                    TAGREFS="LT3626"
+                    BASELINE="465 788 1542 803" 
+                    HPOS="463"
+                    VPOS="754"
+                    WIDTH="1079"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="465 788 463 809 1537 827 1542 803 1539 770 465 754 465 788"/></Shape>
+	    <String CONTENT="that the SS doctor Moll, and his SS colleagues, were"
+                    HPOS="463"
+                    VPOS="754"
+                    WIDTH="1079"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02298acf"
+                    TAGREFS="LT3626"
+                    BASELINE="36 824 1620 842" 
+                    HPOS="33"
+                    VPOS="785"
+                    WIDTH="1587"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1407 803 1382 803 1374 801 1224 801 1200 801 1195 798 1024 798 1019 798 1017 796 36 785 36 824 33 842 1614 871 1620 842 1620 806 1420 803 1407 803"/></Shape>
+	    <String CONTENT="experimenting on camp inmates. I was told of experiments made with twins and"
+                    HPOS="33"
+                    VPOS="785"
+                    WIDTH="1587"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a78a533d"
+                    TAGREFS="LT3626"
+                    BASELINE="36 865 1578 884" 
+                    HPOS="33"
+                    VPOS="832"
+                    WIDTH="1545"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="36 865 33 881 1573 899 1578 884 1576 850 36 832 36 865"/></Shape>
+	    <String CONTENT="also of vivisection carried out on human beings. A girl from the Auschwitz"
+                    HPOS="33"
+                    VPOS="832"
+                    WIDTH="1545"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c5ae171"
+                    TAGREFS="LT3626"
+                    BASELINE="33 907 1622 922" 
+                    HPOS="31"
+                    VPOS="873"
+                    WIDTH="1591"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="33 907 31 930 1617 943 1622 922 1622 889 33 873 33 907"/></Shape>
+	    <String CONTENT="camp who had hidden there when the Germans evacuated Auschwitz, and whom I met"
+                    HPOS="31"
+                    VPOS="873"
+                    WIDTH="1591"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a97c3fa5"
+                    TAGREFS="LT3626"
+                    BASELINE="36 946 1578 961" 
+                    HPOS="33"
+                    VPOS="912"
+                    WIDTH="1545"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="36 946 33 974 1573 982 1578 961 1576 928 36 912 36 946"/></Shape>
+	    <String CONTENT="after my escape, told me that these human guinea-pigs were all killed before"
+                    HPOS="33"
+                    VPOS="912"
+                    WIDTH="1545"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73de79c2"
+                    TAGREFS="LT3626"
+                    BASELINE="36 987 1560 1000" 
+                    HPOS="33"
+                    VPOS="956"
+                    WIDTH="1527"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="36 987 33 1008 1555 1028 1560 1000 1558 966 36 956 36 987"/></Shape>
+	    <String CONTENT="the evacuation. At that time the gas chambers were no longer working, nor"
+                    HPOS="33"
+                    VPOS="956"
+                    WIDTH="1527"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa4fb8a3"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1028 1651 1044" 
+                    HPOS="31"
+                    VPOS="995"
+                    WIDTH="1620"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="33 1028 31 1049 1646 1067 1651 1044 1651 1008 33 995 33 1028"/></Shape>
+	    <String CONTENT="were the crematoria which had been blown up. The victims were therefore thrown"
+                    HPOS="31"
+                    VPOS="995"
+                    WIDTH="1620"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e085f26"
+                    TAGREFS="LT3626"
+                    BASELINE="36 1067 1604 1085" 
+                    HPOS="33"
+                    VPOS="1036"
+                    WIDTH="1571"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="36 1067 33 1088 1599 1111 1604 1085 1602 1049 36 1036 36 1067"/></Shape>
+	    <String CONTENT="into pits and unslaked lime was poured over them. Whether they had been shot"
+                    HPOS="33"
+                    VPOS="1036"
+                    WIDTH="1571"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25dfe5c5"
+                    TAGREFS="LT3626"
+                    BASELINE="36 1108 1640 1124" 
+                    HPOS="33"
+                    VPOS="1077"
+                    WIDTH="1607"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="36 1108 33 1129 1635 1145 1640 1124 1638 1090 36 1077 36 1108"/></Shape>
+	    <String CONTENT="before I do not know, but the Jewish camp doctor, Epstein from Prague, who has"
+                    HPOS="33"
+                    VPOS="1077"
+                    WIDTH="1607"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_457f4f92"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1150 1200 1163" 
+                    HPOS="31"
+                    VPOS="1114"
+                    WIDTH="1169"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="33 1150 31 1173 1195 1186 1200 1163 1198 1132 33 1114 33 1150"/></Shape>
+	    <String CONTENT="survived, must be able to furnish further information. XX"
+                    HPOS="31"
+                    VPOS="1114"
+                    WIDTH="1169"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fa33c75"
+                    TAGREFS="LT3626"
+                    BASELINE="129 1230 1001 1248 1609 1243" 
+                    HPOS="126"
+                    VPOS="1191"
+                    WIDTH="1483"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="129 1230 126 1256 1604 1269 1609 1243 1604 1204 129 1191 129 1230"/></Shape>
+	    <String CONTENT="In Auschwitz everybody was more than keen on being transferred to a camp"
+                    HPOS="126"
+                    VPOS="1191"
+                    WIDTH="1483"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_675c9f5b"
+                    TAGREFS="LT3626"
+                    BASELINE="28 1271 1609 1290" 
+                    HPOS="23"
+                    VPOS="1238"
+                    WIDTH="1584"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="25 1269 23 1300 1602 1315 1607 1289 1604 1253 25 1238 25 1269"/></Shape>
+	    <String CONTENT="in which conditions were supposed to be somewhat bearable. In the opinion of"
+                    HPOS="23"
+                    VPOS="1238"
+                    WIDTH="1584"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a418a58"
+                    TAGREFS="LT3626"
+                    BASELINE="31 1393 1640 1406" 
+                    HPOS="28"
+                    VPOS="1359"
+                    WIDTH="1612"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="31 1393 28 1416 1635 1432 1640 1406 1640 1375 31 1359 31 1393"/></Shape>
+	    <String CONTENT="X Willy Rosen was well known as a writer and composer of popular airs, which"
+                    HPOS="28"
+                    VPOS="1359"
+                    WIDTH="1612"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86366a21"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1439 869 1445" 
+                    HPOS="31"
+                    VPOS="1403"
+                    WIDTH="838"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="33 1439 31 1465 864 1470 869 1445 867 1408 33 1403 33 1439"/></Shape>
+	    <String CONTENT="were sung and whistled all over Germany."
+                    HPOS="31"
+                    VPOS="1403"
+                    WIDTH="838"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0bdd697"
+                    TAGREFS="LT3626"
+                    BASELINE="134 1478 1625 1486" 
+                    HPOS="131"
+                    VPOS="1442"
+                    WIDTH="1494"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="134 1478 131 1499 1620 1507 1625 1486 1622 1455 134 1442 134 1478"/></Shape>
+	    <String CONTENT="Max Ehrlich, a highly educated actor and a book-collector3, was up to 1933"
+                    HPOS="131"
+                    VPOS="1442"
+                    WIDTH="1494"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05fda816"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1522 1651 1527" 
+                    HPOS="31"
+                    VPOS="1488"
+                    WIDTH="1620"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="33 1522 31 1543 1646 1556 1651 1527 1651 1488 33 1488 33 1522"/></Shape>
+	    <String CONTENT="one of the most popular comedians in Berlin, a star of the Admiralspalast shows."
+                    HPOS="31"
+                    VPOS="1488"
+                    WIDTH="1620"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77a9eeda"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1561 1602 1574" 
+                    HPOS="31"
+                    VPOS="1527"
+                    WIDTH="1571"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="33 1561 31 1579 1596 1592 1602 1574 1599 1538 33 1527 33 1561"/></Shape>
+	    <String CONTENT="In 1933, when he was banned from appearing before German audiences, he joined"
+                    HPOS="31"
+                    VPOS="1527"
+                    WIDTH="1571"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9953978"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1602 1643 1613" 
+                    HPOS="31"
+                    VPOS="1563"
+                    WIDTH="1612"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1301 1574 1299 1571 996 1571 991 1571 988 1569 33 1563 33 1602 31 1623 1638 1633 1643 1613 1640 1576 1317 1574 1301 1574"/></Shape>
+	    <String CONTENT="the &quot;Judische Kulturbund&quot;. His fine performances in comedies, and his cabaret"
+                    HPOS="31"
+                    VPOS="1563"
+                    WIDTH="1612"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40091fdb"
+                    TAGREFS="LT3626"
+                    BASELINE="36 1646 1617 1651" 
+                    HPOS="33"
+                    VPOS="1613"
+                    WIDTH="1584"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="36 1646 33 1664 1612 1672 1617 1651 1614 1615 36 1613 36 1646"/></Shape>
+	    <String CONTENT="shows, were gratefully applauded by the Jewish public whose minds Ehrlich dis-"
+                    HPOS="33"
+                    VPOS="1613"
+                    WIDTH="1584"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fb3628c"
+                    TAGREFS="LT3626"
+                    BASELINE="36 1685 1602 1693" 
+                    HPOS="33"
+                    VPOS="1651"
+                    WIDTH="1569"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="36 1685 33 1706 1596 1713 1602 1693 1599 1659 36 1651 36 1685"/></Shape>
+	    <String CONTENT="tracted from the daily humiliations. A few days after the November pogrom of"
+                    HPOS="33"
+                    VPOS="1651"
+                    WIDTH="1569"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4223481"
+                    TAGREFS="LT3626"
+                    BASELINE="36 1726 1602 1731" 
+                    HPOS="33"
+                    VPOS="1693"
+                    WIDTH="1569"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="36 1726 33 1747 1596 1752 1602 1731 1599 1695 36 1693 36 1726"/></Shape>
+	    <String CONTENT="1938 had been staged by the Nazis, thousands of Jewish men imprisoned and all"
+                    HPOS="33"
+                    VPOS="1693"
+                    WIDTH="1569"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a8b9ac8"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1765 1640 1775" 
+                    HPOS="31"
+                    VPOS="1731"
+                    WIDTH="1609"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="33 1765 31 1791 1635 1801 1640 1775 1638 1742 33 1731 33 1765"/></Shape>
+	    <String CONTENT="the Jewish organisations closed down by the Gestapo, the Nazi supervisor of the"
+                    HPOS="31"
+                    VPOS="1731"
+                    WIDTH="1609"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22e7ece3"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1804 1648 1812" 
+                    HPOS="28"
+                    VPOS="1768"
+                    WIDTH="1618"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="31 1801 28 1825 1640 1837 1646 1809 1643 1778 31 1768 31 1801"/></Shape>
+	    <String CONTENT="Kulturbund, Hinkel, ordered the re-opening of the Kulturbund and forced Ehrlich"
+                    HPOS="28"
+                    VPOS="1768"
+                    WIDTH="1618"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a603a8c7"
+                    TAGREFS="LT3626"
+                    BASELINE="28 1845 1614 1853" 
+                    HPOS="25"
+                    VPOS="1814"
+                    WIDTH="1589"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="28 1845 25 1866 1609 1876 1614 1853 1614 1822 28 1814 28 1845"/></Shape>
+	    <String CONTENT="to present a cabaret show. The world reacting with disgust to the pogrom was"
+                    HPOS="25"
+                    VPOS="1814"
+                    WIDTH="1589"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_441bb6c1"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1887 1599 1894" 
+                    HPOS="31"
+                    VPOS="1853"
+                    WIDTH="1568"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="33 1887 31 1905 1594 1912 1599 1894 1596 1861 33 1853 33 1887"/></Shape>
+	    <String CONTENT="told by the Nazi Press that the Jews could even enjoy cabaret shows, and the"
+                    HPOS="31"
+                    VPOS="1853"
+                    WIDTH="1568"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c8f6298"
+                    TAGREFS="LT3626"
+                    BASELINE="33 1928 1633 1930" 
+                    HPOS="31"
+                    VPOS="1894"
+                    WIDTH="1602"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="33 1928 31 1949 1627 1956 1633 1930 1630 1897 33 1894 33 1928"/></Shape>
+	    <String CONTENT="reports in the foreign press were nothing but atrocity stories. This November"
+                    HPOS="31"
+                    VPOS="1894"
+                    WIDTH="1602"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0da8cb06"
+                    TAGREFS="LT3626"
+                    BASELINE="31 1969 1612 1972" 
+                    HPOS="28"
+                    VPOS="1936"
+                    WIDTH="1584"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="31 1969 28 1995 1607 1998 1612 1972 1609 1938 31 1936 31 1969"/></Shape>
+	    <String CONTENT="performance on Gestapo orders was to become a symbol of Ehrlich&#x27;s future fate:"
+                    HPOS="28"
+                    VPOS="1936"
+                    WIDTH="1584"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83881629"
+                    TAGREFS="LT3626"
+                    BASELINE="33 2011 1578 2013" 
+                    HPOS="28"
+                    VPOS="1977"
+                    WIDTH="1548"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="31 2008 28 2029 1570 2039 1576 2011 1573 1980 31 1977 31 2008"/></Shape>
+	    <String CONTENT="a comedian who had to smile and make people laugh by the order of his mortal"
+                    HPOS="28"
+                    VPOS="1977"
+                    WIDTH="1548"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9095b0ff"
+                    TAGREFS="LT3626"
+                    BASELINE="31 2052 1542 2052" 
+                    HPOS="31"
+                    VPOS="2016"
+                    WIDTH="1511"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="31 2052 31 2073 1539 2078 1542 2052 1542 2021 31 2016 31 2052"/></Shape>
+	    <String CONTENT="enemy. In 1939 Ehrlich emigrated to Holland where he opened a cabaret to-"
+                    HPOS="31"
+                    VPOS="2016"
+                    WIDTH="1511"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65b8219e"
+                    TAGREFS="LT3626"
+                    BASELINE="36 2096 1578 2091" 
+                    HPOS="33"
+                    VPOS="2060"
+                    WIDTH="1545"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="36 2096 36 2117 1573 2119 1578 2091 1570 2060 33 2060 36 2096"/></Shape>
+	    <String CONTENT="gether with Camilla Spira and Kurt Gerron. After the occupation of Holland"
+                    HPOS="33"
+                    VPOS="2060"
+                    WIDTH="1545"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9a317ec"
+                    TAGREFS="LT3626"
+                    BASELINE="36 2132 1607 2135" 
+                    HPOS="33"
+                    VPOS="2096"
+                    WIDTH="1574"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="760 2096 735 2096 709 2096 683 2096 657 2096 631 2096 605 2096 579 2096 553 2096 527 2096 502 2096 476 2096 450 2096 424 2096 398 2096 372 2096 346 2096 320 2096 295 2096 269 2096 243 2096 217 2096 191 2096 165 2096 139 2096 113 2096 87 2096 62 2096 36 2096 36 2132 33 2155 1602 2158 1607 2135 1604 2096 786 2096 760 2096"/></Shape>
+	    <String CONTENT="Ehrlich was taken to the Westerbork camp and again, on the Commandant’s order,"
+                    HPOS="33"
+                    VPOS="2096"
+                    WIDTH="1574"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01135dad"
+                    TAGREFS="LT3626"
+                    BASELINE="33 2173 1612 2176" 
+                    HPOS="31"
+                    VPOS="2140"
+                    WIDTH="1581"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="33 2173 31 2192 1607 2199 1612 2176 1609 2142 33 2140 33 2173"/></Shape>
+	    <String CONTENT="had to cheer up the people in this vast waiting-room for the train into limbo."
+                    HPOS="31"
+                    VPOS="2140"
+                    WIDTH="1581"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b680986"
+                    TAGREFS="LT3626"
+                    BASELINE="33 2215 1617 2217" 
+                    HPOS="33"
+                    VPOS="2181"
+                    WIDTH="1584"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="33 2215 33 2238 1614 2233 1617 2217 1614 2184 33 2181 33 2215"/></Shape>
+	    <String CONTENT="(See no. 2. of our Series &quot;The Persecution of Jews in Holland&quot;). In Theresien-"
+                    HPOS="33"
+                    VPOS="2181"
+                    WIDTH="1584"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9eb1cbc5"
+                    TAGREFS="LT3626"
+                    BASELINE="36 2256 1658 2251" 
+                    HPOS="33"
+                    VPOS="2223"
+                    WIDTH="1625"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="36 2256 36 2282 1658 2279 1658 2251 1651 2223 33 2223 36 2256"/></Shape>
+	    <String CONTENT="stadt, where he was taken from Westerbork, he could not continue this &quot;work&quot;, be-"
+                    HPOS="33"
+                    VPOS="2223"
+                    WIDTH="1625"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75bfeab2"
+                    TAGREFS="LT3626"
+                    BASELINE="31 2298 1638 2298" 
+                    HPOS="31"
+                    VPOS="2267"
+                    WIDTH="1607"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="31 2298 31 2318 1635 2331 1638 2298 1638 2267 31 2267 31 2298"/></Shape>
+	    <String CONTENT="cause he was only there for a fortnight. This true Pagliacci fate ended in the"
+                    HPOS="31"
+                    VPOS="2267"
+                    WIDTH="1607"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77923a6a"
+                    TAGREFS="LT3626"
+                    BASELINE="28 2336 768 2336" 
+                    HPOS="25"
+                    VPOS="2298"
+                    WIDTH="741"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="25 2334 25 2357 763 2360 766 2334 766 2303 25 2298 25 2334"/></Shape>
+	    <String CONTENT="extermination chambers of Auschwitz."
+                    HPOS="25"
+                    VPOS="2298"
+                    WIDTH="741"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afd402e3"
+                    TAGREFS="LT3626"
+                    BASELINE="20 2416 1317 2411" 
+                    HPOS="18"
+                    VPOS="2362"
+                    WIDTH="1299"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="20 2416 20 2442 1312 2447 1317 2411 1312 2383 1231 2383 1229 2380 1208 2365 1208 2362 1206 2362 1203 2362 1097 2362 1094 2362 1092 2362 1042 2380 1035 2383 983 2380 766 2370 763 2370 584 2380 491 2385 471 2380 437 2370 434 2370 432 2370 383 2380 354 2385 328 2380 253 2365 251 2365 248 2365 191 2380 175 2383 85 2383 82 2380 62 2365 59 2365 56 2365 54 2365 51 2365 18 2375 20 2416"/></Shape>
+	    <String CONTENT="XX He has already given evidence to the Russian Authorities."
+                    HPOS="18"
+                    VPOS="2362"
+                    WIDTH="1299"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

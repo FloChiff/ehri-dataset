@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390519-US_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1494"
+          HEIGHT="2388"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1494"
+                  HEIGHT="2388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_cc125da0"
+                    TAGREFS="LT3626"
+                    BASELINE="681 165 741 165" 
+                    HPOS="681"
+                    VPOS="141"
+                    WIDTH="60"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="681 165 681 193 741 193 741 165 741 141 681 141 681 165"/></Shape>
+	    <String CONTENT="-4-"
+                    HPOS="681"
+                    VPOS="141"
+                    WIDTH="60"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2a6314"
+                    TAGREFS="LT3626"
+                    BASELINE="151 278 1209 268" 
+                    HPOS="149"
+                    VPOS="242"
+                    WIDTH="1060"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="151 278 151 296 1207 286 1209 268 1203 242 149 250 151 278"/></Shape>
+	    <String CONTENT="eligible to vote with the necessary documents, for"
+                    HPOS="149"
+                    VPOS="242"
+                    WIDTH="1060"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf484502"
+                    TAGREFS="LT3626"
+                    BASELINE="151 348 1233 340" 
+                    HPOS="149"
+                    VPOS="316"
+                    WIDTH="1084"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="151 348 151 364 1233 356 1233 340 1227 316 149 322 151 348"/></Shape>
+	    <String CONTENT="which purpose it has constituted sixteen offices in"
+                    HPOS="149"
+                    VPOS="316"
+                    WIDTH="1084"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ec1c1c5"
+                    TAGREFS="LT3626"
+                    BASELINE="153 421 486 417" 
+                    HPOS="151"
+                    VPOS="394"
+                    WIDTH="335"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="153 421 153 439 486 435 486 417 480 394 151 396 153 421"/></Shape>
+	    <String CONTENT="Budapest alone."
+                    HPOS="151"
+                    VPOS="394"
+                    WIDTH="335"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e4130ea"
+                    TAGREFS="LT3626"
+                    BASELINE="256 489 1211 481" 
+                    HPOS="254"
+                    VPOS="457"
+                    WIDTH="957"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="256 489 256 509 1209 501 1211 481 1205 457 254 463 256 489"/></Shape>
+	    <String CONTENT="While approximately 6 percent (or 650,000) of"
+                    HPOS="254"
+                    VPOS="457"
+                    WIDTH="957"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9008200f"
+                    TAGREFS="LT3626"
+                    BASELINE="155 567 1254 561" 
+                    HPOS="153"
+                    VPOS="537"
+                    WIDTH="1101"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="155 567 155 587 1252 581 1254 561 1248 537 153 541 155 567"/></Shape>
+	    <String CONTENT="the population of Hungary is Jewish, it is estimated"
+                    HPOS="153"
+                    VPOS="537"
+                    WIDTH="1101"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60cc8505"
+                    TAGREFS="LT3626"
+                    BASELINE="155 648 1252 636" 
+                    HPOS="153"
+                    VPOS="612"
+                    WIDTH="1099"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="155 648 155 668 1250 656 1252 636 1246 612 153 622 155 648"/></Shape>
+	    <String CONTENT="that not more than 60,000 are entitled under the law"
+                    HPOS="153"
+                    VPOS="612"
+                    WIDTH="1099"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36adf932"
+                    TAGREFS="LT3626"
+                    BASELINE="155 726 1318 718" 
+                    HPOS="153"
+                    VPOS="694"
+                    WIDTH="1165"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="155 726 155 740 1023 746 1025 746 1085 736 1304 744 1306 744 1308 744 1310 744 1310 742 1318 732 1318 718 1312 694 153 700 155 726"/></Shape>
+	    <String CONTENT="to vote at the election. The number of Jews registered"
+                    HPOS="153"
+                    VPOS="694"
+                    WIDTH="1165"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69654503"
+                    TAGREFS="LT3626"
+                    BASELINE="157 801 1296 792" 
+                    HPOS="155"
+                    VPOS="768"
+                    WIDTH="1141"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="157 801 157 821 1294 811 1296 792 1290 768 155 776 157 801"/></Shape>
+	    <String CONTENT="is approximately 30,000 which shows how successful the"
+                    HPOS="155"
+                    VPOS="768"
+                    WIDTH="1141"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5d9a499"
+                    TAGREFS="LT3626"
+                    BASELINE="157 873 1215 861" 
+                    HPOS="155"
+                    VPOS="837"
+                    WIDTH="1060"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="157 873 157 893 1213 881 1215 861 1209 837 155 847 157 873"/></Shape>
+	    <String CONTENT="Jewish Bureau has been--considering the short time"
+                    HPOS="155"
+                    VPOS="837"
+                    WIDTH="1060"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14d80900"
+                    TAGREFS="LT3626"
+                    BASELINE="159 947 776 937" 
+                    HPOS="157"
+                    VPOS="913"
+                    WIDTH="619"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="159 947 159 965 390 973 392 973 776 957 776 937 770 913 157 921 159 947"/></Shape>
+	    <String CONTENT="since the passage of the Act."
+                    HPOS="157"
+                    VPOS="913"
+                    WIDTH="619"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56ce1765"
+                    TAGREFS="LT3626"
+                    BASELINE="609 1006 1023 1010" 
+                    HPOS="607"
+                    VPOS="981"
+                    WIDTH="416"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="609 1006 607 1026 1019 1030 1023 1010 1023 985 609 981 609 1006"/></Shape>
+	    <String CONTENT="Respectfully yours,"
+                    HPOS="607"
+                    VPOS="981"
+                    WIDTH="416"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2550ac78"
+                    TAGREFS="LT3626"
+                    BASELINE="161 1498 579 1492" 
+                    HPOS="159"
+                    VPOS="1466"
+                    WIDTH="420"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="161 1498 161 1516 579 1510 579 1492 573 1466 159 1470 161 1498"/></Shape>
+	    <String CONTENT="List of Enclosures:"
+                    HPOS="159"
+                    VPOS="1466"
+                    WIDTH="420"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6de1590"
+                    TAGREFS="LT3626"
+                    BASELINE="264 1570 996 1562" 
+                    HPOS="262"
+                    VPOS="1538"
+                    WIDTH="734"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="264 1570 264 1586 968 1590 970 1590 972 1590 996 1578 996 1562 990 1538 262 1538 264 1570"/></Shape>
+	    <String CONTENT="No. 1. Translation of the Jew Law"
+                    HPOS="262"
+                    VPOS="1538"
+                    WIDTH="734"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e089b29"
+                    TAGREFS="LT3626"
+                    BASELINE="360 1603 864 1601" 
+                    HPOS="358"
+                    VPOS="1574"
+                    WIDTH="506"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="360 1603 360 1625 862 1623 864 1601 858 1574 358 1578 360 1603"/></Shape>
+	    <String CONTENT="Promulgated May 5, 1939."
+                    HPOS="358"
+                    VPOS="1574"
+                    WIDTH="506"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df08e154"
+                    TAGREFS="LT3626"
+                    BASELINE="245 1681 1165 1671" 
+                    HPOS="243"
+                    VPOS="1647"
+                    WIDTH="922"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="245 1681 245 1705 1163 1689 1165 1671 1159 1647 243 1655 245 1681"/></Shape>
+	    <String CONTENT="No. 2. Printed Copy of Original Hungarian"
+                    HPOS="243"
+                    VPOS="1647"
+                    WIDTH="922"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b7a7579"
+                    TAGREFS="LT3626"
+                    BASELINE="370 1717 1077 1709" 
+                    HPOS="368"
+                    VPOS="1685"
+                    WIDTH="709"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="370 1717 370 1741 926 1727 928 1727 1063 1735 1065 1735 1067 1735 1069 1735 1069 1733 1077 1725 1077 1709 1071 1685 368 1689 370 1717"/></Shape>
+	    <String CONTENT="Jewish Bill. (Three copies only.)"
+                    HPOS="368"
+                    VPOS="1685"
+                    WIDTH="709"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db8e6d39"
+                    TAGREFS="LT3626"
+                    BASELINE="260 1792 1039 1785" 
+                    HPOS="258"
+                    VPOS="1761"
+                    WIDTH="781"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="260 1792 260 1816 348 1806 434 1814 452 1816 454 1816 1037 1800 1039 1785 1033 1761 258 1767 260 1792"/></Shape>
+	    <String CONTENT="No. 3. Printed Motivation Made upon"
+                    HPOS="258"
+                    VPOS="1761"
+                    WIDTH="781"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20187a48"
+                    TAGREFS="LT3626"
+                    BASELINE="368 1830 1392 1818" 
+                    HPOS="364"
+                    VPOS="1792"
+                    WIDTH="1026"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="366 1828 366 1848 1388 1834 1390 1816 1384 1792 364 1796 366 1828"/></Shape>
+	    <String CONTENT="Introduction of the Jew Bill. (Three copies only.)"
+                    HPOS="364"
+                    VPOS="1792"
+                    WIDTH="1026"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6aa618bb"
+                    TAGREFS="LT3626"
+                    BASELINE="270 1906 974 1898" 
+                    HPOS="268"
+                    VPOS="1874"
+                    WIDTH="706"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="270 1906 270 1922 958 1926 960 1926 962 1926 964 1926 974 1916 974 1898 968 1874 268 1880 270 1906"/></Shape>
+	    <String CONTENT="No. 4. Index of the New Jew Law."
+                    HPOS="268"
+                    VPOS="1874"
+                    WIDTH="706"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_526365eb"
+                    TAGREFS="LT3626"
+                    BASELINE="167 1986 486 1980" 
+                    HPOS="165"
+                    VPOS="1940"
+                    WIDTH="321"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="167 1986 167 2005 254 2015 256 2015 258 2015 260 2015 276 2005 466 2011 468 2011 470 2011 472 2011 486 2001 486 1980 482 1954 390 1946 388 1946 326 1956 310 1958 302 1956 254 1940 252 1940 250 1940 165 1958 167 1986"/></Shape>
+	    <String CONTENT="File No. 840.1"
+                    HPOS="165"
+                    VPOS="1940"
+                    WIDTH="321"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58f5bb90"
+                    TAGREFS="LT3626"
+                    BASELINE="173 2061 918 2051" 
+                    HPOS="171"
+                    VPOS="2027"
+                    WIDTH="747"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="173 2061 173 2081 916 2073 918 2051 912 2027 171 2035 173 2061"/></Shape>
+	    <String CONTENT="In Quintuplicate to the Department."
+                    HPOS="171"
+                    VPOS="2027"
+                    WIDTH="747"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

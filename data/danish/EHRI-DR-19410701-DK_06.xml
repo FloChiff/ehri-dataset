@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19410701-DK_06.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2489"
+          HEIGHT="4055"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2489"
+                  HEIGHT="4055">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_658fc7b5"
+                    TAGREFS="LT3627"
+                    BASELINE="1126 128 1197 135" 
+                    HPOS="1122"
+                    VPOS="81"
+                    WIDTH="75"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1126 128 1122 158 1183 185 1197 135 1197 87 1126 81 1126 128"/></Shape>
+	    <String CONTENT="6."
+                    HPOS="1122"
+                    VPOS="81"
+                    WIDTH="75"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62ed4076"
+                    TAGREFS="LT3627"
+                    BASELINE="399 334 2306 351" 
+                    HPOS="395"
+                    VPOS="260"
+                    WIDTH="1911"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="399 334 395 378 449 398 453 398 456 402 2303 402 2306 351 2306 297 1159 263 1156 263 1153 263 1088 283 973 263 970 263 541 280 527 280 524 280 443 260 439 260 436 260 432 260 399 277 399 334"/></Shape>
+	    <String CONTENT="I. Bekendtgørelse fra Generalkommissæren for Sikkerhedsvæsenet"
+                    HPOS="395"
+                    VPOS="260"
+                    WIDTH="1911"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_196df611"
+                    TAGREFS="LT3627"
+                    BASELINE="486 446 2079 439" 
+                    HPOS="483"
+                    VPOS="398"
+                    WIDTH="1596"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="486 446 486 476 2076 473 2079 439 2069 398 483 402 486 446"/></Shape>
+	    <String CONTENT="(offentliggjort 4.6.1941) (Indb. Nr. 203 af 9.7.41)."
+                    HPOS="483"
+                    VPOS="398"
+                    WIDTH="1596"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e55ce59d"
+                    TAGREFS="LT3627"
+                    BASELINE="787 540 2340 550" 
+                    HPOS="784"
+                    VPOS="483"
+                    WIDTH="1556"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="787 540 784 567 2333 581 2340 550 2336 486 1829 500 1721 483 1711 483 787 483 787 540"/></Shape>
+	    <String CONTENT="Ifølge Bekendtgørelsen er det forbudt Jøder at bade"
+                    HPOS="784"
+                    VPOS="483"
+                    WIDTH="1556"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe2a1550"
+                    TAGREFS="LT3627"
+                    BASELINE="490 638 2313 648" 
+                    HPOS="486"
+                    VPOS="584"
+                    WIDTH="1827"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="490 638 486 669 2306 679 2313 648 2309 598 490 584 490 638"/></Shape>
+	    <String CONTENT="i offentlig Hav-Strand-Svømmebadeanstalter eller Badehaller."
+                    HPOS="486"
+                    VPOS="584"
+                    WIDTH="1827"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e05e1c4"
+                    TAGREFS="LT3627"
+                    BASELINE="490 743 2343 756" 
+                    HPOS="486"
+                    VPOS="702"
+                    WIDTH="1857"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="490 743 486 767 2336 780 2343 756 2343 716 490 702 490 743"/></Shape>
+	    <String CONTENT="De maa ejheller betræde offentlige Anlæg, Lokaler, ligesom de"
+                    HPOS="486"
+                    VPOS="702"
+                    WIDTH="1857"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5aa98d3f"
+                    TAGREFS="LT3627"
+                    BASELINE="490 844 2401 858" 
+                    HPOS="486"
+                    VPOS="783"
+                    WIDTH="1915"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="490 844 486 871 2394 888 2401 858 2401 814 1778 790 1775 790 1004 800 946 783 943 783 940 783 490 797 490 844"/></Shape>
+	    <String CONTENT="ikke maa leje sig ind i Hoteller, Pensionater m.v. paa Bade- og"
+                    HPOS="486"
+                    VPOS="783"
+                    WIDTH="1915"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_410742f2"
+                    TAGREFS="LT3627"
+                    BASELINE="490 942 2394 956" 
+                    HPOS="486"
+                    VPOS="895"
+                    WIDTH="1908"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="490 942 486 983 517 1000 520 1000 524 1000 919 986 960 986 970 986 1041 1003 1044 1003 1291 993 1362 990 1386 993 1454 1006 1457 1010 2390 1010 2394 956 2390 908 490 895 490 942"/></Shape>
+	    <String CONTENT="Kursteder. Endelig maa de ikke som Tilskuere overvære Hestevæd-"
+                    HPOS="486"
+                    VPOS="895"
+                    WIDTH="1908"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d5f643e"
+                    TAGREFS="LT3627"
+                    BASELINE="490 1044 710 1044" 
+                    HPOS="490"
+                    VPOS="996"
+                    WIDTH="220"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="490 1044 490 1088 710 1088 710 1044 710 996 490 996 490 1044"/></Shape>
+	    <String CONTENT="deløb."
+                    HPOS="490"
+                    VPOS="996"
+                    WIDTH="220"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

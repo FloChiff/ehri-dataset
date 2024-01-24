@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP008_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2472"
+          HEIGHT="3510"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2472"
+                  HEIGHT="3510">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f602d95c"
+                    TAGREFS="LT3628"
+                    BASELINE="236 476 2281 465" 
+                    HPOS="234"
+                    VPOS="386"
+                    WIDTH="2047"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="236 476 236 508 2278 494 2281 465 2275 389 2226 386 2223 386 2220 386 2217 386 2214 389 2179 412 2068 391 2065 391 2062 391 2059 391 2039 406 1951 394 1948 394 1945 394 1942 394 1913 415 1524 415 1465 394 1445 389 1442 389 1345 389 1342 389 1339 389 1316 397 1255 418 1202 397 1184 391 1181 391 1178 391 1061 400 918 409 892 400 865 391 863 391 860 391 857 391 816 403 743 421 696 403 687 400 684 400 681 400 658 403 570 418 547 403 532 394 529 394 526 394 523 394 234 406 236 476"/></Shape>
+	    <String CONTENT="studovat sbory z Prodané nevěsty a já jsem mu sehnala z našich kasá"
+                    HPOS="234"
+                    VPOS="386"
+                    WIDTH="2047"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1805fc4e"
+                    TAGREFS="LT3628"
+                    BASELINE="225 526 2287 517" 
+                    HPOS="222"
+                    VPOS="473"
+                    WIDTH="2065"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="225 526 225 555 2284 555 2287 517 2278 473 222 485 225 526"/></Shape>
+	    <String CONTENT="ren děvčata a on v Sudetských kasárnách cvičil muže a postupně, když"
+                    HPOS="222"
+                    VPOS="473"
+                    WIDTH="2065"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88aa02b8"
+                    TAGREFS="LT3628"
+                    BASELINE="231 576 2164 567" 
+                    HPOS="228"
+                    VPOS="532"
+                    WIDTH="1936"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="231 576 231 602 2158 605 2164 567 2156 532 228 532 231 576"/></Shape>
+	    <String CONTENT="se našli přijatelní solisté, přišel ten nápad, že by se mohla"
+                    HPOS="228"
+                    VPOS="532"
+                    WIDTH="1936"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae725ae0"
+                    TAGREFS="LT3628"
+                    BASELINE="225 628 2109 617" 
+                    HPOS="222"
+                    VPOS="573"
+                    WIDTH="1887"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="225 628 225 663 2106 646 2109 617 2100 573 222 590 225 628"/></Shape>
+	    <String CONTENT="provést celá opera, ovšem koncertantně. Někde v Sokolovně stál"
+                    HPOS="222"
+                    VPOS="573"
+                    WIDTH="1887"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffa64c94"
+                    TAGREFS="LT3628"
+                    BASELINE="234 672 2258 669" 
+                    HPOS="231"
+                    VPOS="625"
+                    WIDTH="2027"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="234 672 234 702 2255 702 2258 669 2249 625 231 634 234 672"/></Shape>
+	    <String CONTENT="starý, polorozbitý klavír bez noh a zatím dostal nějaké polorozbité"
+                    HPOS="231"
+                    VPOS="625"
+                    WIDTH="2027"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50d9a4fa"
+                    TAGREFS="LT3628"
+                    BASELINE="228 722 2226 716" 
+                    HPOS="225"
+                    VPOS="678"
+                    WIDTH="2001"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="228 722 228 757 2223 754 2226 716 2217 678 225 678 228 722"/></Shape>
+	    <String CONTENT="harmonium a někde ve sklepě malinkou místnost, kde mohl pravidelně"
+                    HPOS="225"
+                    VPOS="678"
+                    WIDTH="2001"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccf4ad31"
+                    TAGREFS="LT3628"
+                    BASELINE="228 775 2325 769" 
+                    HPOS="225"
+                    VPOS="725"
+                    WIDTH="2100"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="228 775 228 801 2319 807 2325 769 2316 725 225 737 228 775"/></Shape>
+	    <String CONTENT="se svými lidmi studovat. A tak jsme za největší zimy, zabaleni až pod"
+                    HPOS="225"
+                    VPOS="725"
+                    WIDTH="2100"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c539569e"
+                    TAGREFS="LT3628"
+                    BASELINE="228 819 2308 824" 
+                    HPOS="225"
+                    VPOS="778"
+                    WIDTH="2083"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 819 225 842 2302 854 2308 824 2305 778 228 778 228 819"/></Shape>
+	    <String CONTENT="uši, zkoušeli Prodanou nevěstu. Konečně jsme byli s tím hotovi a nyní"
+                    HPOS="225"
+                    VPOS="778"
+                    WIDTH="2083"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10a88c80"
+                    TAGREFS="LT3628"
+                    BASELINE="234 871 2275 871" 
+                    HPOS="234"
+                    VPOS="836"
+                    WIDTH="2041"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="234 871 234 906 2275 897 2275 871 2275 836 234 836 234 871"/></Shape>
+	    <String CONTENT="se musel v noci stěhovat klavír tajně do ghetta, neboť Sokolovna byla"
+                    HPOS="234"
+                    VPOS="836"
+                    WIDTH="2041"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6201469c"
+                    TAGREFS="LT3628"
+                    BASELINE="228 921 2346 921" 
+                    HPOS="228"
+                    VPOS="880"
+                    WIDTH="2118"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="228 921 228 953 2346 953 2346 921 2343 880 228 883 228 921"/></Shape>
+	    <String CONTENT="vlastně už mimo. V jednom chlapeckém domově dali k disposici tělocvič-"
+                    HPOS="228"
+                    VPOS="880"
+                    WIDTH="2118"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dad56013"
+                    TAGREFS="LT3628"
+                    BASELINE="225 968 2129 974" 
+                    HPOS="225"
+                    VPOS="930"
+                    WIDTH="1904"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="225 968 225 1003 2126 1000 2129 974 2126 933 225 930 225 968"/></Shape>
+	    <String CONTENT="nu a konečně jsme uváděli po prvé v Terezíně 28. listopadu 1942"
+                    HPOS="225"
+                    VPOS="930"
+                    WIDTH="1904"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_889f32a8"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1023 2161 1020" 
+                    HPOS="222"
+                    VPOS="976"
+                    WIDTH="1939"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="225 1023 225 1053 2158 1053 2161 1020 2153 976 222 979 225 1023"/></Shape>
+	    <String CONTENT="Prodanou nevěstu. Dojem byl nezapomenutelný. Při prvních taktech"
+                    HPOS="222"
+                    VPOS="976"
+                    WIDTH="1939"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61b7f2cd"
+                    TAGREFS="LT3628"
+                    BASELINE="336 1070 2314 1073" 
+                    HPOS="333"
+                    VPOS="1026"
+                    WIDTH="1981"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="336 1070 333 1102 2308 1105 2314 1073 2308 1026 336 1026 336 1070"/></Shape>
+	    <String CONTENT="&quot;Proč bychom se netěšili&quot; plakal kde kdo. Prodaná nevěsta se hrála"
+                    HPOS="333"
+                    VPOS="1026"
+                    WIDTH="1981"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4b4321f"
+                    TAGREFS="LT3628"
+                    BASELINE="236 1120 2311 1126" 
+                    HPOS="234"
+                    VPOS="1081"
+                    WIDTH="2077"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="234 1143 2305 1161 2311 1126 2308 1088 333 1088 240 1081 236 1120"/></Shape>
+	    <String CONTENT="asi 35 krát. A už se začlo studovat něco nového a sice Figarovu svat-"
+                    HPOS="234"
+                    VPOS="1081"
+                    WIDTH="2077"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f46633df"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1172 2252 1172" 
+                    HPOS="228"
+                    VPOS="1134"
+                    WIDTH="2024"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="228 1172 228 1208 2252 1205 2252 1172 2252 1137 228 1134 228 1172"/></Shape>
+	    <String CONTENT="bu a tak se za celou další dobu v Terezíně postupně opery: Prodaná"
+                    HPOS="228"
+                    VPOS="1134"
+                    WIDTH="2024"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7d701da"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1225 2318 1225" 
+                    HPOS="222"
+                    VPOS="1187"
+                    WIDTH="2094"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="222 1222 222 1254 2314 1260 2316 1222 2316 1187 222 1187 222 1222"/></Shape>
+	    <String CONTENT="nevěsta, Hubička, Figarova svatba, Kouzelná flétna, Rigoletto, Tosca,"
+                    HPOS="222"
+                    VPOS="1187"
+                    WIDTH="2094"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45586acf"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1269 2296 1275" 
+                    HPOS="222"
+                    VPOS="1231"
+                    WIDTH="2071"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="225 1266 222 1298 2287 1310 2293 1272 2290 1231 225 1231 225 1266"/></Shape>
+	    <String CONTENT="Carmen, Bastien a Bastien, La serva Padrona,Verdi-Reqiem, Tvorstvo,"
+                    HPOS="222"
+                    VPOS="1231"
+                    WIDTH="2071"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6d4cf42"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1325 2237 1325" 
+                    HPOS="228"
+                    VPOS="1284"
+                    WIDTH="2009"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 1325 228 1354 2235 1360 2237 1325 2237 1289 228 1284 228 1325"/></Shape>
+	    <String CONTENT="Elias a spoustu sborových koncertů, spousta německých a českých či-"
+                    HPOS="228"
+                    VPOS="1284"
+                    WIDTH="2009"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ced6c78c"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1377 2164 1377" 
+                    HPOS="225"
+                    VPOS="1333"
+                    WIDTH="1939"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="225 1377 225 1404 2161 1406 2164 1377 2164 1342 225 1333 225 1377"/></Shape>
+	    <String CONTENT="noher, nesčetné kabarety, dokonce na dvoře Hamburských kasáren a"
+                    HPOS="225"
+                    VPOS="1333"
+                    WIDTH="1939"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d722130"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1427 2255 1427" 
+                    HPOS="225"
+                    VPOS="1392"
+                    WIDTH="2030"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="225 1427 225 1456 2252 1459 2255 1427 2255 1392 225 1392 225 1427"/></Shape>
+	    <String CONTENT="Bauhofu cirkusové představení, na sta jednotlivých koncertů klavír-"
+                    HPOS="225"
+                    VPOS="1392"
+                    WIDTH="2030"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_182f897b"
+                    TAGREFS="LT3628"
+                    BASELINE="222 1480 2214 1474" 
+                    HPOS="219"
+                    VPOS="1436"
+                    WIDTH="1995"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="222 1480 222 1518 2211 1518 2214 1474 2205 1436 219 1439 222 1480"/></Shape>
+	    <String CONTENT="ních, instrumentálních, pěveckých, časem i orchestrálních, pod ří-"
+                    HPOS="219"
+                    VPOS="1436"
+                    WIDTH="1995"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3444ee1f"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1529 2123 1529" 
+                    HPOS="225"
+                    VPOS="1494"
+                    WIDTH="1898"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="225 1529 225 1556 2120 1559 2123 1529 2123 1494 225 1494 225 1529"/></Shape>
+	    <String CONTENT="zením kapelníka Ančerle, některých operet, mezi jinými Netopýr."
+                    HPOS="225"
+                    VPOS="1494"
+                    WIDTH="1898"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4611440c"
+                    TAGREFS="LT3628"
+                    BASELINE="222 1576 2226 1573" 
+                    HPOS="219"
+                    VPOS="1532"
+                    WIDTH="2007"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="222 1576 222 1605 2226 1599 2226 1573 2217 1532 219 1532 222 1576"/></Shape>
+	    <String CONTENT="Kulturní a divadelní život byl v Terezíně v roku 1943 : 44 tak bo"
+                    HPOS="219"
+                    VPOS="1532"
+                    WIDTH="2007"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86cacc5a"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1632 2308 1620" 
+                    HPOS="222"
+                    VPOS="1576"
+                    WIDTH="2086"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="225 1632 225 1658 2305 1649 2308 1620 2299 1576 222 1597 225 1632"/></Shape>
+	    <String CONTENT="hatý, že ani za normálních mírových dob nebylo ve středně velkém měs-"
+                    HPOS="222"
+                    VPOS="1576"
+                    WIDTH="2086"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_017814a2"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1681 2308 1676" 
+                    HPOS="225"
+                    VPOS="1632"
+                    WIDTH="2083"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 1681 228 1708 2305 1702 2308 1676 2299 1632 225 1643 228 1681"/></Shape>
+	    <String CONTENT="tě tolik podniků, jako v našem ghettě. Divadelní sály byly malé a ome-"
+                    HPOS="225"
+                    VPOS="1632"
+                    WIDTH="2083"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92189a59"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1731 2340 1725" 
+                    HPOS="225"
+                    VPOS="1684"
+                    WIDTH="2115"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 1731 228 1760 2340 1760 2340 1725 2331 1684 225 1693 228 1731"/></Shape>
+	    <String CONTENT="zené, neboť přijížděním transportů všechno potřebovala t.zv Raumwirt-"
+                    HPOS="225"
+                    VPOS="1684"
+                    WIDTH="2115"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3519903"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1784 2273 1772" 
+                    HPOS="222"
+                    VPOS="1737"
+                    WIDTH="2051"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="225 1784 225 1810 2270 1804 2273 1772 2264 1737 222 1740 225 1784"/></Shape>
+	    <String CONTENT="schaft. A tak nám nic jiného nezbývalo, než zřizovat na půdách kasá-"
+                    HPOS="222"
+                    VPOS="1737"
+                    WIDTH="2051"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e03ae1e1"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1836 2217 1825" 
+                    HPOS="222"
+                    VPOS="1790"
+                    WIDTH="1995"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="225 1836 225 1866 2214 1860 2217 1825 2208 1790 222 1798 225 1836"/></Shape>
+	    <String CONTENT="ren a větších obytných domů docela malá jeviště, kde akustika byla"
+                    HPOS="222"
+                    VPOS="1790"
+                    WIDTH="1995"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7356079c"
+                    TAGREFS="LT3628"
+                    BASELINE="231 1883 2194 1874" 
+                    HPOS="228"
+                    VPOS="1839"
+                    WIDTH="1966"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="231 1883 231 1915 2191 1898 2194 1874 2185 1839 228 1842 231 1883"/></Shape>
+	    <String CONTENT="bídná, v létě to vedrem nebylo k vydržení a v zimě zase zimou, to"
+                    HPOS="228"
+                    VPOS="1839"
+                    WIDTH="1966"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06354c1f"
+                    TAGREFS="LT3628"
+                    BASELINE="228 1936 2284 1921" 
+                    HPOS="225"
+                    VPOS="1886"
+                    WIDTH="2059"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="228 1936 228 1965 2284 1956 2284 1921 2275 1886 225 1886 228 1936"/></Shape>
+	    <String CONTENT="bylo jasné. Ale nadšení posluchačů a nadšení účinkujících dalo všem"
+                    HPOS="225"
+                    VPOS="1886"
+                    WIDTH="2059"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5818ed50"
+                    TAGREFS="LT3628"
+                    BASELINE="225 1983 2150 1971" 
+                    HPOS="222"
+                    VPOS="1933"
+                    WIDTH="1928"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="225 1983 225 2018 2147 2006 2150 1971 2141 1933 222 1945 225 1983"/></Shape>
+	    <String CONTENT="na to zapomenout a tak bylo zde i za těchto okolností vyprodáno."
+                    HPOS="222"
+                    VPOS="1933"
+                    WIDTH="1928"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67f8c236"
+                    TAGREFS="LT3628"
+                    BASELINE="225 2032 2161 2021" 
+                    HPOS="222"
+                    VPOS="1983"
+                    WIDTH="1939"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="225 2032 225 2065 2158 2059 2161 2021 2153 1983 222 1994 225 2032"/></Shape>
+	    <String CONTENT="Zdá se to divné, že Židům v ghettu SS povolovala takovým způsobem"
+                    HPOS="222"
+                    VPOS="1983"
+                    WIDTH="1939"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca40f39e"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2085 2197 2073" 
+                    HPOS="225"
+                    VPOS="2035"
+                    WIDTH="1972"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="228 2085 228 2114 2194 2103 2197 2073 2188 2035 225 2041 228 2085"/></Shape>
+	    <String CONTENT="pěstovat hudbu, umění, přednášky atd., ale páni věděli dobře, co"
+                    HPOS="225"
+                    VPOS="2035"
+                    WIDTH="1972"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4cf98e4"
+                    TAGREFS="LT3628"
+                    BASELINE="234 2132 2156 2123" 
+                    HPOS="231"
+                    VPOS="2088"
+                    WIDTH="1925"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="234 2132 234 2158 2153 2155 2156 2123 2147 2088 231 2094 234 2132"/></Shape>
+	    <String CONTENT="dělají. Chtěli mít tím Terezínem tzv. visitku pro cizinu, t.zv."
+                    HPOS="231"
+                    VPOS="2088"
+                    WIDTH="1925"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1347d4e8"
+                    TAGREFS="LT3628"
+                    BASELINE="225 2182 2194 2173" 
+                    HPOS="222"
+                    VPOS="2138"
+                    WIDTH="1972"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="225 2182 225 2217 2191 2196 2194 2173 2188 2138 222 2138 225 2182"/></Shape>
+	    <String CONTENT="Musterghetto. Jelikož očekávali nějakou komisi, tak dali k dispo-"
+                    HPOS="222"
+                    VPOS="2138"
+                    WIDTH="1972"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbf54216"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2231 2275 2220" 
+                    HPOS="225"
+                    VPOS="2176"
+                    WIDTH="2050"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="228 2231 228 2266 2273 2258 2275 2220 2267 2176 225 2193 228 2231"/></Shape>
+	    <String CONTENT="sici dokonce Sokolovnu a nařídili, aby byly opery uváděny v bezvadné"
+                    HPOS="225"
+                    VPOS="2176"
+                    WIDTH="2050"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ca99817"
+                    TAGREFS="LT3628"
+                    BASELINE="225 2281 2334 2269" 
+                    HPOS="222"
+                    VPOS="2225"
+                    WIDTH="2112"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="225 2281 225 2319 2331 2307 2334 2269 2325 2225 222 2243 225 2281"/></Shape>
+	    <String CONTENT="úpravě, v kostýmech a s parukama, prostě, aby se hrálo skutečné divad-"
+                    HPOS="222"
+                    VPOS="2225"
+                    WIDTH="2112"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e049224"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2331 2217 2322" 
+                    HPOS="225"
+                    VPOS="2287"
+                    WIDTH="1992"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 2331 228 2363 491 2348 725 2357 854 2363 857 2363 909 2357 1000 2342 1278 2351 1550 2360 1553 2360 1635 2345 1685 2340 1802 2345 2044 2357 2047 2357 2050 2357 2082 2342 2088 2340 2100 2342 2179 2357 2182 2357 2185 2357 2217 2340 2217 2322 2208 2287 225 2287 228 2331"/></Shape>
+	    <String CONTENT="lo. A tak se tedy počínaje květnem 1944, kdy vyvrcholila t.zv. Ver-"
+                    HPOS="225"
+                    VPOS="2287"
+                    WIDTH="1992"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1543bca"
+                    TAGREFS="LT3628"
+                    BASELINE="231 2378 2217 2372" 
+                    HPOS="228"
+                    VPOS="2325"
+                    WIDTH="1989"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2197 2325 2170 2337 1840 2325 1837 2325 1807 2325 1778 2325 1749 2325 1720 2325 1708 2325 1708 2328 1693 2340 1293 2340 1263 2331 1249 2328 1222 2328 1193 2328 1164 2328 1135 2328 1105 2328 1076 2328 1047 2328 1018 2328 988 2328 959 2328 933 2328 889 2328 871 2331 842 2331 813 2331 792 2331 228 2340 231 2378 231 2413 2214 2404 2217 2372 2205 2325 2197 2325"/></Shape>
+	    <String CONTENT="schönerung. Terezína, hrálo skutečné divadlo s překrásnou divadelní"
+                    HPOS="228"
+                    VPOS="2325"
+                    WIDTH="1989"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_151a9fe3"
+                    TAGREFS="LT3628"
+                    BASELINE="231 2433 2308 2416" 
+                    HPOS="228"
+                    VPOS="2372"
+                    WIDTH="2080"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2188 2375 2158 2375 2129 2375 2100 2375 2071 2375 2041 2375 2039 2375 228 2392 231 2433 231 2465 2305 2454 2308 2416 2299 2372 2205 2372 2188 2375"/></Shape>
+	    <String CONTENT="jevištní úpravou. Arch. Zelenka, Prof. Lederer a jiní známí výtvarní-"
+                    HPOS="228"
+                    VPOS="2372"
+                    WIDTH="2080"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7207c3b4"
+                    TAGREFS="LT3628"
+                    BASELINE="231 2480 2273 2471" 
+                    HPOS="228"
+                    VPOS="2430"
+                    WIDTH="2045"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="231 2480 231 2515 2270 2503 2273 2471 2264 2430 228 2442 231 2480"/></Shape>
+	    <String CONTENT="ci pracovali neustále na úpravě těch různých jevišť, dokonce veškeré"
+                    HPOS="228"
+                    VPOS="2430"
+                    WIDTH="2045"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc9b9b06"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2527 2252 2527" 
+                    HPOS="228"
+                    VPOS="2492"
+                    WIDTH="2024"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="228 2527 228 2562 2252 2556 2252 2527 2252 2492 228 2492 228 2527"/></Shape>
+	    <String CONTENT="osvětlovací přístroje a žárovky pro divadelní převoz nutné, museli"
+                    HPOS="228"
+                    VPOS="2492"
+                    WIDTH="2024"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b038211a"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2582 2346 2576" 
+                    HPOS="225"
+                    VPOS="2538"
+                    WIDTH="2121"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 2582 228 2614 2343 2609 2346 2576 2337 2538 225 2541 228 2582"/></Shape>
+	    <String CONTENT="se do Terezína dodávat. Na náměstí byl postaven pavilon, kde vyhrávala"
+                    HPOS="225"
+                    VPOS="2538"
+                    WIDTH="2121"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7ef1b2e"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2629 2331 2623" 
+                    HPOS="225"
+                    VPOS="2588"
+                    WIDTH="2106"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="228 2629 228 2655 2328 2650 2331 2623 2322 2588 225 2591 228 2629"/></Shape>
+	    <String CONTENT="denně městská kapela, samí výborní muzikanti, každý jednotlivý pro se-"
+                    HPOS="225"
+                    VPOS="2588"
+                    WIDTH="2106"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f90da3f0"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2679 2264 2673" 
+                    HPOS="225"
+                    VPOS="2638"
+                    WIDTH="2039"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="228 2679 228 2705 2261 2705 2264 2673 2255 2638 225 2641 228 2679"/></Shape>
+	    <String CONTENT="be virtuos. A v kavárně hrálo Trio a konaly se kabarety / Hans Hofer"
+                    HPOS="225"
+                    VPOS="2638"
+                    WIDTH="2039"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daa7e75b"
+                    TAGREFS="LT3628"
+                    BASELINE="234 2729 2363 2723" 
+                    HPOS="231"
+                    VPOS="2670"
+                    WIDTH="2132"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1916 2676 1878 2691 1360 2691 1342 2676 1313 2676 1304 2676 1234 2691 1155 2679 1137 2679 1120 2679 1099 2691 231 2688 234 2729 234 2752 2360 2755 2363 2723 2357 2702 2287 2702 2270 2670 2267 2670 2264 2670 2243 2691 1977 2691 1951 2676 1927 2676"/></Shape>
+	    <String CONTENT="a v létě se konala představení na nádvořích pod širým nebem. Tak vlast-"
+                    HPOS="231"
+                    VPOS="2670"
+                    WIDTH="2132"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29e95b51"
+                    TAGREFS="LT3628"
+                    BASELINE="225 2778 2281 2778" 
+                    HPOS="225"
+                    VPOS="2737"
+                    WIDTH="2056"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="225 2778 225 2816 2281 2816 2281 2778 2281 2740 225 2737 225 2778"/></Shape>
+	    <String CONTENT="ně se zdál Terezín v létě 1944 úplným Eldorádem v Evropě, kde nebylo"
+                    HPOS="225"
+                    VPOS="2737"
+                    WIDTH="2056"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_594fe419"
+                    TAGREFS="LT3628"
+                    BASELINE="222 2825 2261 2831" 
+                    HPOS="216"
+                    VPOS="2781"
+                    WIDTH="2042"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="219 2822 216 2848 2252 2860 2258 2828 2255 2793 219 2781 219 2822"/></Shape>
+	    <String CONTENT="náletů, nebylo fronty, zkrátka, nehrozilo zdánlivě žádné nebezpečí."
+                    HPOS="216"
+                    VPOS="2781"
+                    WIDTH="2042"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f88feed4"
+                    TAGREFS="LT3628"
+                    BASELINE="234 2881 2262 2881" 
+                    HPOS="231"
+                    VPOS="2843"
+                    WIDTH="2030"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="231 2878 231 2919 2261 2919 2261 2878 2261 2843 231 2843 231 2878"/></Shape>
+	    <String CONTENT="A slavná komise přijela a zřejmě zašla. Byla sehraná úplná komedie,"
+                    HPOS="231"
+                    VPOS="2843"
+                    WIDTH="2030"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9be4e301"
+                    TAGREFS="LT3628"
+                    BASELINE="234 2930 2258 2936" 
+                    HPOS="228"
+                    VPOS="2889"
+                    WIDTH="2027"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="231 2927 228 2957 242 2968 245 2968 248 2968 251 2968 356 2951 359 2951 456 2968 459 2968 596 2951 602 2951 605 2951 626 2968 628 2968 631 2968 634 2971 801 2971 801 2968 930 2954 947 2951 950 2954 971 2968 974 2968 977 2968 1243 2971 1246 2971 1249 2971 1316 2954 1322 2954 1696 2954 1705 2957 1755 2971 1758 2971 1761 2974 1778 2974 1807 2974 1831 2974 1831 2971 1834 2971 1837 2971 1851 2957 1857 2954 2164 2954 2167 2957 2182 2971 2185 2971 2188 2971 2191 2971 2252 2957 2255 2933 2252 2895 231 2889 231 2927"/></Shape>
+	    <String CONTENT="děti musely běhat za SS-komandantem, tahat ho za kabát a volat: &quot;"
+                    HPOS="228"
+                    VPOS="2889"
+                    WIDTH="2027"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87a6f230"
+                    TAGREFS="LT3628"
+                    BASELINE="228 2983 2238 2980" 
+                    HPOS="222"
+                    VPOS="2939"
+                    WIDTH="2015"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="225 2980 225 3003 2232 3006 2237 2977 2232 2942 222 2939 225 2980"/></Shape>
+	    <String CONTENT="Strýčku, pojď si s námi hrát&quot;, načež odpověděl: &quot;Dnes nemohu,"
+                    HPOS="222"
+                    VPOS="2939"
+                    WIDTH="2015"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e3243bf"
+                    TAGREFS="LT3628"
+                    BASELINE="234 3033 2305 3027" 
+                    HPOS="231"
+                    VPOS="2983"
+                    WIDTH="2074"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1723 2983 1693 2983 1664 2983 1635 2983 1606 2983 1576 2983 1547 2983 1518 2983 1489 2983 1459 2983 1430 2983 1401 2983 1372 2983 1342 2983 1313 2983 1284 2983 1255 2983 1225 2983 1196 2983 1167 2983 1137 2983 1108 2983 1079 2983 1050 2983 1020 2983 991 2983 977 2983 231 2992 234 3033 234 3062 2299 3065 2305 3027 2299 2992 1731 2983 1723 2983"/></Shape>
+	    <String CONTENT="ale zítra.&quot; Známý filmový režisér Kurt Geron musel natočit film. V di-"
+                    HPOS="231"
+                    VPOS="2983"
+                    WIDTH="2074"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecc44924"
+                    TAGREFS="LT3628"
+                    BASELINE="231 3085 2249 3080" 
+                    HPOS="228"
+                    VPOS="3044"
+                    WIDTH="2021"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="231 3085 231 3112 2243 3115 2249 3080 2243 3044 228 3044 231 3085"/></Shape>
+	    <String CONTENT="vadlech byli připraveni herci a v okamžiku, když vkročila komise se"
+                    HPOS="228"
+                    VPOS="3044"
+                    WIDTH="2021"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42a0c629"
+                    TAGREFS="LT3628"
+                    BASELINE="231 3135 2249 3135" 
+                    HPOS="231"
+                    VPOS="3091"
+                    WIDTH="2018"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="231 3135 231 3164 2249 3161 2249 3135 2249 3094 231 3091 231 3135"/></Shape>
+	    <String CONTENT="jako uprostřed opery nebo činohry začalo hrát. Po 5 minutách se ko-"
+                    HPOS="231"
+                    VPOS="3091"
+                    WIDTH="2018"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b80fd606"
+                    TAGREFS="LT3628"
+                    BASELINE="225 3185 2273 3179" 
+                    HPOS="222"
+                    VPOS="3144"
+                    WIDTH="2051"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="225 3185 225 3214 2267 3217 2273 3179 2264 3144 222 3147 225 3185"/></Shape>
+	    <String CONTENT="mise odebrala dále a hra byla přerušena. Šlo se domů. Byli taky na-"
+                    HPOS="222"
+                    VPOS="3144"
+                    WIDTH="2051"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7fa857f"
+                    TAGREFS="LT3628"
+                    BASELINE="228 3229 2252 3235" 
+                    HPOS="225"
+                    VPOS="3191"
+                    WIDTH="2027"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="228 3229 225 3255 2246 3264 2252 3235 2249 3197 228 3191 228 3229"/></Shape>
+	    <String CONTENT="bádání komponisti Haas, Krása, Ullmann a Gideon Klein, aby složili"
+                    HPOS="225"
+                    VPOS="3191"
+                    WIDTH="2027"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_744e54e5"
+                    TAGREFS="LT3628"
+                    BASELINE="231 3284 2305 3284" 
+                    HPOS="227"
+                    VPOS="3249"
+                    WIDTH="2078"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="227 3308 787 3330 827 3363 830 3363 851 3354 927 3325 1020 3325 1073 3352 1076 3352 1079 3352 1082 3352 1085 3352 1149 3325 1176 3343 1178 3343 1181 3343 1184 3343 1395 3325 1442 3346 1477 3360 1480 3360 1483 3360 1486 3360 1524 3346 1573 3325 1904 3325 1936 3337 1957 3346 1960 3346 1962 3346 1965 3346 1986 3337 2006 3328 2018 3337 2044 3357 2047 3357 2050 3357 2053 3357 2056 3357 2109 3337 2123 3331 2150 3334 2214 3346 2217 3346 2220 3346 2223 3346 2237 3334 2246 3328 2302 3331 2305 3284 2305 3249 231 3249 231 3284"/></Shape>
+	    <String CONTENT="opery anebo písně, které se potom musely hrát. To vše vlastně z roz-"
+                    HPOS="227"
+                    VPOS="3249"
+                    WIDTH="2078"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ad3c84b"
+                    TAGREFS="LT3628"
+                    BASELINE="222 3334 473 3328" 
+                    HPOS="219"
+                    VPOS="3290"
+                    WIDTH="254"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="222 3334 222 3369 470 3366 473 3328 468 3293 219 3290 222 3334"/></Shape>
+	    <String CONTENT="kazu SS."
+                    HPOS="219"
+                    VPOS="3290"
+                    WIDTH="254"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

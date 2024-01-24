@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19381105_DE_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2442"
+          HEIGHT="3409"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2442"
+                  HEIGHT="3409">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d9113cba"
+                    TAGREFS="LT3625"
+                    BASELINE="343 161 915 150" 
+                    HPOS="341"
+                    VPOS="73"
+                    WIDTH="574"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="343 161 343 190 912 178 915 150 901 73 869 96 821 85 818 85 815 85 813 85 761 99 571 82 568 82 434 105 341 85 343 161"/></Shape>
+	    <String CONTENT="Generalni Konsulat"
+                    HPOS="341"
+                    VPOS="73"
+                    WIDTH="574"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5cd8ea1"
+                    TAGREFS="LT3625"
+                    BASELINE="18 228 1040 196" 
+                    HPOS="14"
+                    VPOS="147"
+                    WIDTH="1023"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="17 227 17 264 1037 218 1037 193 1029 147 14 187 17 227"/></Shape>
+	    <String CONTENT="Geskoslovenske Republiky de Vidni"
+                    HPOS="14"
+                    VPOS="147"
+                    WIDTH="1023"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7f7ea0e"
+                    TAGREFS="LT3625"
+                    BASELINE="1529 190 2302 178" 
+                    HPOS="1526"
+                    VPOS="113"
+                    WIDTH="776"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1529 190 1529 224 2297 227 2302 178 2299 136 2257 113 2254 113 2112 113 2109 113 2106 113 2103 113 2072 136 1904 122 1901 122 1899 122 1850 139 1819 124 1816 124 1813 124 1810 124 1765 139 1722 119 1719 119 1717 119 1526 144 1529 190"/></Shape>
+	    <String CONTENT="Wien, am 5. November 1938."
+                    HPOS="1526"
+                    VPOS="113"
+                    WIDTH="776"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b806e740"
+                    TAGREFS="LT3625"
+                    BASELINE="162 653 767 644" 
+                    HPOS="159"
+                    VPOS="605"
+                    WIDTH="608"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="162 653 162 698 764 684 767 644 759 605 159 610 162 653"/></Shape>
+	    <String CONTENT="Z1. ; 76.109/I-1/38."
+                    HPOS="159"
+                    VPOS="605"
+                    WIDTH="608"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe1b4df5"
+                    TAGREFS="LT3625"
+                    BASELINE="105 735 977 713" 
+                    HPOS="102"
+                    VPOS="676"
+                    WIDTH="875"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="105 735 105 761 977 744 977 713 969 676 102 693 105 735"/></Shape>
+	    <String CONTENT="Ausweisung der tschechoslov."
+                    HPOS="102"
+                    VPOS="676"
+                    WIDTH="875"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47c4b624"
+                    TAGREFS="LT3625"
+                    BASELINE="122 786 673 769" 
+                    HPOS="119"
+                    VPOS="735"
+                    WIDTH="554"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="122 786 122 826 392 832 395 832 486 809 494 809 500 809 560 826 562 826 565 826 673 801 673 769 665 735 119 749 122 786"/></Shape>
+	    <String CONTENT="Staatsangehörigen."
+                    HPOS="119"
+                    VPOS="735"
+                    WIDTH="554"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5743f345"
+                    TAGREFS="LT3625"
+                    BASELINE="253 999 480 994" 
+                    HPOS="250"
+                    VPOS="948"
+                    WIDTH="230"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="253 999 253 1019 477 1017 480 994 471 948 250 948 253 999"/></Shape>
+	    <String CONTENT="An das"
+                    HPOS="250"
+                    VPOS="948"
+                    WIDTH="230"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c15180af"
+                    TAGREFS="LT3625"
+                    BASELINE="258 1070 1083 1056" 
+                    HPOS="255"
+                    VPOS="1011"
+                    WIDTH="828"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="258 1070 258 1102 1083 1090 1083 1056 1074 1011 255 1019 258 1070"/></Shape>
+	    <String CONTENT="Amt des Reichsstatthalters"
+                    HPOS="255"
+                    VPOS="1011"
+                    WIDTH="828"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d810b64"
+                    TAGREFS="LT3625"
+                    BASELINE="255 1147 676 1147" 
+                    HPOS="255"
+                    VPOS="1110"
+                    WIDTH="421"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="255 1147 255 1210 338 1193 412 1204 457 1210 460 1210 676 1190 676 1147 673 1110 255 1110 255 1147"/></Shape>
+	    <String CONTENT="in W i e n ."
+                    HPOS="255"
+                    VPOS="1110"
+                    WIDTH="421"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4912a16"
+                    TAGREFS="LT3625"
+                    BASELINE="349 1485 2274 1463" 
+                    HPOS="346"
+                    VPOS="1414"
+                    WIDTH="1928"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="349 1485 349 1505 2274 1485 2274 1463 2265 1414 346 1443 349 1485"/></Shape>
+	    <String CONTENT="die cechoslov. Staatsangehörigen werden von den Polizeibehörden"
+                    HPOS="346"
+                    VPOS="1414"
+                    WIDTH="1928"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad108c69"
+                    TAGREFS="LT3625"
+                    BASELINE="653 1409 2351 1389" 
+                    HPOS="651"
+                    VPOS="1320"
+                    WIDTH="1700"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="653 1409 653 1431 2351 1414 2351 1389 2345 1346 2166 1320 2163 1320 2160 1320 2106 1346 2103 1346 2041 1323 2038 1323 1887 1323 1884 1323 1881 1323 1879 1323 1842 1346 1836 1352 1455 1352 1449 1349 1435 1335 1432 1335 1429 1335 1427 1335 1353 1349 1341 1352 1336 1349 1302 1332 1299 1332 1296 1332 1293 1332 1248 1349 1236 1355 1208 1352 1108 1335 1105 1335 932 1352 841 1360 807 1352 747 1338 744 1338 741 1338 651 1352 653 1409"/></Shape>
+	    <String CONTENT="Die massenhaft eingeleiteten Ausweisungsverfahren gegen"
+                    HPOS="651"
+                    VPOS="1320"
+                    WIDTH="1700"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2d517ee"
+                    TAGREFS="LT3625"
+                    BASELINE="355 1556 2353 1536" 
+                    HPOS="352"
+                    VPOS="1502"
+                    WIDTH="2001"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="355 1556 355 1582 2351 1565 2353 1536 2345 1502 352 1517 355 1556"/></Shape>
+	    <String CONTENT="in Wien in der Weise durchgeführt, dass den Betroffenen aufgetra-"
+                    HPOS="352"
+                    VPOS="1502"
+                    WIDTH="2001"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9aef326"
+                    TAGREFS="LT3625"
+                    BASELINE="355 1633 2356 1607" 
+                    HPOS="352"
+                    VPOS="1573"
+                    WIDTH="2004"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="355 1633 355 1659 2353 1633 2356 1607 2348 1573 352 1593 355 1633"/></Shape>
+	    <String CONTENT="gen wird, unverzüglich oder binnen 8 Tagen, in ausserordentlichen"
+                    HPOS="352"
+                    VPOS="1573"
+                    WIDTH="2004"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d63aefe8"
+                    TAGREFS="LT3625"
+                    BASELINE="358 1704 2302 1681" 
+                    HPOS="355"
+                    VPOS="1647"
+                    WIDTH="1947"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="358 1704 358 1730 2299 1710 2302 1681 2294 1647 355 1667 358 1704"/></Shape>
+	    <String CONTENT="Fällen 2 Wochen, das Land zu verlassen. Diese Praxis wird rück-"
+                    HPOS="355"
+                    VPOS="1647"
+                    WIDTH="1947"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c1f13be"
+                    TAGREFS="LT3625"
+                    BASELINE="358 1784 2274 1755" 
+                    HPOS="355"
+                    VPOS="1721"
+                    WIDTH="1919"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="358 1784 358 1806 2271 1784 2274 1755 2265 1721 355 1744 358 1784"/></Shape>
+	    <String CONTENT="sichtslos geübt, wenn auch den Behörden bekannt sein muss, dass"
+                    HPOS="355"
+                    VPOS="1721"
+                    WIDTH="1919"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_835edf82"
+                    TAGREFS="LT3625"
+                    BASELINE="358 1855 2333 1829" 
+                    HPOS="355"
+                    VPOS="1795"
+                    WIDTH="1978"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="358 1855 358 1880 2331 1855 2333 1829 2325 1795 355 1815 358 1855"/></Shape>
+	    <String CONTENT="nach den hier geltenden Vorschriften zur Liquidierung der Vermö-"
+                    HPOS="355"
+                    VPOS="1795"
+                    WIDTH="1978"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5868d984"
+                    TAGREFS="LT3625"
+                    BASELINE="358 1928 2385 1906" 
+                    HPOS="355"
+                    VPOS="1869"
+                    WIDTH="2030"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="358 1928 358 1954 2385 1926 2385 1906 2376 1869 355 1889 358 1928"/></Shape>
+	    <String CONTENT="genschaften, der Geschäfte, die viele Cechoslovaken hier besitzen,"
+                    HPOS="355"
+                    VPOS="1869"
+                    WIDTH="2030"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1540f708"
+                    TAGREFS="LT3625"
+                    BASELINE="358 1999 2333 1977" 
+                    HPOS="355"
+                    VPOS="1943"
+                    WIDTH="1978"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="358 1999 358 2025 2331 2002 2333 1977 2325 1943 355 1957 358 1999"/></Shape>
+	    <String CONTENT="ferner zur Überführung der Wohnungseinrichtungen, wozu verschie-"
+                    HPOS="355"
+                    VPOS="1943"
+                    WIDTH="1978"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49f72df4"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2073 2333 2053" 
+                    HPOS="358"
+                    VPOS="2019"
+                    WIDTH="1975"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="361 2073 361 2096 2331 2076 2333 2053 2325 2019 358 2025 361 2073"/></Shape>
+	    <String CONTENT="dene Dokumente und amtliche Bewilligungen verschafft werden müs-"
+                    HPOS="358"
+                    VPOS="2019"
+                    WIDTH="1975"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7da4b96a"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2150 2279 2124" 
+                    HPOS="358"
+                    VPOS="2088"
+                    WIDTH="1921"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="361 2150 361 2176 2277 2150 2279 2124 2271 2088 358 2113 361 2150"/></Shape>
+	    <String CONTENT="sen, wenigstens eine sechswöchige Frist notwendig ist. Es han-"
+                    HPOS="358"
+                    VPOS="2088"
+                    WIDTH="1921"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f61fd227"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2221 2362 2198" 
+                    HPOS="358"
+                    VPOS="2164"
+                    WIDTH="2004"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="361 2221 361 2249 2362 2224 2362 2198 2353 2164 358 2178 361 2221"/></Shape>
+	    <String CONTENT="delt sich hiebei um kleinere Existenzen, die, wenn ihnen die not-"
+                    HPOS="358"
+                    VPOS="2164"
+                    WIDTH="2004"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3762be4c"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2295 2308 2272" 
+                    HPOS="358"
+                    VPOS="2235"
+                    WIDTH="1950"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="361 2295 361 2320 2305 2298 2308 2272 2299 2235 358 2258 361 2295"/></Shape>
+	    <String CONTENT="wendige Zeitspanne nicht bewilligt wird, auf den Bettelstab ge-"
+                    HPOS="358"
+                    VPOS="2235"
+                    WIDTH="1950"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69c7f8cd"
+                    TAGREFS="LT3625"
+                    BASELINE="363 2366 2254 2343" 
+                    HPOS="361"
+                    VPOS="2301"
+                    WIDTH="1893"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="363 2366 363 2391 2251 2369 2254 2343 2245 2301 361 2323 363 2366"/></Shape>
+	    <String CONTENT="bracht werden, da sie dadurch, dass sie hier geboren sind und"
+                    HPOS="361"
+                    VPOS="2301"
+                    WIDTH="1893"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49327c02"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2440 1202 2440 2308 2414" 
+                    HPOS="358"
+                    VPOS="2377"
+                    WIDTH="1950"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="361 2440 361 2471 2308 2448 2308 2414 2299 2377 358 2397 361 2440"/></Shape>
+	    <String CONTENT="hier immer gelebt haben, vollständig den Kontakt mit ihrer Hei-"
+                    HPOS="358"
+                    VPOS="2377"
+                    WIDTH="1950"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d9e3d30"
+                    TAGREFS="LT3625"
+                    BASELINE="361 2516 969 2511" 
+                    HPOS="358"
+                    VPOS="2477"
+                    WIDTH="611"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="361 2516 361 2542 969 2542 969 2511 963 2477 358 2477 361 2516"/></Shape>
+	    <String CONTENT="mat verloren haben."
+                    HPOS="358"
+                    VPOS="2477"
+                    WIDTH="611"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5bf45ed"
+                    TAGREFS="LT3625"
+                    BASELINE="670 2587 2251 2565" 
+                    HPOS="668"
+                    VPOS="2531"
+                    WIDTH="1583"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="670 2587 670 2613 1063 2622 1066 2622 1068 2622 1071 2622 1091 2607 1094 2607 1114 2607 1233 2619 1236 2619 2248 2590 2251 2565 2243 2531 668 2551 670 2587"/></Shape>
+	    <String CONTENT="Es sind dabei auch Leute, die zwar bisher Dokumente"
+                    HPOS="668"
+                    VPOS="2531"
+                    WIDTH="1583"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fe19b2d"
+                    TAGREFS="LT3625"
+                    BASELINE="366 2661 2248 2641" 
+                    HPOS="363"
+                    VPOS="2607"
+                    WIDTH="1885"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="366 2661 366 2687 2245 2667 2248 2641 2240 2607 363 2619 366 2661"/></Shape>
+	    <String CONTENT="über ihre cechoslovakische Staatsbürgerschaft besitzen, deren"
+                    HPOS="363"
+                    VPOS="2607"
+                    WIDTH="1885"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4b23920"
+                    TAGREFS="LT3625"
+                    BASELINE="366 2738 2225 2715" 
+                    HPOS="363"
+                    VPOS="2681"
+                    WIDTH="1862"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="366 2738 366 2764 2223 2749 2225 2715 2217 2681 363 2701 366 2738"/></Shape>
+	    <String CONTENT="Echtheit ausser jedem Zweifel steht, die aber in einer durch"
+                    HPOS="363"
+                    VPOS="2681"
+                    WIDTH="1862"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b879e4c8"
+                    TAGREFS="LT3625"
+                    BASELINE="369 2812 2257 2792" 
+                    HPOS="366"
+                    VPOS="2758"
+                    WIDTH="1891"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="369 2812 369 2837 2254 2818 2257 2792 2248 2758 366 2772 369 2812"/></Shape>
+	    <String CONTENT="Deutschland okkupierten und innerhalb der künftigen deutschen"
+                    HPOS="366"
+                    VPOS="2758"
+                    WIDTH="1891"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a579db46"
+                    TAGREFS="LT3625"
+                    BASELINE="369 2886 2308 2860" 
+                    HPOS="366"
+                    VPOS="2826"
+                    WIDTH="1942"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="369 2886 369 2911 2305 2886 2308 2860 2299 2826 366 2846 369 2886"/></Shape>
+	    <String CONTENT="Grenzen liegenden Gemeinde beheimatet sind und wenig oder über-"
+                    HPOS="366"
+                    VPOS="2826"
+                    WIDTH="1942"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51cdeac4"
+                    TAGREFS="LT3625"
+                    BASELINE="372 2962 2288 2937" 
+                    HPOS="369"
+                    VPOS="2903"
+                    WIDTH="1919"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="372 2962 372 2988 662 2988 665 2988 693 3002 696 3002 699 3002 702 3002 705 3002 705 2999 719 2988 761 2988 1191 2997 1193 2997 1196 2997 1199 2997 1213 2985 1225 2980 1279 2985 1350 2994 1353 2994 1401 2985 1447 2977 1523 2985 1591 2991 1594 2991 1597 2991 1623 2985 1651 2977 1739 2982 1805 2988 1808 2988 1810 2988 1825 2982 1862 2971 1896 2982 1904 2985 1907 2985 1910 2985 1933 2982 2001 2971 2285 2980 2288 2937 2279 2903 369 2926 372 2962"/></Shape>
+	    <String CONTENT="haupt keine Hoffnung haben, cechoslovakische Staatsbürger-"
+                    HPOS="369"
+                    VPOS="2903"
+                    WIDTH="1919"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f14ec92"
+                    TAGREFS="LT3625"
+                    BASELINE="372 3036 1188 3025" 
+                    HPOS="369"
+                    VPOS="2991"
+                    WIDTH="819"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="372 3036 372 3070 1188 3070 1188 3025 1179 2991 369 2997 372 3036"/></Shape>
+	    <String CONTENT="schaft erlangen zu können."
+                    HPOS="369"
+                    VPOS="2991"
+                    WIDTH="819"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

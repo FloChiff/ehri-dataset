@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-YV3549264_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1884"
+          HEIGHT="3109"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1884"
+                  HEIGHT="3109">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_cb438660"
+                    TAGREFS="LT3626"
+                    BASELINE="282 440 1137 440" 
+                    HPOS="282"
+                    VPOS="360"
+                    WIDTH="855"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="282 440 282 476 1135 479 1137 440 1137 391 914 373 912 373 855 380 824 383 813 378 790 360 787 360 785 360 782 360 780 360 746 375 720 388 668 375 666 375 663 375 590 388 541 373 539 373 536 373 463 380 430 365 422 360 419 360 282 360 282 440"/></Shape>
+	    <String CONTENT="JEWISH CENTRAL INFORMATION OFFICE"
+                    HPOS="282"
+                    VPOS="360"
+                    WIDTH="855"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67e19a06"
+                    TAGREFS="LT3626"
+                    BASELINE="452 476 956 484" 
+                    HPOS="448"
+                    VPOS="443"
+                    WIDTH="505"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="450 474 448 507 948 515 953 481 951 448 450 443 450 474"/></Shape>
+	    <String CONTENT="19 Manchester Square,"
+                    HPOS="448"
+                    VPOS="443"
+                    WIDTH="505"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1418c454"
+                    TAGREFS="LT3626"
+                    BASELINE="551 523 857 523" 
+                    HPOS="551"
+                    VPOS="489"
+                    WIDTH="306"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="551 523 551 559 857 559 857 523 857 492 551 489 551 523"/></Shape>
+	    <String CONTENT="London, W. 1"
+                    HPOS="551"
+                    VPOS="489"
+                    WIDTH="306"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d625be0d"
+                    TAGREFS="LT3626"
+                    BASELINE="329 987 1531 992" 
+                    HPOS="326"
+                    VPOS="943"
+                    WIDTH="1205"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="329 987 326 1005 492 1025 494 1025 497 1025 531 1010 608 1025 611 1025 614 1025 655 1010 660 1010 676 1010 831 1025 834 1025 956 1015 982 1013 989 1015 1021 1028 1023 1028 1026 1031 1150 1031 1150 1028 1153 1028 1173 1018 1184 1013 1202 1018 1233 1025 1236 1025 1238 1025 1241 1025 1262 1018 1275 1013 1282 1018 1290 1025 1290 1028 1293 1028 1295 1028 1298 1028 1300 1028 1337 1020 1365 1013 1383 1020 1401 1028 1404 1028 1407 1028 1528 1020 1531 992 1528 943 329 948 329 987"/></Shape>
+	    <String CONTENT="Jewish Survivors Report"
+                    HPOS="326"
+                    VPOS="943"
+                    WIDTH="1205"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f758442e"
+                    TAGREFS="LT3626"
+                    BASELINE="580 1044 1251 1049" 
+                    HPOS="577"
+                    VPOS="1000"
+                    WIDTH="674"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="580 1044 577 1067 1246 1072 1251 1049 1246 1000 580 1002 580 1044"/></Shape>
+	    <String CONTENT="Documents of Nazi Guilt"
+                    HPOS="577"
+                    VPOS="1000"
+                    WIDTH="674"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_821e6d75"
+                    TAGREFS="LT3626"
+                    BASELINE="844 1349 1013 1349" 
+                    HPOS="844"
+                    VPOS="1308"
+                    WIDTH="169"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="844 1349 844 1373 886 1388 888 1388 891 1388 1013 1373 1013 1349 1013 1316 844 1308 844 1349"/></Shape>
+	    <String CONTENT="No. 3"
+                    HPOS="844"
+                    VPOS="1308"
+                    WIDTH="169"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36bb88a2"
+                    TAGREFS="LT3626"
+                    BASELINE="570 1469 1277 1474" 
+                    HPOS="567"
+                    VPOS="1422"
+                    WIDTH="710"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="570 1469 567 1497 684 1518 686 1518 891 1502 989 1520 992 1520 1101 1505 1233 1518 1236 1518 1238 1518 1275 1502 1277 1474 1275 1427 570 1422 570 1469"/></Shape>
+	    <String CONTENT="Theresienstadt"
+                    HPOS="567"
+                    VPOS="1422"
+                    WIDTH="710"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68d60b41"
+                    TAGREFS="LT3626"
+                    BASELINE="873 1557 987 1551" 
+                    HPOS="868"
+                    VPOS="1510"
+                    WIDTH="119"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="873 1557 873 1588 984 1570 987 1551 982 1510 868 1510 873 1557"/></Shape>
+	    <String CONTENT="and"
+                    HPOS="868"
+                    VPOS="1510"
+                    WIDTH="119"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5d70023"
+                    TAGREFS="LT3626"
+                    BASELINE="502 1634 1350 1634" 
+                    HPOS="502"
+                    VPOS="1580"
+                    WIDTH="848"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="502 1634 502 1665 1350 1663 1350 1634 1350 1580 1238 1580 1236 1580 1233 1580 1230 1580 1205 1601 995 1601 974 1582 971 1580 969 1580 966 1580 964 1580 961 1580 951 1582 899 1598 847 1582 842 1582 839 1582 837 1582 834 1582 831 1582 798 1598 502 1588 502 1634"/></Shape>
+	    <String CONTENT="From Theresienstadt to Auschwitz"
+                    HPOS="502"
+                    VPOS="1580"
+                    WIDTH="848"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_270bd86f"
+                    TAGREFS="LT3626"
+                    BASELINE="881 1795 974 1792" 
+                    HPOS="878"
+                    VPOS="1751"
+                    WIDTH="96"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="881 1795 881 1816 974 1813 974 1792 969 1759 878 1751 881 1795"/></Shape>
+	    <String CONTENT="b y"
+                    HPOS="878"
+                    VPOS="1751"
+                    WIDTH="96"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdeb5de1"
+                    TAGREFS="LT3626"
+                    BASELINE="671 1873 1179 1878" 
+                    HPOS="668"
+                    VPOS="1834"
+                    WIDTH="511"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="671 1873 668 1899 717 1919 720 1919 723 1919 725 1919 798 1901 971 1919 974 1919 976 1919 997 1909 1008 1919 1008 1922 1010 1922 1013 1922 1015 1922 1176 1901 1179 1878 1179 1836 671 1834 671 1873"/></Shape>
+	    <String CONTENT="Max E. Mannheimer"
+                    HPOS="668"
+                    VPOS="1834"
+                    WIDTH="511"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cbc0b67"
+                    TAGREFS="LT3626"
+                    BASELINE="303 2155 1547 2160" 
+                    HPOS="300"
+                    VPOS="2114"
+                    WIDTH="1247"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="303 2155 300 2194 564 2207 567 2207 606 2199 655 2189 720 2202 759 2207 761 2209 761 2207 795 2202 868 2189 976 2204 989 2204 992 2204 995 2204 997 2204 1031 2191 1352 2191 1386 2209 1389 2209 1391 2209 1394 2212 1544 2212 1547 2160 1541 2114 303 2114 303 2155"/></Shape>
+	    <String CONTENT="This is the third of a series of personal reports"
+                    HPOS="300"
+                    VPOS="2114"
+                    WIDTH="1247"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e502364d"
+                    TAGREFS="LT3626"
+                    BASELINE="699 2220 1150 2225" 
+                    HPOS="697"
+                    VPOS="2176"
+                    WIDTH="453"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="699 2220 697 2238 738 2254 741 2254 743 2254 1148 2241 1150 2225 1148 2189 699 2176 699 2220"/></Shape>
+	    <String CONTENT="received by the"
+                    HPOS="697"
+                    VPOS="2176"
+                    WIDTH="453"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e03029d3"
+                    TAGREFS="LT3626"
+                    BASELINE="502 2300 1355 2300" 
+                    HPOS="502"
+                    VPOS="2264"
+                    WIDTH="853"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="502 2300 502 2334 1355 2329 1355 2300 1355 2266 502 2264 502 2300"/></Shape>
+	    <String CONTENT="JEWISH CENTRAL INFORMATION OFFICE"
+                    HPOS="502"
+                    VPOS="2264"
+                    WIDTH="853"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdb070a2"
+                    TAGREFS="LT3626"
+                    BASELINE="629 2386 1228 2380" 
+                    HPOS="627"
+                    VPOS="2342"
+                    WIDTH="601"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="629 2386 629 2404 922 2417 925 2417 1101 2414 1103 2414 1106 2414 1106 2412 1119 2401 1199 2414 1202 2414 1205 2414 1207 2414 1228 2399 1228 2380 1223 2349 627 2342 629 2386"/></Shape>
+	    <String CONTENT="from eye-witnesses of the persecution of"
+                    HPOS="627"
+                    VPOS="2342"
+                    WIDTH="601"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f1ea604"
+                    TAGREFS="LT3626"
+                    BASELINE="409 2445 1438 2440" 
+                    HPOS="406"
+                    VPOS="2406"
+                    WIDTH="1032"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="409 2445 409 2489 502 2479 523 2489 539 2497 541 2497 544 2497 546 2497 549 2497 562 2489 577 2479 634 2489 691 2497 694 2497 697 2497 699 2497 699 2494 707 2487 717 2479 785 2479 795 2487 800 2492 803 2492 805 2492 1000 2494 1002 2494 1005 2494 1008 2494 1008 2492 1018 2484 1026 2476 1091 2476 1122 2484 1166 2494 1168 2494 1171 2494 1173 2494 1205 2482 1220 2476 1233 2482 1264 2494 1267 2494 1269 2497 1389 2497 1389 2494 1391 2494 1438 2479 1438 2440 1430 2406 406 2406 409 2445"/></Shape>
+	    <String CONTENT="Jews under Nazi rule."
+                    HPOS="406"
+                    VPOS="2406"
+                    WIDTH="1032"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

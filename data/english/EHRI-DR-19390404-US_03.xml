@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390404-US_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2084"
+          HEIGHT="2930"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2084"
+                  HEIGHT="2930">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9d67c0ea"
+                    TAGREFS="LT3626"
+                    BASELINE="903 195 1004 195" 
+                    HPOS="903"
+                    VPOS="166"
+                    WIDTH="101"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="903 195 903 217 1004 217 1004 195 1004 166 903 166 903 195"/></Shape>
+	    <String CONTENT="-3-"
+                    HPOS="903"
+                    VPOS="166"
+                    WIDTH="101"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e14a437"
+                    TAGREFS="LT3626"
+                    BASELINE="131 354 1685 322" 
+                    HPOS="129"
+                    VPOS="290"
+                    WIDTH="1556"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="131 354 131 373 368 383 371 383 373 383 410 371 478 380 481 380 483 380 486 380 486 378 488 378 495 368 591 378 593 378 889 361 1070 368 1072 368 1074 368 1077 368 1092 356 1671 356 1673 356 1675 356 1678 356 1678 354 1680 354 1685 346 1685 322 1678 290 129 319 131 354"/></Shape>
+	    <String CONTENT="taken and by interning the leader of the organization,"
+                    HPOS="129"
+                    VPOS="290"
+                    WIDTH="1556"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38450c9e"
+                    TAGREFS="LT3626"
+                    BASELINE="134 446 1751 412" 
+                    HPOS="131"
+                    VPOS="383"
+                    WIDTH="1620"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="134 446 134 468 1749 437 1751 412 1744 383 131 415 134 446"/></Shape>
+	    <String CONTENT="the Government wishes to make it understood that it will"
+                    HPOS="131"
+                    VPOS="383"
+                    WIDTH="1620"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_943fc1e3"
+                    TAGREFS="LT3626"
+                    BASELINE="134 544 1668 507" 
+                    HPOS="131"
+                    VPOS="476"
+                    WIDTH="1537"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="134 544 134 566 1666 532 1668 507 1661 476 131 510 134 544"/></Shape>
+	    <String CONTENT="not permit the development of movements which have no"
+                    HPOS="131"
+                    VPOS="476"
+                    WIDTH="1537"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0edf726e"
+                    TAGREFS="LT3626"
+                    BASELINE="134 639 1038 615" 
+                    HPOS="131"
+                    VPOS="583"
+                    WIDTH="907"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="134 639 134 661 1035 639 1038 615 1031 583 131 605 134 639"/></Shape>
+	    <String CONTENT="reason to exist in the country."
+                    HPOS="131"
+                    VPOS="583"
+                    WIDTH="907"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69322a7f"
+                    TAGREFS="LT3626"
+                    BASELINE="962 708 1544 703" 
+                    HPOS="960"
+                    VPOS="673"
+                    WIDTH="584"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="962 708 962 732 974 742 977 742 979 742 982 742 1121 734 1211 747 1214 747 1216 747 1258 734 1302 742 1304 742 1307 742 1309 742 1309 739 1321 727 1351 742 1353 742 1355 742 1358 742 1360 742 1380 727 1504 739 1507 739 1509 739 1544 722 1544 703 1536 673 960 676 962 708"/></Shape>
+	    <String CONTENT="Respectfully yours,"
+                    HPOS="960"
+                    VPOS="673"
+                    WIDTH="584"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23660031"
+                    TAGREFS="LT3626"
+                    BASELINE="141 1103 456 1108" 
+                    HPOS="139"
+                    VPOS="1071"
+                    WIDTH="317"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="141 1103 139 1130 451 1132 456 1108 456 1076 141 1071 141 1103"/></Shape>
+	    <String CONTENT="File 840.1"
+                    HPOS="139"
+                    VPOS="1071"
+                    WIDTH="317"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2632055e"
+                    TAGREFS="LT3626"
+                    BASELINE="149 1159 315 1159" 
+                    HPOS="149"
+                    VPOS="1128"
+                    WIDTH="166"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="149 1159 149 1189 315 1186 315 1159 315 1128 149 1128 149 1159"/></Shape>
+	    <String CONTENT="RA/MM"
+                    HPOS="149"
+                    VPOS="1128"
+                    WIDTH="166"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

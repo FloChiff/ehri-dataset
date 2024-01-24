@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19400712-US_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1982"
+          HEIGHT="2997"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1982"
+                  HEIGHT="2997">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_07e689c6"
+                    TAGREFS="LT3626"
+                    BASELINE="972 104 1079 104" 
+                    HPOS="972"
+                    VPOS="74"
+                    WIDTH="107"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="972 104 972 124 1079 124 1079 104 1079 74 972 74 972 104"/></Shape>
+	    <String CONTENT="-4-"
+                    HPOS="972"
+                    VPOS="74"
+                    WIDTH="107"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc6be112"
+                    TAGREFS="LT3626"
+                    BASELINE="212 297 1702 269" 
+                    HPOS="209"
+                    VPOS="237"
+                    WIDTH="1493"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="212 297 212 322 344 334 347 334 459 319 474 332 477 332 479 332 482 332 797 312 819 312 822 312 852 324 854 324 857 324 859 324 904 309 912 309 922 309 1009 322 1012 322 1429 299 1474 299 1484 299 1562 312 1564 312 1567 312 1569 312 1584 297 1587 297 1699 297 1702 269 1694 237 209 262 212 297"/></Shape>
+	    <String CONTENT="&quot;Central Committee of the organization for the protec-"
+                    HPOS="209"
+                    VPOS="237"
+                    WIDTH="1493"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c42417b9"
+                    TAGREFS="LT3626"
+                    BASELINE="209 397 1574 364" 
+                    HPOS="207"
+                    VPOS="332"
+                    WIDTH="1367"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="209 397 209 417 719 419 722 419 724 419 727 419 747 407 1034 412 1037 412 1574 384 1574 364 1567 332 207 362 209 397"/></Shape>
+	    <String CONTENT="tion of the victims of imperialistic terrorism in"
+                    HPOS="207"
+                    VPOS="332"
+                    WIDTH="1367"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9eec4d0"
+                    TAGREFS="LT3626"
+                    BASELINE="209 479 1572 449" 
+                    HPOS="207"
+                    VPOS="419"
+                    WIDTH="1365"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="209 479 209 506 1427 492 1572 474 1572 449 1564 419 207 447 209 479"/></Shape>
+	    <String CONTENT="Rumania&quot; which describes the &quot;joy and enthusiasm&quot;"
+                    HPOS="207"
+                    VPOS="419"
+                    WIDTH="1365"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc12919c"
+                    TAGREFS="LT3626"
+                    BASELINE="204 574 1387 549" 
+                    HPOS="202"
+                    VPOS="516"
+                    WIDTH="1185"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="204 574 204 606 1387 574 1387 549 1379 516 202 539 204 574"/></Shape>
+	    <String CONTENT="reigning in Bessarabia and Bucovina today."
+                    HPOS="202"
+                    VPOS="516"
+                    WIDTH="1185"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1cab23a"
+                    TAGREFS="LT3626"
+                    BASELINE="562 699 1104 691" 
+                    HPOS="559"
+                    VPOS="661"
+                    WIDTH="545"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="562 699 562 721 1104 719 1104 691 1097 661 559 666 562 699"/></Shape>
+	    <String CONTENT="Respectfully yours,"
+                    HPOS="559"
+                    VPOS="661"
+                    WIDTH="545"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1895ddd"
+                    TAGREFS="LT3626"
+                    BASELINE="699 786 1194 779" 
+                    HPOS="697"
+                    VPOS="749"
+                    WIDTH="497"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="699 786 699 809 1192 804 1194 779 1187 749 697 754 699 786"/></Shape>
+	    <String CONTENT="For the Minister:"
+                    HPOS="697"
+                    VPOS="749"
+                    WIDTH="497"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a109c1c"
+                    TAGREFS="LT3626"
+                    BASELINE="882 1056 1464 1046" 
+                    HPOS="879"
+                    VPOS="1016"
+                    WIDTH="585"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="882 1056 882 1083 1462 1073 1464 1046 1457 1016 879 1023 882 1056"/></Shape>
+	    <String CONTENT="Frederick P. Hibbard,"
+                    HPOS="879"
+                    VPOS="1016"
+                    WIDTH="585"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f1ac52f"
+                    TAGREFS="LT3626"
+                    BASELINE="852 1103 1462 1096" 
+                    HPOS="849"
+                    VPOS="1063"
+                    WIDTH="613"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="852 1103 852 1128 1459 1123 1462 1096 1454 1063 849 1068 852 1103"/></Shape>
+	    <String CONTENT="Secretary of Legation."
+                    HPOS="849"
+                    VPOS="1063"
+                    WIDTH="613"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

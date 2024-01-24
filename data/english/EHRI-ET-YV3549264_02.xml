@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-YV3549264_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2174"
+          HEIGHT="3053"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2174"
+                  HEIGHT="3053">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b08f2588"
+                    TAGREFS="LT3626"
+                    BASELINE="567 279 2059 282" 
+                    HPOS="565"
+                    VPOS="216"
+                    WIDTH="1494"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="567 279 565 297 2054 300 2059 282 2054 228 1451 231 1331 221 1290 218 1288 218 1285 218 1277 221 1247 231 1219 221 1214 218 1211 218 1209 218 1206 218 1201 221 1176 231 1069 218 1056 218 1053 218 1030 218 799 231 567 216 567 279"/></Shape>
+	    <String CONTENT="I was living in Amsterdam when the Germans occupied Holland. My parents"
+                    HPOS="565"
+                    VPOS="216"
+                    WIDTH="1494"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d36b87bb"
+                    TAGREFS="LT3626"
+                    BASELINE="465 323 2077 323" 
+                    HPOS="465"
+                    VPOS="287"
+                    WIDTH="1612"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="465 323 465 346 2077 346 2077 323 2074 287 465 290 465 323"/></Shape>
+	    <String CONTENT="are German Jews who had settled in Holland many years before 1933. I attended"
+                    HPOS="465"
+                    VPOS="287"
+                    WIDTH="1612"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db935528"
+                    TAGREFS="LT3626"
+                    BASELINE="473 363 2054 361" 
+                    HPOS="470"
+                    VPOS="330"
+                    WIDTH="1584"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="473 363 473 396 2051 396 2054 361 2046 330 470 330 473 363"/></Shape>
+	    <String CONTENT="a Dutch school, passed the Higher School Examination, and became a senior bank"
+                    HPOS="470"
+                    VPOS="330"
+                    WIDTH="1584"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cca91f35"
+                    TAGREFS="LT3626"
+                    BASELINE="465 401 1481 412" 
+                    HPOS="463"
+                    VPOS="368"
+                    WIDTH="1018"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="465 401 463 417 526 435 529 435 532 435 712 422 715 422 717 422 786 437 789 437 1479 429 1481 412 1479 379 465 368 465 401"/></Shape>
+	    <String CONTENT="clerk later. I am 27 years of age and Stateless."
+                    HPOS="463"
+                    VPOS="368"
+                    WIDTH="1018"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2746aa26"
+                    
+                    BASELINE="566 475 2034 485" 
+                    HPOS="562"
+                    VPOS="422"
+                    WIDTH="1471"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="562 503 580 513 582 513 585 513 588 513 1028 503 1051 516 1053 516 1056 516 1058 519 1265 519 1265 516 1267 516 1270 516 1290 503 1377 519 1379 519 2031 506 2033 483 2031 447 1901 432 1899 432 1583 437 1372 442 1321 435 1277 427 1275 427 1196 432 1081 440 1071 429 1069 429 1069 427 1066 427 1064 427 931 424 929 424 870 427 631 437 567 422 565 473 562 503"/></Shape>
+	    <String CONTENT="Till May 1943 I was on the staff of the Joodsche Raad in Amsterdam as a"
+                    HPOS="562"
+                    VPOS="422"
+                    WIDTH="1471"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e206294"
+                    
+                    BASELINE="477 526 2019 529" 
+                    HPOS="473"
+                    VPOS="488"
+                    WIDTH="1545"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="476 524 473 546 2013 549 2018 526 2016 491 476 488 476 524"/></Shape>
+	    <String CONTENT="voluntary social worker. Before the occupation I had taken part in the wel-"
+                    HPOS="473"
+                    VPOS="488"
+                    WIDTH="1545"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d29db82b"
+                    TAGREFS="LT3626"
+                    BASELINE="465 564 1802 569" 
+                    HPOS="463"
+                    VPOS="531"
+                    WIDTH="1339"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="465 564 463 590 776 605 778 605 781 605 819 592 829 590 868 592 1002 605 1005 605 1008 605 1010 605 1025 592 1033 590 1107 590 1127 592 1178 605 1181 605 1183 605 1206 595 1209 592 1209 595 1221 605 1221 608 1224 608 1227 608 1229 608 1377 595 1412 592 1420 595 1448 608 1451 608 1453 608 1456 608 1481 595 1484 595 1486 595 1550 608 1552 608 1799 595 1802 569 1799 534 465 531 465 564"/></Shape>
+	    <String CONTENT="fare work of the Committee Voor Byzondere Joodsche Belangen."
+                    HPOS="463"
+                    VPOS="531"
+                    WIDTH="1339"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f23618b7"
+                    TAGREFS="LT3626"
+                    BASELINE="458 651 1960 643" 
+                    HPOS="455"
+                    VPOS="597"
+                    WIDTH="1505"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="458 651 458 684 954 692 957 692 1135 689 1137 689 1140 689 1150 679 1158 674 1219 676 1318 684 1321 684 1613 674 1700 671 1705 671 1738 684 1756 684 1756 684 1781 671 1957 669 1960 643 1955 605 1585 597 1583 597 1382 608 1303 613 1298 610 1290 602 1290 600 1288 600 1285 600 1186 600 1183 600 1181 600 1137 610 1125 613 1115 610 1064 600 1061 600 1058 600 1056 600 1056 602 1046 613 1043 615 722 615 712 615 644 602 641 602 547 615 506 602 504 602 501 602 498 602 455 613 458 651"/></Shape>
+	    <String CONTENT="From Westerbork to Theresienstadt. In May 1943 I was to be arrested and"
+                    HPOS="455"
+                    VPOS="597"
+                    WIDTH="1505"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbeef5b1"
+                    TAGREFS="LT3626"
+                    BASELINE="1224 692 1972 686" 
+                    HPOS="1221"
+                    VPOS="651"
+                    WIDTH="751"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1224 692 1224 714 1967 717 1972 686 1965 651 1221 653 1224 692"/></Shape>
+	    <String CONTENT="had to &quot;go underground&quot;. I lived in"
+                    HPOS="1221"
+                    VPOS="651"
+                    WIDTH="751"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26a8e34b"
+                    TAGREFS="LT3626"
+                    BASELINE="463 727 1990 727" 
+                    HPOS="463"
+                    VPOS="694"
+                    WIDTH="1527"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="463 727 463 747 1988 753 1990 727 1988 694 463 694 463 727"/></Shape>
+	    <String CONTENT="the Hague till December 1943, when I was caught by the Gestapo. A certain"
+                    HPOS="463"
+                    VPOS="694"
+                    WIDTH="1527"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b72bde6"
+                    TAGREFS="LT3626"
+                    BASELINE="468 768 2064 768" 
+                    HPOS="468"
+                    VPOS="732"
+                    WIDTH="1596"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="468 768 468 791 2061 798 2064 768 2061 732 468 735 468 768"/></Shape>
+	    <String CONTENT="Kaptein, an SS man in mufti and a member of the Dutch Gestapo, at &quot;Windekind&quot;,"
+                    HPOS="468"
+                    VPOS="732"
+                    WIDTH="1596"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d29b5c02"
+                    TAGREFS="LT3626"
+                    BASELINE="465 809 1952 809" 
+                    HPOS="465"
+                    VPOS="773"
+                    WIDTH="1487"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="465 809 465 829 1949 831 1952 809 1952 775 465 773 465 809"/></Shape>
+	    <String CONTENT="Hague, questioned me for three hours, beat and ill-treated me so severely"
+                    HPOS="465"
+                    VPOS="773"
+                    WIDTH="1487"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7d0b289"
+                    TAGREFS="LT3626"
+                    BASELINE="465 849 1970 849" 
+                    HPOS="465"
+                    VPOS="814"
+                    WIDTH="1505"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="465 849 465 872 1970 872 1970 849 1970 819 465 814 465 849"/></Shape>
+	    <String CONTENT="that when transported to the Dutch camp of Westerbork I had to be taken to"
+                    HPOS="465"
+                    VPOS="814"
+                    WIDTH="1505"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a66de99e"
+                    TAGREFS="LT3626"
+                    BASELINE="463 890 1952 890" 
+                    HPOS="463"
+                    VPOS="857"
+                    WIDTH="1489"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="463 890 463 908 1949 910 1952 890 1949 857 463 857 463 890"/></Shape>
+	    <String CONTENT="the camp hospital. For seven weeks I was treated there for muscular in-"
+                    HPOS="463"
+                    VPOS="857"
+                    WIDTH="1489"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7c61d45"
+                    TAGREFS="LT3626"
+                    BASELINE="465 931 1975 931" 
+                    HPOS="465"
+                    VPOS="900"
+                    WIDTH="1510"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="465 931 465 951 1972 954 1975 931 1975 900 465 900 465 931"/></Shape>
+	    <String CONTENT="flammation, a consequence of the ill-treatment. Conditions in Westerbork"
+                    HPOS="465"
+                    VPOS="900"
+                    WIDTH="1510"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e066910"
+                    TAGREFS="LT3626"
+                    BASELINE="463 974 1962 969" 
+                    HPOS="460"
+                    VPOS="938"
+                    WIDTH="1502"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="463 974 463 992 1957 997 1962 969 1955 938 460 941 463 974"/></Shape>
+	    <String CONTENT="were known to me because I had often been sent there by the Joodsche Raad."
+                    HPOS="460"
+                    VPOS="938"
+                    WIDTH="1502"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6748006"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1015 2051 1007" 
+                    HPOS="463"
+                    VPOS="979"
+                    WIDTH="1588"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="465 1015 465 1035 2046 1038 2051 1007 2044 979 463 984 465 1015"/></Shape>
+	    <String CONTENT="I had seen many trains loaded with deportees, dispatched for the East. People"
+                    HPOS="463"
+                    VPOS="979"
+                    WIDTH="1588"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5caab3a9"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1053 1990 1053" 
+                    HPOS="465"
+                    VPOS="1022"
+                    WIDTH="1525"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="465 1053 465 1073 1990 1073 1990 1053 1990 1022 465 1022 465 1053"/></Shape>
+	    <String CONTENT="generally left Westerbork calmly, sometimes even singing, because they were"
+                    HPOS="465"
+                    VPOS="1022"
+                    WIDTH="1525"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_086770b8"
+                    TAGREFS="LT3626"
+                    BASELINE="463 1093 2049 1086" 
+                    HPOS="460"
+                    VPOS="1050"
+                    WIDTH="1589"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1988 1055 1962 1055 1937 1055 1911 1055 1886 1055 1860 1055 1835 1055 1809 1055 1784 1055 1759 1055 1733 1055 1708 1055 1682 1055 1657 1055 1631 1055 1606 1055 1580 1055 1555 1055 1529 1055 1512 1055 460 1063 463 1093 463 1114 2049 1109 2049 1086 2041 1050 1990 1050 1988 1055"/></Shape>
+	    <String CONTENT="hoping to reach the place of their final settlement. Many preferred certainty"
+                    HPOS="460"
+                    VPOS="1050"
+                    WIDTH="1589"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6582124a"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1134 2041 1134" 
+                    HPOS="465"
+                    VPOS="1099"
+                    WIDTH="1576"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="465 1134 465 1155 2039 1162 2041 1134 2041 1104 465 1099 465 1134"/></Shape>
+	    <String CONTENT="about their future destination, which they hoped to find in the eastern camps,"
+                    HPOS="465"
+                    VPOS="1099"
+                    WIDTH="1576"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_245f8198"
+                    TAGREFS="LT3626"
+                    BASELINE="467 1174 1860 1172" 
+                    HPOS="463"
+                    VPOS="1142"
+                    WIDTH="1395"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="465 1172 465 1198 1853 1208 1858 1170 1853 1142 463 1142 465 1172"/></Shape>
+	    <String CONTENT="to the constant strain of suspense which hang over them in Westerbork."
+                    HPOS="463"
+                    VPOS="1142"
+                    WIDTH="1395"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd8d5caa"
+                    TAGREFS="LT3626"
+                    BASELINE="560 1254 1952 1246" 
+                    HPOS="557"
+                    VPOS="1211"
+                    WIDTH="1395"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="560 1254 560 1282 1949 1274 1952 1246 1947 1213 557 1211 560 1254"/></Shape>
+	    <String CONTENT="Neither myself nor the 1800 people who were detailed for transfer to"
+                    HPOS="557"
+                    VPOS="1211"
+                    WIDTH="1395"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae8f3dcc"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1289 2043 1289" 
+                    HPOS="463"
+                    VPOS="1254"
+                    WIDTH="1578"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="463 1287 463 1320 2039 1315 2041 1287 2039 1254 463 1254 463 1287"/></Shape>
+	    <String CONTENT="Theresienstadt on the 25th Feb. 1944 were frightened when we heard about the"
+                    HPOS="463"
+                    VPOS="1254"
+                    WIDTH="1578"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a8edf53"
+                    TAGREFS="LT3626"
+                    BASELINE="468 1335 1975 1338" 
+                    HPOS="463"
+                    VPOS="1300"
+                    WIDTH="1509"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="465 1333 463 1350 1967 1363 1972 1335 1970 1302 465 1300 465 1333"/></Shape>
+	    <String CONTENT="deportation order. The name Theresienstadt, the model camp of the Nazis,"
+                    HPOS="463"
+                    VPOS="1300"
+                    WIDTH="1509"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a5581b8"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1376 1967 1376" 
+                    HPOS="465"
+                    VPOS="1345"
+                    WIDTH="1502"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="465 1376 465 1404 1967 1396 1967 1376 1967 1345 465 1345 465 1376"/></Shape>
+	    <String CONTENT="did not imply horror. It was considered a special favour to be permitted"
+                    HPOS="465"
+                    VPOS="1345"
+                    WIDTH="1502"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80ff0dd7"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1419 1970 1414" 
+                    HPOS="463"
+                    VPOS="1384"
+                    WIDTH="1507"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="465 1419 465 1439 1965 1442 1970 1414 1962 1384 463 1386 465 1419"/></Shape>
+	    <String CONTENT="to live in Theresienstadt. Ex-Servicemen of the first World War, with the"
+                    HPOS="463"
+                    VPOS="1384"
+                    WIDTH="1507"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec847b1c"
+                    TAGREFS="LT3626"
+                    BASELINE="468 1460 1934 1457" 
+                    HPOS="465"
+                    VPOS="1422"
+                    WIDTH="1469"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="468 1460 468 1478 1932 1475 1934 1457 1927 1422 465 1424 468 1460"/></Shape>
+	    <String CONTENT="Iron Cross, First Class, or the badge for wounded, descendants of mixed"
+                    HPOS="465"
+                    VPOS="1422"
+                    WIDTH="1469"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb03c9e6"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1501 1993 1501" 
+                    HPOS="465"
+                    VPOS="1462"
+                    WIDTH="1528"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="465 1501 465 1518 1990 1521 1993 1501 1990 1462 465 1465 465 1501"/></Shape>
+	    <String CONTENT="marriages, but of Jewish religion, baptised Jews, those whose names were on"
+                    HPOS="465"
+                    VPOS="1462"
+                    WIDTH="1528"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_648f6cdb"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1539 2011 1539" 
+                    HPOS="465"
+                    VPOS="1503"
+                    WIDTH="1546"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="465 1539 465 1557 2008 1564 2011 1539 2008 1503 465 1506 465 1539"/></Shape>
+	    <String CONTENT="the so-called &quot;Barneveld List&quot; – some hundred Dutch Jews sho had rendered"
+                    HPOS="465"
+                    VPOS="1503"
+                    WIDTH="1546"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_945db8d3"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1582 1988 1577" 
+                    HPOS="463"
+                    VPOS="1546"
+                    WIDTH="1525"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="465 1582 465 1605 1985 1597 1988 1577 1980 1546 463 1549 465 1582"/></Shape>
+	    <String CONTENT="special service to Holland – people who had made some outstanding contribu-"
+                    HPOS="463"
+                    VPOS="1546"
+                    WIDTH="1525"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59290060"
+                    TAGREFS="LT3626"
+                    BASELINE="473 1620 2067 1615" 
+                    HPOS="470"
+                    VPOS="1579"
+                    WIDTH="1597"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="473 1620 473 1643 2064 1638 2067 1615 2059 1579 470 1587 473 1620"/></Shape>
+	    <String CONTENT="tion to German life, and some persons whom the Nazi authorities or the Command-"
+                    HPOS="470"
+                    VPOS="1579"
+                    WIDTH="1597"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2cf9cce"
+                    TAGREFS="LT3626"
+                    BASELINE="468 1658 2067 1656" 
+                    HPOS="465"
+                    VPOS="1623"
+                    WIDTH="1602"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="468 1658 468 1679 2064 1686 2067 1656 2059 1623 465 1623 468 1658"/></Shape>
+	    <String CONTENT="ant in Westerbork selected, - these were the favoured classes who were allowed"
+                    HPOS="465"
+                    VPOS="1623"
+                    WIDTH="1602"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fd10a22"
+                    TAGREFS="LT3626"
+                    BASELINE="460 1696 962 1702" 
+                    HPOS="458"
+                    VPOS="1658"
+                    WIDTH="504"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="460 1696 458 1717 511 1732 514 1732 516 1732 628 1724 672 1722 957 1735 962 1702 959 1668 460 1658 460 1696"/></Shape>
+	    <String CONTENT="to go to Theresienstadt."
+                    HPOS="458"
+                    VPOS="1658"
+                    WIDTH="504"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6e217b9"
+                    TAGREFS="LT3626"
+                    BASELINE="552 1778 2056 1773" 
+                    HPOS="549"
+                    VPOS="1732"
+                    WIDTH="1507"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="552 1778 552 1798 2056 1793 2056 1773 2051 1732 577 1732 575 1732 572 1732 549 1742 552 1778"/></Shape>
+	    <String CONTENT="We 1800, among us babies and old people, were loaded into ordinary trains"
+                    HPOS="549"
+                    VPOS="1732"
+                    WIDTH="1507"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caa78752"
+                    TAGREFS="LT3626"
+                    BASELINE="460 1821 1990 1816" 
+                    HPOS="458"
+                    VPOS="1786"
+                    WIDTH="1532"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="460 1821 460 1839 1988 1836 1990 1816 1985 1786 458 1786 460 1821"/></Shape>
+	    <String CONTENT="not into goods trains. We took this as a good sign, that the place of our"
+                    HPOS="458"
+                    VPOS="1786"
+                    WIDTH="1532"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25133a23"
+                    TAGREFS="LT3626"
+                    BASELINE="463 1859 2008 1859" 
+                    HPOS="463"
+                    VPOS="1821"
+                    WIDTH="1545"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="463 1859 463 1880 2008 1880 2008 1859 2005 1821 463 1821 463 1859"/></Shape>
+	    <String CONTENT="destination was really Theresienstadt and not one of the ominous camps. We"
+                    HPOS="463"
+                    VPOS="1821"
+                    WIDTH="1545"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e0e55d7"
+                    TAGREFS="LT3626"
+                    BASELINE="460 1900 2005 1900" 
+                    HPOS="460"
+                    VPOS="1864"
+                    WIDTH="1545"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="460 1900 460 1920 2003 1923 2005 1900 2003 1864 460 1867 460 1900"/></Shape>
+	    <String CONTENT="were allowed to take our luggage with us, and received jam, margarine and one"
+                    HPOS="460"
+                    VPOS="1864"
+                    WIDTH="1545"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_379ceae5"
+                    TAGREFS="LT3626"
+                    BASELINE="460 1941 1975 1938" 
+                    HPOS="458"
+                    VPOS="1905"
+                    WIDTH="1517"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="460 1941 460 1959 1972 1956 1975 1938 1967 1905 458 1908 460 1941"/></Shape>
+	    <String CONTENT="loaf of bread for three persons. The compartments were locked. Members"
+                    HPOS="458"
+                    VPOS="1905"
+                    WIDTH="1517"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cd78402"
+                    TAGREFS="LT3626"
+                    BASELINE="465 1981 2000 1976" 
+                    HPOS="463"
+                    VPOS="1941"
+                    WIDTH="1537"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="465 1981 465 1999 1998 2002 2000 1976 1993 1941 463 1948 465 1981"/></Shape>
+	    <String CONTENT="of the German Security Police (Gruene Polizei) accompanied the train which,"
+                    HPOS="463"
+                    VPOS="1941"
+                    WIDTH="1537"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61310f47"
+                    TAGREFS="LT3626"
+                    BASELINE="463 2022 2023 2020" 
+                    HPOS="458"
+                    VPOS="1981"
+                    WIDTH="1563"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="460 2020 460 2042 2018 2042 2021 2017 2013 1981 458 1981 460 2020"/></Shape>
+	    <String CONTENT="after a journey of three days and two nights, arrived in Theresienstadt. We"
+                    HPOS="458"
+                    VPOS="1981"
+                    WIDTH="1563"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_030ad1ca"
+                    TAGREFS="LT3626"
+                    BASELINE="460 2063 1988 2058" 
+                    HPOS="458"
+                    VPOS="2025"
+                    WIDTH="1530"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="460 2063 460 2083 1985 2083 1988 2058 1980 2025 458 2030 460 2063"/></Shape>
+	    <String CONTENT="were received by SS officers and Czech police – we did not see any SS pri-"
+                    HPOS="458"
+                    VPOS="2025"
+                    WIDTH="1530"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b29b7d0"
+                    TAGREFS="LT3626"
+                    BASELINE="465 2101 1990 2101" 
+                    HPOS="465"
+                    VPOS="2065"
+                    WIDTH="1525"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="465 2101 465 2121 1990 2121 1990 2101 1988 2065 465 2068 465 2101"/></Shape>
+	    <String CONTENT="vates – and taken to barracks where we had to register. The officials who"
+                    HPOS="465"
+                    VPOS="2065"
+                    WIDTH="1525"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e56c35c"
+                    TAGREFS="LT3626"
+                    BASELINE="463 2144 1944 2139" 
+                    HPOS="460"
+                    VPOS="2109"
+                    WIDTH="1484"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="463 2144 463 2162 1942 2159 1944 2139 1937 2109 460 2109 463 2144"/></Shape>
+	    <String CONTENT="took down our particulars were members of the Jewish Self-Administration."
+                    HPOS="460"
+                    VPOS="2109"
+                    WIDTH="1484"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85576357"
+                    TAGREFS="LT3626"
+                    BASELINE="463 2182 1990 2175" 
+                    HPOS="460"
+                    VPOS="2142"
+                    WIDTH="1530"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="463 2182 463 2203 1985 2205 1990 2175 1983 2142 460 2144 463 2182"/></Shape>
+	    <String CONTENT="Doctors belonging to the same body vaccinated us. We were searched by the"
+                    HPOS="460"
+                    VPOS="2142"
+                    WIDTH="1530"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26c23d3a"
+                    TAGREFS="LT3626"
+                    BASELINE="463 2223 1970 2223" 
+                    HPOS="463"
+                    VPOS="2190"
+                    WIDTH="1507"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="463 2223 463 2246 1970 2246 1970 2223 1970 2193 463 2190 463 2223"/></Shape>
+	    <String CONTENT="police, our luggage was examined, whereupon the SS officers and the police"
+                    HPOS="463"
+                    VPOS="2190"
+                    WIDTH="1507"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32d94759"
+                    TAGREFS="LT3626"
+                    BASELINE="465 2264 1972 2261" 
+                    HPOS="463"
+                    VPOS="2228"
+                    WIDTH="1509"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="465 2264 465 2279 1967 2284 1972 2261 1967 2231 463 2228 465 2264"/></Shape>
+	    <String CONTENT="disappeared. We were left to ourselves, Jews amongst Jews, herded into a"
+                    HPOS="463"
+                    VPOS="2228"
+                    WIDTH="1509"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19b83d41"
+                    TAGREFS="LT3626"
+                    BASELINE="465 2302 1970 2302" 
+                    HPOS="465"
+                    VPOS="2271"
+                    WIDTH="1505"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="465 2302 465 2325 1967 2335 1970 2302 1970 2271 465 2271 465 2302"/></Shape>
+	    <String CONTENT="Ghetto of which we had only known from history books, as an institution of"
+                    HPOS="465"
+                    VPOS="2271"
+                    WIDTH="1505"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_247c4397"
+                    TAGREFS="LT3626"
+                    BASELINE="460 2345 743 2345" 
+                    HPOS="460"
+                    VPOS="2310"
+                    WIDTH="283"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="460 2345 460 2366 560 2383 562 2383 610 2376 666 2368 740 2383 743 2345 743 2312 460 2310 460 2345"/></Shape>
+	    <String CONTENT="bygone times."
+                    HPOS="460"
+                    VPOS="2310"
+                    WIDTH="283"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbc9b252"
+                    TAGREFS="LT3626"
+                    BASELINE="455 2422 1998 2422" 
+                    HPOS="455"
+                    VPOS="2381"
+                    WIDTH="1543"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="455 2422 455 2457 677 2460 679 2460 682 2460 684 2460 684 2457 700 2444 1995 2455 1998 2422 1995 2381 455 2386 455 2422"/></Shape>
+	    <String CONTENT="The Ghetto Theresienstadt (Terezin) is an old fortress town lying on both"
+                    HPOS="455"
+                    VPOS="2381"
+                    WIDTH="1543"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88e7d8bb"
+                    TAGREFS="LT3626"
+                    BASELINE="737 2465 1970 2465" 
+                    HPOS="735"
+                    VPOS="2427"
+                    WIDTH="1232"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="735 2462 735 2490 1967 2485 1967 2462 1967 2432 735 2427 735 2462"/></Shape>
+	    <String CONTENT="sides of the River Eger, 61 kms. from Prague, at the frontier"
+                    HPOS="735"
+                    VPOS="2427"
+                    WIDTH="1232"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13f1b662"
+                    TAGREFS="LT3626"
+                    BASELINE="463 2506 2011 2500" 
+                    HPOS="460"
+                    VPOS="2472"
+                    WIDTH="1551"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="463 2506 463 2526 2008 2526 2011 2500 2005 2472 460 2472 463 2506"/></Shape>
+	    <String CONTENT="of the former Protectorate and the Sudetenland. It had about 7,000 inhabi-"
+                    HPOS="460"
+                    VPOS="2472"
+                    WIDTH="1551"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91502d7f"
+                    TAGREFS="LT3626"
+                    BASELINE="465 2546 1949 2546" 
+                    HPOS="465"
+                    VPOS="2511"
+                    WIDTH="1484"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="465 2546 465 2572 1949 2567 1949 2546 1949 2516 465 2511 465 2546"/></Shape>
+	    <String CONTENT="tants mostly Czechs, when it was established as a ghetto for the complete"
+                    HPOS="465"
+                    VPOS="2511"
+                    WIDTH="1484"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d67e710"
+                    TAGREFS="LT3626"
+                    BASELINE="465 2587 2046 2579" 
+                    HPOS="463"
+                    VPOS="2551"
+                    WIDTH="1583"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="465 2587 465 2617 562 2615 570 2620 588 2635 590 2635 593 2635 595 2638 990 2638 990 2635 1107 2633 1109 2633 1112 2633 1112 2630 1122 2623 1132 2612 1153 2623 1168 2630 1171 2630 1173 2630 1176 2630 1196 2623 1232 2612 1901 2623 1904 2623 1906 2623 1942 2610 2044 2628 2046 2579 2039 2551 463 2554 465 2587"/></Shape>
+	    <String CONTENT="isolation, first of the Czech Jews, and later for other European Jews as well."
+                    HPOS="463"
+                    VPOS="2551"
+                    WIDTH="1583"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

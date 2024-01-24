@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-ZIH3010106_06.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9604" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3614" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1302"
+          HEIGHT="1678"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1302"
+                  HEIGHT="1678">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_37efbba8"
+                    TAGREFS="LT3614"
+                    BASELINE="620 95 739 95" 
+                    HPOS="620"
+                    VPOS="64"
+                    WIDTH="119"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="620 95 620 107 739 107 739 95 737 64 697 74 620 69 620 95"/></Shape>
+	    <String CONTENT="- 6 -"
+                    HPOS="620"
+                    VPOS="64"
+                    WIDTH="119"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64e896ec"
+                    TAGREFS="LT3614"
+                    BASELINE="229 206 1212 187" 
+                    HPOS="227"
+                    VPOS="153"
+                    WIDTH="985"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="229 206 229 220 569 219 630 211 650 209 664 211 717 216 718 216 787 208 798 206 805 206 858 213 860 213 861 213 885 205 886 205 893 205 1012 208 1013 208 1071 201 1124 208 1125 208 1127 208 1128 208 1142 199 1192 206 1194 206 1195 206 1212 197 1212 187 1206 156 1191 162 1169 158 1149 153 1148 153 1146 153 1145 153 1139 158 1134 162 1111 159 1085 155 1083 155 1082 155 1072 160 1057 167 981 162 966 162 964 162 963 162 962 162 962 163 953 169 927 163 900 159 899 159 897 159 878 165 855 173 832 173 825 166 818 160 816 160 815 160 813 160 757 169 716 174 667 171 578 165 577 165 490 176 467 180 227 183 229 206"/></Shape>
+	    <String CONTENT="wydostałem się w lasy i po dwutygodniowej tułaczce dostałem się"
+                    HPOS="227"
+                    VPOS="153"
+                    WIDTH="985"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59432f60"
+                    TAGREFS="LT3614"
+                    BASELINE="227 254 1253 234" 
+                    HPOS="226"
+                    VPOS="212"
+                    WIDTH="1027"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="227 254 227 267 372 274 373 274 408 267 516 271 517 271 518 271 541 262 542 262 544 262 591 269 592 269 658 260 665 260 668 260 688 267 689 267 690 267 728 260 730 260 806 265 808 265 809 265 830 257 833 257 836 257 862 264 864 264 865 264 867 264 881 257 888 257 1015 261 1016 261 1018 261 1041 254 1048 251 1251 250 1253 234 1250 212 981 212 980 212 978 212 969 215 953 220 916 216 893 213 892 213 862 216 806 223 759 218 738 216 737 216 716 219 661 226 597 220 591 220 590 220 588 220 587 220 578 227 539 220 531 220 530 220 528 220 527 220 527 222 514 229 437 223 436 223 296 233 226 226 227 254"/></Shape>
+	    <String CONTENT="do mojej rodziny, gdzie się ukrywałem. Przez cały ten czas przeby-"
+                    HPOS="226"
+                    VPOS="212"
+                    WIDTH="1027"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_122d6e7f"
+                    TAGREFS="LT3614"
+                    BASELINE="230 307 1243 285" 
+                    HPOS="229"
+                    VPOS="262"
+                    WIDTH="1014"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="230 307 230 320 290 327 292 327 348 318 358 317 366 317 418 324 419 324 420 324 422 324 433 316 436 316 447 316 525 321 527 321 643 311 672 310 683 311 727 317 728 317 730 317 757 310 763 309 767 310 797 316 798 316 799 316 822 309 825 307 827 309 841 314 843 314 844 314 846 314 847 314 854 307 855 307 861 307 917 313 918 313 978 304 997 303 1009 304 1051 310 1053 310 1243 299 1243 285 1240 264 931 262 930 262 868 271 858 272 851 272 799 265 798 265 797 265 778 274 777 274 771 274 725 268 724 268 690 275 675 268 674 268 672 268 671 268 655 276 654 276 644 276 563 271 562 271 560 271 559 271 549 278 518 272 517 272 388 282 380 282 366 275 365 275 363 275 362 275 360 275 352 283 351 283 345 283 302 278 300 278 299 278 297 278 289 285 288 286 229 286 230 307"/></Shape>
+	    <String CONTENT="wałem w Opatowskim i Kieleckim do czasu oswobodzenia tych terenów"
+                    HPOS="229"
+                    VPOS="262"
+                    WIDTH="1014"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b38cb74"
+                    TAGREFS="LT3614"
+                    BASELINE="230 356 1223 335" 
+                    HPOS="229"
+                    VPOS="310"
+                    WIDTH="994"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="230 356 230 380 297 370 346 377 348 377 349 377 351 377 362 370 454 374 455 374 496 366 556 373 559 373 560 373 627 371 629 371 630 371 640 363 689 370 692 370 693 370 697 370 760 360 819 367 825 367 826 367 827 367 829 367 851 359 871 366 872 366 874 366 882 366 1026 355 1222 357 1223 335 1219 310 295 335 293 335 267 330 265 330 229 336 230 356"/></Shape>
+	    <String CONTENT="przez Armię Czerwoną. 21-go stycznia 1945 r. przybyłem na Pragę,"
+                    HPOS="229"
+                    VPOS="310"
+                    WIDTH="994"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d27b200"
+                    TAGREFS="LT3614"
+                    BASELINE="232 406 1190 387" 
+                    HPOS="230"
+                    VPOS="359"
+                    WIDTH="960"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="232 406 232 425 1188 402 1190 387 1187 367 1120 359 1118 359 1047 369 1044 369 1041 369 995 362 994 362 992 362 977 370 976 370 956 363 955 363 953 363 917 371 911 371 904 371 847 364 846 364 844 364 843 364 834 373 833 373 816 373 710 367 709 367 619 376 599 377 594 376 574 370 573 370 571 370 570 370 549 377 542 380 230 381 232 406"/></Shape>
+	    <String CONTENT="gdzie mieszkam obecnie. Wszystkie te fakty, które opisałem są"
+                    HPOS="230"
+                    VPOS="359"
+                    WIDTH="960"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80a2a735"
+                    TAGREFS="LT3614"
+                    BASELINE="233 457 984 439" 
+                    HPOS="232"
+                    VPOS="412"
+                    WIDTH="752"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="233 457 233 475 360 469 369 474 377 478 378 478 380 478 381 478 383 478 388 474 395 468 474 467 497 471 511 474 513 474 514 474 516 474 516 472 518 471 524 464 606 464 699 468 742 469 744 469 745 469 746 469 749 467 759 460 794 467 806 468 808 468 826 465 885 457 902 464 903 465 904 465 906 465 984 462 984 439 980 412 917 420 833 416 815 416 813 416 812 416 811 416 811 418 809 418 804 423 734 420 699 419 697 419 696 419 689 422 679 426 672 422 665 419 664 419 662 419 632 423 608 427 597 425 580 420 578 420 577 420 576 420 574 420 567 426 564 429 555 426 535 422 534 422 532 422 489 429 476 430 467 430 422 425 420 425 349 434 341 434 335 434 293 427 292 427 232 437 233 457"/></Shape>
+	    <String CONTENT="zgodne z prawdą. Przed podpisaniem przeczytałem."
+                    HPOS="232"
+                    VPOS="412"
+                    WIDTH="752"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_784fdbf8"
+                    TAGREFS="LT3614"
+                    BASELINE="233 504 606 497" 
+                    HPOS="232"
+                    VPOS="472"
+                    WIDTH="374"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="233 504 233 532 289 525 330 529 346 531 348 531 349 531 351 531 353 528 362 522 399 527 448 531 450 531 451 531 483 522 489 521 503 521 567 524 569 524 606 515 606 497 602 472 232 479 233 504"/></Shape>
+	    <String CONTENT="Warszawa, d.n. 9. 3.45 r. c"
+                    HPOS="232"
+                    VPOS="472"
+                    WIDTH="374"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df487f23"
+                    TAGREFS="LT3614"
+                    BASELINE="803 540 1128 536" 
+                    HPOS="801"
+                    VPOS="506"
+                    WIDTH="326"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="802 539 802 564 836 559 844 563 855 571 857 571 858 571 860 571 983 570 984 570 1023 557 1029 555 1127 553 1127 535 1125 513 1113 506 1111 506 1110 506 923 515 857 508 855 508 854 508 853 508 841 518 801 518 802 539"/></Shape>
+	    <String CONTENT="/-/ Leon Perelsztejn"
+                    HPOS="801"
+                    VPOS="506"
+                    WIDTH="326"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_094c8590"
+                    TAGREFS="LT3614"
+                    BASELINE="402 599 854 591" 
+                    HPOS="401"
+                    VPOS="562"
+                    WIDTH="453"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="402 625 478 616 538 616 549 622 556 625 558 625 559 625 560 625 570 620 580 616 639 618 757 622 759 622 760 622 781 612 787 611 853 611 854 591 850 573 737 573 734 573 706 562 704 562 703 562 702 562 678 573 674 574 671 573 650 563 648 563 647 563 609 564 608 564 606 564 606 566 598 573 597 574 594 573 587 567 585 567 584 567 583 567 581 567 580 567 573 573 569 577 528 577 523 573 516 567 516 566 514 566 513 566 488 566 486 566 485 566 483 566 483 567 476 573 471 578 453 573 434 569 433 569 432 569 401 573 402 599"/></Shape>
+	    <String CONTENT="Protokółował Mgr. B. Swiderski"
+                    HPOS="401"
+                    VPOS="562"
+                    WIDTH="453"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

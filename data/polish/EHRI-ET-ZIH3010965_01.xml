@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-ZIH3010965_01.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9604" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3614" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1286"
+          HEIGHT="1776"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1286"
+                  HEIGHT="1776">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bf641f93"
+                    TAGREFS="LT3614"
+                    BASELINE="487 75 936 81" 
+                    HPOS="485"
+                    VPOS="44"
+                    WIDTH="451"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="487 75 485 88 557 99 558 99 560 99 577 93 580 91 585 93 604 102 605 102 607 102 643 94 648 94 668 96 742 103 743 103 745 103 757 99 770 94 933 105 936 81 933 48 912 56 805 48 768 47 767 47 749 48 714 54 697 50 685 45 684 45 683 45 632 50 610 51 607 50 598 44 597 44 595 44 594 44 487 50 487 75"/></Shape>
+	    <String CONTENT="Oboz PARSSNITZ /Sudety/"
+                    HPOS="485"
+                    VPOS="44"
+                    WIDTH="451"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43991c56"
+                    TAGREFS="LT3614"
+                    BASELINE="115 143 1232 164" 
+                    HPOS="114"
+                    VPOS="116"
+                    WIDTH="1118"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="115 143 114 159 1229 182 1232 164 1232 139 914 125 912 125 651 127 613 127 611 127 595 119 594 119 592 119 533 125 522 125 509 124 435 116 434 116 115 116 115 143"/></Shape>
+	    <String CONTENT="Stern Estera, ur. 27. 11. 1927 w Sosnowcu, rodzice: Aron i Majtla"
+                    HPOS="114"
+                    VPOS="116"
+                    WIDTH="1118"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82e4973b"
+                    TAGREFS="LT3614"
+                    BASELINE="117 168 715 177" 
+                    HPOS="115"
+                    VPOS="149"
+                    WIDTH="600"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="117 168 115 182 712 196 715 177 714 158 117 149 117 168"/></Shape>
+	    <String CONTENT="z d. Skóra, przed wojną uczennica."
+                    HPOS="115"
+                    VPOS="149"
+                    WIDTH="600"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_847fc26d"
+                    TAGREFS="LT3614"
+                    BASELINE="244 245 1134 260" 
+                    HPOS="242"
+                    VPOS="219"
+                    WIDTH="892"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="244 245 242 256 262 264 263 264 265 264 325 259 328 259 1131 278 1134 260 1134 235 244 219 244 245"/></Shape>
+	    <String CONTENT="Do obozu zostałam wzięta w lutym 1943 r. z getta"
+                    HPOS="242"
+                    VPOS="219"
+                    WIDTH="892"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2e2303d"
+                    TAGREFS="LT3614"
+                    BASELINE="170 269 1225 288" 
+                    HPOS="168"
+                    VPOS="247"
+                    WIDTH="1057"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1047 259 992 264 170 247 170 269 168 285 1222 303 1225 288 1222 261 1066 266 1059 260 1047 259"/></Shape>
+	    <String CONTENT="sosnowieckiego na Środuli. 33 dziewczęta, w której liczbie"
+                    HPOS="168"
+                    VPOS="247"
+                    WIDTH="1057"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c9efbdc"
+                    TAGREFS="LT3614"
+                    BASELINE="172 293 1275 315" 
+                    HPOS="170"
+                    VPOS="273"
+                    WIDTH="1104"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="171 291 170 309 1271 333 1274 313 1274 290 171 273 171 291"/></Shape>
+	    <String CONTENT="I ja się znalazłam, odstawiono do obozu w Parschnitz /Sudety/"
+                    HPOS="170"
+                    VPOS="273"
+                    WIDTH="1104"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b951ba0f"
+                    TAGREFS="LT3614"
+                    BASELINE="173 321 1205 338" 
+                    HPOS="171"
+                    VPOS="296"
+                    WIDTH="1034"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1195 315 1180 315 1174 313 1124 313 1121 313 1106 313 1091 313 1083 312 1044 312 1032 312 1017 312 1003 312 992 310 965 310 958 310 943 310 928 310 914 310 900 309 885 309 884 309 869 309 854 309 840 309 825 309 810 307 807 307 795 307 780 307 765 307 751 307 736 307 721 306 706 306 691 306 677 306 662 306 647 306 632 304 617 304 602 304 588 304 573 304 558 304 543 303 528 303 514 303 499 303 484 303 469 301 454 301 440 301 425 301 410 301 395 301 380 300 365 300 351 300 336 300 321 300 306 300 291 298 277 298 262 298 247 298 232 298 217 298 216 296 173 296 173 321 171 330 1203 353 1205 338 1204 315 1195 315"/></Shape>
+	    <String CONTENT="Kiedyśmy przybyły, zobozowano nas w starej, nieużytecznej"
+                    HPOS="171"
+                    VPOS="296"
+                    WIDTH="1034"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1ddc36b"
+                    TAGREFS="LT3614"
+                    BASELINE="168 343 1182 361" 
+                    HPOS="167"
+                    VPOS="318"
+                    WIDTH="1015"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="865 334 863 333 801 333 791 333 776 333 767 331 737 331 731 331 717 331 702 331 690 330 675 330 672 330 657 330 643 330 628 330 613 330 598 328 583 328 568 328 554 328 539 328 524 328 509 327 494 327 480 327 465 327 450 327 435 327 420 325 405 325 391 325 376 325 361 325 346 325 331 324 317 324 302 324 287 324 272 324 257 322 242 322 228 322 213 322 198 322 183 322 182 318 168 318 168 343 167 353 197 362 198 362 200 362 231 356 1179 375 1182 361 1182 341 865 334 865 334"/></Shape>
+	    <String CONTENT="fabryce przędzalniczej. Mieszkało tam już 250 dziewcząt."
+                    HPOS="167"
+                    VPOS="318"
+                    WIDTH="1015"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff8369e0"
+                    TAGREFS="LT3614"
+                    BASELINE="171 368 1162 383" 
+                    HPOS="168"
+                    VPOS="344"
+                    WIDTH="993"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="170 367 168 378 299 387 300 387 339 383 349 381 352 383 367 390 368 390 370 390 509 386 565 384 573 387 589 393 591 393 592 393 640 389 665 386 678 389 697 395 699 395 700 395 737 390 761 387 767 390 774 396 776 396 777 396 1158 398 1161 381 1160 364 170 344 170 367"/></Shape>
+	    <String CONTENT="W budynku znajdowały się 3 hale zamienione na 3 sale"
+                    HPOS="168"
+                    VPOS="344"
+                    WIDTH="993"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b790059"
+                    TAGREFS="LT3614"
+                    BASELINE="167 393 1208 411" 
+                    HPOS="165"
+                    VPOS="368"
+                    WIDTH="1043"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="360 372 358 371 296 371 285 371 271 371 262 370 231 370 226 370 211 370 197 370 182 370 180 368 167 368 167 393 165 409 1205 421 1208 411 1208 392 361 372 360 372"/></Shape>
+	    <String CONTENT="mieszkalne. Zaopatrzone były w drewniane, piętrowe łóżka,"
+                    HPOS="165"
+                    VPOS="368"
+                    WIDTH="1043"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4392869"
+                    TAGREFS="LT3614"
+                    BASELINE="170 421 482 421 1240 438" 
+                    HPOS="168"
+                    VPOS="398"
+                    WIDTH="1072"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1192 411 1177 414 1163 411 1148 411 1133 411 1118 409 1103 409 1088 409 1074 409 1059 409 1044 409 1032 408 1000 408 985 408 970 408 955 408 948 407 881 407 866 407 863 405 170 398 170 421 168 433 1237 452 1240 438 1238 411 1207 409 1207 411"/></Shape>
+	    <String CONTENT="szafki oraz stoły i ławki. Było nas początkowo razem około"
+                    HPOS="168"
+                    VPOS="398"
+                    WIDTH="1072"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0ea825b"
+                    TAGREFS="LT3614"
+                    BASELINE="168 442 1226 461" 
+                    HPOS="167"
+                    VPOS="421"
+                    WIDTH="1059"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="420 423 405 423 391 423 376 423 361 423 346 423 331 423 317 423 302 423 287 423 272 423 257 423 242 423 228 423 213 423 198 423 183 423 168 421 168 442 167 458 1223 478 1226 461 1225 441 432 423 420 423"/></Shape>
+	    <String CONTENT="300 dziewcząt. Zajmowałyśmy salę parterową i salę drugiego"
+                    HPOS="167"
+                    VPOS="421"
+                    WIDTH="1059"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f5d0ee6"
+                    TAGREFS="LT3614"
+                    BASELINE="165 467 1192 485" 
+                    HPOS="162"
+                    VPOS="448"
+                    WIDTH="1029"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="164 466 162 478 168 483 168 485 170 485 171 485 173 485 333 481 423 489 425 489 557 485 591 485 598 486 616 492 617 492 619 492 703 489 749 488 754 491 760 495 761 495 763 495 764 495 797 492 822 489 1188 501 1191 483 1191 461 164 448 164 466"/></Shape>
+	    <String CONTENT="piętra. Z biegiem czasu, było to rok po moim przyjeździe"
+                    HPOS="162"
+                    VPOS="448"
+                    WIDTH="1029"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f03d013"
+                    TAGREFS="LT3614"
+                    BASELINE="164 494 1131 507" 
+                    HPOS="162"
+                    VPOS="469"
+                    WIDTH="969"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="164 494 162 503 1128 523 1131 507 1130 488 164 469 164 494"/></Shape>
+	    <String CONTENT="przyjechał do nas transport 600 Żydówek węgierskich"
+                    HPOS="162"
+                    VPOS="469"
+                    WIDTH="969"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43e53d87"
+                    TAGREFS="LT3614"
+                    BASELINE="165 518 1185 535" 
+                    HPOS="164"
+                    VPOS="495"
+                    WIDTH="1021"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1069 507 1054 507 1040 507 1025 507 1017 506 958 506 951 506 936 506 921 506 915 504 844 504 832 504 817 504 813 503 731 503 728 503 714 503 711 501 617 501 610 501 595 501 591 500 505 500 491 500 488 498 391 498 388 498 386 497 165 495 165 518 164 528 1182 550 1185 535 1185 509 1071 507 1069 507"/></Shape>
+	    <String CONTENT="z Oświęcimia oraz około 600 Żydówek polskich. Oddano im"
+                    HPOS="164"
+                    VPOS="495"
+                    WIDTH="1021"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f084ee7b"
+                    TAGREFS="LT3614"
+                    BASELINE="167 543 1167 557" 
+                    HPOS="165"
+                    VPOS="519"
+                    WIDTH="1002"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="167 543 165 556 1164 569 1167 557 1165 537 167 519 167 543"/></Shape>
+	    <String CONTENT="salę naxxx I-ym piętrze, która dotąd była pusta. Teren"
+                    HPOS="165"
+                    VPOS="519"
+                    WIDTH="1002"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1547bb5"
+                    TAGREFS="LT3614"
+                    BASELINE="164 565 1139 583" 
+                    HPOS="162"
+                    VPOS="546"
+                    WIDTH="977"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="164 565 162 575 1136 599 1139 583 1137 563 164 546 164 565"/></Shape>
+	    <String CONTENT="naszego lagru był w pierwszym okresie otoczony tylko"
+                    HPOS="162"
+                    VPOS="546"
+                    WIDTH="977"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98a01d12"
+                    TAGREFS="LT3614"
+                    BASELINE="165 593 1204 608" 
+                    HPOS="165"
+                    VPOS="568"
+                    WIDTH="1039"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="165 593 165 609 543 609 835 620 894 621 896 621 912 621 995 615 1010 623 1011 623 1013 623 1201 624 1204 608 1203 586 165 568 165 593"/></Shape>
+	    <String CONTENT="płotem, później po roku, gdy obóz przeszedł pod komendę"
+                    HPOS="165"
+                    VPOS="568"
+                    WIDTH="1039"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caffee30"
+                    TAGREFS="LT3614"
+                    BASELINE="167 617 1200 633" 
+                    HPOS="165"
+                    VPOS="597"
+                    WIDTH="1035"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="167 617 165 626 202 634 204 634 333 630 352 630 1197 649 1200 633 1198 614 167 597 167 617"/></Shape>
+	    <String CONTENT="SS, został otoczony drutem kolczastym. Lagerführerką była"
+                    HPOS="165"
+                    VPOS="597"
+                    WIDTH="1035"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b2e7c66"
+                    TAGREFS="LT3614"
+                    BASELINE="162 640 1203 660" 
+                    HPOS="161"
+                    VPOS="614"
+                    WIDTH="1042"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="651 626 637 626 631 624 591 624 577 624 562 624 548 624 533 623 528 623 518 623 503 623 488 623 474 623 459 623 444 621 429 621 414 621 400 621 385 621 370 621 355 621 340 620 325 620 311 620 296 620 281 620 266 620 251 618 237 618 222 618 207 618 192 618 177 618 176 614 162 614 162 640 161 654 1200 674 1203 660 1203 639 651 626 651 626"/></Shape>
+	    <String CONTENT="Niemka nazwiskiem Hawlik. Początkowo odnosiła się do nas"
+                    HPOS="161"
+                    VPOS="614"
+                    WIDTH="1042"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_047a5e6c"
+                    TAGREFS="LT3614"
+                    BASELINE="167 667 1074 680" 
+                    HPOS="165"
+                    VPOS="642"
+                    WIDTH="909"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="167 667 165 683 1071 692 1074 680 1072 660 167 642 167 667"/></Shape>
+	    <String CONTENT="bardzo przyzwoicie, opiekowała się nami jak matka."
+                    HPOS="165"
+                    VPOS="642"
+                    WIDTH="909"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a518735e"
+                    TAGREFS="LT3614"
+                    BASELINE="164 691 1182 707" 
+                    HPOS="162"
+                    VPOS="671"
+                    WIDTH="1020"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="164 691 162 705 1179 723 1182 707 1180 686 164 671 164 691"/></Shape>
+	    <String CONTENT="Jak się później okazało, dobroć jej była złudna i ściśle"
+                    HPOS="162"
+                    VPOS="671"
+                    WIDTH="1020"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9efd3346"
+                    TAGREFS="LT3614"
+                    BASELINE="162 713 1205 734" 
+                    HPOS="160"
+                    VPOS="694"
+                    WIDTH="1044"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="161 711 160 726 1201 748 1204 732 1203 710 161 694 161 711"/></Shape>
+	    <String CONTENT="wyrachowana. Starała się nas przekonać, że będąc w obozie"
+                    HPOS="160"
+                    VPOS="694"
+                    WIDTH="1044"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7962efb8"
+                    TAGREFS="LT3614"
+                    BASELINE="162 741 1154 759" 
+                    HPOS="161"
+                    VPOS="716"
+                    WIDTH="993"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="162 741 161 756 1151 768 1154 759 1152 740 162 716 162 741"/></Shape>
+	    <String CONTENT="bezpieczne pod jej opieką, powinnyśmy napisać do domu,"
+                    HPOS="161"
+                    VPOS="716"
+                    WIDTH="993"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f77e152c"
+                    TAGREFS="LT3614"
+                    BASELINE="161 766 1145 784" 
+                    HPOS="160"
+                    VPOS="747"
+                    WIDTH="985"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1139 759 1124 759 1109 759 1094 759 1080 759 1071 757 1020 757 1020 757 1005 757 991 757 986 756 161 747 161 766 160 777 1142 799 1145 784 1143 759 1139 759"/></Shape>
+	    <String CONTENT="aby nam przysłać kosztowności i biżuterię, które jak"
+                    HPOS="160"
+                    VPOS="747"
+                    WIDTH="985"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af9302bd"
+                    TAGREFS="LT3614"
+                    BASELINE="160 790 1183 808" 
+                    HPOS="158"
+                    VPOS="768"
+                    WIDTH="1025"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1137 784 1123 784 1108 784 1093 784 1078 784 1063 784 1048 782 1034 782 1019 782 1004 782 989 782 974 781 960 781 945 781 930 781 915 781 900 781 885 779 871 779 856 779 841 779 826 779 811 778 797 778 782 778 767 778 752 778 737 778 723 777 708 777 693 777 678 777 663 777 648 775 634 775 619 775 604 775 589 775 574 775 560 774 545 774 530 774 515 774 500 774 488 772 466 772 456 772 441 772 426 772 411 772 401 771 364 771 352 771 337 771 331 769 262 769 248 769 245 768 160 768 160 790 158 802 1180 825 1183 808 1183 782 1137 781 1137 784"/></Shape>
+	    <String CONTENT="nas przekonywała, będą bezpieczniejsze w obozie aniżeli"
+                    HPOS="158"
+                    VPOS="768"
+                    WIDTH="1025"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92e7caf1"
+                    TAGREFS="LT3614"
+                    BASELINE="162 815 1180 834" 
+                    HPOS="161"
+                    VPOS="796"
+                    WIDTH="1019"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="162 815 161 824 269 834 271 834 315 828 322 834 322 836 324 836 325 836 327 836 709 836 794 845 795 845 943 840 1023 849 1025 849 1179 843 1180 834 1179 815 162 796 162 815"/></Shape>
+	    <String CONTENT="w domu, gdzie rodziców prędzej czy później czeka wysie-"
+                    HPOS="161"
+                    VPOS="796"
+                    WIDTH="1019"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab16807f"
+                    TAGREFS="LT3614"
+                    BASELINE="161 840 1186 858" 
+                    HPOS="160"
+                    VPOS="816"
+                    WIDTH="1026"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1168 834 1154 834 1139 834 1124 834 1109 834 1094 833 1080 833 1065 833 1050 833 1035 833 1020 831 1013 831 1005 831 991 831 976 831 961 831 946 831 931 830 928 830 917 830 902 830 887 830 872 830 859 828 843 828 843 828 828 828 813 828 798 828 788 827 758 827 754 827 739 827 724 827 717 825 672 825 665 825 650 825 635 825 626 824 586 824 576 824 561 824 555 822 502 822 502 822 487 822 482 821 416 821 413 821 398 821 394 819 331 819 324 819 321 818 161 816 161 840 160 852 1183 873 1186 858 1185 834 1168 833 1168 834"/></Shape>
+	    <String CONTENT="dlenie. Przeważająca ilość dziewcząt poszła za jej radą."
+                    HPOS="160"
+                    VPOS="816"
+                    WIDTH="1026"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b757ddc"
+                    TAGREFS="LT3614"
+                    BASELINE="158 867 1231 886" 
+                    HPOS="157"
+                    VPOS="842"
+                    WIDTH="1074"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="158 867 157 882 1228 901 1231 886 1229 861 158 842 158 867"/></Shape>
+	    <String CONTENT="Jak się później okazało, wykorzystała później nasze zaufa-"
+                    HPOS="157"
+                    VPOS="842"
+                    WIDTH="1074"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86512882"
+                    TAGREFS="LT3614"
+                    BASELINE="157 889 1158 908" 
+                    HPOS="155"
+                    VPOS="870"
+                    WIDTH="1003"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="157 889 155 904 1155 925 1158 908 1157 889 157 870 157 889"/></Shape>
+	    <String CONTENT="nie i skonfiskowała wszystko. Dowiedziałyśmy się także"
+                    HPOS="155"
+                    VPOS="870"
+                    WIDTH="1003"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_370dc92c"
+                    TAGREFS="LT3614"
+                    BASELINE="158 914 1139 933" 
+                    HPOS="157"
+                    VPOS="893"
+                    WIDTH="982"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="158 914 157 927 1136 948 1139 933 1137 914 158 893 158 914"/></Shape>
+	    <String CONTENT="później, należała do SS. Toteż gdy obóz przejęło SS,"
+                    HPOS="157"
+                    VPOS="893"
+                    WIDTH="982"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03b07271"
+                    TAGREFS="LT3614"
+                    BASELINE="160 941 1155 959" 
+                    HPOS="158"
+                    VPOS="917"
+                    WIDTH="997"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1137 933 1123 933 1108 933 1093 933 1078 933 1063 933 1048 932 1034 932 1019 932 1004 932 989 932 974 930 973 930 960 930 945 930 930 930 915 930 903 929 883 929 871 929 856 929 841 929 832 927 792 927 782 927 767 927 761 926 702 926 693 926 690 925 160 917 160 941 158 956 1152 969 1155 959 1154 933 1137 932 1137 933"/></Shape>
+	    <String CONTENT="Howlik pokazała swoje właściwe oblicze. Szczuła nas za"
+                    HPOS="158"
+                    VPOS="917"
+                    WIDTH="997"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e830e75"
+                    TAGREFS="LT3614"
+                    BASELINE="160 964 1198 984" 
+                    HPOS="158"
+                    VPOS="945"
+                    WIDTH="1040"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="160 964 158 982 1195 1001 1198 984 1198 962 160 945 160 964"/></Shape>
+	    <String CONTENT="lada przewinienie specjalnie tresowanymi psami. Okradała"
+                    HPOS="158"
+                    VPOS="945"
+                    WIDTH="1040"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1254c42f"
+                    TAGREFS="LT3614"
+                    BASELINE="158 991 1134 1007" 
+                    HPOS="157"
+                    VPOS="972"
+                    WIDTH="977"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="158 991 157 1003 1131 1019 1134 1007 1133 988 158 972 158 991"/></Shape>
+	    <String CONTENT="nasze przydziały, które z tego powodu bardzo zmalały."
+                    HPOS="157"
+                    VPOS="972"
+                    WIDTH="977"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_061730f1"
+                    TAGREFS="LT3614"
+                    BASELINE="155 1016 1247 1037" 
+                    HPOS="154"
+                    VPOS="994"
+                    WIDTH="1093"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="155 1016 154 1031 1244 1050 1247 1037 1247 1010 155 994 155 1016"/></Shape>
+	    <String CONTENT="Pracowałyśmy w fabryce włókienniczej w Tratenau. Do miejsca"
+                    HPOS="154"
+                    VPOS="994"
+                    WIDTH="1093"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd217c8a"
+                    TAGREFS="LT3614"
+                    BASELINE="160 1041 1247 1061" 
+                    HPOS="158"
+                    VPOS="1018"
+                    WIDTH="1089"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="634 1027 632 1025 565 1025 560 1025 545 1025 537 1024 499 1024 485 1024 471 1024 462 1022 431 1022 426 1022 411 1022 397 1022 386 1021 362 1021 352 1021 337 1021 322 1021 311 1019 294 1019 293 1019 278 1019 263 1019 248 1019 234 1019 219 1018 204 1018 189 1018 174 1018 160 1018 160 1041 158 1056 1244 1077 1247 1061 1245 1040 634 1027 634 1027"/></Shape>
+	    <String CONTENT="pracy chodziłyśmy 6 km. pieszo. Droga do pracy była dla nas"
+                    HPOS="158"
+                    VPOS="1018"
+                    WIDTH="1089"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d11b5f7"
+                    TAGREFS="LT3614"
+                    BASELINE="160 1070 1176 1084" 
+                    HPOS="158"
+                    VPOS="1046"
+                    WIDTH="1018"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="160 1070 158 1077 1173 1098 1176 1084 1174 1062 160 1046 160 1070"/></Shape>
+	    <String CONTENT="gehenną, szczególnie w zimie. Wychodziłyśmy o 5-tej rano,"
+                    HPOS="158"
+                    VPOS="1046"
+                    WIDTH="1018"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a10aebb"
+                    TAGREFS="LT3614"
+                    BASELINE="155 1090 1158 1108" 
+                    HPOS="154"
+                    VPOS="1070"
+                    WIDTH="1004"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="377 1074 362 1074 357 1073 309 1073 303 1073 288 1073 274 1073 265 1071 232 1071 229 1071 214 1071 200 1071 185 1071 170 1071 168 1070 155 1070 155 1090 154 1107 1155 1121 1158 1108 1158 1089 386 1074 377 1074"/></Shape>
+	    <String CONTENT="brodząc w górach po kolana w śniegu. Dziewczęta często"
+                    HPOS="154"
+                    VPOS="1070"
+                    WIDTH="1004"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0825164"
+                    TAGREFS="LT3614"
+                    BASELINE="155 1117 1192 1133" 
+                    HPOS="154"
+                    VPOS="1098"
+                    WIDTH="1038"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="155 1117 154 1130 1189 1147 1192 1133 1191 1112 155 1098 155 1117"/></Shape>
+	    <String CONTENT="rozbierały ciężkie w drodze uciążliwe obuwie drewniane"
+                    HPOS="154"
+                    VPOS="1098"
+                    WIDTH="1038"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26856a47"
+                    TAGREFS="LT3614"
+                    BASELINE="155 1139 415 1144" 
+                    HPOS="152"
+                    VPOS="1118"
+                    WIDTH="262"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="154 1138 152 1151 162 1157 164 1157 165 1157 167 1157 413 1155 414 1142 413 1123 154 1118 154 1138"/></Shape>
+	    <String CONTENT="woląc chodzić"
+                    HPOS="152"
+                    VPOS="1118"
+                    WIDTH="262"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e74b1ab"
+                    
+                    BASELINE="563 1146 1158 1157" 
+                    HPOS="561"
+                    VPOS="1127"
+                    WIDTH="596"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="562 1145 561 1158 1154 1172 1157 1155 1155 1135 562 1127 562 1145"/></Shape>
+	    <String CONTENT="Lekkomyślność swoją przypłacały"
+                    HPOS="561"
+                    VPOS="1127"
+                    WIDTH="596"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6628f601"
+                    TAGREFS="LT3614"
+                    BASELINE="154 1164 1211 1185" 
+                    HPOS="152"
+                    VPOS="1144"
+                    WIDTH="1059"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="154 1164 152 1173 1208 1201 1211 1185 1210 1163 154 1144 154 1164"/></Shape>
+	    <String CONTENT="zwykle zapaleniem płuc, a często i życiem. Praca w fabryce"
+                    HPOS="152"
+                    VPOS="1144"
+                    WIDTH="1059"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2252b687"
+                    TAGREFS="LT3614"
+                    BASELINE="154 1189 1136 1207" 
+                    HPOS="152"
+                    VPOS="1166"
+                    WIDTH="984"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="924 1181 909 1181 905 1179 853 1179 850 1179 835 1179 829 1178 783 1178 776 1178 761 1178 754 1176 714 1176 702 1176 687 1176 680 1175 644 1175 643 1175 628 1175 613 1175 604 1173 573 1173 568 1173 554 1173 539 1173 528 1172 503 1172 494 1172 480 1172 465 1172 453 1170 434 1170 420 1170 405 1170 391 1170 379 1169 362 1169 361 1169 346 1169 331 1169 317 1169 303 1167 293 1167 287 1167 272 1167 257 1167 242 1167 228 1166 223 1166 213 1166 198 1166 183 1166 168 1166 154 1166 154 1189 152 1203 1133 1221 1136 1207 1134 1185 924 1181 924 1181"/></Shape>
+	    <String CONTENT="przędzalniczej, gdzie obsługiwałyśmy maszyny, wymagała"
+                    HPOS="152"
+                    VPOS="1166"
+                    WIDTH="984"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fbd44a2"
+                    TAGREFS="LT3614"
+                    BASELINE="155 1213 1243 1234" 
+                    HPOS="154"
+                    VPOS="1191"
+                    WIDTH="1089"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="451 1195 437 1195 422 1195 407 1195 392 1194 377 1194 362 1194 348 1194 333 1194 318 1194 309 1192 164 1194 161 1191 158 1191 155 1213 154 1223 1240 1250 1243 1234 1241 1207 934 1209 475 1201 465 1195 451 1195"/></Shape>
+	    <String CONTENT="dużego skupienia uwagi. Najmniejsza omyłka mogła sprowadzić"
+                    HPOS="154"
+                    VPOS="1191"
+                    WIDTH="1089"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d1841a1"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1238 1204 1258" 
+                    HPOS="149"
+                    VPOS="1216"
+                    WIDTH="1055"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="151 1238 149 1249 1201 1272 1204 1258 1203 1237 151 1216 151 1238"/></Shape>
+	    <String CONTENT="kalectwo. Ja pracowałam w najcięższym dziale, tak zwanym Feinsal."
+                    HPOS="149"
+                    VPOS="1216"
+                    WIDTH="1055"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56887414"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1265 1240 1284" 
+                    HPOS="151"
+                    VPOS="1240"
+                    WIDTH="1089"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1203 1258 1188 1258 1173 1258 1158 1258 1143 1258 1128 1258 1114 1256 1099 1256 1084 1256 1069 1256 1054 1256 1040 1255 1025 1255 1010 1255 995 1255 980 1255 965 1255 951 1253 936 1253 921 1253 906 1253 891 1253 877 1252 862 1252 847 1252 832 1252 817 1252 803 1252 788 1250 773 1250 758 1250 743 1250 728 1250 714 1249 699 1249 684 1249 669 1249 654 1249 640 1249 625 1247 610 1247 595 1247 580 1247 565 1247 551 1246 536 1246 521 1246 506 1246 491 1246 477 1246 462 1244 447 1244 432 1244 417 1244 402 1244 388 1243 373 1243 358 1243 343 1243 328 1243 314 1243 299 1241 284 1241 269 1241 254 1241 240 1241 225 1240 210 1240 195 1240 180 1240 165 1240 151 1240 151 1265 151 1280 317 1277 389 1284 402 1286 404 1286 471 1286 813 1286 820 1292 820 1293 822 1293 823 1293 825 1293 862 1293 1056 1290 1069 1296 1071 1297 1072 1297 1074 1297 1084 1297 1134 1292 1237 1299 1240 1284 1238 1258 1203 1256 1203 1258"/></Shape>
+	    <String CONTENT="Praca moja wymagała specjalnego natężenia uwagi. Wyżywienie"
+                    HPOS="151"
+                    VPOS="1240"
+                    WIDTH="1089"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8f50622"
+                    TAGREFS="LT3614"
+                    BASELINE="152 1287 1171 1306" 
+                    HPOS="151"
+                    VPOS="1268"
+                    WIDTH="1020"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1160 1284 1157 1283 152 1268 152 1287 151 1302 1168 1323 1171 1306 1170 1284 1160 1284"/></Shape>
+	    <String CONTENT="nasze było bardzo skąpe. Przyczyniała się do tego nasza"
+                    HPOS="151"
+                    VPOS="1268"
+                    WIDTH="1020"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fba95ce"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1314 1134 1330" 
+                    HPOS="149"
+                    VPOS="1290"
+                    WIDTH="985"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="151 1314 149 1324 1131 1343 1134 1330 1133 1309 151 1290 151 1314"/></Shape>
+	    <String CONTENT="Howlik, która okradała nasze racje żywnościowe. I tak"
+                    HPOS="149"
+                    VPOS="1290"
+                    WIDTH="985"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31ea5459"
+                    TAGREFS="LT3614"
+                    BASELINE="152 1339 1191 1357" 
+                    HPOS="151"
+                    VPOS="1315"
+                    WIDTH="1040"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1100 1330 1085 1330 1071 1330 1056 1330 1045 1329 1017 1329 1011 1329 997 1329 982 1329 967 1329 955 1327 930 1327 923 1327 908 1327 893 1327 878 1327 866 1326 844 1326 834 1326 819 1326 804 1326 789 1326 777 1324 757 1324 745 1324 730 1324 715 1324 700 1324 687 1323 671 1323 671 1323 656 1323 641 1323 626 1323 611 1323 598 1321 585 1321 582 1321 567 1321 552 1321 537 1321 522 1321 509 1320 497 1320 493 1320 478 1320 463 1320 448 1320 434 1320 419 1320 404 1318 389 1318 374 1318 360 1318 345 1318 330 1318 315 1317 300 1317 285 1317 271 1317 256 1317 241 1317 226 1315 211 1315 197 1315 182 1315 167 1315 152 1315 152 1339 151 1354 1188 1369 1191 1357 1191 1332 1103 1330 1100 1330"/></Shape>
+	    <String CONTENT="dostawałyśmy przed wyjściem do pracy ½ litra zupy, która"
+                    HPOS="151"
+                    VPOS="1315"
+                    WIDTH="1040"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8db3cb15"
+                    TAGREFS="LT3614"
+                    BASELINE="149 1363 1241 1382" 
+                    HPOS="148"
+                    VPOS="1343"
+                    WIDTH="1093"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1023 1355 1017 1354 995 1354 994 1354 979 1354 964 1354 949 1354 934 1354 920 1352 905 1352 890 1352 875 1352 860 1352 845 1352 832 1351 742 1354 731 1349 727 1349 712 1349 697 1349 696 1349 654 1352 610 1348 608 1348 594 1348 579 1346 564 1346 549 1346 534 1346 520 1346 505 1346 490 1345 475 1345 460 1345 445 1345 431 1345 416 1345 401 1343 386 1343 371 1343 357 1343 342 1343 327 1343 149 1343 149 1363 148 1373 167 1380 168 1380 170 1382 521 1382 645 1382 657 1385 675 1389 677 1389 678 1389 752 1386 820 1385 1238 1398 1241 1382 1238 1355 1158 1361 1028 1355 1023 1355"/></Shape>
+	    <String CONTENT="miała stanowić nasz obiad w fabryce, śniadanie składało się"
+                    HPOS="148"
+                    VPOS="1343"
+                    WIDTH="1093"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea4cdf0a"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1389 1191 1406" 
+                    HPOS="149"
+                    VPOS="1369"
+                    WIDTH="1042"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="151 1389 149 1404 1188 1420 1191 1406 1189 1385 151 1369 151 1389"/></Shape>
+	    <String CONTENT="z 12 deka chleba i gorzkiej kawy. Do kolacji odliczano nam"
+                    HPOS="149"
+                    VPOS="1369"
+                    WIDTH="1042"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e760e91"
+                    TAGREFS="LT3614"
+                    BASELINE="157 1413 1137 1429" 
+                    HPOS="155"
+                    VPOS="1394"
+                    WIDTH="982"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="157 1413 155 1423 1134 1440 1137 1429 1136 1410 157 1394 157 1413"/></Shape>
+	    <String CONTENT="3 kartofle i łyżkę sosu. Świadkami okropnych wypadków"
+                    HPOS="155"
+                    VPOS="1394"
+                    WIDTH="982"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e151fa48"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1438 1183 1454" 
+                    HPOS="149"
+                    VPOS="1419"
+                    WIDTH="1034"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="151 1438 149 1447 173 1456 174 1456 176 1456 302 1451 303 1451 1180 1469 1183 1454 1182 1431 151 1419 151 1438"/></Shape>
+	    <String CONTENT="byłyśmy na 2 tygodnie przed przyjściem Czerwonej Armii."
+                    HPOS="149"
+                    VPOS="1419"
+                    WIDTH="1034"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51ad7677"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1462 1203 1481" 
+                    HPOS="149"
+                    VPOS="1440"
+                    WIDTH="1054"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1114 1454 1099 1454 1093 1453 1040 1453 1040 1453 1025 1453 1010 1453 1003 1451 960 1451 951 1451 936 1451 921 1451 906 1451 893 1450 878 1450 877 1450 862 1450 847 1450 832 1450 817 1450 803 1448 797 1448 788 1448 773 1448 758 1448 743 1448 728 1448 714 1448 699 1447 684 1447 669 1447 654 1447 640 1447 625 1447 610 1445 595 1445 580 1445 565 1445 551 1445 536 1445 521 1444 506 1444 491 1444 477 1444 462 1444 447 1444 432 1444 417 1443 402 1443 388 1443 373 1443 358 1443 343 1443 328 1441 314 1441 299 1441 284 1441 269 1441 254 1441 240 1440 225 1440 210 1440 195 1440 180 1440 165 1440 151 1440 151 1462 149 1472 1200 1491 1203 1481 1203 1456 1121 1454 1114 1454"/></Shape>
+	    <String CONTENT="Transporty Żydów ewakuowane z rozmaitych obozów przejeż-"
+                    HPOS="149"
+                    VPOS="1440"
+                    WIDTH="1054"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79eef3ed"
+                    TAGREFS="LT3614"
+                    BASELINE="154 1487 1222 1508" 
+                    HPOS="152"
+                    VPOS="1463"
+                    WIDTH="1070"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="154 1487 152 1502 1219 1524 1222 1508 1220 1487 154 1463 154 1487"/></Shape>
+	    <String CONTENT="dżały przez nasz obóz w drodze do Niemiec. Zatrzymywały"
+                    HPOS="152"
+                    VPOS="1463"
+                    WIDTH="1070"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1975cfa"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1515 1123 1531" 
+                    HPOS="149"
+                    VPOS="1491"
+                    WIDTH="974"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="151 1515 149 1522 266 1533 268 1533 306 1527 309 1527 312 1527 339 1534 340 1534 342 1534 456 1531 496 1530 528 1533 598 1539 600 1539 641 1536 671 1533 1120 1546 1123 1531 1121 1509 151 1491 151 1515"/></Shape>
+	    <String CONTENT="się u nas przez kilka dni i tu następowała selekcja."
+                    HPOS="149"
+                    VPOS="1491"
+                    WIDTH="974"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04c5eaca"
+                    TAGREFS="LT3614"
+                    BASELINE="149 1537 1081 1554" 
+                    HPOS="148"
+                    VPOS="1515"
+                    WIDTH="933"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1068 1531 1053 1531 1038 1531 1023 1530 1008 1530 994 1530 979 1530 964 1530 949 1530 934 1528 920 1528 905 1528 890 1528 875 1528 860 1528 845 1527 831 1527 816 1527 801 1527 786 1527 771 1527 757 1525 742 1525 727 1525 712 1525 697 1525 683 1525 668 1524 653 1524 638 1524 623 1524 608 1524 594 1524 579 1522 564 1522 549 1522 534 1522 520 1522 505 1522 490 1521 475 1521 460 1521 445 1521 431 1521 416 1521 401 1519 386 1519 371 1519 357 1519 342 1519 327 1518 312 1518 297 1518 282 1518 268 1518 253 1518 238 1517 223 1517 208 1517 194 1517 179 1517 164 1517 149 1515 149 1537 148 1546 177 1555 179 1555 180 1555 296 1551 303 1551 305 1551 315 1558 317 1558 318 1558 320 1558 445 1554 471 1554 474 1555 484 1561 485 1561 487 1561 488 1561 602 1558 656 1556 662 1559 674 1564 675 1564 677 1564 758 1561 823 1559 826 1562 828 1565 829 1565 829 1567 831 1567 832 1567 834 1567 866 1564 899 1561 906 1565 911 1568 912 1568 914 1568 915 1570 1080 1570 1081 1554 1080 1531 1068 1531"/></Shape>
+	    <String CONTENT="Byli to ludzie wychudli, wygłodniali i wynędzniali."
+                    HPOS="148"
+                    VPOS="1515"
+                    WIDTH="933"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94cd1f74"
+                    TAGREFS="LT3614"
+                    BASELINE="148 1562 1186 1579" 
+                    HPOS="148"
+                    VPOS="1543"
+                    WIDTH="1038"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="148 1562 148 1580 241 1576 277 1583 281 1583 282 1583 294 1583 400 1579 1183 1596 1186 1579 1185 1558 148 1543 148 1562"/></Shape>
+	    <String CONTENT="Byli tak dalece zmienieni, że zdarzały się wypadki, kiedy"
+                    HPOS="148"
+                    VPOS="1543"
+                    WIDTH="1038"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e19ccdf"
+                    TAGREFS="LT3614"
+                    BASELINE="149 1591 1171 1605" 
+                    HPOS="148"
+                    VPOS="1570"
+                    WIDTH="1023"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="149 1591 148 1599 1168 1620 1171 1605 1170 1585 149 1570 149 1591"/></Shape>
+	    <String CONTENT="siostra nie poznała brata. Tych, którzy byli do wysiłku"
+                    HPOS="148"
+                    VPOS="1570"
+                    WIDTH="1023"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb699d3a"
+                    TAGREFS="LT3614"
+                    BASELINE="146 1613 1238 1633" 
+                    HPOS="145"
+                    VPOS="1589"
+                    WIDTH="1093"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="976 1604 973 1602 900 1602 887 1602 872 1602 865 1601 816 1601 813 1601 798 1601 783 1601 768 1601 757 1599 733 1599 724 1599 709 1599 694 1599 680 1599 665 1599 650 1598 648 1598 635 1598 620 1598 605 1598 591 1598 576 1598 561 1598 546 1596 531 1596 517 1596 502 1596 487 1596 472 1596 457 1596 442 1595 428 1595 413 1595 398 1595 383 1595 368 1595 354 1595 339 1593 324 1593 309 1593 294 1593 280 1593 265 1593 250 1592 235 1592 220 1592 205 1592 191 1592 176 1592 161 1592 160 1589 146 1589 146 1613 145 1622 223 1632 225 1632 460 1630 534 1630 564 1633 622 1639 623 1639 657 1635 678 1633 683 1636 690 1641 691 1641 693 1641 694 1641 728 1638 754 1635 764 1638 776 1642 777 1642 779 1642 805 1639 832 1636 840 1641 847 1644 848 1644 850 1644 912 1642 1001 1639 1014 1645 1019 1647 1020 1647 1235 1650 1238 1633 1237 1608 985 1604 976 1604"/></Shape>
+	    <String CONTENT="fizycznego niezdatni, dobijano w naszym obozie i na naszych"
+                    HPOS="145"
+                    VPOS="1589"
+                    WIDTH="1093"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cd11960"
+                    TAGREFS="LT3614"
+                    BASELINE="151 1638 1171 1657" 
+                    HPOS="149"
+                    VPOS="1617"
+                    WIDTH="1022"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="151 1638 149 1648 291 1651 296 1653 328 1665 330 1665 331 1665 333 1665 367 1656 374 1654 527 1659 528 1660 543 1667 549 1667 557 1667 579 1662 594 1659 604 1663 620 1670 622 1670 801 1672 803 1672 817 1669 848 1663 868 1670 878 1675 880 1675 881 1675 928 1673 1028 1667 1063 1676 1068 1678 1069 1678 1168 1679 1171 1657 1170 1636 151 1617 151 1638"/></Shape>
+	    <String CONTENT="oczach. Dla niemieckich Aufseherek był to widok zabawny,"
+                    HPOS="149"
+                    VPOS="1617"
+                    WIDTH="1022"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1540e3ae"
+                    TAGREFS="LT3614"
+                    BASELINE="149 1665 617 1670" 
+                    HPOS="148"
+                    VPOS="1642"
+                    WIDTH="469"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="149 1665 148 1681 614 1687 617 1670 616 1651 149 1642 149 1665"/></Shape>
+	    <String CONTENT="patrzały, uśmiechając się."
+                    HPOS="148"
+                    VPOS="1642"
+                    WIDTH="469"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e795555"
+                    TAGREFS="LT3614"
+                    BASELINE="148 1688 1090 1704" 
+                    HPOS="146"
+                    VPOS="1667"
+                    WIDTH="944"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="607 1670 605 1670 597 1676 594 1676 351 1673 349 1672 336 1667 325 1667 311 1667 296 1667 294 1667 284 1670 282 1670 148 1669 148 1688 146 1702 194 1710 195 1710 225 1704 240 1713 241 1713 242 1713 244 1713 303 1706 311 1706 320 1707 365 1715 367 1715 453 1710 488 1709 533 1712 607 1719 608 1719 610 1719 611 1719 617 1715 622 1712 663 1716 711 1721 712 1721 727 1718 745 1713 751 1718 755 1722 757 1722 758 1722 760 1722 838 1721 965 1718 977 1724 977 1725 979 1725 980 1725 1087 1727 1090 1704 1088 1685 1004 1673 1003 1673 875 1681 868 1681 866 1681 857 1672 856 1672 854 1672 853 1672 779 1679 771 1679 767 1679 725 1669 724 1669 687 1678 684 1678 683 1678 663 1667 662 1667 614 1667 613 1667 611 1667 610 1667 607 1667 607 1670"/></Shape>
+	    <String CONTENT="Czerwona Armiawyswobodziła nas 8 maja o 4-tej pp."
+                    HPOS="146"
+                    VPOS="1667"
+                    WIDTH="944"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_661d35c0"
+                    TAGREFS="LT3614"
+                    BASELINE="158 1721 602 1737" 
+                    HPOS="157"
+                    VPOS="1699"
+                    WIDTH="445"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="158 1721 157 1734 238 1747 240 1747 241 1747 272 1740 320 1750 321 1750 394 1744 398 1744 408 1744 521 1758 522 1758 601 1752 602 1737 602 1710 158 1699 158 1721"/></Shape>
+	    <String CONTENT="Protokółowała: H-Landau."
+                    HPOS="157"
+                    VPOS="1699"
+                    WIDTH="445"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

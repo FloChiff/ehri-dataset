@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19440419-DK_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2482"
+          HEIGHT="3317"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2482"
+                  HEIGHT="3317">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a771f59b"
+                    TAGREFS="LT3627"
+                    BASELINE="1698 66 2149 58" 
+                    HPOS="1696"
+                    VPOS="5"
+                    WIDTH="453"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1698 66 1698 105 1823 105 1828 107 1845 121 1848 121 1851 121 1853 121 1856 121 1876 110 1887 121 1887 124 1889 124 1892 124 1895 127 1895 124 1898 124 1900 124 1900 121 1911 110 1920 102 1936 113 1961 124 1964 124 1967 124 2028 116 2083 107 2147 118 2149 58 2144 8 1718 5 1715 5 1712 5 1710 5 1696 13 1698 66"/></Shape>
+	    <String CONTENT="J.No. 151.D.3."
+                    HPOS="1696"
+                    VPOS="5"
+                    WIDTH="453"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c13f736"
+                    TAGREFS="LT3627"
+                    BASELINE="1701 425 1945 431" 
+                    HPOS="1698"
+                    VPOS="370"
+                    WIDTH="247"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1701 425 1698 453 1939 475 1945 431 1942 370 1701 373 1701 425"/></Shape>
+	    <String CONTENT="No. 95."
+                    HPOS="1698"
+                    VPOS="370"
+                    WIDTH="247"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e16d7e"
+                    TAGREFS="LT3627"
+                    BASELINE="1347 537 2332 527" 
+                    HPOS="1341"
+                    VPOS="450"
+                    WIDTH="988"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1344 536 1344 561 1463 561 1466 561 1480 574 1483 574 1485 574 1488 574 1635 563 1668 561 1685 563 1748 577 1751 577 1856 566 1925 558 2327 569 2329 525 2321 450 2188 480 2136 456 2130 453 2127 453 2125 453 2122 453 2119 453 2116 456 2072 483 2036 469 2033 469 2030 469 2028 469 1992 486 1690 486 1640 472 1593 458 1591 458 1588 458 1460 461 1458 461 1455 461 1455 464 1438 478 1405 461 1402 461 1400 461 1397 461 1341 478 1344 536"/></Shape>
+	    <String CONTENT="Det jødiske Spørgsmaal i Ungarn."
+                    HPOS="1341"
+                    VPOS="450"
+                    WIDTH="988"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60d85ffb"
+                    TAGREFS="LT3627"
+                    BASELINE="1342 586 2077 583" 
+                    HPOS="1339"
+                    VPOS="547"
+                    WIDTH="736"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1341 583 1341 605 2072 616 2075 580 2066 547 1339 547 1341 583"/></Shape>
+	    <String CONTENT="Ges. No. 200 af 7.6.43."
+                    HPOS="1339"
+                    VPOS="547"
+                    WIDTH="736"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89fc6a56"
+                    TAGREFS="LT3627"
+                    BASELINE="1349 635 1946 635" 
+                    HPOS="1347"
+                    VPOS="591"
+                    WIDTH="598"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1347 632 1347 685 1618 696 1621 696 1624 696 1662 679 1674 677 1793 677 1801 677 1862 693 1864 693 1867 693 1870 693 1873 693 1873 691 1889 677 1945 677 1945 632 1945 597 1347 591 1347 632"/></Shape>
+	    <String CONTENT="U.M. J.No. 151.N.2."
+                    HPOS="1347"
+                    VPOS="591"
+                    WIDTH="598"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed093d01"
+                    TAGREFS="LT3627"
+                    BASELINE="451 1014 2404 1014" 
+                    HPOS="451"
+                    VPOS="959"
+                    WIDTH="1953"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="451 1014 451 1042 2401 1055 2404 1014 2401 959 451 970 451 1014"/></Shape>
+	    <String CONTENT="Kort Tid efter Udnævnelsen af Kabinett Sztojay bekendtgjordes"
+                    HPOS="451"
+                    VPOS="959"
+                    WIDTH="1953"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e01b4f7"
+                    TAGREFS="LT3627"
+                    BASELINE="201 1116 2351 1116" 
+                    HPOS="201"
+                    VPOS="1058"
+                    WIDTH="2150"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="201 1116 201 1147 2351 1147 2351 1116 2351 1075 1455 1058 1452 1058 1391 1066 1347 1072 1306 1066 1261 1058 1258 1058 1203 1064 1142 1072 1120 1064 1104 1058 1101 1058 1098 1058 1095 1058 1084 1064 1065 1075 802 1075 771 1061 763 1058 760 1058 758 1058 755 1058 752 1058 749 1061 733 1075 586 1075 545 1061 539 1058 536 1058 534 1058 520 1058 442 1072 359 1058 351 1058 348 1058 345 1058 343 1058 285 1072 201 1058 201 1116"/></Shape>
+	    <String CONTENT="den 31. f.M. i den ungarske Statstidende nogle Dekreter, indeholdende"
+                    HPOS="201"
+                    VPOS="1058"
+                    WIDTH="2150"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00398c87"
+                    TAGREFS="LT3627"
+                    BASELINE="204 1216 2398 1216" 
+                    HPOS="204"
+                    VPOS="1163"
+                    WIDTH="2194"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="204 1216 204 1246 2396 1246 2398 1216 2396 1177 204 1163 204 1216"/></Shape>
+	    <String CONTENT="Skærpelser i de allerede gældende Bestemmelser angaaende Jødernes Stil-"
+                    HPOS="204"
+                    VPOS="1163"
+                    WIDTH="2194"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d95d931"
+                    TAGREFS="LT3627"
+                    BASELINE="207 1318 2351 1312" 
+                    HPOS="204"
+                    VPOS="1265"
+                    WIDTH="2147"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="207 1318 207 1354 2349 1354 2351 1312 2346 1271 204 1265 207 1318"/></Shape>
+	    <String CONTENT="ling i det ungarske Samfund, jfr. Gesandtskabets Indberetning No. 106"
+                    HPOS="204"
+                    VPOS="1265"
+                    WIDTH="2147"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bad16f5"
+                    TAGREFS="LT3627"
+                    BASELINE="207 1420 902 1412" 
+                    HPOS="204"
+                    VPOS="1359"
+                    WIDTH="698"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="207 1420 207 1448 240 1465 243 1465 246 1465 249 1465 293 1451 539 1462 542 1462 545 1462 547 1462 567 1448 650 1462 653 1462 902 1440 902 1412 893 1368 556 1376 553 1373 539 1362 539 1359 536 1359 534 1359 531 1359 315 1362 204 1382 207 1420"/></Shape>
+	    <String CONTENT="af 27.3.42. og senere."
+                    HPOS="204"
+                    VPOS="1359"
+                    WIDTH="698"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d8ca00d"
+                    TAGREFS="LT3627"
+                    BASELINE="451 1517 2349 1511" 
+                    HPOS="448"
+                    VPOS="1453"
+                    WIDTH="1901"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="451 1517 451 1556 2346 1545 2349 1511 2340 1453 2257 1470 2119 1456 2116 1456 1981 1470 1961 1453 1959 1453 1956 1453 1953 1453 1950 1453 1947 1453 1903 1470 1864 1456 1862 1456 1859 1456 1574 1470 1502 1453 1491 1453 1488 1453 1485 1453 1480 1453 1425 1470 1245 1456 1239 1456 1236 1456 1234 1456 1170 1473 448 1459 451 1517"/></Shape>
+	    <String CONTENT="I Henhold til det første Dekret (Bilag 1) paabydes det enhver"
+                    HPOS="448"
+                    VPOS="1453"
+                    WIDTH="1901"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc783c3f"
+                    TAGREFS="LT3627"
+                    BASELINE="207 1622 2351 1617" 
+                    HPOS="204"
+                    VPOS="1567"
+                    WIDTH="2147"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="207 1622 207 1650 2346 1652 2351 1617 2346 1570 293 1567 290 1567 204 1581 207 1622"/></Shape>
+	    <String CONTENT="Jøde, uden Hensyn til Køn, fra det fyldte 6&#x27; Aar uden for Hjemmet paa"
+                    HPOS="204"
+                    VPOS="1567"
+                    WIDTH="2147"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eef16a84"
+                    TAGREFS="LT3627"
+                    BASELINE="210 1722 2418 1716" 
+                    HPOS="204"
+                    VPOS="1664"
+                    WIDTH="2211"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="207 1719 207 1746 445 1760 448 1760 451 1760 453 1760 467 1749 473 1746 486 1749 528 1760 531 1760 534 1760 536 1760 564 1749 578 1746 594 1752 641 1763 644 1763 647 1763 799 1752 852 1749 857 1752 874 1766 877 1766 879 1766 882 1766 885 1766 924 1752 943 1746 954 1755 973 1766 976 1766 979 1766 982 1766 985 1766 1026 1755 1037 1752 1059 1755 1142 1766 1145 1766 1148 1766 1151 1766 1164 1755 1167 1752 1175 1755 1195 1763 1198 1763 1200 1763 1258 1755 1350 1744 1405 1758 1430 1763 1433 1763 1436 1763 1438 1763 1460 1758 1508 1744 1707 1760 1770 1763 1773 1763 1793 1760 1867 1744 1903 1758 1906 1758 1909 1758 2183 1749 2202 1763 2205 1763 2208 1763 2210 1766 2412 1766 2415 1713 2410 1677 1336 1664 1333 1664 1330 1664 1297 1677 373 1666 370 1666 204 1680 207 1719"/></Shape>
+	    <String CONTENT="den venstre Brystdel af Klædningen at bære en paasyet kanariegul Stjer-"
+                    HPOS="204"
+                    VPOS="1664"
+                    WIDTH="2211"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d129f5a9"
+                    TAGREFS="LT3627"
+                    BASELINE="204 1824 2374 1816" 
+                    HPOS="201"
+                    VPOS="1769"
+                    WIDTH="2173"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="204 1824 204 1849 2368 1854 2374 1816 2368 1769 323 1769 320 1769 201 1782 204 1824"/></Shape>
+	    <String CONTENT="ne af Stof med Diameter af 10 cm. Som Grundlag for, hvem der kvalifi-"
+                    HPOS="201"
+                    VPOS="1769"
+                    WIDTH="2173"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_725430ed"
+                    TAGREFS="LT3627"
+                    BASELINE="207 1923 2327 1918" 
+                    HPOS="204"
+                    VPOS="1868"
+                    WIDTH="2123"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="207 1923 207 1957 2324 1957 2327 1918 2321 1871 243 1868 240 1868 237 1868 204 1879 207 1923"/></Shape>
+	    <String CONTENT="ceres som Jøde, fastholdes Bestemmelserne i Racebeskyttelsesloven af"
+                    HPOS="204"
+                    VPOS="1868"
+                    WIDTH="2123"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aefac666"
+                    TAGREFS="LT3627"
+                    BASELINE="210 2023 2401 2023" 
+                    HPOS="210"
+                    VPOS="1968"
+                    WIDTH="2191"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="210 2023 210 2053 2401 2053 2401 2023 2398 1968 210 1979 210 2023"/></Shape>
+	    <String CONTENT="1941. Herfra undtages Jøder, som har modtaget højere Ærestegn for Del-"
+                    HPOS="210"
+                    VPOS="1968"
+                    WIDTH="2191"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5836b575"
+                    TAGREFS="LT3627"
+                    BASELINE="213 2125 2401 2120" 
+                    HPOS="210"
+                    VPOS="2078"
+                    WIDTH="2191"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="213 2125 213 2147 296 2164 298 2164 373 2150 376 2150 379 2150 517 2164 520 2164 605 2150 617 2150 733 2150 736 2150 752 2164 755 2164 758 2164 760 2167 1090 2167 1090 2164 1092 2164 1095 2164 1109 2153 1112 2150 1128 2153 1178 2164 1181 2164 1184 2164 1217 2153 1231 2150 1250 2153 1297 2164 1300 2164 1303 2164 1306 2164 1317 2153 1325 2147 1477 2147 1494 2156 1502 2161 1505 2161 1508 2161 1510 2161 1690 2156 1975 2147 2011 2158 2022 2161 2025 2161 2028 2161 2094 2158 2277 2147 2398 2158 2401 2120 2396 2081 210 2078 213 2125"/></Shape>
+	    <String CONTENT="tagelse i den l&#x27; Verdenskrig, 75 Procents Krigsinvalider, endvidere Jø-"
+                    HPOS="210"
+                    VPOS="2078"
+                    WIDTH="2191"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d0dfce0"
+                    TAGREFS="LT3627"
+                    BASELINE="210 2225 2324 2219" 
+                    HPOS="207"
+                    VPOS="2175"
+                    WIDTH="2117"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="210 2225 210 2252 2318 2261 2324 2219 2315 2175 207 2180 210 2225"/></Shape>
+	    <String CONTENT="der, der har udmærket sig ved dered Optræden under Modrevolutionen i"
+                    HPOS="207"
+                    VPOS="2175"
+                    WIDTH="2117"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b047d15"
+                    TAGREFS="LT3627"
+                    BASELINE="210 2316 2349 2321" 
+                    HPOS="210"
+                    VPOS="2277"
+                    WIDTH="2139"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="210 2316 210 2355 2346 2349 2349 2321 2346 2277 210 2277 210 2316"/></Shape>
+	    <String CONTENT="Ungarn 1919 og ved Afstaaelsen af Statsomraade til den lille Ententes"
+                    HPOS="210"
+                    VPOS="2277"
+                    WIDTH="2139"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fc2c9d2"
+                    TAGREFS="LT3627"
+                    BASELINE="214 2422 2374 2426" 
+                    HPOS="213"
+                    VPOS="2368"
+                    WIDTH="2158"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="213 2421 213 2460 2368 2451 2371 2424 2368 2385 2291 2368 2288 2368 2125 2382 2039 2368 2036 2368 1967 2382 1964 2385 1837 2385 1837 2382 1817 2368 1815 2368 1812 2368 1809 2368 1704 2382 1698 2382 1693 2382 1524 2368 1521 2368 1394 2382 1386 2382 1377 2382 1272 2368 1270 2368 1192 2382 1184 2382 1175 2382 1062 2368 1059 2368 996 2382 987 2385 675 2385 672 2382 655 2368 653 2368 650 2368 647 2368 644 2368 608 2382 603 2382 592 2382 514 2368 511 2368 213 2379 213 2421"/></Shape>
+	    <String CONTENT="Stater efter Verdenskrigen. - Ved et Dekret af 5. ds. (Bilag 2) ud-"
+                    HPOS="213"
+                    VPOS="2368"
+                    WIDTH="2158"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e249e296"
+                    TAGREFS="LT3627"
+                    BASELINE="207 2529 2379 2523" 
+                    HPOS="204"
+                    VPOS="2468"
+                    WIDTH="2175"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="207 2529 207 2567 2376 2551 2379 2523 2374 2482 1308 2468 1306 2468 1303 2468 1300 2468 1283 2482 365 2471 362 2471 204 2484 207 2529"/></Shape>
+	    <String CONTENT="videdes Undtagelserne til bl.a. at omfatte Jøder, som lever i Ægteskab"
+                    HPOS="204"
+                    VPOS="2468"
+                    WIDTH="2175"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4962167c"
+                    TAGREFS="LT3627"
+                    BASELINE="204 2628 2398 2623" 
+                    HPOS="201"
+                    VPOS="2576"
+                    WIDTH="2197"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="204 2628 204 2656 2393 2659 2398 2623 2390 2576 201 2576 204 2628"/></Shape>
+	    <String CONTENT="med Ikke-Jøder, og Enker efter Ikke-Jøder. Undtagelserne omfatter yder-"
+                    HPOS="201"
+                    VPOS="2576"
+                    WIDTH="2197"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_500d967c"
+                    TAGREFS="LT3627"
+                    BASELINE="215 2725 2398 2725" 
+                    HPOS="213"
+                    VPOS="2670"
+                    WIDTH="2183"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="213 2755 2396 2755 2396 2722 2396 2686 2232 2686 2230 2684 2213 2670 2210 2670 2208 2670 2205 2670 1707 2681 1488 2684 1449 2678 1394 2670 1391 2670 1330 2678 1278 2684 1239 2675 1203 2670 1200 2670 1198 2670 1195 2670 1189 2675 1178 2684 982 2675 863 2670 860 2670 857 2670 855 2670 852 2672 835 2686 664 2686 619 2672 611 2670 608 2670 605 2670 542 2672 260 2684 215 2670 213 2722 213 2755"/></Shape>
+	    <String CONTENT="ligere de i Ungarn boende udenlandske Undersaater, som gennem Fremmed-"
+                    HPOS="213"
+                    VPOS="2670"
+                    WIDTH="2183"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_204aae3c"
+                    TAGREFS="LT3627"
+                    BASELINE="210 2827 2376 2827" 
+                    HPOS="210"
+                    VPOS="2780"
+                    WIDTH="2166"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="210 2827 210 2858 2376 2858 2376 2827 2376 2786 210 2780 210 2827"/></Shape>
+	    <String CONTENT="kontrolmyndighederne kan dokumentere deres udenlandske Statsborgerfor-"
+                    HPOS="210"
+                    VPOS="2780"
+                    WIDTH="2166"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bb7b420"
+                    TAGREFS="LT3627"
+                    BASELINE="217 2924 2398 2930" 
+                    HPOS="215"
+                    VPOS="2877"
+                    WIDTH="2181"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="215 2921 215 2963 2393 2954 2396 2927 2393 2877 215 2877 215 2921"/></Shape>
+	    <String CONTENT="hold med et herfor udstedt Certifikat paa Grundlag af en Ansøgning ind-"
+                    HPOS="215"
+                    VPOS="2877"
+                    WIDTH="2181"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87dbac49"
+                    TAGREFS="LT3627"
+                    BASELINE="215 3029 1574 3021" 
+                    HPOS="210"
+                    VPOS="2979"
+                    WIDTH="1361"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="213 3026 213 3073 334 3059 572 3073 611 3073 614 3073 617 3073 622 3073 677 3057 711 3070 713 3070 716 3070 719 3070 802 3057 1568 3065 1571 3018 1566 2982 210 2979 213 3026"/></Shape>
+	    <String CONTENT="givet af vedkommende Udenrigsrepræsentation."
+                    HPOS="210"
+                    VPOS="2979"
+                    WIDTH="1361"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecf1a6d6"
+                    TAGREFS="LT3627"
+                    BASELINE="235 3137 365 3137" 
+                    HPOS="235"
+                    VPOS="3093"
+                    WIDTH="130"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="235 3137 235 3170 254 3187 257 3187 260 3187 262 3187 365 3164 365 3137 365 3093 235 3093 235 3137"/></Shape>
+	    <String CONTENT="Til"
+                    HPOS="235"
+                    VPOS="3093"
+                    WIDTH="130"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a3bb8ab"
+                    TAGREFS="LT3627"
+                    BASELINE="387 3223 1306 3228" 
+                    HPOS="384"
+                    VPOS="3159"
+                    WIDTH="922"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="384 3250 1300 3258 1306 3228 1303 3181 1206 3162 1203 3162 1200 3162 1145 3176 1131 3178 1101 3176 1021 3164 1018 3164 1015 3164 1012 3164 1012 3167 1004 3173 998 3181 904 3181 879 3170 849 3159 846 3159 843 3159 841 3159 807 3167 777 3176 711 3164 661 3159 658 3159 655 3159 653 3159 644 3164 622 3178 412 3178 392 3159 387 3223 384 3250"/></Shape>
+	    <String CONTENT="Det kgl. Udenrigsministerium."
+                    HPOS="384"
+                    VPOS="3159"
+                    WIDTH="922"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

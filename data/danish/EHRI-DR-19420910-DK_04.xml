@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19420910-DK_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1245"
+          HEIGHT="1658"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1245"
+                  HEIGHT="1658">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_614d7e76"
+                    TAGREFS="LT3627"
+                    BASELINE="163 171 1105 176" 
+                    HPOS="161"
+                    VPOS="140"
+                    WIDTH="944"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="161 186 175 194 176 194 178 194 230 187 233 187 240 187 371 194 373 194 374 194 385 189 389 187 403 189 443 196 444 196 547 192 616 189 630 193 643 197 645 197 646 197 728 194 823 190 853 196 870 198 871 198 894 196 935 192 1102 198 1105 176 1104 146 1018 153 1008 146 1007 146 1005 146 1004 146 921 153 870 145 869 145 867 145 649 151 545 143 544 143 505 150 362 143 360 143 302 149 291 142 290 142 288 142 287 142 196 149 164 140 163 171 161 186"/></Shape>
+	    <String CONTENT="ikke nytte, at Danmark bliver mere berømt end højst nødvendigt"
+                    HPOS="161"
+                    VPOS="140"
+                    WIDTH="944"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f8cb8f3"
+                    TAGREFS="LT3627"
+                    BASELINE="163 223 428 223" 
+                    HPOS="163"
+                    VPOS="204"
+                    WIDTH="265"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="163 223 163 239 203 247 204 247 205 247 233 240 251 247 252 247 254 247 428 239 428 223 428 204 163 204 163 223"/></Shape>
+	    <String CONTENT="som Jødereservat."
+                    HPOS="163"
+                    VPOS="204"
+                    WIDTH="265"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b74031b2"
+                    TAGREFS="LT3627"
+                    BASELINE="313 272 1119 274" 
+                    HPOS="312"
+                    VPOS="252"
+                    WIDTH="807"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="313 272 312 292 313 294 315 294 315 295 316 295 317 295 319 295 1117 292 1119 274 1119 255 313 252 313 272"/></Shape>
+	    <String CONTENT="Jeg tillader mig derfor at henstille, at De forklarer"
+                    HPOS="312"
+                    VPOS="252"
+                    WIDTH="807"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2e612e6"
+                    TAGREFS="LT3627"
+                    BASELINE="163 323 1188 330" 
+                    HPOS="161"
+                    VPOS="302"
+                    WIDTH="1027"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="163 323 161 339 169 345 171 345 172 345 174 346 1186 346 1188 330 1186 303 163 302 163 323"/></Shape>
+	    <String CONTENT="Hr. Hagen, at han ved at trænge mere paa med Ansøgninger om Udrejse-"
+                    HPOS="161"
+                    VPOS="302"
+                    WIDTH="1027"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_886ef5f7"
+                    TAGREFS="LT3627"
+                    BASELINE="161 374 1146 379" 
+                    HPOS="160"
+                    VPOS="355"
+                    WIDTH="986"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="161 374 160 392 1144 400 1146 379 1145 360 161 355 161 374"/></Shape>
+	    <String CONTENT="tilladelse for Konen, saavel gennem os som direkte til tyske Myn-"
+                    HPOS="160"
+                    VPOS="355"
+                    WIDTH="986"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e954684"
+                    TAGREFS="LT3627"
+                    BASELINE="161 422 1019 428" 
+                    HPOS="160"
+                    VPOS="403"
+                    WIDTH="859"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="161 422 160 442 210 453 211 453 355 446 364 453 366 453 367 453 468 454 469 454 471 454 472 454 480 446 554 446 594 455 595 455 596 455 598 455 599 455 612 447 732 447 743 455 744 455 746 455 747 455 787 449 804 457 805 457 806 458 906 458 906 457 907 457 909 457 909 455 917 449 1005 455 1007 455 1008 455 1010 455 1018 449 1019 428 1018 407 161 403 161 422"/></Shape>
+	    <String CONTENT="digheder, vil risikere at gøre hende mere Skade end Gavn."
+                    HPOS="160"
+                    VPOS="403"
+                    WIDTH="859"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d99fdac"
+                    TAGREFS="LT3627"
+                    BASELINE="310 475 585 478" 
+                    HPOS="309"
+                    VPOS="453"
+                    WIDTH="276"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="310 475 309 504 393 507 395 507 406 505 447 498 548 505 549 505 551 505 569 500 580 507 585 478 583 453 310 454 310 475"/></Shape>
+	    <String CONTENT="Med venlig Hilsen"
+                    HPOS="309"
+                    VPOS="453"
+                    WIDTH="276"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_333accd9"
+                    TAGREFS="LT3627"
+                    BASELINE="695 551 923 555" 
+                    HPOS="693"
+                    VPOS="525"
+                    WIDTH="230"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="695 551 693 574 768 576 776 583 790 592 791 592 793 592 794 594 835 594 835 592 837 592 838 592 844 588 852 581 920 594 923 555 923 534 695 525 695 551"/></Shape>
+	    <String CONTENT="Deres hengivne"
+                    HPOS="693"
+                    VPOS="525"
+                    WIDTH="230"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

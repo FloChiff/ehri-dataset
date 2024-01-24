@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19410701-DK_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2495"
+          HEIGHT="4049"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2495"
+                  HEIGHT="4049">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_924b3205"
+                    TAGREFS="LT3627"
+                    BASELINE="1041 80 1144 80" 
+                    HPOS="1039"
+                    VPOS="6"
+                    WIDTH="102"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1039 77 1039 111 1077 131 1080 131 1083 131 1087 131 1141 114 1141 77 1137 6 1039 13 1039 77"/></Shape>
+	    <String CONTENT="4."
+                    HPOS="1039"
+                    VPOS="6"
+                    WIDTH="102"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d74dd25"
+                    TAGREFS="LT3627"
+                    BASELINE="381 293 2248 283" 
+                    HPOS="378"
+                    VPOS="188"
+                    WIDTH="1870"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="381 293 381 337 2245 330 2248 283 2241 229 1894 229 1873 222 1813 202 1809 202 1806 202 1802 202 1799 202 1779 219 1769 229 1664 229 1650 215 1634 202 1630 202 1627 202 1623 202 1620 202 1583 215 1576 219 1573 215 1553 199 1553 195 1549 195 1546 195 1542 195 1539 195 1472 212 1451 219 1445 212 1417 192 1417 188 1414 188 1411 188 1282 188 1279 188 1276 188 1225 209 1174 232 1029 232 1006 209 1002 209 999 209 995 209 867 222 844 202 833 195 833 192 830 192 827 192 651 192 648 192 644 192 641 192 641 195 634 199 627 209 600 199 594 195 590 195 587 195 584 195 580 195 580 199 536 222 509 199 509 195 506 195 503 195 378 195 381 293"/></Shape>
+	    <String CONTENT="E. Forordningerne Nr. 27 og 28 af 11. Februar 1941 om jødiske"
+                    HPOS="378"
+                    VPOS="188"
+                    WIDTH="1870"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4691d730"
+                    TAGREFS="LT3627"
+                    BASELINE="469 394 806 388" 
+                    HPOS="465"
+                    VPOS="344"
+                    WIDTH="341"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="469 394 469 445 803 448 806 388 796 344 465 347 469 394"/></Shape>
+	    <String CONTENT="Studenter."
+                    HPOS="465"
+                    VPOS="344"
+                    WIDTH="341"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d60c59c"
+                    TAGREFS="LT3627"
+                    BASELINE="773 492 2272 485" 
+                    HPOS="769"
+                    VPOS="438"
+                    WIDTH="1503"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="773 492 773 519 2268 516 2272 485 2262 438 769 445 773 492"/></Shape>
+	    <String CONTENT="Personer, der omfattes af Forordning Nr. 6 af 10."
+                    HPOS="769"
+                    VPOS="438"
+                    WIDTH="1503"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e51798e2"
+                    TAGREFS="LT3627"
+                    BASELINE="476 597 2305 587" 
+                    HPOS="472"
+                    VPOS="543"
+                    WIDTH="1833"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="476 597 476 624 2305 614 2305 587 2295 543 472 546 476 597"/></Shape>
+	    <String CONTENT="Januar 1941 om Anmeldelse af Personer, der helt eller delvis"
+                    HPOS="472"
+                    VPOS="543"
+                    WIDTH="1833"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c06363a5"
+                    TAGREFS="LT3627"
+                    BASELINE="472 701 2278 684" 
+                    HPOS="469"
+                    VPOS="634"
+                    WIDTH="1809"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="472 701 472 728 2278 728 2278 684 2268 634 469 651 472 701"/></Shape>
+	    <String CONTENT="er af jødisk Blod, kan kun immatrikuleres med Tilladelse af"
+                    HPOS="469"
+                    VPOS="634"
+                    WIDTH="1809"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36dd5693"
+                    TAGREFS="LT3627"
+                    BASELINE="476 799 1850 786" 
+                    HPOS="472"
+                    VPOS="738"
+                    WIDTH="1378"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="476 799 476 830 1846 833 1850 786 1840 738 472 752 476 799"/></Shape>
+	    <String CONTENT="Generalsekretæren i Undervisningsministeriet."
+                    HPOS="472"
+                    VPOS="738"
+                    WIDTH="1378"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9091999"
+                    TAGREFS="LT3627"
+                    BASELINE="381 995 2363 1002" 
+                    HPOS="378"
+                    VPOS="924"
+                    WIDTH="1985"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="378 1039 2356 1059 2363 1002 2363 944 2018 931 2015 931 1975 938 1937 948 1927 938 1921 934 1921 931 1917 931 1914 931 1802 931 1799 931 1796 931 1782 938 1758 948 1735 938 1721 931 1718 931 1715 931 1661 938 1556 948 1478 934 1455 931 1451 931 1448 931 1438 934 1401 948 1134 931 1060 927 1056 927 1053 927 1049 927 1049 931 1033 948 432 948 384 924 381 995 378 1039"/></Shape>
+	    <String CONTENT="F. Forordning Nr. 48 af 12. Marts 1941 om Behandling af anmeldel-"
+                    HPOS="378"
+                    VPOS="924"
+                    WIDTH="1985"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_068fc9f1"
+                    TAGREFS="LT3627"
+                    BASELINE="476 1106 2359 1096" 
+                    HPOS="472"
+                    VPOS="1052"
+                    WIDTH="1887"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="476 1106 476 1143 1097 1153 1100 1153 1401 1137 1482 1133 1529 1137 1711 1150 1715 1150 1718 1150 1721 1150 1721 1147 1725 1147 1735 1133 1738 1130 2049 1130 2066 1130 2170 1147 2174 1147 2356 1126 2359 1096 2349 1052 472 1059 476 1106"/></Shape>
+	    <String CONTENT="sespligtige Foretagender, jfr. Forordning Nr. 189 af 22. Okto-"
+                    HPOS="472"
+                    VPOS="1052"
+                    WIDTH="1887"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bed40567"
+                    TAGREFS="LT3627"
+                    BASELINE="479 1201 1762 1191" 
+                    HPOS="476"
+                    VPOS="1150"
+                    WIDTH="1286"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="479 1201 479 1228 658 1248 661 1248 739 1231 776 1248 779 1248 783 1248 925 1228 945 1228 948 1228 972 1245 975 1245 979 1245 982 1245 1762 1228 1762 1191 1752 1150 476 1153 479 1201"/></Shape>
+	    <String CONTENT="ber 1940 (Indb. Nr. 91 af 10. April 1941)."
+                    HPOS="476"
+                    VPOS="1150"
+                    WIDTH="1286"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a97cf06f"
+                    TAGREFS="LT3627"
+                    BASELINE="769 1299 2184 1299" 
+                    HPOS="769"
+                    VPOS="1255"
+                    WIDTH="1415"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="769 1299 769 1332 2184 1332 2184 1299 2184 1255 769 1255 769 1299"/></Shape>
+	    <String CONTENT="Forordningen indeholder følgende Bestemmelser:"
+                    HPOS="769"
+                    VPOS="1255"
+                    WIDTH="1415"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57ebec42"
+                    TAGREFS="LT3627"
+                    BASELINE="773 1396 2390 1403" 
+                    HPOS="769"
+                    VPOS="1336"
+                    WIDTH="1621"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="773 1396 769 1423 874 1444 877 1444 2386 1434 2390 1403 2390 1359 1529 1336 1526 1336 773 1349 773 1396"/></Shape>
+	    <String CONTENT="Tilladelse udkræves til Oprettelse af nye jødiske Fo-"
+                    HPOS="769"
+                    VPOS="1336"
+                    WIDTH="1621"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4adf5c4"
+                    TAGREFS="LT3627"
+                    BASELINE="476 1508 1029 1498" 
+                    HPOS="472"
+                    VPOS="1450"
+                    WIDTH="557"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="476 1508 476 1548 1029 1545 1029 1498 1019 1450 472 1457 476 1508"/></Shape>
+	    <String CONTENT="retagender (§ 1)."
+                    HPOS="472"
+                    VPOS="1450"
+                    WIDTH="557"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63e9aa91"
+                    TAGREFS="LT3627"
+                    BASELINE="776 1606 2390 1606" 
+                    HPOS="776"
+                    VPOS="1555"
+                    WIDTH="1614"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="776 1606 776 1636 2390 1636 2390 1606 2390 1555 776 1555 776 1606"/></Shape>
+	    <String CONTENT="Salg, Leje, Forpagtning, Nedlæggelse af jødiske Fore-"
+                    HPOS="776"
+                    VPOS="1555"
+                    WIDTH="1614"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa8e6680"
+                    TAGREFS="LT3627"
+                    BASELINE="482 1710 2343 1700" 
+                    HPOS="479"
+                    VPOS="1653"
+                    WIDTH="1864"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="482 1710 482 1747 2339 1747 2343 1700 2332 1653 479 1660 482 1710"/></Shape>
+	    <String CONTENT="tagender skal godkendes af Generalkommissæren for Finanser og"
+                    HPOS="479"
+                    VPOS="1653"
+                    WIDTH="1864"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_820082d1"
+                    TAGREFS="LT3627"
+                    BASELINE="479 1805 1056 1798" 
+                    HPOS="476"
+                    VPOS="1751"
+                    WIDTH="580"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="479 1805 479 1832 999 1849 1002 1849 1006 1849 1056 1825 1056 1798 1046 1751 476 1754 479 1805"/></Shape>
+	    <String CONTENT="Erhvervsliv (§ 2)."
+                    HPOS="476"
+                    VPOS="1751"
+                    WIDTH="580"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_812cc920"
+                    TAGREFS="LT3627"
+                    BASELINE="773 1906 2390 1906" 
+                    HPOS="773"
+                    VPOS="1842"
+                    WIDTH="1617"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="773 1906 773 1936 2390 1936 2390 1906 2386 1842 773 1855 773 1906"/></Shape>
+	    <String CONTENT="Rigskommissæren kan indsætte Tilsynsførende i jødiske"
+                    HPOS="773"
+                    VPOS="1842"
+                    WIDTH="1617"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7825b908"
+                    TAGREFS="LT3627"
+                    BASELINE="476 2011 2393 2011" 
+                    HPOS="476"
+                    VPOS="1963"
+                    WIDTH="1917"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="476 2011 476 2044 2393 2037 2393 2011 2393 1963 476 1963 476 2011"/></Shape>
+	    <String CONTENT="Foretagender (§ 7). Disse leder paa egen Haand Foretagendet paa"
+                    HPOS="476"
+                    VPOS="1963"
+                    WIDTH="1917"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f9b38c5"
+                    TAGREFS="LT3627"
+                    BASELINE="479 2108 2339 2108" 
+                    HPOS="479"
+                    VPOS="2048"
+                    WIDTH="1860"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="479 2108 479 2142 519 2162 523 2162 526 2162 530 2162 567 2145 671 2162 675 2166 1147 2166 1147 2162 1151 2162 1154 2162 1171 2145 1208 2162 1212 2162 1215 2162 1350 2145 1401 2162 1404 2162 1407 2162 1519 2145 2197 2162 2201 2162 2204 2162 2208 2162 2208 2159 2224 2145 2339 2145 2339 2108 2339 2064 479 2048 479 2108"/></Shape>
+	    <String CONTENT="dettes Bekostning, medmindre andet i det enkelte Tilfælde be-"
+                    HPOS="479"
+                    VPOS="2048"
+                    WIDTH="1860"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32d1db5f"
+                    TAGREFS="LT3627"
+                    BASELINE="479 2213 759 2213" 
+                    HPOS="479"
+                    VPOS="2169"
+                    WIDTH="280"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="479 2213 479 2250 756 2260 759 2213 759 2169 479 2169 479 2213"/></Shape>
+	    <String CONTENT="stemmes."
+                    HPOS="479"
+                    VPOS="2169"
+                    WIDTH="280"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7923f50"
+                    TAGREFS="LT3627"
+                    BASELINE="391 2412 2393 2422" 
+                    HPOS="388"
+                    VPOS="2328"
+                    WIDTH="2005"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="391 2412 388 2453 2386 2469 2393 2422 2390 2334 2083 2334 2079 2334 2076 2334 2069 2334 2008 2355 1877 2338 1840 2334 1836 2334 1833 2334 1829 2334 1826 2338 1796 2361 1559 2341 1505 2338 1502 2338 1499 2338 1488 2341 1461 2358 1164 2358 1131 2345 1100 2334 1097 2334 1093 2334 1090 2334 1087 2334 1070 2345 1053 2358 1029 2348 999 2334 995 2334 992 2334 989 2334 938 2348 908 2355 898 2348 874 2331 871 2331 867 2331 864 2331 746 2348 708 2355 702 2351 675 2328 671 2328 668 2328 665 2328 557 2351 536 2355 391 2355 391 2412"/></Shape>
+	    <String CONTENT="G. Forordning Nr. 26 af 11. Februar 1941 om særlige Sikkerhedsfor-"
+                    HPOS="388"
+                    VPOS="2328"
+                    WIDTH="2005"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6af216a7"
+                    TAGREFS="LT3627"
+                    BASELINE="476 2520 1559 2510" 
+                    HPOS="472"
+                    VPOS="2466"
+                    WIDTH="1087"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="476 2520 476 2567 1559 2564 1559 2510 1549 2466 472 2473 476 2520"/></Shape>
+	    <String CONTENT="anstaltninger paa Radioens Omraade."
+                    HPOS="472"
+                    VPOS="2466"
+                    WIDTH="1087"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72fec068"
+                    TAGREFS="LT3627"
+                    BASELINE="779 2611 2373 2621" 
+                    HPOS="776"
+                    VPOS="2564"
+                    WIDTH="1597"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="779 2611 776 2635 2366 2645 2373 2621 2370 2567 779 2564 779 2611"/></Shape>
+	    <String CONTENT="I Henhold til denne Forordning er det blevet paalagt"
+                    HPOS="776"
+                    VPOS="2564"
+                    WIDTH="1597"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2f54b41"
+                    TAGREFS="LT3627"
+                    BASELINE="482 2719 2393 2719" 
+                    HPOS="482"
+                    VPOS="2672"
+                    WIDTH="1911"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="482 2719 482 2753 2393 2753 2393 2719 2393 2672 482 2672 482 2719"/></Shape>
+	    <String CONTENT="Jøder inden 29. April 1941 at aflevere dere Radioapparater til"
+                    HPOS="482"
+                    VPOS="2672"
+                    WIDTH="1911"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f80f40a1"
+                    TAGREFS="LT3627"
+                    BASELINE="479 2820 2204 2810" 
+                    HPOS="476"
+                    VPOS="2766"
+                    WIDTH="1728"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="479 2820 479 2854 925 2871 928 2871 1009 2854 1043 2871 1046 2871 1049 2871 1053 2871 1117 2851 1127 2851 1154 2851 1367 2868 1370 2868 1738 2847 1779 2847 1809 2847 2126 2864 2130 2864 2133 2864 2204 2844 2204 2810 2194 2766 476 2773 479 2820"/></Shape>
+	    <String CONTENT="de kommunale Myndigheder. (Indb. Nr. 128 af 8. Maj 1941)"
+                    HPOS="476"
+                    VPOS="2766"
+                    WIDTH="1728"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2ba4688"
+                    TAGREFS="LT3627"
+                    BASELINE="388 3016 2353 3023" 
+                    HPOS="384"
+                    VPOS="2942"
+                    WIDTH="1969"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="384 3056 2346 3063 2353 3023 2349 2952 1718 2965 1667 2949 1664 2949 1661 2949 1326 2962 1033 2945 1029 2945 1026 2945 1022 2945 982 2965 759 2965 678 2945 675 2945 462 2962 391 2942 388 3016 384 3056"/></Shape>
+	    <String CONTENT="H. Forordning Nr. 102 af 27. Maj 1941 om Anmeldelse og Behandling"
+                    HPOS="384"
+                    VPOS="2942"
+                    WIDTH="1969"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_deab195b"
+                    TAGREFS="LT3627"
+                    BASELINE="479 3124 2278 3114" 
+                    HPOS="476"
+                    VPOS="3067"
+                    WIDTH="1802"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="479 3124 479 3161 1070 3178 1073 3178 2275 3151 2278 3114 2268 3067 476 3073 479 3124"/></Shape>
+	    <String CONTENT="af Landejendomme paa jødiske Hænder. (Indb. Nr. 203 af 8.7."
+                    HPOS="476"
+                    VPOS="3067"
+                    WIDTH="1802"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c2e133d"
+                    TAGREFS="LT3627"
+                    BASELINE="773 3222 2420 3225" 
+                    HPOS="769"
+                    VPOS="3175"
+                    WIDTH="1651"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="773 3222 769 3249 803 3266 806 3266 810 3266 2417 3249 2420 3225 2420 3178 773 3175 773 3222"/></Shape>
+	    <String CONTENT="Forordningen omfatter Ejendomme, der i erhvervsmæssigt"
+                    HPOS="769"
+                    VPOS="3175"
+                    WIDTH="1651"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62580b03"
+                    TAGREFS="LT3627"
+                    BASELINE="476 3316 2285 3326" 
+                    HPOS="472"
+                    VPOS="3269"
+                    WIDTH="1813"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="476 3316 472 3340 530 3360 533 3360 536 3360 891 3347 1127 3364 1131 3364 2282 3350 2285 3326 2282 3272 476 3269 476 3316"/></Shape>
+	    <String CONTENT="øjemed drives som Land-, Have-, Skov- eller Fiskeribrug, og"
+                    HPOS="472"
+                    VPOS="3269"
+                    WIDTH="1813"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8180977d"
+                    TAGREFS="LT3627"
+                    BASELINE="479 3428 2339 3428" 
+                    HPOS="479"
+                    VPOS="3370"
+                    WIDTH="1860"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="479 3428 479 3451 2336 3458 2339 3428 2339 3380 479 3370 479 3428"/></Shape>
+	    <String CONTENT="som ejes eller den 9. Maj 1940 eller senere har været ejet af"
+                    HPOS="479"
+                    VPOS="3370"
+                    WIDTH="1860"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b280b31"
+                    TAGREFS="LT3627"
+                    BASELINE="479 3519 2289 3526" 
+                    HPOS="476"
+                    VPOS="3468"
+                    WIDTH="1813"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="479 3519 476 3546 2282 3552 2289 3526 2285 3475 479 3468 479 3519"/></Shape>
+	    <String CONTENT="en Jøde, eller en Jøde er eller efter 9. Maj 1940 har været"
+                    HPOS="476"
+                    VPOS="3468"
+                    WIDTH="1813"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a76983b8"
+                    TAGREFS="LT3627"
+                    BASELINE="479 3627 2309 3627" 
+                    HPOS="479"
+                    VPOS="3573"
+                    WIDTH="1830"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="479 3627 479 3657 2309 3657 2309 3627 2309 3579 479 3573 479 3627"/></Shape>
+	    <String CONTENT="Besidder eller Indehaver af ejendomsretlige Rettigheder over"
+                    HPOS="479"
+                    VPOS="3573"
+                    WIDTH="1830"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_120e29f2"
+                    TAGREFS="LT3627"
+                    BASELINE="479 3728 2363 3721" 
+                    HPOS="476"
+                    VPOS="3664"
+                    WIDTH="1887"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="479 3728 479 3782 567 3765 2359 3765 2363 3721 2353 3664 476 3671 479 3728"/></Shape>
+	    <String CONTENT="Ejendommen, derunder som Forpagter, Indehaver eller Medindeha-"
+                    HPOS="476"
+                    VPOS="3664"
+                    WIDTH="1887"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

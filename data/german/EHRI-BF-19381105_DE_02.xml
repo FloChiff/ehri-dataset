@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19381105_DE_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2361"
+          HEIGHT="3317"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2361"
+                  HEIGHT="3317">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a4166519"
+                    TAGREFS="LT3625"
+                    BASELINE="359 334 1918 309" 
+                    HPOS="356"
+                    VPOS="251"
+                    WIDTH="1562"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="359 334 359 362 1918 331 1918 309 1910 251 1772 270 1750 254 1747 254 1744 254 1741 254 1738 254 1736 254 1689 273 1567 262 1564 262 1503 276 1490 262 1484 259 1484 257 1481 257 1479 257 1418 257 1415 257 1412 257 1409 257 1401 265 1379 279 1205 270 1047 262 1045 262 970 276 926 284 879 279 807 270 804 270 801 270 798 270 782 281 768 290 561 290 552 287 516 276 514 276 511 276 508 276 505 276 489 290 483 295 356 295 359 334"/></Shape>
+	    <String CONTENT="Das Generalkonsulat der Cechoslovakischen Republik"
+                    HPOS="356"
+                    VPOS="251"
+                    WIDTH="1562"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa0decc7"
+                    TAGREFS="LT3625"
+                    BASELINE="58 417 2012 386" 
+                    HPOS="55"
+                    VPOS="348"
+                    WIDTH="1957"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="58 417 58 439 2009 414 2012 386 2004 348 55 373 58 417"/></Shape>
+	    <String CONTENT="in Wien beehrt sich die Aufmerksamkeit des verehrt. Amtes darauf"
+                    HPOS="55"
+                    VPOS="348"
+                    WIDTH="1957"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44196df9"
+                    TAGREFS="LT3625"
+                    BASELINE="58 486 2034 458" 
+                    HPOS="55"
+                    VPOS="422"
+                    WIDTH="1979"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="58 486 58 508 2032 480 2034 458 2026 422 55 447 58 486"/></Shape>
+	    <String CONTENT="zu lenken, dass die von der Polizeidirektion geübte Ausweisungs-"
+                    HPOS="55"
+                    VPOS="422"
+                    WIDTH="1979"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_177cddad"
+                    TAGREFS="LT3625"
+                    BASELINE="58 563 1982 536" 
+                    HPOS="55"
+                    VPOS="500"
+                    WIDTH="1927"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="58 563 58 586 1982 555 1982 536 1973 500 55 525 58 563"/></Shape>
+	    <String CONTENT="praxis nicht nur im allgemeinen alle Merkmale der Verletzungen"
+                    HPOS="55"
+                    VPOS="500"
+                    WIDTH="1927"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cbba95a"
+                    TAGREFS="LT3625"
+                    BASELINE="60 635 1926 608" 
+                    HPOS="58"
+                    VPOS="563"
+                    WIDTH="1868"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="60 635 60 657 1924 630 1926 608 1918 566 1465 577 1437 574 1368 563 1365 563 1362 563 1329 577 1315 580 1282 577 1208 569 1205 569 1150 580 1127 583 1103 580 1000 569 998 569 931 583 917 586 884 586 738 577 735 577 633 588 610 591 583 591 398 580 395 580 392 580 389 580 367 594 246 580 243 580 58 599 60 635"/></Shape>
+	    <String CONTENT="der Grundsätze des modernen Völkerrechtes trägt, sondern und"
+                    HPOS="58"
+                    VPOS="563"
+                    WIDTH="1868"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bcc8822"
+                    TAGREFS="LT3625"
+                    BASELINE="60 710 1365 685 1985 688" 
+                    HPOS="58"
+                    VPOS="644"
+                    WIDTH="1927"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="60 710 60 732 1982 702 1985 688 1979 644 58 666 60 710"/></Shape>
+	    <String CONTENT="hauptsächlich auch den Bestimmungen des Art. I des zwischen der"
+                    HPOS="58"
+                    VPOS="644"
+                    WIDTH="1927"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09a61c0e"
+                    TAGREFS="LT3625"
+                    BASELINE="63 785 1249 760 2048 762" 
+                    HPOS="60"
+                    VPOS="718"
+                    WIDTH="1988"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="63 785 63 804 2048 779 2048 762 2043 718 60 740 63 785"/></Shape>
+	    <String CONTENT="Cechoslovakei und Deutschem Reiche abgeschlossenen Vertrages vom"
+                    HPOS="60"
+                    VPOS="718"
+                    WIDTH="1988"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21df5766"
+                    TAGREFS="LT3625"
+                    BASELINE="63 856 2015 829" 
+                    HPOS="60"
+                    VPOS="793"
+                    WIDTH="1955"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="63 856 63 876 199 890 201 890 699 873 873 867 906 870 964 879 967 879 1009 870 1042 865 2015 865 2015 829 2007 793 60 818 63 856"/></Shape>
+	    <String CONTENT="20. Jänner 1922, Nr. 130/24, über den gesetzlichen und gerichtli-"
+                    HPOS="60"
+                    VPOS="793"
+                    WIDTH="1955"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b240cc1"
+                    TAGREFS="LT3625"
+                    BASELINE="66 928 1252 906 1926 909" 
+                    HPOS="63"
+                    VPOS="867"
+                    WIDTH="1863"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="66 928 66 950 1924 925 1926 909 1921 867 63 879 66 928"/></Shape>
+	    <String CONTENT="chen Schutz der Personen und Eigentums der cechoslovakischen"
+                    HPOS="63"
+                    VPOS="867"
+                    WIDTH="1863"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f539d487"
+                    TAGREFS="LT3625"
+                    BASELINE="66 1006 1064 984 1979 978" 
+                    HPOS="63"
+                    VPOS="934"
+                    WIDTH="1916"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="66 1006 66 1036 1979 997 1979 978 1973 939 1376 934 1374 934 475 959 439 948 436 948 434 948 212 964 99 953 96 953 93 953 63 964 66 1006"/></Shape>
+	    <String CONTENT="Staatsangehörigen auf Grund der Reziprozität, sowie des Art. X."
+                    HPOS="63"
+                    VPOS="934"
+                    WIDTH="1916"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1d519ba"
+                    TAGREFS="LT3625"
+                    BASELINE="66 1080 1362 1053 1932 1058" 
+                    HPOS="63"
+                    VPOS="1011"
+                    WIDTH="1869"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="66 1080 66 1102 1929 1080 1932 1058 1926 1011 63 1031 66 1080"/></Shape>
+	    <String CONTENT="des wirtschaftlichen cechoslovakisch-deutschen Abkommens vom"
+                    HPOS="63"
+                    VPOS="1011"
+                    WIDTH="1869"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_189957ba"
+                    TAGREFS="LT3625"
+                    BASELINE="66 1149 1177 1130 1985 1136" 
+                    HPOS="63"
+                    VPOS="1091"
+                    WIDTH="1922"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="66 1149 66 1172 1982 1163 1985 1136 1979 1091 63 1105 66 1149"/></Shape>
+	    <String CONTENT="29.4.1920 über grundsätzliche Behandlung der cechoslovakischen"
+                    HPOS="63"
+                    VPOS="1091"
+                    WIDTH="1922"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df7a43e4"
+                    TAGREFS="LT3625"
+                    BASELINE="69 1224 1376 1202 2018 1207" 
+                    HPOS="66"
+                    VPOS="1163"
+                    WIDTH="1952"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="69 1224 69 1260 608 1241 729 1252 749 1252 751 1252 754 1252 757 1252 757 1249 771 1238 945 1249 986 1249 989 1249 992 1249 1000 1246 1033 1232 2018 1230 2018 1207 2012 1163 66 1172 69 1224"/></Shape>
+	    <String CONTENT="Staatsangehörigen nach dem Grundsatze der Meistbegünstigung, in"
+                    HPOS="66"
+                    VPOS="1163"
+                    WIDTH="1952"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d94e9a7"
+                    TAGREFS="LT3625"
+                    BASELINE="71 1299 655 1290" 
+                    HPOS="69"
+                    VPOS="1257"
+                    WIDTH="586"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="71 1299 71 1326 262 1337 265 1337 268 1337 323 1321 331 1321 342 1321 439 1335 442 1335 655 1312 655 1290 646 1257 69 1257 71 1299"/></Shape>
+	    <String CONTENT="Widersprunch steht."
+                    HPOS="69"
+                    VPOS="1257"
+                    WIDTH="586"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7af37deb"
+                    TAGREFS="LT3625"
+                    BASELINE="406 1365 1418 1348 2018 1357" 
+                    HPOS="403"
+                    VPOS="1299"
+                    WIDTH="1615"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="406 1365 406 1384 2015 1379 2018 1357 2015 1312 1730 1299 1727 1299 1725 1299 1669 1312 1664 1312 1374 1301 1371 1301 1291 1315 1288 1315 1282 1315 1094 1304 1092 1304 1089 1304 1033 1318 1028 1318 1003 1318 749 1307 746 1307 743 1307 699 1321 693 1324 403 1324 406 1365"/></Shape>
+	    <String CONTENT="Die Behandlung der cechoslovakischen Staatsangehöri-"
+                    HPOS="403"
+                    VPOS="1299"
+                    WIDTH="1615"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04c9178d"
+                    TAGREFS="LT3625"
+                    BASELINE="74 1453 1285 1426 2048 1431" 
+                    HPOS="71"
+                    VPOS="1373"
+                    WIDTH="1977"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="74 1453 74 1476 2045 1445 2048 1431 2043 1384 1586 1390 1550 1373 1548 1373 1437 1373 1434 1373 1432 1373 1362 1393 1318 1379 1315 1379 1313 1379 1174 1395 1172 1395 1045 1379 1042 1379 945 1398 926 1382 923 1382 920 1382 851 1382 848 1382 732 1401 539 1387 536 1387 533 1387 530 1387 503 1404 331 1393 328 1393 326 1393 276 1406 226 1393 223 1393 221 1393 218 1393 215 1393 193 1412 71 1412 74 1453"/></Shape>
+	    <String CONTENT="gen widerspricht auch dem Sinne der Art.I und 2. des cechoslova-"
+                    HPOS="71"
+                    VPOS="1373"
+                    WIDTH="1977"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea00ea03"
+                    TAGREFS="LT3625"
+                    BASELINE="71 1523 1329 1498 2048 1503" 
+                    HPOS="69"
+                    VPOS="1456"
+                    WIDTH="1979"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="71 1523 71 1553 702 1545 724 1539 768 1531 818 1539 862 1545 865 1545 939 1536 1011 1528 1097 1534 1210 1539 1213 1539 1296 1528 1346 1523 1393 1525 1498 1536 1501 1536 1503 1536 1548 1523 1553 1523 1567 1523 1691 1534 1694 1534 1697 1534 1700 1534 1714 1520 1716 1520 1727 1520 1976 1531 1979 1531 1982 1531 2048 1511 2048 1503 2043 1456 69 1467 71 1523"/></Shape>
+	    <String CONTENT="kisch-österreichischen Handelsvertrages vom 4.5.1921, deren pro-"
+                    HPOS="69"
+                    VPOS="1456"
+                    WIDTH="1979"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b1f91b"
+                    TAGREFS="LT3625"
+                    BASELINE="74 1597 1260 1572 2023 1578" 
+                    HPOS="71"
+                    VPOS="1531"
+                    WIDTH="1952"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="74 1597 74 1611 268 1625 270 1625 790 1608 1036 1603 1083 1608 1130 1614 1133 1614 1136 1614 1158 1608 1188 1600 2020 1603 2023 1578 2020 1534 942 1531 939 1531 718 1547 110 1542 107 1542 105 1542 71 1553 74 1597"/></Shape>
+	    <String CONTENT="visorische Geltung durch Art. II. des Reichsgesetzes vom 13. März"
+                    HPOS="71"
+                    VPOS="1531"
+                    WIDTH="1952"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2510f9e5"
+                    TAGREFS="LT3625"
+                    BASELINE="77 1666 1252 1647 1996 1650" 
+                    HPOS="74"
+                    VPOS="1589"
+                    WIDTH="1922"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="77 1666 77 1688 1993 1675 1996 1650 1990 1605 1689 1605 1686 1605 1650 1589 1647 1589 1644 1589 1642 1589 1639 1589 1639 1592 1622 1605 1617 1608 1548 1605 1418 1597 1415 1597 1357 1605 1310 1611 1274 1605 1213 1594 1210 1594 1208 1594 1205 1594 1194 1605 1186 1611 1105 1605 989 1597 986 1597 868 1605 724 1617 641 1605 591 1600 588 1600 558 1605 500 1619 478 1605 472 1603 469 1603 467 1603 331 1603 328 1603 306 1605 232 1622 199 1605 196 1605 193 1605 190 1605 74 1605 77 1666"/></Shape>
+	    <String CONTENT="1938, RGBl. 1, pag. 247, über den Anschluss Österreichs, ferner durch"
+                    HPOS="74"
+                    VPOS="1589"
+                    WIDTH="1922"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82ab837c"
+                    TAGREFS="LT3625"
+                    BASELINE="77 1746 1479 1722 2026 1730" 
+                    HPOS="74"
+                    VPOS="1672"
+                    WIDTH="1952"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="77 1746 77 1763 279 1777 281 1777 627 1760 693 1758 729 1758 876 1769 879 1769 881 1769 909 1758 917 1755 945 1758 1025 1766 1028 1766 1103 1755 1136 1749 2026 1746 2026 1730 2023 1683 1387 1672 1385 1672 1304 1686 1260 1691 1219 1686 1158 1675 1155 1675 1003 1686 857 1697 779 1686 727 1680 724 1680 721 1680 707 1688 682 1699 436 1688 411 1688 409 1688 400 1688 276 1705 74 1691 77 1746"/></Shape>
+	    <String CONTENT="die Kundmachung des Reichsstatthalters Nr. 27/38, LGBl. bestätigt"
+                    HPOS="74"
+                    VPOS="1672"
+                    WIDTH="1952"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18113a35"
+                    TAGREFS="LT3625"
+                    BASELINE="77 1818 287 1813" 
+                    HPOS="74"
+                    VPOS="1766"
+                    WIDTH="213"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="77 1818 77 1843 284 1840 287 1813 279 1766 74 1774 77 1818"/></Shape>
+	    <String CONTENT="wurde."
+                    HPOS="74"
+                    VPOS="1766"
+                    WIDTH="213"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b795cf8e"
+                    TAGREFS="LT3625"
+                    BASELINE="425 1885 1208 1871 2054 1879" 
+                    HPOS="422"
+                    VPOS="1799"
+                    WIDTH="1632"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="425 1885 425 1915 685 1901 862 1910 920 1912 923 1912 926 1912 934 1910 962 1898 975 1910 978 1912 981 1912 984 1912 986 1912 1028 1907 1105 1898 1246 1904 1362 1910 1365 1910 1368 1910 1371 1910 1379 1904 1393 1896 1595 1898 2015 1910 2018 1910 2020 1910 2054 1893 2054 1879 2051 1829 1647 1829 1642 1821 1620 1805 1620 1802 1617 1802 1614 1802 1407 1799 1404 1799 1401 1799 1365 1818 1343 1829 1277 1816 1230 1807 1227 1807 1224 1807 1208 1816 1186 1829 1172 1816 1161 1805 1161 1802 1158 1802 1155 1802 962 1802 959 1802 956 1802 953 1802 939 1810 906 1829 798 1813 796 1813 707 1829 641 1807 627 1802 624 1802 622 1802 591 1805 514 1818 422 1805 425 1885"/></Shape>
+	    <String CONTENT="In einem einzigen Tage meldeten sich beim Generalkon-"
+                    HPOS="422"
+                    VPOS="1799"
+                    WIDTH="1632"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c04039b7"
+                    TAGREFS="LT3625"
+                    BASELINE="80 1965 1086 1945 2054 1954" 
+                    HPOS="77"
+                    VPOS="1910"
+                    WIDTH="1977"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="80 1965 80 1979 2051 1981 2054 1954 2051 1910 77 1910 80 1965"/></Shape>
+	    <String CONTENT="sulate der Cechoslovakischen Republik in Wien folgende cechoslo-"
+                    HPOS="77"
+                    VPOS="1910"
+                    WIDTH="1977"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6ef77c0"
+                    TAGREFS="LT3625"
+                    BASELINE="82 2042 1208 2017 2001 2026" 
+                    HPOS="80"
+                    VPOS="1965"
+                    WIDTH="1921"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="82 2042 82 2059 467 2070 469 2070 873 2059 1302 2045 1487 2056 1545 2059 1548 2059 1567 2056 1622 2045 1733 2056 1752 2056 1755 2056 1758 2056 1761 2056 1794 2039 1996 2053 2001 2026 1998 1981 1772 1965 1769 1965 1766 1965 1763 1965 1744 1984 1667 1984 1548 1965 1545 1965 1293 1981 1282 1973 1282 1970 1280 1970 1277 1970 1274 1970 1271 1970 1268 1970 1252 1984 1122 1970 1119 1970 1116 1970 1053 1990 843 1973 840 1973 749 1992 682 1976 680 1976 677 1976 674 1976 635 1992 528 1981 525 1981 522 1981 467 1995 414 1979 411 1979 409 1979 212 1998 154 1981 152 1981 149 1981 146 1981 80 2001 82 2042"/></Shape>
+	    <String CONTENT="vakische Staatsangehörigen, die kurzfristig ausgewiesen wurden"
+                    HPOS="80"
+                    VPOS="1965"
+                    WIDTH="1921"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d624041e"
+                    TAGREFS="LT3625"
+                    BASELINE="85 2114 1169 2095 2026 2100" 
+                    HPOS="82"
+                    VPOS="2042"
+                    WIDTH="1944"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="85 2114 85 2142 2026 2122 2026 2100 2023 2059 1658 2045 1656 2045 1523 2059 1407 2042 1404 2042 82 2073 85 2114"/></Shape>
+	    <String CONTENT="und denen man keine Zeit zu lassen geneigt ist, um ihre Angele-"
+                    HPOS="82"
+                    VPOS="2042"
+                    WIDTH="1944"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_054ce199"
+                    TAGREFS="LT3625"
+                    BASELINE="85 2189 729 2175" 
+                    HPOS="82"
+                    VPOS="2125"
+                    WIDTH="647"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="85 2189 85 2208 727 2197 729 2175 721 2125 315 2144 82 2133 85 2189"/></Shape>
+	    <String CONTENT="genheiten zu ordnen:"
+                    HPOS="82"
+                    VPOS="2125"
+                    WIDTH="647"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_455dd6ad"
+                    TAGREFS="LT3625"
+                    BASELINE="91 2261 1512 2236" 
+                    HPOS="88"
+                    VPOS="2180"
+                    WIDTH="1424"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="91 2261 91 2297 409 2274 1512 2269 1512 2236 1503 2194 1302 2197 1285 2183 1285 2180 1282 2180 1280 2180 1194 2180 1191 2180 677 2205 569 2191 566 2191 563 2191 561 2191 536 2211 431 2200 428 2200 425 2200 387 2214 328 2197 326 2197 323 2197 320 2197 317 2197 317 2200 304 2214 88 2219 91 2261"/></Shape>
+	    <String CONTENT="1. Helene A b d e l a , II. Taborstrasse 20 a."
+                    HPOS="88"
+                    VPOS="2180"
+                    WIDTH="1424"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5558eb73"
+                    TAGREFS="LT3625"
+                    BASELINE="91 2332 1252 2313 2029 2321" 
+                    HPOS="88"
+                    VPOS="2255"
+                    WIDTH="1941"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="91 2332 91 2366 187 2349 411 2363 414 2363 417 2363 505 2346 1332 2352 1335 2352 1437 2338 1528 2352 1531 2352 2026 2349 2029 2321 2020 2261 1990 2277 1675 2277 1653 2266 1620 2255 1617 2255 1487 2255 1484 2255 1481 2255 1454 2269 1440 2277 1398 2272 1321 2258 1318 2258 1315 2258 1313 2258 1291 2272 1282 2280 1271 2272 1260 2263 1257 2263 1255 2263 1252 2263 1249 2263 1224 2274 1219 2274 1197 2274 978 2261 975 2261 973 2261 970 2261 951 2277 945 2283 934 2277 906 2269 904 2269 901 2269 898 2269 868 2280 859 2283 851 2280 818 2263 815 2263 812 2263 810 2263 760 2280 746 2285 721 2283 613 2263 610 2263 608 2263 558 2285 552 2285 547 2285 494 2272 492 2272 489 2272 486 2272 483 2272 467 2285 439 2274 436 2274 434 2274 431 2274 428 2274 411 2288 409 2288 389 2288 254 2277 251 2277 88 2291 91 2332"/></Shape>
+	    <String CONTENT="2. Charlotte L i p n e r , II., Zirkusgasse 27, die um eine 70"
+                    HPOS="88"
+                    VPOS="2255"
+                    WIDTH="1941"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19c8e354"
+                    TAGREFS="LT3625"
+                    BASELINE="232 2379 1534 2363" 
+                    HPOS="229"
+                    VPOS="2327"
+                    WIDTH="1305"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="232 2379 232 2410 823 2410 823 2407 826 2407 834 2404 881 2388 1097 2388 1528 2399 1534 2363 1526 2327 229 2341 232 2379"/></Shape>
+	    <String CONTENT="Jahre alte und kranke Mutter zu sorgen hat,"
+                    HPOS="229"
+                    VPOS="2327"
+                    WIDTH="1305"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1b1c641"
+                    TAGREFS="LT3625"
+                    BASELINE="91 2457 1846 2437" 
+                    HPOS="88"
+                    VPOS="2379"
+                    WIDTH="1758"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="91 2457 91 2493 174 2476 306 2490 309 2490 312 2490 315 2490 342 2473 381 2487 384 2487 387 2487 389 2487 392 2487 414 2473 577 2487 586 2487 588 2487 599 2487 840 2468 881 2482 884 2482 887 2482 890 2482 892 2482 912 2468 1064 2479 1067 2479 1069 2479 1072 2479 1094 2465 1213 2479 1216 2479 1219 2479 1221 2479 1224 2479 1241 2465 1343 2476 1346 2476 1418 2462 1487 2476 1492 2476 1495 2476 1844 2471 1846 2437 1838 2393 1667 2393 1664 2393 1628 2379 1625 2379 1622 2379 1620 2379 1592 2393 1586 2396 1465 2393 1130 2385 1127 2385 962 2396 837 2404 823 2396 815 2391 812 2391 810 2391 807 2391 624 2399 331 2410 88 2402 91 2457"/></Shape>
+	    <String CONTENT="3. Ida u. Branka M i r a l y , II., Grosse Pfarrgasse 8."
+                    HPOS="88"
+                    VPOS="2379"
+                    WIDTH="1758"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caefec5b"
+                    TAGREFS="LT3625"
+                    BASELINE="93 2531 1139 2512 2059 2523" 
+                    HPOS="91"
+                    VPOS="2460"
+                    WIDTH="1968"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="93 2531 93 2556 1158 2534 1280 2551 1282 2551 1285 2551 1313 2537 2056 2548 2059 2523 2056 2479 1219 2460 1216 2460 1092 2479 738 2462 735 2462 732 2462 729 2462 702 2482 447 2465 445 2465 442 2465 439 2465 414 2487 91 2487 93 2531"/></Shape>
+	    <String CONTENT="4. Ernestine H u m b u r g e r , II., Alliiertenstrasse 16, die"
+                    HPOS="91"
+                    VPOS="2460"
+                    WIDTH="1968"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_783f44d7"
+                    TAGREFS="LT3625"
+                    BASELINE="226 2578 1266 2562 2054 2576" 
+                    HPOS="223"
+                    VPOS="2520"
+                    WIDTH="1831"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="226 2578 226 2595 2048 2601 2054 2576 2051 2531 967 2520 964 2520 223 2537 226 2578"/></Shape>
+	    <String CONTENT="von der Kranken-Angestellten-Kassa für eine Lungenheilstätte"
+                    HPOS="223"
+                    VPOS="2520"
+                    WIDTH="1831"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8292c403"
+                    TAGREFS="LT3625"
+                    BASELINE="221 2631 840 2614" 
+                    HPOS="218"
+                    VPOS="2581"
+                    WIDTH="622"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="221 2631 221 2653 840 2650 840 2614 832 2581 218 2595 221 2631"/></Shape>
+	    <String CONTENT="vorgeschlagen wurde,"
+                    HPOS="218"
+                    VPOS="2581"
+                    WIDTH="622"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e68cbf2"
+                    TAGREFS="LT3625"
+                    BASELINE="96 2697 1617 2681" 
+                    HPOS="93"
+                    VPOS="2623"
+                    WIDTH="1524"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="96 2697 96 2736 199 2722 422 2730 425 2730 428 2730 431 2730 450 2717 591 2728 594 2728 597 2728 599 2728 599 2725 602 2725 610 2714 644 2728 646 2728 649 2728 652 2728 685 2714 1614 2714 1617 2681 1611 2625 1440 2623 1437 2623 1434 2623 1418 2628 1393 2639 1385 2628 1379 2625 1379 2623 1376 2623 1374 2623 1371 2623 1315 2631 1235 2645 1221 2634 1216 2628 1216 2625 1213 2625 1210 2625 1116 2625 1114 2625 1111 2625 1078 2637 1045 2648 989 2639 923 2628 920 2628 848 2642 804 2650 751 2645 685 2637 682 2637 627 2648 594 2656 434 2656 428 2653 378 2634 375 2634 373 2634 370 2634 367 2634 342 2653 337 2659 93 2659 96 2697"/></Shape>
+	    <String CONTENT="5. Hermine H u s s e r l e , III. Barichgasse 2."
+                    HPOS="93"
+                    VPOS="2623"
+                    WIDTH="1524"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90a31580"
+                    TAGREFS="LT3625"
+                    BASELINE="96 2777 1155 2758 1644 2764" 
+                    HPOS="93"
+                    VPOS="2706"
+                    WIDTH="1551"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="96 2777 96 2800 1567 2794 1642 2777 1644 2764 1642 2717 1376 2706 1374 2706 1371 2706 1335 2719 1329 2719 1307 2719 1163 2708 1161 2708 1078 2722 1064 2722 1047 2722 939 2711 937 2711 934 2711 906 2722 901 2725 870 2722 740 2714 738 2714 93 2730 96 2777"/></Shape>
+	    <String CONTENT="6. Olga H i r s c h l , II., Ferdinandstrasse 28."
+                    HPOS="93"
+                    VPOS="2706"
+                    WIDTH="1551"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_953933b2"
+                    TAGREFS="LT3625"
+                    BASELINE="102 2844 1603 2836 1965 2847" 
+                    HPOS="99"
+                    VPOS="2780"
+                    WIDTH="1866"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="102 2844 102 2863 1960 2871 1965 2847 1960 2797 1750 2797 1736 2794 1678 2780 1675 2780 1672 2780 1669 2780 1667 2780 1647 2794 1639 2797 1567 2794 1360 2783 1357 2783 1354 2783 1321 2791 1299 2800 1288 2791 1277 2783 1274 2783 1271 2783 1078 2783 1075 2783 1033 2791 995 2800 818 2791 763 2789 760 2789 757 2789 749 2791 704 2802 677 2789 669 2786 666 2786 663 2786 627 2789 528 2802 505 2789 500 2786 497 2786 494 2786 367 2786 364 2786 362 2786 359 2786 356 2789 340 2802 223 2789 218 2789 215 2789 212 2789 179 2802 99 2789 102 2844"/></Shape>
+	    <String CONTENT="7. Hugo und Regine R o s e n b a u m , II. Praterstrasse 58."
+                    HPOS="99"
+                    VPOS="2780"
+                    WIDTH="1866"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d20a3b93"
+                    TAGREFS="LT3625"
+                    BASELINE="102 2921 2067 2921" 
+                    HPOS="102"
+                    VPOS="2858"
+                    WIDTH="1965"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="102 2952 2067 2949 2067 2921 2067 2874 1365 2858 1362 2858 1285 2869 1260 2871 1244 2869 1199 2858 1197 2858 1194 2858 1191 2858 1188 2858 1177 2869 1163 2877 1103 2869 1067 2863 1064 2863 1033 2869 978 2877 942 2866 909 2858 906 2858 904 2858 901 2858 873 2866 837 2877 801 2866 771 2858 768 2858 605 2858 602 2858 599 2858 583 2866 555 2877 461 2863 445 2863 442 2863 439 2863 436 2863 409 2877 395 2863 392 2863 389 2863 387 2863 359 2863 146 2877 105 2863 102 2921 102 2952"/></Shape>
+	    <String CONTENT="8. David R e i c h e n b a c h , Eigentümer eines Tuchgeschäf-"
+                    HPOS="102"
+                    VPOS="2858"
+                    WIDTH="1965"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8aa1a18"
+                    TAGREFS="LT3625"
+                    BASELINE="240 2968 1025 2957" 
+                    HPOS="237"
+                    VPOS="2924"
+                    WIDTH="788"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="240 2968 243 3012 279 2996 406 3007 431 3010 434 3010 1022 2990 1025 2957 1017 2924 237 2932 240 2968"/></Shape>
+	    <String CONTENT="tes, II. Josefinengasse 6."
+                    HPOS="237"
+                    VPOS="2924"
+                    WIDTH="788"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d275a93"
+                    TAGREFS="LT3625"
+                    BASELINE="102 3048 1744 3029" 
+                    HPOS="99"
+                    VPOS="2979"
+                    WIDTH="1645"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="102 3048 102 3090 569 3070 613 3082 627 3084 630 3084 633 3084 635 3084 652 3082 693 3070 732 3079 793 3093 796 3093 798 3093 826 3076 845 3068 915 3076 1036 3090 1039 3090 1042 3090 1080 3073 1097 3065 1125 3070 1183 3087 1186 3087 1188 3087 1379 3068 1407 3065 1412 3065 1451 3082 1454 3082 1456 3084 1523 3084 1523 3082 1526 3082 1528 3082 1548 3065 1689 3082 1691 3082 1694 3082 1744 3059 1744 3029 1736 2990 1362 2993 1349 2993 1271 2979 1268 2979 989 2985 986 2985 984 2985 973 2996 967 2999 901 2996 727 2988 724 2988 721 2988 718 2988 718 2990 710 2999 704 3004 99 3004 102 3048"/></Shape>
+	    <String CONTENT="9. Karoline N o v a k o v a , XIX., Budinskygasse 18"
+                    HPOS="99"
+                    VPOS="2979"
+                    WIDTH="1645"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

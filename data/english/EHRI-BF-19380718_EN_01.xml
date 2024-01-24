@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380718_EN_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1348"
+          HEIGHT="1653"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1348"
+                  HEIGHT="1653">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3e1b129e"
+                    TAGREFS="LT3626"
+                    BASELINE="614 125 744 122" 
+                    HPOS="613"
+                    VPOS="89"
+                    WIDTH="131"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="614 125 614 157 676 158 678 158 679 158 680 158 693 148 697 146 744 143 744 122 740 89 704 96 696 90 696 89 694 89 693 89 691 89 690 89 689 89 687 90 672 100 613 93 614 125"/></Shape>
+	    <String CONTENT="COPY."
+                    HPOS="613"
+                    VPOS="89"
+                    WIDTH="131"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92f66b9a"
+                    TAGREFS="LT3626"
+                    BASELINE="154 163 483 159" 
+                    HPOS="152"
+                    VPOS="139"
+                    WIDTH="331"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="154 163 154 185 482 181 483 159 479 139 152 139 154 163"/></Shape>
+	    <String CONTENT="Strictly Confidential."
+                    HPOS="152"
+                    VPOS="139"
+                    WIDTH="331"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bf37604"
+                    TAGREFS="LT3626"
+                    BASELINE="154 210 412 208" 
+                    HPOS="152"
+                    VPOS="190"
+                    WIDTH="260"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="154 210 154 232 412 230 412 208 409 191 152 190 154 210"/></Shape>
+	    <String CONTENT="To Mrs. Schmolka,"
+                    HPOS="152"
+                    VPOS="190"
+                    WIDTH="260"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_510c8846"
+                    TAGREFS="LT3626"
+                    BASELINE="256 245 352 241" 
+                    HPOS="253"
+                    VPOS="220"
+                    WIDTH="99"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="256 245 256 261 352 257 352 241 348 220 253 224 256 245"/></Shape>
+	    <String CONTENT="HICEM"
+                    HPOS="253"
+                    VPOS="220"
+                    WIDTH="99"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b2abde1"
+                    TAGREFS="LT3626"
+                    BASELINE="155 292 325 294" 
+                    HPOS="154"
+                    VPOS="271"
+                    WIDTH="171"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="155 292 154 309 183 318 184 318 186 318 226 311 232 309 235 311 243 318 243 319 245 319 246 319 248 319 323 311 325 294 325 274 155 271 155 292"/></Shape>
+	    <String CONTENT="Dear Madam,"
+                    HPOS="154"
+                    VPOS="271"
+                    WIDTH="171"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f1acaf7"
+                    TAGREFS="LT3626"
+                    BASELINE="317 327 1168 318" 
+                    HPOS="315"
+                    VPOS="298"
+                    WIDTH="853"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="317 327 317 342 1168 330 1168 318 1164 298 315 307 317 327"/></Shape>
+	    <String CONTENT="In our great despair, we appeal to you through the medium"
+                    HPOS="315"
+                    VPOS="298"
+                    WIDTH="853"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ea0569e"
+                    TAGREFS="LT3626"
+                    BASELINE="157 365 1126 354" 
+                    HPOS="155"
+                    VPOS="330"
+                    WIDTH="971"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 365 157 378 1124 369 1126 354 1121 330 155 340 157 365"/></Shape>
+	    <String CONTENT="of this letter, to help and secure our release from our unbearable"
+                    HPOS="155"
+                    VPOS="330"
+                    WIDTH="971"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c31f926"
+                    TAGREFS="LT3626"
+                    BASELINE="157 400 1167 389" 
+                    HPOS="155"
+                    VPOS="367"
+                    WIDTH="1012"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="157 400 157 413 1166 409 1167 389 1163 367 155 381 157 400"/></Shape>
+	    <String CONTENT="situation. We already suffer gladly in addition to rats every natural"
+                    HPOS="155"
+                    VPOS="367"
+                    WIDTH="1012"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82467135"
+                    TAGREFS="LT3626"
+                    BASELINE="157 435 1160 425" 
+                    HPOS="155"
+                    VPOS="404"
+                    WIDTH="1005"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="157 435 157 455 326 446 1160 444 1160 425 1156 404 155 410 157 435"/></Shape>
+	    <String CONTENT="inconvenience, but what happened to us on Saturday, the 16th of July,"
+                    HPOS="155"
+                    VPOS="404"
+                    WIDTH="1005"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b25cc9a1"
+                    TAGREFS="LT3626"
+                    BASELINE="157 469 700 464" 
+                    HPOS="155"
+                    VPOS="447"
+                    WIDTH="545"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="157 469 157 490 228 490 228 489 230 489 231 489 239 482 312 487 314 487 315 487 317 487 339 480 442 486 443 486 445 486 446 486 447 486 456 479 494 486 498 486 500 486 501 486 503 486 512 479 698 483 700 464 696 447 155 447 157 469"/></Shape>
+	    <String CONTENT="is not only terrible but unendurable."
+                    HPOS="155"
+                    VPOS="447"
+                    WIDTH="545"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3003199e"
+                    TAGREFS="LT3626"
+                    BASELINE="315 504 1156 494" 
+                    HPOS="314"
+                    VPOS="471"
+                    WIDTH="842"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="315 504 315 519 387 527 388 527 431 519 442 517 458 519 498 523 500 523 536 519 554 516 558 519 565 524 566 524 567 524 569 524 598 517 602 517 605 517 624 524 625 524 627 524 662 517 680 515 686 517 697 523 698 523 700 523 842 522 843 522 855 517 861 515 875 516 905 522 906 522 908 522 922 516 935 512 979 516 1022 520 1024 520 1025 520 1026 520 1032 516 1037 513 1153 515 1156 494 1153 477 1094 471 1093 471 1039 477 1030 477 1022 477 967 472 966 472 915 477 898 480 314 480 315 504"/></Shape>
+	    <String CONTENT="Hoping that you will secure our early release, we wish to"
+                    HPOS="314"
+                    VPOS="471"
+                    WIDTH="842"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_541267b6"
+                    TAGREFS="LT3626"
+                    BASELINE="157 541 572 535" 
+                    HPOS="155"
+                    VPOS="516"
+                    WIDTH="417"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 541 157 552 192 564 194 564 195 564 299 563 300 563 301 563 301 562 310 555 314 552 329 555 347 559 348 559 350 559 351 559 355 556 365 551 458 556 460 556 497 549 570 559 572 535 567 516 155 520 157 541"/></Shape>
+	    <String CONTENT="inform you of the following."
+                    HPOS="155"
+                    VPOS="516"
+                    WIDTH="417"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e162c401"
+                    TAGREFS="LT3626"
+                    BASELINE="314 573 1152 566" 
+                    HPOS="312"
+                    VPOS="539"
+                    WIDTH="840"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="314 573 314 586 982 588 984 588 1150 579 1152 566 1148 544 982 546 975 545 952 539 951 539 949 539 911 546 901 548 898 546 890 539 889 539 887 539 886 539 884 539 869 546 838 539 836 539 702 541 701 541 674 549 672 551 548 551 507 551 496 544 494 544 493 544 492 544 490 544 457 552 456 552 454 552 409 544 407 544 406 544 405 544 392 553 312 553 314 573"/></Shape>
+	    <String CONTENT="At 7.30 in the evening, four men from German-Austria, so-"
+                    HPOS="312"
+                    VPOS="539"
+                    WIDTH="840"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_644ee1f7"
+                    TAGREFS="LT3626"
+                    BASELINE="159 611 1128 603" 
+                    HPOS="158"
+                    VPOS="577"
+                    WIDTH="970"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="159 611 159 629 1127 614 1128 603 1126 585 996 577 995 577 993 577 967 585 964 585 962 585 948 578 946 578 945 578 843 585 802 586 158 585 159 611"/></Shape>
+	    <String CONTENT="called Gestapo-men, who by kicks and blows drove us out of our own"
+                    HPOS="158"
+                    VPOS="577"
+                    WIDTH="970"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe766eb1"
+                    TAGREFS="LT3626"
+                    BASELINE="158 646 1160 638" 
+                    HPOS="155"
+                    VPOS="615"
+                    WIDTH="1004"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="157 658 1157 651 1159 637 1155 615 496 624 457 624 232 631 230 629 155 626 157 644"/></Shape>
+	    <String CONTENT="home, now rob us even of the little peace we now enjoy by coming on"
+                    HPOS="155"
+                    VPOS="615"
+                    WIDTH="1004"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d338f09"
+                    TAGREFS="LT3626"
+                    BASELINE="158 681 1197 673" 
+                    HPOS="157"
+                    VPOS="650"
+                    WIDTH="1040"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="158 681 158 694 432 701 434 701 498 694 512 701 514 701 515 701 516 701 548 692 555 691 566 692 618 699 620 699 667 691 680 690 689 691 707 697 708 697 709 697 711 697 722 691 731 699 733 699 734 699 736 701 850 701 850 699 851 699 879 691 887 688 905 690 944 695 945 695 997 690 1014 688 1021 690 1044 697 1046 697 1047 697 1048 697 1065 690 1072 687 1088 690 1120 694 1121 694 1159 688 1166 688 1167 688 1175 695 1177 695 1178 695 1179 695 1181 695 1197 688 1197 673 1193 650 157 655 158 681"/></Shape>
+	    <String CONTENT="board and attacking us. For this reason, we appeal to you with bursting"
+                    HPOS="157"
+                    VPOS="650"
+                    WIDTH="1040"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58c06545"
+                    TAGREFS="LT3626"
+                    BASELINE="158 710 701 706" 
+                    HPOS="157"
+                    VPOS="690"
+                    WIDTH="544"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="158 710 158 725 700 723 701 706 697 690 157 692 158 710"/></Shape>
+	    <String CONTENT="hearts to come to our rescue quickly."
+                    HPOS="157"
+                    VPOS="690"
+                    WIDTH="544"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_186c4c97"
+                    TAGREFS="LT3626"
+                    BASELINE="314 747 1200 741" 
+                    HPOS="312"
+                    VPOS="712"
+                    WIDTH="888"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="314 747 314 763 1200 757 1200 741 1197 724 1132 716 1131 716 1077 723 1032 712 1030 712 1029 712 876 720 847 713 846 713 844 713 769 725 704 714 702 714 701 714 654 727 492 720 490 720 489 720 468 728 419 723 417 723 312 730 314 747"/></Shape>
+	    <String CONTENT="We cannot put on paper details of how these four men behaved"
+                    HPOS="312"
+                    VPOS="712"
+                    WIDTH="888"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fc08541"
+                    TAGREFS="LT3626"
+                    BASELINE="158 786 1188 776" 
+                    HPOS="157"
+                    VPOS="750"
+                    WIDTH="1031"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="158 786 158 798 1186 794 1188 776 1185 759 1066 750 1065 750 1022 759 749 753 748 753 747 753 745 753 734 761 733 761 731 761 628 754 627 754 625 754 596 763 595 763 591 763 498 756 497 756 496 756 475 763 464 756 463 756 461 756 460 756 458 756 457 756 446 764 445 764 438 764 303 757 301 757 234 765 232 765 173 759 172 759 170 759 157 764 158 786"/></Shape>
+	    <String CONTENT="but suffice it to say that we wait only to get away from here. We will"
+                    HPOS="157"
+                    VPOS="750"
+                    WIDTH="1031"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b157ceb"
+                    TAGREFS="LT3626"
+                    BASELINE="159 823 1109 814" 
+                    HPOS="158"
+                    VPOS="792"
+                    WIDTH="951"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="159 823 159 840 401 834 410 837 425 841 427 841 428 841 430 841 446 836 458 833 500 836 563 840 565 840 680 833 731 830 749 832 793 837 795 837 855 830 875 829 909 830 1037 834 1039 834 1108 826 1109 814 1106 796 701 792 700 792 563 800 188 797 187 797 186 797 158 804 159 823"/></Shape>
+	    <String CONTENT="all sign so that you will again see how many await their release."
+                    HPOS="158"
+                    VPOS="792"
+                    WIDTH="951"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2020f789"
+                    TAGREFS="LT3626"
+                    BASELINE="303 856 1200 845" 
+                    HPOS="301"
+                    VPOS="826"
+                    WIDTH="899"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="303 856 303 873 341 880 343 880 344 880 356 873 358 873 359 873 381 881 383 881 384 881 385 881 387 881 398 874 442 878 443 878 445 878 457 873 461 871 467 873 489 880 490 880 492 880 527 873 543 870 562 873 600 878 602 878 603 878 627 873 643 867 753 867 762 871 766 876 767 876 769 876 770 876 844 871 978 865 992 871 995 873 996 873 997 873 1026 871 1124 865 1199 870 1200 845 1196 826 301 836 303 856"/></Shape>
+	    <String CONTENT="May we ask you to send us some consolation quickly as to what"
+                    HPOS="301"
+                    VPOS="826"
+                    WIDTH="899"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee7d75e3"
+                    TAGREFS="LT3626"
+                    BASELINE="158 892 707 888" 
+                    HPOS="157"
+                    VPOS="866"
+                    WIDTH="550"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="158 892 158 909 223 914 224 914 226 914 227 914 227 913 232 909 234 906 238 909 249 914 250 914 252 916 301 916 301 914 303 914 329 907 341 905 424 905 438 906 494 913 496 913 497 913 498 913 511 905 512 905 519 905 584 911 585 911 628 903 631 903 632 903 656 911 657 911 658 911 705 902 707 888 704 870 172 866 170 866 169 866 157 871 158 892"/></Shape>
+	    <String CONTENT="will happen to us in the near future."
+                    HPOS="157"
+                    VPOS="866"
+                    WIDTH="550"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51170f88"
+                    TAGREFS="LT3626"
+                    BASELINE="303 925 1172 917" 
+                    HPOS="301"
+                    VPOS="891"
+                    WIDTH="871"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="303 925 303 940 1171 933 1172 917 1170 899 1035 899 1013 891 1011 891 1010 891 1008 891 978 899 968 891 967 891 966 891 886 891 884 891 883 891 882 891 868 900 866 902 836 902 762 902 742 892 741 892 740 892 738 892 737 892 737 893 736 893 730 902 705 902 697 903 566 903 486 903 452 896 450 896 390 905 388 905 385 905 329 896 328 896 326 896 301 905 303 925"/></Shape>
+	    <String CONTENT="Thanking you in anticipation for your infinite kindness and"
+                    HPOS="301"
+                    VPOS="891"
+                    WIDTH="871"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf863461"
+                    TAGREFS="LT3626"
+                    BASELINE="159 965 1157 954" 
+                    HPOS="158"
+                    VPOS="932"
+                    WIDTH="999"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="159 965 159 980 267 987 268 987 270 987 285 980 289 979 308 980 377 986 379 986 380 986 401 980 410 978 421 979 449 984 450 984 452 984 453 984 460 979 464 978 507 979 600 983 602 983 634 979 658 975 700 978 748 982 749 982 787 978 813 975 1155 975 1157 954 1155 932 940 932 938 932 923 935 902 939 844 936 788 933 787 933 785 933 784 933 784 935 781 938 777 940 760 938 736 933 734 933 686 939 654 942 605 940 518 936 516 936 515 936 514 936 508 942 507 943 504 942 493 936 492 936 490 936 410 943 384 944 365 943 283 938 282 938 281 938 279 938 279 939 272 944 271 946 259 946 184 939 183 939 181 939 158 946 159 965"/></Shape>
+	    <String CONTENT="awaiting from you, in whom we have the greatest confidence, an early"
+                    HPOS="158"
+                    VPOS="932"
+                    WIDTH="999"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe5ca0c9"
+                    TAGREFS="LT3626"
+                    BASELINE="159 1000 762 994" 
+                    HPOS="158"
+                    VPOS="969"
+                    WIDTH="604"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="159 1000 159 1022 230 1024 231 1024 253 1020 285 1013 350 1017 423 1023 424 1023 425 1023 427 1023 436 1016 443 1011 498 1011 519 1013 554 1020 555 1020 595 1012 611 1009 635 1011 724 1020 726 1020 727 1020 762 1008 762 994 759 976 614 969 613 969 552 976 545 976 541 976 511 971 509 971 158 976 159 1000"/></Shape>
+	    <String CONTENT="reply. With best regards and sad hearts."
+                    HPOS="158"
+                    VPOS="969"
+                    WIDTH="604"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fffd3d8"
+                    TAGREFS="LT3626"
+                    BASELINE="434 1030 594 1033" 
+                    HPOS="432"
+                    VPOS="1009"
+                    WIDTH="162"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="434 1030 432 1052 592 1046 594 1033 592 1013 434 1009 434 1030"/></Shape>
+	    <String CONTENT="We remain,"
+                    HPOS="432"
+                    VPOS="1009"
+                    WIDTH="162"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d090169"
+                    TAGREFS="LT3626"
+                    BASELINE="463 1066 1124 1059" 
+                    HPOS="461"
+                    VPOS="1020"
+                    WIDTH="663"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="463 1066 463 1084 962 1084 962 1082 1047 1075 1115 1081 1116 1081 1117 1081 1119 1081 1119 1079 1124 1074 1124 1059 1121 1038 1051 1038 1030 1020 1029 1020 1028 1020 1026 1020 1025 1020 1008 1028 1002 1022 1000 1022 999 1022 893 1020 891 1020 890 1020 889 1020 865 1038 832 1023 831 1023 829 1023 828 1023 802 1031 736 1022 734 1022 733 1022 686 1040 624 1027 623 1027 621 1027 591 1044 540 1044 533 1037 533 1035 532 1035 530 1035 529 1035 527 1035 526 1035 526 1037 519 1044 461 1044 463 1066"/></Shape>
+	    <String CONTENT="The interned Jews on board the tug &quot;Laortis&quot;."
+                    HPOS="461"
+                    VPOS="1020"
+                    WIDTH="663"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9e87b29"
+                    TAGREFS="LT3626"
+                    BASELINE="159 1104 762 1097" 
+                    HPOS="158"
+                    VPOS="1067"
+                    WIDTH="604"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="159 1104 159 1117 201 1125 202 1125 203 1125 217 1118 242 1125 243 1125 245 1125 299 1118 341 1124 343 1124 344 1124 345 1124 354 1117 417 1122 419 1122 420 1122 421 1122 432 1115 518 1122 519 1122 679 1113 745 1119 747 1119 748 1119 749 1119 762 1111 762 1097 759 1077 504 1071 503 1071 501 1071 490 1074 471 1078 439 1073 399 1067 398 1067 396 1067 395 1067 388 1073 384 1077 369 1073 354 1068 352 1068 351 1068 325 1073 293 1077 268 1071 259 1070 257 1070 256 1070 254 1070 254 1071 253 1071 243 1079 232 1071 231 1070 230 1070 228 1070 227 1070 226 1070 224 1070 224 1071 223 1071 217 1077 158 1071 159 1104"/></Shape>
+	    <String CONTENT="Tug &quot;Laortis&quot; near Rajka, July 18, 1938"
+                    HPOS="158"
+                    VPOS="1067"
+                    WIDTH="604"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_debe0f6a"
+                    TAGREFS="LT3626"
+                    BASELINE="162 1292 1178 1283" 
+                    HPOS="161"
+                    VPOS="1241"
+                    WIDTH="1017"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="162 1292 162 1305 1178 1303 1178 1283 1174 1260 924 1260 911 1256 865 1241 864 1241 862 1241 825 1249 809 1243 807 1243 806 1243 804 1243 803 1243 788 1253 770 1246 769 1246 767 1246 766 1246 764 1246 755 1254 745 1263 694 1263 679 1253 662 1243 661 1243 660 1243 658 1243 657 1243 642 1250 628 1243 627 1243 625 1243 470 1245 468 1245 447 1250 407 1261 365 1249 347 1245 345 1245 344 1245 288 1246 286 1246 282 1249 264 1257 231 1248 230 1248 228 1248 161 1248 162 1292"/></Shape>
+	    <String CONTENT="P.S. Taking into consideration possible reprisals and our exposed and"
+                    HPOS="161"
+                    VPOS="1241"
+                    WIDTH="1017"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a95a7ad8"
+                    TAGREFS="LT3626"
+                    BASELINE="164 1330 1149 1319" 
+                    HPOS="162"
+                    VPOS="1296"
+                    WIDTH="987"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="164 1330 164 1354 267 1347 372 1351 406 1351 407 1351 417 1349 447 1343 472 1348 478 1349 479 1349 481 1349 647 1348 649 1348 650 1348 656 1344 665 1340 773 1343 853 1344 854 1344 879 1340 902 1337 941 1338 1024 1344 1025 1344 1026 1344 1046 1337 1051 1336 1148 1336 1149 1319 1145 1296 407 1310 392 1310 319 1304 318 1304 285 1311 283 1311 279 1311 180 1305 179 1305 177 1305 162 1311 164 1330"/></Shape>
+	    <String CONTENT="tolerated position, we urgently ask you to refrain from any kind of"
+                    HPOS="162"
+                    VPOS="1296"
+                    WIDTH="987"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c1b540d"
+                    TAGREFS="LT3626"
+                    BASELINE="165 1366 319 1363" 
+                    HPOS="164"
+                    VPOS="1344"
+                    WIDTH="155"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="165 1366 165 1384 186 1395 187 1395 188 1395 190 1395 191 1395 201 1387 205 1383 243 1381 266 1394 275 1400 277 1400 278 1400 279 1400 319 1399 319 1363 317 1345 164 1344 165 1366"/></Shape>
+	    <String CONTENT="publicity."
+                    HPOS="164"
+                    VPOS="1344"
+                    WIDTH="155"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

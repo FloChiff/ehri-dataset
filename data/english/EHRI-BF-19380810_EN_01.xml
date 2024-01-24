@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380810_EN_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1209"
+          HEIGHT="1653"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1209"
+                  HEIGHT="1653">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6adc9865"
+                    TAGREFS="LT3626"
+                    BASELINE="414 377 686 381" 
+                    HPOS="413"
+                    VPOS="355"
+                    WIDTH="273"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="414 377 413 393 514 404 515 404 685 398 686 381 686 355 414 355 414 377"/></Shape>
+	    <String CONTENT="10th August, 1938."
+                    HPOS="413"
+                    VPOS="355"
+                    WIDTH="273"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_871bbbb8"
+                    TAGREFS="LT3626"
+                    BASELINE="188 495 471 500" 
+                    HPOS="187"
+                    VPOS="451"
+                    WIDTH="284"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="188 495 187 526 295 528 296 528 297 528 318 522 337 515 357 520 363 522 365 522 366 522 470 515 471 500 470 457 328 461 188 451 188 495"/></Shape>
+	    <String CONTENT="Dear Mrs. Schmolka,"
+                    HPOS="187"
+                    VPOS="451"
+                    WIDTH="284"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ad8fe90"
+                    TAGREFS="LT3626"
+                    BASELINE="330 544 938 549" 
+                    HPOS="329"
+                    VPOS="493"
+                    WIDTH="609"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="330 544 329 564 936 568 938 549 937 517 876 530 792 530 770 519 716 494 715 494 598 493 596 493 554 495 552 495 551 495 527 511 518 505 516 505 515 505 514 505 512 505 492 520 482 513 481 513 479 513 478 513 476 513 475 513 475 515 465 522 463 524 448 523 402 516 401 516 399 516 398 516 398 517 391 523 390 524 330 524 330 544"/></Shape>
+	    <String CONTENT="I have received your letter of August 2nd,"
+                    HPOS="329"
+                    VPOS="493"
+                    WIDTH="609"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f9bceeb"
+                    TAGREFS="LT3626"
+                    BASELINE="191 590 970 597" 
+                    HPOS="190"
+                    VPOS="562"
+                    WIDTH="780"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="191 590 190 606 194 610 194 611 195 611 197 611 198 611 344 606 346 606 362 612 363 612 365 612 472 607 497 607 503 608 523 614 525 614 526 614 596 610 632 608 967 617 970 597 969 567 862 577 694 577 671 567 660 564 658 564 657 564 656 564 643 568 621 575 580 575 573 568 570 566 570 564 569 564 567 564 566 564 565 564 555 568 541 574 511 568 501 567 500 567 499 567 494 568 485 573 476 568 464 563 463 563 461 563 460 563 442 568 430 573 387 568 304 562 206 562 205 562 204 562 191 567 191 590"/></Shape>
+	    <String CONTENT="written on behalf of the Hicem of Prague, and relating"
+                    HPOS="190"
+                    VPOS="562"
+                    WIDTH="780"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdeb1181"
+                    TAGREFS="LT3626"
+                    BASELINE="190 639 973 643" 
+                    HPOS="188"
+                    VPOS="619"
+                    WIDTH="785"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="190 639 188 652 257 662 259 662 361 655 369 655 373 655 410 662 412 662 441 657 449 663 450 663 452 663 453 665 587 665 587 663 588 663 601 658 606 657 624 658 665 663 667 663 668 663 678 659 683 657 705 659 745 665 747 665 748 665 758 661 762 658 769 661 781 665 783 665 784 665 971 662 973 643 971 624 190 619 190 639"/></Shape>
+	    <String CONTENT="to the tragic position of the Jews from the Burgenland"
+                    HPOS="188"
+                    VPOS="619"
+                    WIDTH="785"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6bcfbd4"
+                    TAGREFS="LT3626"
+                    BASELINE="190 687 874 691" 
+                    HPOS="188"
+                    VPOS="663"
+                    WIDTH="686"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="190 687 188 701 871 708 874 691 872 672 190 663 190 687"/></Shape>
+	    <String CONTENT="on board the &quot;Laortis&quot;. The Committee of the"
+                    HPOS="188"
+                    VPOS="663"
+                    WIDTH="686"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4f57145"
+                    TAGREFS="LT3626"
+                    BASELINE="190 734 900 739" 
+                    HPOS="188"
+                    VPOS="708"
+                    WIDTH="712"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="188 754 323 750 351 756 366 759 368 759 416 756 478 752 486 756 494 759 496 759 497 759 519 756 541 752 562 754 591 760 592 760 669 754 697 753 715 754 776 761 777 761 811 754 825 761 827 761 828 761 829 761 831 761 839 754 898 754 900 739 898 720 479 710 478 710 446 712 368 716 337 710 330 709 329 709 311 709 209 714 191 708 190 734 188 754"/></Shape>
+	    <String CONTENT="Council for German Jewry carefully considered the"
+                    HPOS="188"
+                    VPOS="708"
+                    WIDTH="712"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e972a427"
+                    TAGREFS="LT3626"
+                    BASELINE="188 781 898 785" 
+                    HPOS="187"
+                    VPOS="756"
+                    WIDTH="711"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="188 781 187 800 446 800 465 801 519 807 521 807 551 801 562 800 576 801 620 807 621 807 652 801 658 800 660 801 669 808 671 808 672 808 674 809 734 809 734 808 799 801 800 801 840 808 842 808 843 808 845 808 845 807 851 801 897 801 898 785 897 765 425 765 385 757 379 757 377 757 362 757 277 763 188 756 188 781"/></Shape>
+	    <String CONTENT="matter, but could not accept the proposal made to"
+                    HPOS="187"
+                    VPOS="756"
+                    WIDTH="711"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_781a7612"
+                    TAGREFS="LT3626"
+                    BASELINE="190 827 970 834" 
+                    HPOS="188"
+                    VPOS="805"
+                    WIDTH="782"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="190 827 188 849 259 851 260 851 261 851 263 851 263 849 271 844 405 849 478 852 479 852 481 852 489 849 501 845 563 849 636 854 638 854 639 854 652 849 657 847 668 848 700 855 701 855 799 848 811 848 813 848 831 856 832 856 834 856 869 849 878 856 879 856 880 856 882 856 883 856 911 849 955 856 956 856 958 856 959 856 969 848 970 834 969 811 190 805 190 827"/></Shape>
+	    <String CONTENT="them that they should contribute £4,000 for the rescue"
+                    HPOS="188"
+                    VPOS="805"
+                    WIDTH="782"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_990b2d59"
+                    TAGREFS="LT3626"
+                    BASELINE="188 876 883 880" 
+                    HPOS="187"
+                    VPOS="851"
+                    WIDTH="696"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="188 876 187 889 880 896 883 880 883 862 867 854 865 854 864 854 785 860 766 854 765 854 763 854 762 854 760 854 751 860 751 862 667 862 664 860 652 852 650 852 649 852 647 852 646 852 645 852 635 859 554 852 552 852 445 859 431 859 430 859 412 851 410 851 409 851 408 851 406 851 398 858 282 851 281 851 188 856 188 876"/></Shape>
+	    <String CONTENT="of four families. This is far in excess of any"
+                    HPOS="187"
+                    VPOS="851"
+                    WIDTH="696"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82c993cf"
+                    TAGREFS="LT3626"
+                    BASELINE="188 924 885 927" 
+                    HPOS="187"
+                    VPOS="898"
+                    WIDTH="698"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="187 943 883 940 885 927 883 907 849 899 847 899 846 899 825 906 824 907 663 907 647 903 624 899 623 899 621 899 620 899 614 903 609 907 537 907 500 902 467 898 465 898 380 900 217 905 190 898 188 924 187 943"/></Shape>
+	    <String CONTENT="grant that has been previously made, and we felt"
+                    HPOS="187"
+                    VPOS="898"
+                    WIDTH="698"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aec2dcd1"
+                    TAGREFS="LT3626"
+                    BASELINE="188 969 940 975" 
+                    HPOS="187"
+                    VPOS="943"
+                    WIDTH="753"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="188 969 187 983 213 993 215 993 216 993 299 986 376 994 377 994 379 994 399 987 431 994 432 994 478 987 479 987 482 987 578 995 580 997 681 997 681 995 682 995 694 989 696 989 712 990 799 997 800 997 802 997 803 997 811 990 814 990 832 997 834 997 835 997 836 997 853 991 857 990 937 991 940 975 938 951 377 951 188 943 188 969"/></Shape>
+	    <String CONTENT="that we should not be justified, in view of the many"
+                    HPOS="187"
+                    VPOS="943"
+                    WIDTH="753"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4550bea8"
+                    TAGREFS="LT3626"
+                    BASELINE="190 1017 967 1023" 
+                    HPOS="188"
+                    VPOS="1000"
+                    WIDTH="779"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="190 1017 188 1038 210 1035 230 1041 242 1044 244 1044 245 1044 246 1044 256 1041 268 1035 277 1041 278 1042 279 1042 281 1042 282 1042 292 1041 319 1034 332 1041 337 1044 339 1044 340 1044 354 1041 366 1038 373 1041 383 1045 384 1045 385 1045 387 1045 388 1045 394 1041 401 1037 417 1041 425 1044 427 1044 428 1044 439 1041 467 1035 548 1042 558 1042 559 1042 563 1042 588 1037 598 1042 603 1046 605 1046 606 1046 607 1048 638 1048 638 1046 639 1046 641 1046 645 1042 653 1037 744 1037 751 1044 754 1045 754 1046 755 1046 756 1046 758 1046 774 1044 791 1040 805 1044 810 1045 811 1045 813 1045 814 1045 816 1045 816 1044 817 1044 823 1038 872 1038 883 1044 891 1048 893 1048 894 1048 966 1044 967 1023 967 1000 190 1000 190 1017"/></Shape>
+	    <String CONTENT="other claims that we must endeavour to meet, to expend"
+                    HPOS="188"
+                    VPOS="1000"
+                    WIDTH="779"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ef35ab7"
+                    TAGREFS="LT3626"
+                    BASELINE="198 1066 871 1070" 
+                    HPOS="197"
+                    VPOS="1045"
+                    WIDTH="674"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="198 1066 197 1079 216 1090 217 1090 219 1090 329 1081 336 1081 337 1081 351 1090 352 1090 354 1090 355 1090 394 1084 454 1092 456 1092 457 1092 459 1092 459 1090 465 1084 468 1082 476 1084 504 1090 505 1090 507 1090 523 1085 533 1082 868 1092 871 1070 869 1052 198 1045 198 1066"/></Shape>
+	    <String CONTENT="so large a sum for the benefit of such a small"
+                    HPOS="197"
+                    VPOS="1045"
+                    WIDTH="674"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06f5ad3f"
+                    TAGREFS="LT3626"
+                    BASELINE="186 1113 885 1118" 
+                    HPOS="184"
+                    VPOS="1092"
+                    WIDTH="701"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="186 1113 184 1125 210 1135 212 1135 213 1135 883 1133 885 1118 885 1099 874 1092 872 1092 871 1092 869 1092 829 1099 813 1092 811 1092 810 1092 186 1093 186 1113"/></Shape>
+	    <String CONTENT="number of persons. I much regret that I do not"
+                    HPOS="184"
+                    VPOS="1092"
+                    WIDTH="701"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d4bb2f4"
+                    TAGREFS="LT3626"
+                    BASELINE="187 1161 897 1165" 
+                    HPOS="186"
+                    VPOS="1139"
+                    WIDTH="711"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="187 1161 186 1183 241 1180 264 1184 292 1190 293 1190 295 1190 311 1184 325 1180 343 1184 366 1190 534 1191 536 1191 537 1191 565 1183 574 1181 591 1183 630 1188 631 1188 708 1183 715 1183 722 1188 722 1190 723 1190 725 1190 726 1190 792 1183 795 1183 823 1192 824 1192 825 1192 827 1192 828 1192 840 1183 896 1183 897 1165 897 1143 187 1139 187 1161"/></Shape>
+	    <String CONTENT="feel able to ask the Committee to reconsider this"
+                    HPOS="186"
+                    VPOS="1139"
+                    WIDTH="711"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8207c0dc"
+                    TAGREFS="LT3626"
+                    BASELINE="186 1206 328 1210" 
+                    HPOS="184"
+                    VPOS="1179"
+                    WIDTH="144"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="186 1206 184 1242 325 1245 328 1210 323 1183 312 1190 271 1181 270 1181 268 1181 267 1181 232 1188 186 1179 186 1206"/></Shape>
+	    <String CONTENT="decision."
+                    HPOS="184"
+                    VPOS="1179"
+                    WIDTH="144"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94d8a5df"
+                    TAGREFS="LT3626"
+                    BASELINE="492 1256 736 1260" 
+                    HPOS="490"
+                    VPOS="1230"
+                    WIDTH="246"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="492 1256 490 1279 653 1275 733 1285 736 1260 734 1241 620 1231 618 1231 581 1238 577 1238 576 1238 566 1230 565 1230 563 1230 562 1230 492 1235 492 1256"/></Shape>
+	    <String CONTENT="Yours sincerely,"
+                    HPOS="490"
+                    VPOS="1230"
+                    WIDTH="246"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0a6a3cf"
+                    TAGREFS="LT3626"
+                    BASELINE="555 1333 778 1337" 
+                    HPOS="554"
+                    VPOS="1304"
+                    WIDTH="224"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1333 554 1358 698 1351 708 1355 726 1363 727 1363 729 1365 763 1365 763 1363 765 1363 766 1363 777 1354 778 1337 777 1307 736 1308 734 1308 733 1308 723 1316 612 1315 603 1310 596 1304 595 1304 594 1304 592 1304 555 1310 555 1333"/></Shape>
+	    <String CONTENT="(Sgd.) SAMUEL."
+                    HPOS="554"
+                    VPOS="1304"
+                    WIDTH="224"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

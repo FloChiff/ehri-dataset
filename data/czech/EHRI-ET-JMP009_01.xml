@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP009_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2464"
+          HEIGHT="3477"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2464"
+                  HEIGHT="3477">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9460cc59"
+                    TAGREFS="LT3628"
+                    BASELINE="1811 133 2142 133" 
+                    HPOS="1804"
+                    VPOS="75"
+                    WIDTH="349"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1811 182 1921 182 1927 185 1950 202 1953 202 1956 202 1959 202 2142 188 2142 133 2153 79 1804 75 1811 133"/></Shape>
+	    <String CONTENT="27. 5. 1945"
+                    HPOS="1804"
+                    VPOS="75"
+                    WIDTH="349"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8d64e55"
+                    TAGREFS="LT3628"
+                    BASELINE="582 362 2388 353" 
+                    HPOS="579"
+                    VPOS="283"
+                    WIDTH="1809"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="582 362 582 388 2388 379 2388 353 2382 307 2092 307 2090 304 2075 289 2072 289 2069 289 2066 289 2063 289 2037 304 2034 304 2032 304 1982 283 1979 283 1976 283 1840 301 1820 304 1800 301 1707 286 1704 286 1701 286 1649 301 1634 304 1632 301 1617 289 1614 289 1611 289 1608 289 1605 289 1579 301 1562 310 1423 310 1408 298 1391 286 1388 286 1385 286 1382 286 1304 298 1249 307 1188 298 1130 289 1011 289 1008 289 1005 289 1002 289 997 295 988 304 974 295 956 289 953 289 950 289 947 289 945 289 936 295 916 310 895 295 887 289 884 289 881 289 878 289 808 295 660 310 579 295 582 362"/></Shape>
+	    <String CONTENT="Mrzne. Nuceně se choulíme zimou a hladem bez slámy ve vago-"
+                    HPOS="579"
+                    VPOS="283"
+                    WIDTH="1809"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44d7a809"
+                    TAGREFS="LT3628"
+                    BASELINE="588 414 2382 402" 
+                    HPOS="585"
+                    VPOS="362"
+                    WIDTH="1797"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="588 414 588 440 2382 425 2382 402 2374 362 585 376 588 414"/></Shape>
+	    <String CONTENT="nech. Nevadí. Hlavně že jedeme pryč odsud, kde život ví-"
+                    HPOS="585"
+                    VPOS="362"
+                    WIDTH="1797"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0af05901"
+                    TAGREFS="LT3628"
+                    BASELINE="588 466 2377 454" 
+                    HPOS="585"
+                    VPOS="420"
+                    WIDTH="1792"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="588 466 588 492 2374 486 2377 454 2368 420 585 428 588 466"/></Shape>
+	    <String CONTENT="ce jak na vlásku – Osvětim. Chceme ještě žít, zatím všech-"
+                    HPOS="585"
+                    VPOS="420"
+                    WIDTH="1792"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbd532d4"
+                    TAGREFS="LT3628"
+                    BASELINE="585 518 1429 509" 
+                    HPOS="582"
+                    VPOS="463"
+                    WIDTH="847"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1191 463 1162 463 1133 463 1104 463 1089 463 582 480 585 518 585 553 1423 556 1429 509 1423 475 1217 463 1191 463"/></Shape>
+	    <String CONTENT="ny. Vždyť nás zbylo tak málo."
+                    HPOS="582"
+                    VPOS="463"
+                    WIDTH="847"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec260405"
+                    TAGREFS="LT3628"
+                    BASELINE="585 611 2336 599" 
+                    HPOS="582"
+                    VPOS="553"
+                    WIDTH="1754"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="585 611 585 646 2336 628 2336 599 2327 556 1243 567 1159 553 1156 553 1153 553 1150 553 1133 567 1026 556 1023 556 950 570 794 556 791 556 788 556 739 570 602 559 600 559 597 559 594 559 582 565 585 611"/></Shape>
+	    <String CONTENT="Mrzne. Vystupujeme. Jakoby nás opouštěla letargie, najednou"
+                    HPOS="582"
+                    VPOS="553"
+                    WIDTH="1754"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fd6d570"
+                    TAGREFS="LT3628"
+                    BASELINE="597 663 2385 654" 
+                    HPOS="594"
+                    VPOS="620"
+                    WIDTH="1791"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="597 663 597 692 2382 692 2385 654 2377 620 594 622 597 663"/></Shape>
+	    <String CONTENT="tisíce otázek. Jak dlouho jsme byly na cestě? Věčnost. Ces-"
+                    HPOS="594"
+                    VPOS="620"
+                    WIDTH="1791"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a06a546"
+                    TAGREFS="LT3628"
+                    BASELINE="597 712 2385 709" 
+                    HPOS="594"
+                    VPOS="666"
+                    WIDTH="1791"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="597 712 597 738 2379 744 2385 709 2379 672 594 666 597 712"/></Shape>
+	    <String CONTENT="ta lesem, tichem, přírodou? Jak dlouho jsme přírodu nevidě-"
+                    HPOS="594"
+                    VPOS="666"
+                    WIDTH="1791"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df35c034"
+                    TAGREFS="LT3628"
+                    BASELINE="594 767 1469 756" 
+                    HPOS="591"
+                    VPOS="721"
+                    WIDTH="878"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="594 767 594 796 1466 796 1469 756 1461 721 591 721 594 767"/></Shape>
+	    <String CONTENT="ly? Léta. Kde jsme? Co bude?"
+                    HPOS="591"
+                    VPOS="721"
+                    WIDTH="878"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32329e79"
+                    TAGREFS="LT3628"
+                    BASELINE="597 819 2333 808" 
+                    HPOS="594"
+                    VPOS="762"
+                    WIDTH="1739"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="739 767 710 767 681 767 675 767 594 779 597 819 597 848 2330 831 2333 808 2324 762 1023 776 985 776 768 767 739 767"/></Shape>
+	    <String CONTENT="A hle, tabulka: &quot;Kr.Gef.Lager Bergen-Belsen&quot;. Cože, jsme"
+                    HPOS="594"
+                    VPOS="762"
+                    WIDTH="1739"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ab6e90b"
+                    TAGREFS="LT3628"
+                    BASELINE="591 866 2336 857" 
+                    HPOS="588"
+                    VPOS="811"
+                    WIDTH="1748"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="591 866 591 889 2330 895 2336 857 2327 811 588 822 591 866"/></Shape>
+	    <String CONTENT="váleční zajatci? &quot;To by bylo báječné&quot;, rozumují děvčata"
+                    HPOS="588"
+                    VPOS="811"
+                    WIDTH="1748"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5720789a"
+                    TAGREFS="LT3628"
+                    BASELINE="591 918 1953 906" 
+                    HPOS="588"
+                    VPOS="872"
+                    WIDTH="1365"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="591 918 591 953 1950 938 1953 906 1945 872 588 872 591 918"/></Shape>
+	    <String CONTENT="a tak pomalu začínáme míti zájem o náš osud."
+                    HPOS="588"
+                    VPOS="872"
+                    WIDTH="1365"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66787276"
+                    TAGREFS="LT3628"
+                    BASELINE="588 985 2397 976" 
+                    HPOS="585"
+                    VPOS="927"
+                    WIDTH="1812"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="588 985 588 1014 2397 1014 2397 976 2391 930 663 927 660 927 585 941 588 985"/></Shape>
+	    <String CONTENT="Došly jsme. Překrásná daleká vřesoviště v plném květu temně"
+                    HPOS="585"
+                    VPOS="927"
+                    WIDTH="1812"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fa0ddd9"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1040 2304 1025" 
+                    HPOS="591"
+                    VPOS="990"
+                    WIDTH="1713"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="594 1040 594 1069 2301 1060 2304 1025 2295 990 591 1002 594 1040"/></Shape>
+	    <String CONTENT="fialová, v nich štíhlé krásné zelené borovice nás ševelem"
+                    HPOS="591"
+                    VPOS="990"
+                    WIDTH="1713"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70d4b093"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1092 2388 1077" 
+                    HPOS="591"
+                    VPOS="1040"
+                    WIDTH="1797"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="594 1092 594 1115 2388 1106 2388 1077 2379 1040 591 1054 594 1092"/></Shape>
+	    <String CONTENT="vítají, to usměvavé slunce v plné své kráse na jasném zim-"
+                    HPOS="591"
+                    VPOS="1040"
+                    WIDTH="1797"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75b729c2"
+                    TAGREFS="LT3628"
+                    BASELINE="591 1141 2324 1127" 
+                    HPOS="588"
+                    VPOS="1086"
+                    WIDTH="1736"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="591 1141 591 1179 2321 1167 2324 1127 2316 1086 588 1098 591 1141"/></Shape>
+	    <String CONTENT="ním nebi – snad není ani možno, abychom šly na smrt. Není"
+                    HPOS="588"
+                    VPOS="1086"
+                    WIDTH="1736"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e36c535"
+                    TAGREFS="LT3628"
+                    BASELINE="588 1190 1037 1185" 
+                    HPOS="585"
+                    VPOS="1147"
+                    WIDTH="452"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="588 1190 588 1222 791 1237 794 1237 797 1237 800 1237 800 1234 814 1222 1034 1222 1037 1185 1029 1147 585 1147 588 1190"/></Shape>
+	    <String CONTENT="možno? Chacha."
+                    HPOS="585"
+                    VPOS="1147"
+                    WIDTH="452"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09622191"
+                    TAGREFS="LT3628"
+                    BASELINE="591 1266 2275 1254" 
+                    HPOS="588"
+                    VPOS="1199"
+                    WIDTH="1687"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="591 1266 591 1295 2272 1280 2275 1254 2269 1214 1901 1199 1898 1199 1895 1199 1843 1214 1840 1214 1829 1214 1553 1202 1550 1202 1434 1216 1423 1216 1394 1216 1058 1205 1055 1205 1052 1205 1008 1219 1002 1222 588 1222 591 1266"/></Shape>
+	    <String CONTENT="Co je to? Několik velkých cirkusových stanů. &quot;To jsou"
+                    HPOS="588"
+                    VPOS="1199"
+                    WIDTH="1687"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab8cd864"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1318 2385 1300" 
+                    HPOS="591"
+                    VPOS="1257"
+                    WIDTH="1794"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2156 1257 2127 1257 2101 1257 2063 1269 672 1269 669 1269 591 1283 594 1318 594 1347 2382 1332 2385 1300 2379 1269 2171 1257 2156 1257"/></Shape>
+	    <String CONTENT="ubikace asi pro 12000 žen&quot;. Na zemi, jedna na druhé, uchva-"
+                    HPOS="591"
+                    VPOS="1257"
+                    WIDTH="1794"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14156e66"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1367 2388 1350" 
+                    HPOS="594"
+                    VPOS="1315"
+                    WIDTH="1794"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="597 1367 597 1396 2385 1382 2388 1350 2379 1315 594 1324 597 1367"/></Shape>
+	    <String CONTENT="titelka pod sebou trochu slámy, slabá nic než deku. Punčochy"
+                    HPOS="594"
+                    VPOS="1315"
+                    WIDTH="1794"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8db7d8d8"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1419 2391 1405" 
+                    HPOS="591"
+                    VPOS="1361"
+                    WIDTH="1800"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="594 1419 594 1448 1626 1457 1629 1457 1823 1440 1826 1440 2026 1454 2029 1454 2032 1454 2072 1440 2240 1451 2243 1451 2246 1451 2249 1451 2272 1437 2362 1451 2365 1451 2368 1451 2371 1451 2391 1434 2391 1405 2382 1361 591 1379 594 1419"/></Shape>
+	    <String CONTENT="nejsou… kalhoty jen kdo měl štěstí… a mrzne den ze dne"
+                    HPOS="591"
+                    VPOS="1361"
+                    WIDTH="1800"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa1b0b66"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1469 1339 1460" 
+                    HPOS="594"
+                    VPOS="1425"
+                    WIDTH="745"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="597 1469 597 1512 1336 1503 1339 1460 1330 1425 594 1425 597 1469"/></Shape>
+	    <String CONTENT="víc – vždyť je listopad."
+                    HPOS="594"
+                    VPOS="1425"
+                    WIDTH="745"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8267041b"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1564 2400 1553" 
+                    HPOS="591"
+                    VPOS="1506"
+                    WIDTH="1809"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="594 1564 594 1593 2397 1590 2400 1553 2394 1509 591 1506 594 1564"/></Shape>
+	    <String CONTENT="Snad existuje něco a někdo v nebi, kdo již nemůže vidět"
+                    HPOS="591"
+                    VPOS="1506"
+                    WIDTH="1809"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c875ec6"
+                    TAGREFS="LT3628"
+                    BASELINE="602 1616 2362 1605" 
+                    HPOS="600"
+                    VPOS="1570"
+                    WIDTH="1762"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="602 1616 602 1651 2359 1634 2362 1605 2353 1570 600 1579 602 1616"/></Shape>
+	    <String CONTENT="tisíce ubohých vychrtlých žen svlékat a mýti se v přírodě"
+                    HPOS="600"
+                    VPOS="1570"
+                    WIDTH="1762"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82b76fdd"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1668 2359 1651" 
+                    HPOS="594"
+                    VPOS="1616"
+                    WIDTH="1765"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="597 1668 597 1695 2356 1686 2359 1651 2350 1616 594 1631 597 1668"/></Shape>
+	    <String CONTENT="a vody je tak spoře a žádný hadr na osušení a zatím co se"
+                    HPOS="594"
+                    VPOS="1616"
+                    WIDTH="1765"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8f9644e"
+                    TAGREFS="LT3628"
+                    BASELINE="594 1718 2348 1706" 
+                    HPOS="591"
+                    VPOS="1671"
+                    WIDTH="1757"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="594 1718 594 1744 2345 1738 2348 1706 2339 1671 591 1671 594 1718"/></Shape>
+	    <String CONTENT="myješ ukradne ti někdo poslední kousek hadru do dřeváku."
+                    HPOS="591"
+                    VPOS="1671"
+                    WIDTH="1757"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8cadd08"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1767 2394 1758" 
+                    HPOS="594"
+                    VPOS="1718"
+                    WIDTH="1800"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="597 1767 597 1799 2391 1790 2394 1758 2385 1718 594 1724 597 1767"/></Shape>
+	    <String CONTENT="Hrozivě se zbarvilo nebe, vítr roznáší předzvěst katastro -"
+                    HPOS="594"
+                    VPOS="1718"
+                    WIDTH="1800"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10de8a9f"
+                    TAGREFS="LT3628"
+                    BASELINE="602 1816 1832 1810" 
+                    HPOS="600"
+                    VPOS="1770"
+                    WIDTH="1232"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="602 1816 602 1842 1826 1845 1832 1810 1823 1770 600 1773 602 1816"/></Shape>
+	    <String CONTENT="fy. Plachty stanů se nadouvají. Je večer."
+                    HPOS="600"
+                    VPOS="1770"
+                    WIDTH="1232"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c110924"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1865 2394 1857" 
+                    HPOS="594"
+                    VPOS="1822"
+                    WIDTH="1800"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="597 1865 597 1903 2391 1883 2394 1857 2385 1822 594 1825 597 1865"/></Shape>
+	    <String CONTENT="Mimoděk si vzpomenu na knihu &quot;Když nastaly deště&quot; a cí-"
+                    HPOS="594"
+                    VPOS="1822"
+                    WIDTH="1800"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f958d72"
+                    TAGREFS="LT3628"
+                    BASELINE="602 1915 2272 1906" 
+                    HPOS="600"
+                    VPOS="1868"
+                    WIDTH="1672"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="602 1915 602 1944 2269 1935 2272 1906 2263 1868 600 1877 602 1915"/></Shape>
+	    <String CONTENT="tím, že se blíží něco velikého. Již jen blesky osvětlují"
+                    HPOS="600"
+                    VPOS="1868"
+                    WIDTH="1672"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdfffec9"
+                    TAGREFS="LT3628"
+                    BASELINE="597 1967 2359 1950" 
+                    HPOS="594"
+                    VPOS="1909"
+                    WIDTH="1765"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="597 1967 597 1996 2356 1981 2359 1950 2350 1909 594 1923 597 1967"/></Shape>
+	    <String CONTENT="krajinu hrozivě temnou, již jen meluzinu, ne slova sousedky"
+                    HPOS="594"
+                    VPOS="1909"
+                    WIDTH="1765"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_444a6f88"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2019 2394 2005" 
+                    HPOS="600"
+                    VPOS="1967"
+                    WIDTH="1794"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="602 2019 602 2054 2391 2028 2394 2005 2385 1967 600 1978 602 2019"/></Shape>
+	    <String CONTENT="slyšíš – plachty se vzdouvají víc a více a v jejich boji s"
+                    HPOS="600"
+                    VPOS="1967"
+                    WIDTH="1794"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d59c180d"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2068 2336 2057" 
+                    HPOS="597"
+                    VPOS="2022"
+                    WIDTH="1739"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="600 2068 600 2094 2333 2083 2336 2057 2327 2022 597 2031 600 2068"/></Shape>
+	    <String CONTENT="dřevěnými pilíři zaniká nářek našich nemocných a o pomoc"
+                    HPOS="597"
+                    VPOS="2022"
+                    WIDTH="1739"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_765be59a"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2118 2426 2106" 
+                    HPOS="597"
+                    VPOS="2063"
+                    WIDTH="1829"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="600 2118 600 2147 2426 2141 2426 2106 2417 2063 597 2077 600 2118"/></Shape>
+	    <String CONTENT="volání. Najednou každá žijeme pro sebe. Kdo nemyslíte na své"
+                    HPOS="597"
+                    VPOS="2063"
+                    WIDTH="1829"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbc63bff"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2167 1678 2158" 
+                    HPOS="597"
+                    VPOS="2123"
+                    WIDTH="1081"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="600 2167 600 2202 1675 2193 1678 2158 1669 2123 597 2126 600 2167"/></Shape>
+	    <String CONTENT="nejbližší? Rozhodná hodina nadešla."
+                    HPOS="597"
+                    VPOS="2123"
+                    WIDTH="1081"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64230b84"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2213 2365 2202" 
+                    HPOS="600"
+                    VPOS="2167"
+                    WIDTH="1765"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="602 2213 602 2251 2362 2236 2365 2202 2356 2167 600 2176 602 2213"/></Shape>
+	    <String CONTENT="Hlavní stožár stanu povolil, plachty a dřevo sjíždějí mezi"
+                    HPOS="600"
+                    VPOS="2167"
+                    WIDTH="1765"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69fb346b"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2268 2417 2257" 
+                    HPOS="600"
+                    VPOS="2219"
+                    WIDTH="1817"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="602 2268 602 2300 2417 2291 2417 2257 2408 2219 600 2228 602 2268"/></Shape>
+	    <String CONTENT="těla – panika, křik, nářek,… Evo, Nito, Anči, Valino – žije-"
+                    HPOS="600"
+                    VPOS="2219"
+                    WIDTH="1817"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e4854af"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2320 2385 2306" 
+                    HPOS="600"
+                    VPOS="2271"
+                    WIDTH="1785"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="602 2320 602 2352 2382 2332 2385 2306 2377 2271 600 2283 602 2320"/></Shape>
+	    <String CONTENT="te? Cože Helga? ... A ráno se osvětlilo kdo nás opus-"
+                    HPOS="600"
+                    VPOS="2271"
+                    WIDTH="1785"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d96316f1"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2370 2388 2355" 
+                    HPOS="600"
+                    VPOS="2318"
+                    WIDTH="1788"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="602 2370 602 2399 1669 2407 1672 2407 1675 2407 1719 2393 1991 2404 1994 2404 2388 2384 2388 2355 2379 2318 600 2329 602 2370"/></Shape>
+	    <String CONTENT="tily. Ze všech dvanácti stanů zůstal stát jediný silně po-"
+                    HPOS="600"
+                    VPOS="2318"
+                    WIDTH="1788"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f103d96b"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2416 855 2416" 
+                    HPOS="602"
+                    VPOS="2375"
+                    WIDTH="253"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="602 2416 602 2454 855 2454 855 2416 855 2381 602 2375 602 2416"/></Shape>
+	    <String CONTENT="škozený."
+                    HPOS="602"
+                    VPOS="2375"
+                    WIDTH="253"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79ff1823"
+                    TAGREFS="LT3628"
+                    BASELINE="594 2517 2377 2512" 
+                    HPOS="591"
+                    VPOS="2451"
+                    WIDTH="1786"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="594 2517 594 2544 2371 2546 2377 2512 2371 2468 2240 2451 2237 2451 2234 2451 2200 2465 2194 2465 2058 2451 2055 2451 2052 2451 2049 2451 2049 2454 2037 2465 2034 2468 1661 2468 1655 2462 1643 2451 1640 2451 1637 2451 1634 2451 1632 2451 1608 2462 1600 2465 1574 2462 1507 2451 1504 2451 1501 2451 1498 2451 1487 2462 1475 2468 591 2457 594 2517"/></Shape>
+	    <String CONTENT="Této hrůzné noci, ve které leckteré z nás vlasy prokvetly,"
+                    HPOS="591"
+                    VPOS="2451"
+                    WIDTH="1786"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ce1d2c6"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2570 2417 2558" 
+                    HPOS="597"
+                    VPOS="2517"
+                    WIDTH="1820"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="600 2570 600 2599 2414 2584 2417 2558 2408 2517 597 2520 600 2570"/></Shape>
+	    <String CONTENT="následovalo 36 hodin &quot;na volném vzduchu&quot; než jsme si smě-"
+                    HPOS="597"
+                    VPOS="2517"
+                    WIDTH="1820"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf611e42"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2622 2423 2607" 
+                    HPOS="597"
+                    VPOS="2572"
+                    WIDTH="1826"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="600 2622 600 2642 2423 2636 2423 2607 2414 2572 597 2575 600 2622"/></Shape>
+	    <String CONTENT="ly zříditi baráky dosud neobydlené, kde jsme ve třípatrových"
+                    HPOS="597"
+                    VPOS="2572"
+                    WIDTH="1826"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a327dc4c"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2668 2433 2657" 
+                    HPOS="594"
+                    VPOS="2622"
+                    WIDTH="1838"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="597 2665 597 2700 2432 2683 2432 2654 2423 2622 594 2622 597 2665"/></Shape>
+	    <String CONTENT="kavalcích spaly 2 na jedné posteli a měly každá jedinou de-"
+                    HPOS="594"
+                    VPOS="2622"
+                    WIDTH="1838"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6909bae"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2723 2414 2712" 
+                    HPOS="597"
+                    VPOS="2674"
+                    WIDTH="1817"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="600 2723 600 2758 2411 2746 2414 2712 2406 2674 597 2680 600 2723"/></Shape>
+	    <String CONTENT="ku, pod sebou tenký slamníček. A zde jsme prožívaly prosinec,"
+                    HPOS="597"
+                    VPOS="2674"
+                    WIDTH="1817"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63457af5"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2770 2391 2758" 
+                    HPOS="600"
+                    VPOS="2723"
+                    WIDTH="1791"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="602 2770 602 2801 2388 2793 2391 2758 2382 2723 600 2732 602 2770"/></Shape>
+	    <String CONTENT="celkem bez oděvu, bez lžíce a kapesníku a jako děti jsme se"
+                    HPOS="600"
+                    VPOS="2723"
+                    WIDTH="1791"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e343e6f4"
+                    TAGREFS="LT3628"
+                    BASELINE="605 2819 2417 2807" 
+                    HPOS="602"
+                    VPOS="2772"
+                    WIDTH="1815"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="605 2819 608 2862 669 2848 2414 2848 2417 2807 2408 2772 602 2778 605 2819"/></Shape>
+	    <String CONTENT="těšily na Štědrý večer, kdy bychom snad mohly dostat o kou-"
+                    HPOS="602"
+                    VPOS="2772"
+                    WIDTH="1815"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91bf17d1"
+                    TAGREFS="LT3628"
+                    BASELINE="600 2871 1104 2865" 
+                    HPOS="597"
+                    VPOS="2830"
+                    WIDTH="507"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="600 2871 600 2909 1101 2909 1104 2865 1095 2830 597 2833 600 2871"/></Shape>
+	    <String CONTENT="sek chleba více."
+                    HPOS="597"
+                    VPOS="2830"
+                    WIDTH="507"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35b1683d"
+                    TAGREFS="LT3628"
+                    BASELINE="597 2943 2420 2929" 
+                    HPOS="594"
+                    VPOS="2888"
+                    WIDTH="1826"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="597 2943 597 2969 2420 2955 2420 2929 2414 2888 594 2888 597 2943"/></Shape>
+	    <String CONTENT="Kolem 12. prosince se roznesly pověsti, že se tábor bude lik-"
+                    HPOS="594"
+                    VPOS="2888"
+                    WIDTH="1826"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c69e11a7"
+                    TAGREFS="LT3628"
+                    BASELINE="602 2996 2464 2981" 
+                    HPOS="600"
+                    VPOS="2938"
+                    WIDTH="1840"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="602 3022 2437 3016 2440 2981 2432 2938 600 2952 602 2996"/></Shape>
+	    <String CONTENT="vidovati a pod. a skoro denně se vybíraly větší i menší sku-"
+                    HPOS="600"
+                    VPOS="2938"
+                    WIDTH="1840"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe598814"
+                    TAGREFS="LT3628"
+                    BASELINE="602 3048 2423 3030" 
+                    HPOS="600"
+                    VPOS="2993"
+                    WIDTH="1823"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="602 3048 602 3077 2420 3062 2423 3030 2414 2993 600 3007 602 3048"/></Shape>
+	    <String CONTENT="piny, které byly poslány na práci. Zajímavo, že my Češky jsme"
+                    HPOS="600"
+                    VPOS="2993"
+                    WIDTH="1823"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec784131"
+                    TAGREFS="LT3628"
+                    BASELINE="602 3097 2368 3082" 
+                    HPOS="600"
+                    VPOS="3045"
+                    WIDTH="1768"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="602 3097 602 3123 2365 3117 2368 3082 2359 3045 600 3056 602 3097"/></Shape>
+	    <String CONTENT="vždy disciplinovaně nastupovaly zatím co vězeňkyně jiných"
+                    HPOS="600"
+                    VPOS="3045"
+                    WIDTH="1768"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a67ae1a"
+                    TAGREFS="LT3628"
+                    BASELINE="602 3146 2379 3132" 
+                    HPOS="600"
+                    VPOS="3088"
+                    WIDTH="1779"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="602 3146 602 3175 2377 3166 2379 3132 2371 3088 600 3106 602 3146"/></Shape>
+	    <String CONTENT="národností se soustavně vyhýbaly, kličkovaly apod. Do 20."
+                    HPOS="600"
+                    VPOS="3088"
+                    WIDTH="1779"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43a6aad4"
+                    TAGREFS="LT3628"
+                    BASELINE="600 3198 2397 3184" 
+                    HPOS="597"
+                    VPOS="3146"
+                    WIDTH="1800"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="600 3198 600 3224 2397 3204 2397 3184 2388 3146 597 3155 600 3198"/></Shape>
+	    <String CONTENT="prosince jsme vybrány nebyly – nikdo nás nechtěl, byly jsme"
+                    HPOS="597"
+                    VPOS="3146"
+                    WIDTH="1800"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_128fef57"
+                    TAGREFS="LT3628"
+                    BASELINE="608 3248 2440 3233" 
+                    HPOS="602"
+                    VPOS="3195"
+                    WIDTH="1835"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="605 3245 605 3279 2437 3259 2437 3230 2429 3195 602 3204 605 3245"/></Shape>
+	    <String CONTENT="příliš zubožené. &quot;Teď máme přes svátky pokoj&quot;, rozumova-"
+                    HPOS="602"
+                    VPOS="3195"
+                    WIDTH="1835"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12444c4f"
+                    TAGREFS="LT3628"
+                    BASELINE="608 3294 2333 3282" 
+                    HPOS="605"
+                    VPOS="3248"
+                    WIDTH="1728"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="608 3294 608 3335 1107 3329 1118 3335 1133 3343 1136 3343 1139 3343 1142 3343 1188 3332 1208 3329 1217 3332 1232 3343 1234 3343 1237 3343 1240 3343 1243 3343 1266 3332 1278 3329 1304 3332 1391 3346 1394 3346 1397 3346 1400 3346 1417 3332 1423 3329 1429 3332 1461 3346 1463 3346 1466 3346 1469 3346 1472 3346 1492 3332 1498 3329 1513 3332 1565 3343 1568 3343 1776 3329 1898 3323 1916 3329 1942 3340 1945 3340 1948 3340 2330 3326 2333 3282 2324 3248 605 3248 608 3294"/></Shape>
+	    <String CONTENT="la jsem, ale měly jsme štěstí. Právě 24. prosince, kdy jsme"
+                    HPOS="605"
+                    VPOS="3248"
+                    WIDTH="1728"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19400712-US_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2067"
+          HEIGHT="3177"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2067"
+                  HEIGHT="3177">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_eaef5d54"
+                    TAGREFS="LT3626"
+                    BASELINE="212 1614 609 1622" 
+                    HPOS="209"
+                    VPOS="1580"
+                    WIDTH="400"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="212 1614 209 1641 238 1654 241 1654 243 1654 323 1644 339 1657 341 1657 344 1657 347 1657 606 1646 609 1622 606 1588 212 1580 212 1614"/></Shape>
+	    <String CONTENT="The Honorable"
+                    HPOS="209"
+                    VPOS="1580"
+                    WIDTH="400"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c7ef6a8"
+                    TAGREFS="LT3626"
+                    BASELINE="349 1710 1012 1715" 
+                    HPOS="347"
+                    VPOS="1675"
+                    WIDTH="665"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="349 1710 347 1734 1007 1739 1012 1715 1012 1681 349 1675 349 1710"/></Shape>
+	    <String CONTENT="The Secretary of State,"
+                    HPOS="347"
+                    VPOS="1675"
+                    WIDTH="665"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7703ee8"
+                    TAGREFS="LT3626"
+                    BASELINE="484 1800 813 1805" 
+                    HPOS="482"
+                    VPOS="1765"
+                    WIDTH="331"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="484 1800 482 1837 810 1837 813 1805 810 1771 484 1765 484 1800"/></Shape>
+	    <String CONTENT="Washington."
+                    HPOS="482"
+                    VPOS="1765"
+                    WIDTH="331"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4acdaa30"
+                    TAGREFS="LT3626"
+                    BASELINE="209 1935 347 1940" 
+                    HPOS="206"
+                    VPOS="1900"
+                    WIDTH="141"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="209 1935 206 1959 291 1977 294 1977 296 1977 344 1964 347 1940 344 1906 209 1900 209 1935"/></Shape>
+	    <String CONTENT="Sir:"
+                    HPOS="206"
+                    VPOS="1900"
+                    WIDTH="141"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49689850"
+                    TAGREFS="LT3626"
+                    BASELINE="349 2072 1711 2072" 
+                    HPOS="349"
+                    VPOS="2041"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="349 2072 349 2099 1711 2099 1711 2072 1711 2041 349 2041 349 2072"/></Shape>
+	    <String CONTENT="I have the honor to report that the new Minister"
+                    HPOS="349"
+                    VPOS="2041"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33e0717b"
+                    TAGREFS="LT3626"
+                    BASELINE="204 2160 1605 2168" 
+                    HPOS="201"
+                    VPOS="2128"
+                    WIDTH="1404"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="204 2160 201 2186 230 2200 233 2200 235 2200 1603 2192 1605 2168 1605 2136 204 2128 204 2160"/></Shape>
+	    <String CONTENT="of Propaganda, Mr. Nichifor Crainic, received the"
+                    HPOS="201"
+                    VPOS="2128"
+                    WIDTH="1404"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cc26d09"
+                    TAGREFS="LT3626"
+                    BASELINE="212 2260 1658 2259" 
+                    HPOS="211"
+                    VPOS="2226"
+                    WIDTH="1445"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="211 2258 211 2282 1656 2282 1656 2258 1656 2226 211 2226 211 2258"/></Shape>
+	    <String CONTENT="directors of Bucharest newspapers on June 8th last,"
+                    HPOS="211"
+                    VPOS="2226"
+                    WIDTH="1445"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6a6c081"
+                    TAGREFS="LT3626"
+                    BASELINE="214 2348 1707 2356" 
+                    HPOS="209"
+                    VPOS="2311"
+                    WIDTH="1497"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="211 2345 209 2366 1701 2382 1706 2353 1706 2311 211 2311 211 2345"/></Shape>
+	    <String CONTENT="which time he read to them a prepared statement which"
+                    HPOS="209"
+                    VPOS="2311"
+                    WIDTH="1497"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fde00611"
+                    TAGREFS="LT3626"
+                    BASELINE="214 2438 1126 2443" 
+                    HPOS="212"
+                    VPOS="2403"
+                    WIDTH="914"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="214 2438 212 2462 1120 2467 1126 2443 1123 2409 214 2403 214 2438"/></Shape>
+	    <String CONTENT="included the following passages:"
+                    HPOS="212"
+                    VPOS="2403"
+                    WIDTH="914"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c99326b3"
+                    TAGREFS="LT3626"
+                    BASELINE="469 2570 1515 2578" 
+                    HPOS="466"
+                    VPOS="2525"
+                    WIDTH="1049"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="469 2570 466 2597 1356 2613 1359 2613 1513 2599 1515 2578 1515 2541 1476 2528 1473 2528 1470 2528 1393 2541 1364 2528 1362 2528 1142 2525 1139 2525 1041 2538 1036 2541 954 2541 954 2538 940 2528 940 2525 938 2525 935 2525 932 2525 930 2525 879 2538 871 2538 469 2536 469 2570"/></Shape>
+	    <String CONTENT="&quot;In the new regime inaugurated by His"
+                    HPOS="466"
+                    VPOS="2525"
+                    WIDTH="1049"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a5534cb"
+                    TAGREFS="LT3626"
+                    BASELINE="349 2621 1592 2621" 
+                    HPOS="349"
+                    VPOS="2589"
+                    WIDTH="1243"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="349 2621 349 2647 1592 2647 1592 2621 1592 2589 349 2589 349 2621"/></Shape>
+	    <String CONTENT="Majesty the King the right of daily address-"
+                    HPOS="349"
+                    VPOS="2589"
+                    WIDTH="1243"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4d88763"
+                    TAGREFS="LT3626"
+                    BASELINE="363 2671 1590 2671" 
+                    HPOS="363"
+                    VPOS="2639"
+                    WIDTH="1227"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="363 2671 363 2695 1590 2695 1590 2671 1590 2639 363 2639 363 2671"/></Shape>
+	    <String CONTENT="ing the Rumanian nation belongs to Rumanians"
+                    HPOS="363"
+                    VPOS="2639"
+                    WIDTH="1227"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4220d040"
+                    TAGREFS="LT3626"
+                    BASELINE="357 2716 1592 2716" 
+                    HPOS="357"
+                    VPOS="2684"
+                    WIDTH="1235"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="357 2716 357 2737 1592 2737 1592 2716 1592 2684 357 2684 357 2716"/></Shape>
+	    <String CONTENT="of pure blood. Nationality is a fatality of"
+                    HPOS="357"
+                    VPOS="2684"
+                    WIDTH="1235"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_012b9357"
+                    TAGREFS="LT3626"
+                    BASELINE="363 2758 1460 2763" 
+                    HPOS="360"
+                    VPOS="2724"
+                    WIDTH="1100"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="363 2758 360 2777 1454 2782 1460 2763 1457 2729 363 2724 363 2758"/></Shape>
+	    <String CONTENT="the blood, and a stranger tends only to"
+                    HPOS="360"
+                    VPOS="2724"
+                    WIDTH="1100"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c094d7a3"
+                    TAGREFS="LT3626"
+                    BASELINE="363 2808 1510 2801" 
+                    HPOS="360"
+                    VPOS="2769"
+                    WIDTH="1150"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="363 2808 363 2832 1507 2824 1510 2801 1502 2769 360 2774 363 2808"/></Shape>
+	    <String CONTENT="express his own self when he utilizes our"
+                    HPOS="360"
+                    VPOS="2769"
+                    WIDTH="1150"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eaf7efac"
+                    TAGREFS="LT3626"
+                    BASELINE="365 2851 1624 2854" 
+                    HPOS="363"
+                    VPOS="2816"
+                    WIDTH="1261"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="365 2851 363 2875 1621 2875 1624 2854 1621 2819 365 2816 365 2851"/></Shape>
+	    <String CONTENT="language. A long and grievous experience has"
+                    HPOS="363"
+                    VPOS="2816"
+                    WIDTH="1261"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8498984a"
+                    TAGREFS="LT3626"
+                    BASELINE="360 2896 1643 2896" 
+                    HPOS="360"
+                    VPOS="2864"
+                    WIDTH="1283"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="360 2896 360 2920 1643 2920 1643 2896 1643 2864 360 2864 360 2896"/></Shape>
+	    <String CONTENT="taught us that the press written by Jews never"
+                    HPOS="360"
+                    VPOS="2864"
+                    WIDTH="1283"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb305eb3"
+                    TAGREFS="LT3626"
+                    BASELINE="360 2946 1645 2946" 
+                    HPOS="360"
+                    VPOS="2912"
+                    WIDTH="1285"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="360 2946 360 2973 1645 2973 1645 2946 1645 2912 360 2912 360 2946"/></Shape>
+	    <String CONTENT="succeeds in integrating itself into the ideals"
+                    HPOS="360"
+                    VPOS="2912"
+                    WIDTH="1285"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff96e268"
+                    TAGREFS="LT3626"
+                    BASELINE="1566 3036 1653 3028" 
+                    HPOS="1560"
+                    VPOS="2994"
+                    WIDTH="93"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1566 3036 1566 3057 1590 3068 1592 3068 1595 3068 1597 3068 1653 3047 1653 3028 1645 2994 1560 2999 1566 3036"/></Shape>
+	    <String CONTENT="of"
+                    HPOS="1560"
+                    VPOS="2994"
+                    WIDTH="93"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

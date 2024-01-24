@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380111_DE_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="3815"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="3815">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c6a60b6a"
+                    TAGREFS="LT3625"
+                    BASELINE="899 324 1465 333" 
+                    HPOS="896"
+                    VPOS="288"
+                    WIDTH="569"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="896 356 1459 365 1465 333 1465 289 899 288 899 324"/></Shape>
+	    <String CONTENT="Bundeskanzleramt"
+                    HPOS="896"
+                    VPOS="288"
+                    WIDTH="569"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_381d2337"
+                    TAGREFS="LT3625"
+                    BASELINE="311 429 2022 441" 
+                    HPOS="308"
+                    VPOS="375"
+                    WIDTH="1714"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="311 429 308 464 365 483 368 483 371 483 731 467 813 486 817 486 820 489 1033 489 1033 486 1036 486 1039 486 1058 470 1627 492 1631 492 2018 473 2022 441 2022 387 311 375 311 429"/></Shape>
+	    <String CONTENT="( Generaldirektion für die öffentliche Sicherheit )"
+                    HPOS="308"
+                    VPOS="375"
+                    WIDTH="1714"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_333aa9f8"
+                    TAGREFS="LT3625"
+                    BASELINE="168 743 772 750" 
+                    HPOS="165"
+                    VPOS="677"
+                    WIDTH="607"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="168 743 165 775 766 785 772 750 772 705 724 686 721 686 718 686 546 693 419 699 375 686 356 680 352 680 349 680 327 683 263 696 168 677 168 743"/></Shape>
+	    <String CONTENT="G.D.301.758-St.B."
+                    HPOS="165"
+                    VPOS="677"
+                    WIDTH="607"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_934ee51d"
+                    TAGREFS="LT3625"
+                    BASELINE="174 845 1198 867" 
+                    HPOS="171"
+                    VPOS="782"
+                    WIDTH="1027"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="171 874 1192 906 1198 867 1198 823 1115 804 1112 804 1109 804 963 813 890 820 871 810 845 797 842 797 839 797 766 807 686 817 645 801 619 791 616 791 613 791 569 797 483 813 403 794 400 794 397 794 244 807 178 782 174 845 171 874"/></Shape>
+	    <String CONTENT="Verhinderung des unerwünschten"
+                    HPOS="171"
+                    VPOS="782"
+                    WIDTH="1027"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_876e709c"
+                    TAGREFS="LT3625"
+                    BASELINE="184 902 896 915" 
+                    HPOS="181"
+                    VPOS="861"
+                    WIDTH="715"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="184 902 181 947 890 966 896 915 893 874 184 861 184 902"/></Shape>
+	    <String CONTENT="Zuzuges aus Rumänien."
+                    HPOS="181"
+                    VPOS="861"
+                    WIDTH="715"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8eff836f"
+                    TAGREFS="LT3625"
+                    BASELINE="1548 651 2018 651" 
+                    HPOS="1548"
+                    VPOS="569"
+                    WIDTH="470"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="1548 651 1548 699 2018 686 2018 651 2015 594 1907 604 1894 597 1863 569 1859 569 1856 569 1739 569 1735 569 1548 604 1548 651"/></Shape>
+	    <String CONTENT="Eigenhändig !"
+                    HPOS="1548"
+                    VPOS="569"
+                    WIDTH="470"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93596fc3"
+                    TAGREFS="LT3625"
+                    BASELINE="1608 813 2085 813" 
+                    HPOS="1608"
+                    VPOS="769"
+                    WIDTH="477"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1608 813 1608 864 1650 883 1653 883 1656 886 1809 886 1809 883 1812 883 1859 867 1901 855 2082 867 2085 813 2085 769 1608 769 1608 813"/></Shape>
+	    <String CONTENT="Vertraulich !"
+                    HPOS="1608"
+                    VPOS="769"
+                    WIDTH="477"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e850f5f"
+                    TAGREFS="LT3625"
+                    BASELINE="168 1169 429 1169" 
+                    HPOS="168"
+                    VPOS="1115"
+                    WIDTH="261"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="168 1169 168 1204 244 1239 247 1239 251 1243 340 1243 340 1239 343 1239 346 1239 346 1236 371 1211 429 1204 429 1169 426 1115 168 1122 168 1169"/></Shape>
+	    <String CONTENT="An die"
+                    HPOS="168"
+                    VPOS="1115"
+                    WIDTH="261"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a5eb4a8"
+                    TAGREFS="LT3625"
+                    BASELINE="530 1328 1907 1344" 
+                    HPOS="527"
+                    VPOS="1268"
+                    WIDTH="1380"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="527 1382 1557 1382 1580 1382 1739 1398 1742 1398 1904 1382 1907 1344 1904 1297 1360 1297 1322 1284 1303 1278 1300 1278 1297 1278 1230 1281 1103 1290 1080 1278 1071 1274 1068 1274 1065 1274 1004 1278 810 1287 683 1271 680 1271 677 1271 674 1271 588 1284 534 1268 530 1328 527 1382"/></Shape>
+	    <String CONTENT="Herren Leiter aller Grenzkontrollstellen."
+                    HPOS="527"
+                    VPOS="1268"
+                    WIDTH="1380"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af943620"
+                    TAGREFS="LT3625"
+                    BASELINE="383 1653 2273 1665" 
+                    HPOS="378"
+                    VPOS="1602"
+                    WIDTH="1892"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="381 1649 378 1688 1367 1707 1370 1707 1685 1694 1710 1694 1716 1694 1796 1710 1799 1710 2266 1694 2270 1662 2266 1602 381 1602 381 1649"/></Shape>
+	    <String CONTENT="In Ergänzung der im Wege der Herren Sicherheitsdirektoren"
+                    HPOS="378"
+                    VPOS="1602"
+                    WIDTH="1892"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d518d1cc"
+                    TAGREFS="LT3625"
+                    BASELINE="165 1758 2270 1767" 
+                    HPOS="165"
+                    VPOS="1704"
+                    WIDTH="2105"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="165 1758 165 1796 1567 1796 1573 1796 1634 1812 1637 1812 1640 1812 2266 1796 2270 1767 2266 1723 165 1704 165 1758"/></Shape>
+	    <String CONTENT="am 31. Dezember 1937, wegen Hintanhaltung des unerwünschten Zu-"
+                    HPOS="165"
+                    VPOS="1704"
+                    WIDTH="2105"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b42df039"
+                    TAGREFS="LT3625"
+                    BASELINE="168 1866 2241 1872" 
+                    HPOS="165"
+                    VPOS="1815"
+                    WIDTH="2076"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="168 1866 165 1897 254 1917 257 1917 2238 1907 2241 1872 2238 1815 168 1815 168 1866"/></Shape>
+	    <String CONTENT="zuges bedenklicher Personen aus Rumänien hinausgegebenen Wei-"
+                    HPOS="165"
+                    VPOS="1815"
+                    WIDTH="2076"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ffa1064"
+                    TAGREFS="LT3625"
+                    BASELINE="165 1974 2244 1980" 
+                    HPOS="162"
+                    VPOS="1920"
+                    WIDTH="2082"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="165 1974 162 2002 247 2021 251 2021 1052 2009 1204 2025 1208 2025 2241 2009 2244 1980 2241 1936 165 1920 165 1974"/></Shape>
+	    <String CONTENT="sungen wird eröffnet, dass die österreichischen Vertretungsbe-"
+                    HPOS="162"
+                    VPOS="1920"
+                    WIDTH="2082"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_173ad289"
+                    TAGREFS="LT3625"
+                    BASELINE="162 2075 2212 2082" 
+                    HPOS="158"
+                    VPOS="2034"
+                    WIDTH="2054"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="162 2075 158 2107 193 2126 197 2126 200 2126 2209 2114 2212 2082 2209 2041 162 2034 162 2075"/></Shape>
+	    <String CONTENT="hörden in Rumänien angewiesen wurden, die Erteilung von Sicht-"
+                    HPOS="158"
+                    VPOS="2034"
+                    WIDTH="2054"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e7c832e"
+                    TAGREFS="LT3625"
+                    BASELINE="158 2193 2327 2193" 
+                    HPOS="158"
+                    VPOS="2139"
+                    WIDTH="2169"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="158 2193 158 2225 2324 2228 2327 2193 2327 2152 158 2139 158 2193"/></Shape>
+	    <String CONTENT="vermerken an solche Personen möglichst einzuschränken, beziehungs-"
+                    HPOS="158"
+                    VPOS="2139"
+                    WIDTH="2169"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cbd6da0"
+                    TAGREFS="LT3625"
+                    BASELINE="162 2301 2270 2301" 
+                    HPOS="162"
+                    VPOS="2247"
+                    WIDTH="2108"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="162 2301 162 2336 2270 2336 2270 2301 2270 2247 162 2247 162 2301"/></Shape>
+	    <String CONTENT="weise in allen Fällen, in denen ein dauernden Zuzug zu befürch-"
+                    HPOS="162"
+                    VPOS="2247"
+                    WIDTH="2108"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_526370de"
+                    TAGREFS="LT3625"
+                    BASELINE="162 2409 2244 2403" 
+                    HPOS="158"
+                    VPOS="2362"
+                    WIDTH="2086"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="162 2409 162 2438 2238 2444 2244 2403 2235 2362 158 2368 162 2409"/></Shape>
+	    <String CONTENT="ten ist oder es sich um die Einreise von Personen handelt, die"
+                    HPOS="158"
+                    VPOS="2362"
+                    WIDTH="2086"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ab95dd8"
+                    TAGREFS="LT3625"
+                    BASELINE="158 2517 2155 2517" 
+                    HPOS="158"
+                    VPOS="2473"
+                    WIDTH="1997"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="158 2517 158 2549 2155 2549 2155 2517 2155 2476 158 2473 158 2517"/></Shape>
+	    <String CONTENT="wirtschaftlich schwach oder aus anderen Gründen unerwünscht"
+                    HPOS="158"
+                    VPOS="2473"
+                    WIDTH="1997"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31d81bbd"
+                    TAGREFS="LT3625"
+                    BASELINE="155 2629 2174 2629" 
+                    HPOS="155"
+                    VPOS="2584"
+                    WIDTH="2019"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="155 2629 155 2664 2174 2657 2174 2629 2174 2584 155 2584 155 2629"/></Shape>
+	    <String CONTENT="sind, den Sichtvermerk zur Einreise überhaupt zu verweigern."
+                    HPOS="155"
+                    VPOS="2584"
+                    WIDTH="2019"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb3a80c6"
+                    TAGREFS="LT3625"
+                    BASELINE="289 2737 2244 2737" 
+                    HPOS="289"
+                    VPOS="2676"
+                    WIDTH="1955"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="289 2737 289 2765 305 2778 308 2778 311 2778 314 2778 2244 2762 2244 2737 2244 2692 337 2676 333 2676 330 2676 289 2689 289 2737"/></Shape>
+	    <String CONTENT="Trotz dieser Weisungen werden von den Grenzkontrollstellen"
+                    HPOS="289"
+                    VPOS="2676"
+                    WIDTH="1955"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19be58cf"
+                    TAGREFS="LT3625"
+                    BASELINE="152 2845 2276 2845" 
+                    HPOS="152"
+                    VPOS="2794"
+                    WIDTH="2124"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="152 2845 152 2877 2276 2877 2276 2845 2276 2800 152 2794 152 2845"/></Shape>
+	    <String CONTENT="bis auf Weiteres alle aus Rumänien einreisende Personen, soferne"
+                    HPOS="152"
+                    VPOS="2794"
+                    WIDTH="2124"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff99c812"
+                    TAGREFS="LT3625"
+                    BASELINE="155 2959 2250 2950" 
+                    HPOS="152"
+                    VPOS="2905"
+                    WIDTH="2098"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="155 2959 155 2985 2247 2975 2250 2950 2241 2905 152 2905 155 2959"/></Shape>
+	    <String CONTENT="sie nicht auf Grund ihres Berufes, ihrer sozialen Stellung oder"
+                    HPOS="152"
+                    VPOS="2905"
+                    WIDTH="2098"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8dae4b1"
+                    TAGREFS="LT3625"
+                    BASELINE="155 3074 2285 3061" 
+                    HPOS="152"
+                    VPOS="3013"
+                    WIDTH="2133"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="155 3074 155 3099 2282 3090 2285 3061 2279 3013 152 3013 155 3074"/></Shape>
+	    <String CONTENT="sonst vollkommen einwandfrei erscheinen, auch wenn sie schon im"
+                    HPOS="152"
+                    VPOS="3013"
+                    WIDTH="2133"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c901737"
+                    TAGREFS="LT3625"
+                    BASELINE="149 3172 2225 3179" 
+                    HPOS="146"
+                    VPOS="3128"
+                    WIDTH="2079"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="149 3172 146 3214 2219 3226 2225 3179 2222 3128 149 3128 149 3172"/></Shape>
+	    <String CONTENT="Besitze eines von den österreichischen Vertretungsbehörden in"
+                    HPOS="146"
+                    VPOS="3128"
+                    WIDTH="2079"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

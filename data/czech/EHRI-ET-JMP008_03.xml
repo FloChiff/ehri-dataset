@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP008_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2472"
+          HEIGHT="3510"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2472"
+                  HEIGHT="3510">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a4cfc310"
+                    
+                    BASELINE="1075 422 1331 422" 
+                    HPOS="1073"
+                    VPOS="353"
+                    WIDTH="255"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1073 421 1073 456 1328 441 1328 421 1328 353 1272 353 1269 353 1266 353 1263 353 1257 359 1228 383 1193 368 1178 362 1176 362 1173 362 1170 362 1167 362 1155 371 1135 383 1073 383 1073 421"/></Shape>
+	    <String CONTENT="- 3 -"
+                    HPOS="1073"
+                    VPOS="353"
+                    WIDTH="255"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f4d562a"
+                    TAGREFS="LT3628"
+                    BASELINE="222 497 2086 545" 
+                    HPOS="216"
+                    VPOS="470"
+                    WIDTH="1869"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1945 500 1916 500 1901 497 1834 497 1828 497 1799 497 1769 497 1740 497 1711 494 1708 494 1682 494 1652 494 1623 494 1594 494 1565 494 1535 491 1506 491 1477 491 1448 491 1418 491 1389 491 1360 488 1331 488 1301 488 1272 488 1243 488 1214 488 1184 485 1155 485 1126 485 1097 485 1067 485 1038 485 1009 482 980 482 950 482 921 482 892 482 863 482 833 479 804 479 775 479 745 479 716 479 687 479 658 476 628 476 599 476 570 476 541 476 511 473 482 473 453 473 424 473 394 473 365 473 336 470 307 470 277 470 248 470 219 470 219 494 216 520 2079 570 2085 544 2082 503 1957 500 1945 500"/></Shape>
+	    <String CONTENT="Byly provedeny též dvě dětské opery. Brundibár, kterou složil"
+                    HPOS="216"
+                    VPOS="470"
+                    WIDTH="1869"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f087f230"
+                    TAGREFS="LT3628"
+                    BASELINE="222 552 2103 593" 
+                    HPOS="219"
+                    VPOS="506"
+                    WIDTH="1884"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="222 552 219 579 2097 617 2103 593 2103 546 222 506 222 552"/></Shape>
+	    <String CONTENT="Hans Krása a Broučci, sestavená z českých národních písní, pod"
+                    HPOS="219"
+                    VPOS="506"
+                    WIDTH="1884"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ea57e07"
+                    TAGREFS="LT3628"
+                    BASELINE="222 602 2223 646" 
+                    HPOS="219"
+                    VPOS="558"
+                    WIDTH="2004"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="222 602 219 631 886 646 892 649 1020 669 1023 669 1152 658 1556 681 1559 681 2220 678 2223 646 2220 608 222 558 222 602"/></Shape>
+	    <String CONTENT="vedením Vávy Schönové a kapelníka Broka a režiséra Theina. Hrály a"
+                    HPOS="219"
+                    VPOS="558"
+                    WIDTH="2004"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28c5c160"
+                    TAGREFS="LT3628"
+                    BASELINE="219 658 915 669" 
+                    HPOS="216"
+                    VPOS="617"
+                    WIDTH="699"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="219 658 216 678 909 693 915 669 912 628 219 617 219 658"/></Shape>
+	    <String CONTENT="zpívaly děti do 14 let."
+                    HPOS="216"
+                    VPOS="617"
+                    WIDTH="699"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_456812a1"
+                    TAGREFS="LT3628"
+                    BASELINE="219 710 2252 745" 
+                    HPOS="216"
+                    VPOS="663"
+                    WIDTH="2036"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="219 710 216 731 2246 778 2252 745 2252 704 219 663 219 710"/></Shape>
+	    <String CONTENT="A zdálo se nemyslitelným, že by to takhle mohlo jít dále. A taky ta"
+                    HPOS="216"
+                    VPOS="663"
+                    WIDTH="2036"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e08f7e66"
+                    TAGREFS="LT3628"
+                    BASELINE="219 754 2240 798" 
+                    HPOS="216"
+                    VPOS="713"
+                    WIDTH="2024"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="570 719 567 716 456 716 453 716 424 716 394 716 374 713 336 713 336 713 307 713 277 713 248 713 219 713 219 754 216 783 1295 792 1404 813 1433 819 1436 819 1456 816 1532 801 1588 819 1591 819 1594 819 1600 819 1673 807 1711 821 1720 824 1723 824 2047 830 2050 830 2053 830 2056 830 2074 816 2097 830 2100 833 2103 833 2106 833 2109 836 2237 836 2240 798 2237 760 573 719 570 719"/></Shape>
+	    <String CONTENT="rána dopadla. Jakmile komise odjela, začalo se s vyklizováním gheta"
+                    HPOS="216"
+                    VPOS="713"
+                    WIDTH="2024"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1e57869"
+                    TAGREFS="LT3628"
+                    BASELINE="216 807 2243 848" 
+                    HPOS="213"
+                    VPOS="760"
+                    WIDTH="2030"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="216 807 213 833 699 851 702 851 705 851 719 845 748 836 863 848 939 857 941 857 971 851 1023 839 1082 854 1085 854 1088 854 1091 854 1102 854 1222 842 1249 857 1260 862 1263 862 1266 862 1293 857 1363 845 1804 851 1851 871 1857 871 1860 871 1863 871 1866 871 1872 871 1927 857 1957 871 1965 877 1968 877 1971 880 2240 880 2243 848 2240 810 216 760 216 807"/></Shape>
+	    <String CONTENT="v Terezíně. Během 4 neděl odjelo 18.600 Židů do tak zv. pracovního"
+                    HPOS="213"
+                    VPOS="760"
+                    WIDTH="2030"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_694e6692"
+                    TAGREFS="LT3628"
+                    BASELINE="216 857 2153 895" 
+                    HPOS="213"
+                    VPOS="813"
+                    WIDTH="1940"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1854 842 1825 842 1796 839 1766 839 1737 839 1708 839 1679 839 1649 836 1620 836 1591 836 1562 836 1532 836 1503 833 1474 833 1445 833 1415 833 1386 833 1357 830 1351 830 1298 836 1266 839 1257 836 1249 830 1240 830 1211 827 1181 827 1152 827 1123 827 1094 827 1064 824 1035 824 1006 824 985 824 977 827 959 833 889 827 833 821 830 821 801 821 772 819 743 819 716 819 702 821 672 827 216 813 216 857 213 889 2147 924 2153 895 2150 857 1866 851 1866 848 1857 842 1854 842"/></Shape>
+	    <String CONTENT="tábora, ve skutečnosti do Osvětími, kde velká část šla přímo do"
+                    HPOS="213"
+                    VPOS="813"
+                    WIDTH="1940"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3734cee4"
+                    TAGREFS="LT3628"
+                    BASELINE="210 909 2150 944" 
+                    HPOS="207"
+                    VPOS="871"
+                    WIDTH="1943"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="210 909 207 933 2144 976 2150 944 2147 909 210 871 210 909"/></Shape>
+	    <String CONTENT="plynu a jen nepatrná část, když byla prošla selekcí, byla poslá-"
+                    HPOS="207"
+                    VPOS="871"
+                    WIDTH="1943"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2dc93dd"
+                    TAGREFS="LT3628"
+                    BASELINE="210 953 2065 991" 
+                    HPOS="207"
+                    VPOS="912"
+                    WIDTH="1858"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="210 953 207 982 2059 1014 2065 991 2062 953 210 912 210 953"/></Shape>
+	    <String CONTENT="na dále do koncentračních táborů. Skoro všichni muži – umělci,"
+                    HPOS="207"
+                    VPOS="912"
+                    WIDTH="1858"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_418921b0"
+                    TAGREFS="LT3628"
+                    BASELINE="207 1003 2182 1044" 
+                    HPOS="204"
+                    VPOS="962"
+                    WIDTH="1978"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="207 1003 204 1029 2176 1070 2182 1044 2179 1009 207 962 207 1003"/></Shape>
+	    <String CONTENT="herci, komponisti, zpěváci, kapelníci, instrumentalisti, - přišli o"
+                    HPOS="204"
+                    VPOS="962"
+                    WIDTH="1978"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ede290bd"
+                    TAGREFS="LT3628"
+                    BASELINE="210 1055 2176 1096" 
+                    HPOS="207"
+                    VPOS="1014"
+                    WIDTH="1969"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="210 1055 207 1076 2170 1123 2176 1096 2173 1055 210 1014 210 1055"/></Shape>
+	    <String CONTENT="život. A v Terezíně zůstalo z celého souboru 7 žen, na které bylo"
+                    HPOS="207"
+                    VPOS="1014"
+                    WIDTH="1969"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b77e59a"
+                    TAGREFS="LT3628"
+                    BASELINE="210 1102 2167 1146" 
+                    HPOS="207"
+                    VPOS="1058"
+                    WIDTH="1960"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="532 1064 503 1064 488 1061 427 1061 415 1061 386 1061 356 1061 330 1058 318 1058 298 1058 269 1058 239 1058 210 1058 210 1102 207 1131 2161 1178 2167 1146 2164 1108 535 1064 532 1064"/></Shape>
+	    <String CONTENT="zapomenuto, a tak nešly stejnou cestou, jako těch 18.600. Když byl"
+                    HPOS="207"
+                    VPOS="1058"
+                    WIDTH="1960"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_257fcad3"
+                    TAGREFS="LT3628"
+                    BASELINE="207 1152 2237 1199" 
+                    HPOS="204"
+                    VPOS="1111"
+                    WIDTH="2033"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="207 1152 204 1178 2232 1228 2237 1199 2235 1158 207 1111 207 1152"/></Shape>
+	    <String CONTENT="vypraven poslední transport z Terezína do Osvětíma, dne 28. října 44"
+                    HPOS="204"
+                    VPOS="1111"
+                    WIDTH="2033"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_152c3bcc"
+                    TAGREFS="LT3628"
+                    BASELINE="219 1205 2112 1246" 
+                    HPOS="216"
+                    VPOS="1164"
+                    WIDTH="1896"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2091 1196 2062 1196 2033 1196 2003 1196 1974 1193 1945 1193 1916 1193 1886 1193 1857 1193 1828 1190 1799 1190 1769 1190 1740 1190 1711 1187 1682 1187 1652 1187 1623 1187 1603 1184 1541 1184 1535 1184 1506 1184 1477 1184 1462 1181 219 1164 219 1205 216 1228 2106 1272 2112 1246 2109 1196 2091 1196"/></Shape>
+	    <String CONTENT="a Judenältester Murmelstein měl předložit Lagerhaltrovi Rahmovi"
+                    HPOS="216"
+                    VPOS="1164"
+                    WIDTH="1896"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9d060b1"
+                    TAGREFS="LT3628"
+                    BASELINE="204 1254 2255 1292" 
+                    HPOS="201"
+                    VPOS="1208"
+                    WIDTH="2054"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="204 1254 201 1278 2249 1319 2255 1292 2255 1257 204 1208 204 1254"/></Shape>
+	    <String CONTENT="zbytek těch, kteří nedefilovali před ním, ukázalo se, že se zapomně-"
+                    HPOS="201"
+                    VPOS="1208"
+                    WIDTH="2054"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fc65dbf"
+                    TAGREFS="LT3628"
+                    BASELINE="201 1304 2170 1348" 
+                    HPOS="198"
+                    VPOS="1257"
+                    WIDTH="1972"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="201 1304 198 1333 2164 1380 2170 1348 2167 1307 201 1257 201 1304"/></Shape>
+	    <String CONTENT="lo na 7 žen, zpěvačka, klavíristky čili pianistky a herečky. Když"
+                    HPOS="198"
+                    VPOS="1257"
+                    WIDTH="1972"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54386bfe"
+                    TAGREFS="LT3628"
+                    BASELINE="198 1348 2223 1401" 
+                    HPOS="196"
+                    VPOS="1310"
+                    WIDTH="2027"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="198 1348 196 1380 2217 1433 2223 1401 2220 1360 198 1310 198 1348"/></Shape>
+	    <String CONTENT="se Murmelstein zeptal, jestli se mají dát do toho posledního trans-"
+                    HPOS="196"
+                    VPOS="1310"
+                    WIDTH="2027"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_459c23b1"
+                    TAGREFS="LT3628"
+                    BASELINE="196 1398 2217 1450" 
+                    HPOS="193"
+                    VPOS="1360"
+                    WIDTH="2024"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="196 1398 193 1433 2211 1485 2217 1450 2214 1412 196 1360 196 1398"/></Shape>
+	    <String CONTENT="portu, tak Rahm, blahovolně se usmívajíc řekl vídeňským dialektem:"
+                    HPOS="193"
+                    VPOS="1360"
+                    WIDTH="2024"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59e3288e"
+                    TAGREFS="LT3628"
+                    BASELINE="201 1453 2265 1503" 
+                    HPOS="196"
+                    VPOS="1415"
+                    WIDTH="2068"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="198 1450 196 1485 2258 1535 2264 1500 2264 1465 198 1415 198 1450"/></Shape>
+	    <String CONTENT="Aber was, lassenses da. Sollens dann wieder spielen und singen."
+                    HPOS="196"
+                    VPOS="1415"
+                    WIDTH="2068"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f22abc67"
+                    TAGREFS="LT3628"
+                    BASELINE="201 1503 2194 1550" 
+                    HPOS="198"
+                    VPOS="1465"
+                    WIDTH="1996"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="201 1503 198 1535 2188 1573 2194 1550 2191 1512 201 1465 201 1503"/></Shape>
+	    <String CONTENT="A to nám vlastně zachránilo život. Musely jsme ale ihned nastoupit"
+                    HPOS="198"
+                    VPOS="1465"
+                    WIDTH="1996"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2e40a25"
+                    TAGREFS="LT3628"
+                    BASELINE="196 1550 2258 1599" 
+                    HPOS="193"
+                    VPOS="1512"
+                    WIDTH="2065"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="196 1550 193 1576 2252 1635 2258 1599 2258 1556 196 1512 196 1550"/></Shape>
+	    <String CONTENT="do t. zv. Glimmerspalterei, kde jsme od 1/2 6 h ráno do 2 h odpoledne"
+                    HPOS="193"
+                    VPOS="1512"
+                    WIDTH="2065"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be96a689"
+                    TAGREFS="LT3628"
+                    BASELINE="193 1597 2156 1646" 
+                    HPOS="190"
+                    VPOS="1559"
+                    WIDTH="1966"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="193 1597 190 1629 2150 1681 2156 1646 2153 1608 193 1559 193 1597"/></Shape>
+	    <String CONTENT="loupaly slídu, ale asi 3 dny po odjezdu posledního transportu do-"
+                    HPOS="190"
+                    VPOS="1559"
+                    WIDTH="1966"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_544cedcd"
+                    TAGREFS="LT3628"
+                    BASELINE="196 1646 2275 1702" 
+                    HPOS="193"
+                    VPOS="1608"
+                    WIDTH="2082"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="196 1646 193 1673 2270 1737 2275 1702 2275 1661 196 1608 196 1646"/></Shape>
+	    <String CONTENT="stala jsem rozkaz sestavit nový koncertní program, ta k jsme se musely"
+                    HPOS="193"
+                    VPOS="1608"
+                    WIDTH="2082"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98605f09"
+                    TAGREFS="LT3628"
+                    BASELINE="193 1702 2211 1749" 
+                    HPOS="190"
+                    VPOS="1664"
+                    WIDTH="2021"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="193 1702 190 1737 2205 1781 2211 1749 2208 1711 193 1664 193 1702"/></Shape>
+	    <String CONTENT="postavit večer do nevytopeného sálu Sokolovny a narychlo nastudovat"
+                    HPOS="190"
+                    VPOS="1664"
+                    WIDTH="2021"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc2ba4e5"
+                    TAGREFS="LT3628"
+                    BASELINE="196 1749 2249 1804" 
+                    HPOS="193"
+                    VPOS="1711"
+                    WIDTH="2056"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="196 1749 193 1775 2243 1839 2249 1804 2246 1757 196 1711 196 1749"/></Shape>
+	    <String CONTENT="nějaký program a těm, kteří v Terezíně zůstali, znovu zpívat. A tak"
+                    HPOS="193"
+                    VPOS="1711"
+                    WIDTH="2056"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe461814"
+                    TAGREFS="LT3628"
+                    BASELINE="193 1804 2185 1854" 
+                    HPOS="190"
+                    VPOS="1757"
+                    WIDTH="1995"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="193 1804 190 1836 2179 1880 2185 1854 2182 1813 193 1757 193 1804"/></Shape>
+	    <String CONTENT="prošly 4 měsíce, až do 7. března 1945, když nás pan Rahm vyndal ze"
+                    HPOS="190"
+                    VPOS="1757"
+                    WIDTH="1995"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_225e80b9"
+                    TAGREFS="LT3628"
+                    BASELINE="193 1851 2214 1904" 
+                    HPOS="190"
+                    VPOS="1813"
+                    WIDTH="2024"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="193 1851 190 1874 2208 1939 2214 1904 2211 1863 193 1813 193 1851"/></Shape>
+	    <String CONTENT="slídy a nařídil, abychom narychlo nastudovali dětskou operu Broučci"
+                    HPOS="190"
+                    VPOS="1813"
+                    WIDTH="2024"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b814cc52"
+                    TAGREFS="LT3628"
+                    BASELINE="184 1907 2141 1953" 
+                    HPOS="181"
+                    VPOS="1866"
+                    WIDTH="1960"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="184 1907 181 1927 2135 1983 2141 1953 2138 1915 184 1866 184 1907"/></Shape>
+	    <String CONTENT="a operu Hofmannovy povídky, neboť se zase očekávala nějaká komise."
+                    HPOS="181"
+                    VPOS="1866"
+                    WIDTH="1960"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_716e9496"
+                    TAGREFS="LT3628"
+                    BASELINE="187 1956 2267 2006" 
+                    HPOS="184"
+                    VPOS="1910"
+                    WIDTH="2083"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="918 1927 915 1924 187 1910 187 1956 184 1977 2261 2027 2267 2006 2264 1959 918 1927 918 1927"/></Shape>
+	    <String CONTENT="A tak se ve dne v noci psaly noty, dělal orchestrální materiál, zkou-"
+                    HPOS="184"
+                    VPOS="1910"
+                    WIDTH="2083"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae84f992"
+                    TAGREFS="LT3628"
+                    BASELINE="187 2003 2267 2056" 
+                    HPOS="184"
+                    VPOS="1959"
+                    WIDTH="2083"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="567 1968 558 1965 482 1965 479 1965 450 1965 435 1962 383 1962 362 1962 333 1962 310 1959 283 1959 274 1959 245 1959 216 1959 187 1959 187 2003 184 2032 2261 2088 2267 2056 2264 2018 582 1968 567 1968"/></Shape>
+	    <String CONTENT="šelo s hudebníky, kteří zatím byli přijeli jako arisch-versippt a tak"
+                    HPOS="184"
+                    VPOS="1959"
+                    WIDTH="2083"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b9c0055"
+                    TAGREFS="LT3628"
+                    BASELINE="184 2059 2293 2106" 
+                    HPOS="178"
+                    VPOS="2018"
+                    WIDTH="2112"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="181 2056 178 2079 2284 2135 2290 2106 2287 2067 181 2018 181 2056"/></Shape>
+	    <String CONTENT="se zase v Sokolovně hrálo na překrásně vybaveném jevišti v kostýmech."
+                    HPOS="178"
+                    VPOS="2018"
+                    WIDTH="2112"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70a30469"
+                    TAGREFS="LT3628"
+                    BASELINE="181 2106 2306 2155" 
+                    HPOS="175"
+                    VPOS="2067"
+                    WIDTH="2130"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="178 2106 175 2123 394 2129 397 2132 450 2152 453 2152 631 2155 634 2155 637 2155 684 2141 699 2138 845 2146 1243 2170 1246 2170 1410 2164 1497 2161 2299 2190 2305 2152 2305 2114 178 2067 178 2106"/></Shape>
+	    <String CONTENT="Komise taky přijela a všechno dobře dopadlo a život v Terezíně se zdál"
+                    HPOS="175"
+                    VPOS="2067"
+                    WIDTH="2130"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15e50b0c"
+                    TAGREFS="LT3628"
+                    BASELINE="181 2158 2261 2208" 
+                    HPOS="178"
+                    VPOS="2108"
+                    WIDTH="2083"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1263 2132 1234 2132 1231 2132 1199 2138 1170 2144 1126 2138 1076 2129 1059 2129 1029 2126 1000 2126 971 2126 941 2126 912 2123 883 2123 740 2126 549 2129 432 2129 418 2117 409 2111 386 2111 356 2111 327 2111 298 2108 286 2108 181 2108 181 2158 178 2182 2255 2240 2261 2208 2258 2170 1298 2149 1290 2141 1281 2132 1263 2132"/></Shape>
+	    <String CONTENT="býti jako před odjezdem těch tisíců lidí. A tu kolem 20. dubna přijel"
+                    HPOS="178"
+                    VPOS="2108"
+                    WIDTH="2083"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fac6ee5"
+                    TAGREFS="LT3628"
+                    BASELINE="184 2211 2170 2252" 
+                    HPOS="181"
+                    VPOS="2173"
+                    WIDTH="1989"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="184 2211 181 2243 2164 2284 2170 2252 2167 2214 184 2173 184 2211"/></Shape>
+	    <String CONTENT="do Terezína 1. transport t. zv. Pyžamkářů z Buchenwaldu a tu se nám"
+                    HPOS="181"
+                    VPOS="2173"
+                    WIDTH="1989"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26e851ed"
+                    TAGREFS="LT3628"
+                    BASELINE="178 2261 2287 2304" 
+                    HPOS="175"
+                    VPOS="2223"
+                    WIDTH="2112"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="178 2261 175 2284 2281 2328 2287 2304 2287 2261 178 2223 178 2261"/></Shape>
+	    <String CONTENT="otevřely oči. Tu jsme poznali skutečnost a od toho dne přestalo všech-"
+                    HPOS="175"
+                    VPOS="2223"
+                    WIDTH="2112"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fb58bbc"
+                    TAGREFS="LT3628"
+                    BASELINE="172 2310 2249 2357" 
+                    HPOS="169"
+                    VPOS="2272"
+                    WIDTH="2080"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="172 2310 169 2337 2243 2386 2249 2357 2246 2319 172 2272 172 2310"/></Shape>
+	    <String CONTENT="no zpívání, hraní a rozptylování se. Už nám nebylo do zpěvu. Zanedlou-"
+                    HPOS="169"
+                    VPOS="2272"
+                    WIDTH="2080"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e390fd0e"
+                    TAGREFS="LT3628"
+                    BASELINE="172 2357 2284 2407" 
+                    HPOS="169"
+                    VPOS="2316"
+                    WIDTH="2115"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="2132 2357 2129 2354 172 2316 172 2357 169 2389 2278 2430 2284 2407 2281 2360 2138 2357 2132 2357"/></Shape>
+	    <String CONTENT="ho jsme byli vysvobození a tím končila naše hudební umělecká kariera v"
+                    HPOS="169"
+                    VPOS="2316"
+                    WIDTH="2115"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79548ff0"
+                    TAGREFS="LT3628"
+                    BASELINE="169 2407 2229 2451" 
+                    HPOS="166"
+                    VPOS="2372"
+                    WIDTH="2063"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="169 2407 166 2436 2223 2480 2229 2451 2226 2416 169 2372 169 2407"/></Shape>
+	    <String CONTENT="Terezíně. Já osobně jsem zpívala skoro denně, hrála ve všech operách"
+                    HPOS="166"
+                    VPOS="2372"
+                    WIDTH="2063"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f67efd5"
+                    TAGREFS="LT3628"
+                    BASELINE="178 2462 2314 2506" 
+                    HPOS="175"
+                    VPOS="2416"
+                    WIDTH="2139"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="178 2462 175 2486 2308 2538 2314 2506 2311 2468 178 2416 178 2462"/></Shape>
+	    <String CONTENT="a snad bych mohla říci, že jsem si jedině zpěvem a svým uměním zachrá-"
+                    HPOS="175"
+                    VPOS="2416"
+                    WIDTH="2139"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64003949"
+                    TAGREFS="LT3628"
+                    BASELINE="169 2509 2194 2556" 
+                    HPOS="166"
+                    VPOS="2474"
+                    WIDTH="2028"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="169 2509 166 2538 769 2553 769 2556 798 2565 810 2568 810 2571 813 2571 816 2571 918 2559 924 2559 930 2559 1053 2585 1863 2600 1866 2600 2041 2585 2062 2585 2065 2585 2097 2603 2100 2603 2103 2603 2191 2588 2194 2556 2194 2518 169 2474 169 2509"/></Shape>
+	    <String CONTENT="nila život a ušetřila útrapy, které museli prodělat tisíce a tisíce"
+                    HPOS="166"
+                    VPOS="2474"
+                    WIDTH="2028"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbcb32c5"
+                    TAGREFS="LT3628"
+                    BASELINE="163 2559 810 2571" 
+                    HPOS="160"
+                    VPOS="2518"
+                    WIDTH="650"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="163 2559 160 2594 804 2612 810 2571 810 2535 163 2518 163 2559"/></Shape>
+	    <String CONTENT="mých bratrů a sester."
+                    HPOS="160"
+                    VPOS="2518"
+                    WIDTH="650"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f96fbabd"
+                    TAGREFS="LT3628"
+                    BASELINE="157 2655 2173 2699" 
+                    HPOS="155"
+                    VPOS="2597"
+                    WIDTH="2018"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="157 2655 155 2691 2167 2740 2173 2699 2170 2658 1886 2652 1886 2650 1860 2632 1857 2632 1854 2632 1851 2632 1614 2644 1611 2644 1608 2644 1474 2623 1471 2623 1360 2638 1342 2623 1342 2620 1339 2620 1336 2620 1334 2620 1208 2635 1181 2617 1178 2617 1176 2617 1173 2617 1079 2632 1076 2632 936 2612 933 2612 409 2617 400 2617 397 2617 263 2597 260 2597 157 2612 157 2655"/></Shape>
+	    <String CONTENT="Mohu říci, že Terezín byl můj nejdelší a nejhůř placený engagement"
+                    HPOS="155"
+                    VPOS="2597"
+                    WIDTH="2018"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_991dec02"
+                    TAGREFS="LT3628"
+                    BASELINE="169 2711 1307 2729" 
+                    HPOS="166"
+                    VPOS="2673"
+                    WIDTH="1141"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="169 2711 166 2752 298 2752 307 2755 353 2772 356 2772 359 2772 424 2758 444 2755 473 2761 547 2772 549 2772 640 2764 719 2758 754 2769 778 2775 781 2775 784 2775 854 2772 933 2767 1123 2778 1208 2784 1211 2784 1214 2784 1222 2781 1263 2769 1298 2784 1307 2729 1304 2691 169 2673 169 2711"/></Shape>
+	    <String CONTENT="v celé mé hudební a divadelní karieře."
+                    HPOS="166"
+                    VPOS="2673"
+                    WIDTH="1141"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

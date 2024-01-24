@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP020_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2418"
+          HEIGHT="3484"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2418"
+                  HEIGHT="3484">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d567e02c"
+                    TAGREFS="LT3625"
+                    BASELINE="531 180 2046 194" 
+                    HPOS="528"
+                    VPOS="116"
+                    WIDTH="1518"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="531 180 528 206 2040 220 2046 194 2046 148 1729 145 1729 142 1705 124 1703 124 1700 124 1697 124 1615 139 1598 124 1595 124 1592 124 1589 124 1586 124 1583 124 1563 142 1531 124 1528 124 1525 124 1371 139 1357 139 1354 139 1336 121 1333 121 1331 121 1328 121 1325 121 1264 136 1255 139 1249 136 1214 121 1211 121 1209 121 1206 121 1203 121 1182 136 1177 139 1116 136 834 116 831 116 828 116 773 130 767 133 761 130 720 116 717 116 714 116 531 127 531 180"/></Shape>
+	    <String CONTENT="Denkschrift über die Ausübung der Gerischtsbarkeit"
+                    HPOS="528"
+                    VPOS="116"
+                    WIDTH="1518"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3488393c"
+                    TAGREFS="LT3625"
+                    BASELINE="810 238 1365 238" 
+                    HPOS="810"
+                    VPOS="197"
+                    WIDTH="555"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="810 238 810 264 1363 272 1365 238 1365 203 810 197 810 238"/></Shape>
+	    <String CONTENT="in Theresienstadt."
+                    HPOS="810"
+                    VPOS="197"
+                    WIDTH="555"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eec4ee2a"
+                    TAGREFS="LT3625"
+                    BASELINE="505 380 2330 403" 
+                    HPOS="502"
+                    VPOS="330"
+                    WIDTH="1828"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="505 380 502 412 2325 429 2330 403 2327 351 1976 360 1918 345 1915 345 1912 345 1909 345 1906 345 1871 360 1688 342 1644 339 1642 339 1612 342 1496 354 1432 339 1415 336 1412 336 1365 339 1200 351 505 330 505 380"/></Shape>
+	    <String CONTENT="Die Gerichtsbarkeit des Gerichtes der Jüdischen Selbstverwal-"
+                    HPOS="502"
+                    VPOS="330"
+                    WIDTH="1828"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fca2aff"
+                    TAGREFS="LT3625"
+                    BASELINE="206 426 2348 458" 
+                    HPOS="203"
+                    VPOS="389"
+                    WIDTH="2145"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="206 426 203 450 2342 484 2348 458 2348 418 206 389 206 426"/></Shape>
+	    <String CONTENT="tung in Theresienstadt leitete sich aus der Ermächtigung durch die hie-"
+                    HPOS="203"
+                    VPOS="389"
+                    WIDTH="2145"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36dfc9e9"
+                    TAGREFS="LT3625"
+                    BASELINE="209 479 2377 508" 
+                    HPOS="206"
+                    VPOS="438"
+                    WIDTH="2171"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="209 479 206 502 2371 540 2377 508 2377 464 209 438 209 479"/></Shape>
+	    <String CONTENT="sige Dienststelle der deutschen Sicherheitsbehörden ab. Sie umfasste die"
+                    HPOS="206"
+                    VPOS="438"
+                    WIDTH="2171"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fc39ffd"
+                    TAGREFS="LT3625"
+                    BASELINE="206 528 2295 560" 
+                    HPOS="203"
+                    VPOS="487"
+                    WIDTH="2092"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="206 528 203 560 2290 592 2295 560 2293 522 206 487 206 528"/></Shape>
+	    <String CONTENT="Gerichtsbarkeit in Vormundschafts-, Verlassenschafts- und Strafsachen."
+                    HPOS="203"
+                    VPOS="487"
+                    WIDTH="2092"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a176eae9"
+                    TAGREFS="LT3625"
+                    BASELINE="209 580 2322 612" 
+                    HPOS="206"
+                    VPOS="540"
+                    WIDTH="2116"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="209 580 206 606 2316 638 2322 612 2319 566 209 540 209 580"/></Shape>
+	    <String CONTENT="In Verlassenschaftssachen beschränkte sich die Tätigkeit des Gerichtes"
+                    HPOS="206"
+                    VPOS="540"
+                    WIDTH="2116"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a9cf991"
+                    TAGREFS="LT3625"
+                    BASELINE="206 630 2322 664" 
+                    HPOS="203"
+                    VPOS="592"
+                    WIDTH="2119"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="206 630 203 656 2316 696 2322 664 2319 621 206 592 206 630"/></Shape>
+	    <String CONTENT="auf die Beschlagnahme der hinterlassenen Kleider- und Wäschestücke, da"
+                    HPOS="203"
+                    VPOS="592"
+                    WIDTH="2119"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f9a5a09"
+                    TAGREFS="LT3625"
+                    BASELINE="209 685 2243 711" 
+                    HPOS="206"
+                    VPOS="641"
+                    WIDTH="2037"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="209 685 206 708 2237 737 2243 711 2240 673 209 641 209 685"/></Shape>
+	    <String CONTENT="die jüdische Siedlung die zur Ausstattung der notleidenden Bewohner"
+                    HPOS="206"
+                    VPOS="641"
+                    WIDTH="2037"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c351438f"
+                    TAGREFS="LT3625"
+                    BASELINE="209 734 2351 763" 
+                    HPOS="206"
+                    VPOS="696"
+                    WIDTH="2145"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="209 734 206 757 2345 789 2351 763 2351 720 209 696 209 734"/></Shape>
+	    <String CONTENT="erforderlichen Stücke auf andere Weise nicht erlangen konnte; wirkliche"
+                    HPOS="206"
+                    VPOS="696"
+                    WIDTH="2145"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45f5e715"
+                    TAGREFS="LT3625"
+                    BASELINE="203 780 2322 815" 
+                    HPOS="200"
+                    VPOS="743"
+                    WIDTH="2122"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="203 780 200 804 2316 839 2322 815 2322 772 203 743 203 780"/></Shape>
+	    <String CONTENT="Nachlassbehandlungen gab es mangels von Vermögen nicht. Die Zuständig-"
+                    HPOS="200"
+                    VPOS="743"
+                    WIDTH="2122"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4adb2de9"
+                    TAGREFS="LT3625"
+                    BASELINE="200 830 2319 868" 
+                    HPOS="197"
+                    VPOS="792"
+                    WIDTH="2122"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="200 830 197 862 2313 891 2319 868 2316 824 200 792 200 830"/></Shape>
+	    <String CONTENT="keit des Gerichtes in Strafsachen deckte sich ursprünglich mit der ge-"
+                    HPOS="197"
+                    VPOS="792"
+                    WIDTH="2122"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2429d1bd"
+                    TAGREFS="LT3625"
+                    BASELINE="206 882 2319 917" 
+                    HPOS="203"
+                    VPOS="844"
+                    WIDTH="2116"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="206 882 203 908 2313 940 2319 917 2316 871 206 844 206 882"/></Shape>
+	    <String CONTENT="wöhnlichen Zuständigkeit eines Bezirksgerichtes. Aus Anlass besonderer"
+                    HPOS="203"
+                    VPOS="844"
+                    WIDTH="2116"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1feb858"
+                    TAGREFS="LT3625"
+                    BASELINE="203 931 2263 966" 
+                    HPOS="200"
+                    VPOS="894"
+                    WIDTH="2063"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="203 931 200 963 2258 990 2263 966 2261 929 203 894 203 931"/></Shape>
+	    <String CONTENT="Fälle wurde die Gerichtsbarkeit durch Sonderermächtigung der Dienst-"
+                    HPOS="200"
+                    VPOS="894"
+                    WIDTH="2063"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d5958ab"
+                    TAGREFS="LT3625"
+                    BASELINE="203 984 2322 1019" 
+                    HPOS="200"
+                    VPOS="946"
+                    WIDTH="2122"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="203 984 200 1007 2316 1045 2322 1019 2322 972 203 946 203 984"/></Shape>
+	    <String CONTENT="stelle allmählich erweitert und umfasste schliesslich die volle Kompe-"
+                    HPOS="200"
+                    VPOS="946"
+                    WIDTH="2122"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a0378b1"
+                    TAGREFS="LT3625"
+                    BASELINE="203 1033 2374 1068" 
+                    HPOS="200"
+                    VPOS="990"
+                    WIDTH="2174"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="203 1033 200 1056 2368 1097 2374 1068 2371 1024 203 990 203 1033"/></Shape>
+	    <String CONTENT="tenz zur Aburteilung von Verbrechen und Vergehen, deren Aburteilung, wie"
+                    HPOS="200"
+                    VPOS="990"
+                    WIDTH="2174"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c8ca2f8"
+                    TAGREFS="LT3625"
+                    BASELINE="200 1088 1987 1114" 
+                    HPOS="197"
+                    VPOS="1051"
+                    WIDTH="1790"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="200 1088 197 1117 1982 1143 1987 1114 1984 1074 200 1051 200 1088"/></Shape>
+	    <String CONTENT="jene der Uebertretungen einem Einzelrichter anvertraut war."
+                    HPOS="197"
+                    VPOS="1051"
+                    WIDTH="1790"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90f898b7"
+                    TAGREFS="LT3625"
+                    BASELINE="496 1135 2319 1172" 
+                    HPOS="494"
+                    VPOS="1097"
+                    WIDTH="1825"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="496 1135 494 1158 2313 1199 2319 1172 2316 1135 496 1097 496 1135"/></Shape>
+	    <String CONTENT="Da mit dem Wegfall der Dienststelle die rechtliche Grundlage"
+                    HPOS="494"
+                    VPOS="1097"
+                    WIDTH="1825"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b985d237"
+                    TAGREFS="LT3625"
+                    BASELINE="194 1178 2261 1219" 
+                    HPOS="191"
+                    VPOS="1143"
+                    WIDTH="2070"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="194 1178 191 1201 2255 1242 2261 1219 2261 1184 194 1143 194 1178"/></Shape>
+	    <String CONTENT="der Gerichtsbarkeit entfallen war, wurde die Tätigkeit des Gerichtes"
+                    HPOS="191"
+                    VPOS="1143"
+                    WIDTH="2070"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f431d43"
+                    TAGREFS="LT3625"
+                    BASELINE="197 1233 2243 1268" 
+                    HPOS="194"
+                    VPOS="1196"
+                    WIDTH="2049"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="197 1233 194 1257 2237 1300 2243 1268 2240 1225 197 1196 197 1233"/></Shape>
+	    <String CONTENT="vorläufig zum grössten Teile eingestellt und nur soweit fortgesetzt,"
+                    HPOS="194"
+                    VPOS="1196"
+                    WIDTH="2049"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09a88e76"
+                    TAGREFS="LT3625"
+                    BASELINE="197 1283 2322 1323" 
+                    HPOS="194"
+                    VPOS="1242"
+                    WIDTH="2128"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="197 1283 194 1306 2316 1347 2322 1323 2319 1286 197 1242 197 1283"/></Shape>
+	    <String CONTENT="als es sich um die Feststellung strafbarere Tatbestände im Vorverfahren"
+                    HPOS="194"
+                    VPOS="1242"
+                    WIDTH="2128"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e468b48"
+                    TAGREFS="LT3625"
+                    BASELINE="188 1332 479 1341" 
+                    HPOS="186"
+                    VPOS="1291"
+                    WIDTH="293"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="188 1332 186 1367 473 1376 479 1341 476 1297 188 1291 188 1332"/></Shape>
+	    <String CONTENT="handelte."
+                    HPOS="186"
+                    VPOS="1291"
+                    WIDTH="293"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88250e74"
+                    TAGREFS="LT3625"
+                    BASELINE="491 1384 2377 1422" 
+                    HPOS="488"
+                    VPOS="1338"
+                    WIDTH="1889"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="491 1384 488 1413 2371 1451 2377 1422 2371 1370 2243 1381 2112 1364 2092 1364 2089 1364 2077 1364 2005 1376 1955 1364 1944 1361 1941 1361 1938 1361 1912 1364 1816 1373 1371 1367 1351 1355 1336 1350 1333 1350 1331 1350 1287 1355 1238 1361 1145 1352 1034 1344 1031 1344 892 1350 825 1352 816 1350 787 1338 784 1338 781 1338 491 1344 491 1384"/></Shape>
+	    <String CONTENT="Eine besondere Vormundschaftsgerichtsbarkeit für Theresienstadt"
+                    HPOS="488"
+                    VPOS="1338"
+                    WIDTH="1889"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7e75d5a"
+                    TAGREFS="LT3625"
+                    BASELINE="191 1434 2368 1477" 
+                    HPOS="188"
+                    VPOS="1390"
+                    WIDTH="2180"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="191 1434 188 1463 2362 1501 2368 1477 2368 1431 191 1390 191 1434"/></Shape>
+	    <String CONTENT="ist mit Rücksicht auf die voraussichtlich kurze Dauer des Bestandes die-"
+                    HPOS="188"
+                    VPOS="1390"
+                    WIDTH="2180"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90b83e15"
+                    TAGREFS="LT3625"
+                    BASELINE="194 1489 2348 1527" 
+                    HPOS="191"
+                    VPOS="1442"
+                    WIDTH="2157"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="194 1489 191 1518 2342 1556 2348 1527 2345 1483 194 1442 194 1489"/></Shape>
+	    <String CONTENT="ser Siedlung vollkommen entbehrlich. Desgleichen entfällt das Bedürfnis"
+                    HPOS="191"
+                    VPOS="1442"
+                    WIDTH="2157"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb293ea5"
+                    TAGREFS="LT3625"
+                    BASELINE="191 1535 2368 1576" 
+                    HPOS="188"
+                    VPOS="1498"
+                    WIDTH="2180"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="191 1535 188 1561 2362 1602 2368 1576 2365 1535 191 1498 191 1535"/></Shape>
+	    <String CONTENT="nach einer Verlassenschaftsgerichtsbarkeit, da die Tätigkeit des Gerich-"
+                    HPOS="188"
+                    VPOS="1498"
+                    WIDTH="2180"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eeb73712"
+                    TAGREFS="LT3625"
+                    BASELINE="194 1588 2310 1628" 
+                    HPOS="191"
+                    VPOS="1544"
+                    WIDTH="2119"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="194 1588 191 1608 2304 1651 2310 1628 2307 1588 194 1544 194 1588"/></Shape>
+	    <String CONTENT="tes nur in der Entscheidung bestehen könnte, dass mangels eines Vermö-"
+                    HPOS="191"
+                    VPOS="1544"
+                    WIDTH="2119"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee8b82d0"
+                    TAGREFS="LT3625"
+                    BASELINE="191 1649 1703 1666" 
+                    HPOS="188"
+                    VPOS="1608"
+                    WIDTH="1515"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="191 1649 188 1678 1697 1695 1703 1666 1700 1625 191 1608 191 1649"/></Shape>
+	    <String CONTENT="gens keine Verlassenschaftsbehandlung stattfindet."
+                    HPOS="188"
+                    VPOS="1608"
+                    WIDTH="1515"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db83c5a4"
+                    TAGREFS="LT3625"
+                    BASELINE="496 1692 2223 1724" 
+                    HPOS="494"
+                    VPOS="1657"
+                    WIDTH="1729"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="496 1692 494 1718 2217 1750 2223 1724 2220 1683 496 1657 496 1692"/></Shape>
+	    <String CONTENT="Unentbehrlich scheint dagegen die Aufrechterhaltung einer"
+                    HPOS="494"
+                    VPOS="1657"
+                    WIDTH="1729"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55dfda0d"
+                    TAGREFS="LT3625"
+                    BASELINE="183 1736 2304 1782" 
+                    HPOS="180"
+                    VPOS="1698"
+                    WIDTH="2124"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="183 1736 180 1759 2298 1814 2304 1782 2301 1744 183 1698 183 1736"/></Shape>
+	    <String CONTENT="Strafjustiz. Die Kriminalität in Theresienstadt hatte eine einzigarti-"
+                    HPOS="180"
+                    VPOS="1698"
+                    WIDTH="2124"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0eb00997"
+                    TAGREFS="LT3625"
+                    BASELINE="191 1794 2249 1829" 
+                    HPOS="188"
+                    VPOS="1753"
+                    WIDTH="2061"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="191 1794 188 1814 2243 1855 2249 1829 2246 1788 191 1753 191 1794"/></Shape>
+	    <String CONTENT="ge Färbung; neben einer geringen Zahl von Amtsehrenbeleidigungen und"
+                    HPOS="188"
+                    VPOS="1753"
+                    WIDTH="2061"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_046e3169"
+                    TAGREFS="LT3625"
+                    BASELINE="186 1837 2304 1884" 
+                    HPOS="183"
+                    VPOS="1791"
+                    WIDTH="2121"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1057 1811 1054 1808 932 1808 912 1808 883 1808 866 1805 807 1805 796 1805 767 1805 738 1805 709 1805 680 1802 651 1802 621 1802 592 1802 563 1802 534 1802 505 1800 476 1800 447 1800 418 1800 389 1800 360 1797 331 1797 302 1797 273 1797 244 1797 215 1797 212 1791 186 1791 186 1837 183 1863 2298 1916 2304 1884 2304 1840 1057 1811 1057 1811"/></Shape>
+	    <String CONTENT="leichten Körperverletzungen (§ 411) kamen beinahe nur Vermögensdelikte"
+                    HPOS="183"
+                    VPOS="1791"
+                    WIDTH="2121"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_959b2f91"
+                    TAGREFS="LT3625"
+                    BASELINE="186 1890 2281 1933" 
+                    HPOS="183"
+                    VPOS="1849"
+                    WIDTH="2098"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="186 1890 183 1910 2275 1959 2281 1933 2278 1895 186 1849 186 1890"/></Shape>
+	    <String CONTENT="vor, welche durch die dürftige Ernährung veranlasst waren und entweder"
+                    HPOS="183"
+                    VPOS="1849"
+                    WIDTH="2098"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8360cef2"
+                    TAGREFS="LT3625"
+                    BASELINE="183 1939 2336 1982" 
+                    HPOS="180"
+                    VPOS="1904"
+                    WIDTH="2156"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="183 1939 180 1965 2330 2017 2336 1982 2333 1945 183 1904 183 1939"/></Shape>
+	    <String CONTENT="in Diebstählen aus den Gemeinschaftslagern oder in Betrügereien bei der"
+                    HPOS="180"
+                    VPOS="1904"
+                    WIDTH="2156"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f19c592"
+                    TAGREFS="LT3625"
+                    BASELINE="180 1988 2281 2038" 
+                    HPOS="177"
+                    VPOS="1951"
+                    WIDTH="2104"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="180 1988 177 2012 2275 2061 2281 2038 2278 2000 180 1951 180 1988"/></Shape>
+	    <String CONTENT="Essensausgaben bestanden. Diese Delikte waren ihrer grossen Zahl wegen"
+                    HPOS="177"
+                    VPOS="1951"
+                    WIDTH="2104"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fc30b24"
+                    TAGREFS="LT3625"
+                    BASELINE="180 2041 2359 2087" 
+                    HPOS="177"
+                    VPOS="2003"
+                    WIDTH="2182"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="180 2041 177 2072 2354 2110 2359 2087 2356 2043 180 2003 180 2041"/></Shape>
+	    <String CONTENT="bedenklich und mussten unverhältnismässig höher bestraft werden, als die"
+                    HPOS="177"
+                    VPOS="2003"
+                    WIDTH="2182"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ea540b"
+                    TAGREFS="LT3625"
+                    BASELINE="180 2093 2295 2136" 
+                    HPOS="177"
+                    VPOS="2052"
+                    WIDTH="2118"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="180 2093 177 2119 2290 2160 2295 2136 2293 2096 180 2052 180 2093"/></Shape>
+	    <String CONTENT="ausserhalb Theresienstadt üblichen Strafsätzen für solche Delikte gewe-"
+                    HPOS="177"
+                    VPOS="2052"
+                    WIDTH="2118"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d8e5fbb"
+                    TAGREFS="LT3625"
+                    BASELINE="177 2142 2266 2186" 
+                    HPOS="174"
+                    VPOS="2102"
+                    WIDTH="2092"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="177 2142 174 2168 2261 2209 2266 2186 2263 2145 177 2102 177 2142"/></Shape>
+	    <String CONTENT="sen sind. Diese Delikte haben weiter angedauert und werden wohl nicht"
+                    HPOS="174"
+                    VPOS="2102"
+                    WIDTH="2092"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1873cf7d"
+                    TAGREFS="LT3625"
+                    BASELINE="177 2189 2356 2241" 
+                    HPOS="174"
+                    VPOS="2148"
+                    WIDTH="2182"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="177 2189 174 2223 2351 2276 2356 2241 2356 2203 177 2148 177 2189"/></Shape>
+	    <String CONTENT="aufhören. Das zuständige Bezirksgericht wird kaum in der Lage sein, sich"
+                    HPOS="174"
+                    VPOS="2148"
+                    WIDTH="2182"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_380a5409"
+                    TAGREFS="LT3625"
+                    BASELINE="171 2247 2290 2290" 
+                    HPOS="168"
+                    VPOS="2212"
+                    WIDTH="2122"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="171 2247 168 2267 2284 2322 2290 2290 2290 2255 171 2212 171 2247"/></Shape>
+	    <String CONTENT="mit der Aburteilung dieser nach den allgemeinen Verhältnissen kleinli-"
+                    HPOS="168"
+                    VPOS="2212"
+                    WIDTH="2122"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a625ceb"
+                    TAGREFS="LT3625"
+                    BASELINE="171 2296 2080 2334" 
+                    HPOS="168"
+                    VPOS="2255"
+                    WIDTH="1912"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="171 2296 168 2319 2075 2363 2080 2334 2077 2296 171 2255 171 2296"/></Shape>
+	    <String CONTENT="chen Dinge zu befassen. Straflos können sie aber nicht bleiben."
+                    HPOS="168"
+                    VPOS="2255"
+                    WIDTH="1912"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5955f51"
+                    TAGREFS="LT3625"
+                    BASELINE="473 2348 2310 2392" 
+                    HPOS="470"
+                    VPOS="2308"
+                    WIDTH="1840"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="473 2348 470 2380 2304 2424 2310 2392 2310 2345 473 2308 473 2348"/></Shape>
+	    <String CONTENT="In der Zusammensetzung der Bevölkerung ist durch die letzten,"
+                    HPOS="470"
+                    VPOS="2308"
+                    WIDTH="1840"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09d7237c"
+                    TAGREFS="LT3625"
+                    BASELINE="168 2398 2287 2441" 
+                    HPOS="165"
+                    VPOS="2351"
+                    WIDTH="2122"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="168 2398 165 2421 2281 2470 2287 2441 2287 2403 168 2351 168 2398"/></Shape>
+	    <String CONTENT="von den deutschen Behörden veranstalteten Transporte eine Verschiebung"
+                    HPOS="165"
+                    VPOS="2351"
+                    WIDTH="2122"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25ea4b9d"
+                    TAGREFS="LT3625"
+                    BASELINE="174 2447 2333 2491" 
+                    HPOS="171"
+                    VPOS="2409"
+                    WIDTH="2162"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="174 2447 171 2470 2327 2522 2333 2491 2330 2450 174 2409 174 2447"/></Shape>
+	    <String CONTENT="eingetreten, welche in krimineller Hinsicht eine weitgehende Verschlech-"
+                    HPOS="171"
+                    VPOS="2409"
+                    WIDTH="2162"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55d864c7"
+                    TAGREFS="LT3625"
+                    BASELINE="168 2496 2345 2549" 
+                    HPOS="165"
+                    VPOS="2450"
+                    WIDTH="2180"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="168 2496 165 2520 2339 2581 2345 2549 2342 2502 168 2450 168 2496"/></Shape>
+	    <String CONTENT="terung bedeutet. Es sind Transporte aus Konzentrationslagern eingelangt"
+                    HPOS="165"
+                    VPOS="2450"
+                    WIDTH="2180"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1595e0e"
+                    TAGREFS="LT3625"
+                    BASELINE="168 2552 2246 2598" 
+                    HPOS="165"
+                    VPOS="2514"
+                    WIDTH="2081"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="168 2552 165 2575 2240 2624 2246 2598 2243 2552 168 2514 168 2552"/></Shape>
+	    <String CONTENT="in welchem sich politische sondern gemeine Verbrecher verwahrt waren."
+                    HPOS="165"
+                    VPOS="2514"
+                    WIDTH="2081"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d70e927"
+                    TAGREFS="LT3625"
+                    BASELINE="165 2598 2278 2647" 
+                    HPOS="162"
+                    VPOS="2557"
+                    WIDTH="2116"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="165 2598 162 2627 2272 2676 2278 2647 2275 2604 165 2557 165 2598"/></Shape>
+	    <String CONTENT="Auch sind die übrigen Insassen von K.Z.Lagern schwer an die Einhaltung"
+                    HPOS="162"
+                    VPOS="2557"
+                    WIDTH="2116"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c175948f"
+                    TAGREFS="LT3625"
+                    BASELINE="165 2642 2336 2694" 
+                    HPOS="162"
+                    VPOS="2601"
+                    WIDTH="2174"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="572 2610 543 2610 528 2607 473 2607 456 2607 427 2607 406 2604 372 2604 369 2604 340 2604 310 2604 284 2601 267 2601 252 2601 223 2601 194 2601 165 2601 165 2642 162 2671 2330 2720 2336 2694 2336 2659 578 2610 572 2610"/></Shape>
+	    <String CONTENT="von Ruhe und Ordnung zu gewöhnen. Es sind daher in der letzten Zeit viel"
+                    HPOS="162"
+                    VPOS="2601"
+                    WIDTH="2174"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d7bcad1"
+                    TAGREFS="LT3625"
+                    BASELINE="165 2694 2278 2746" 
+                    HPOS="162"
+                    VPOS="2650"
+                    WIDTH="2116"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="165 2694 162 2717 2272 2775 2278 2746 2275 2700 165 2650 165 2694"/></Shape>
+	    <String CONTENT="fach Verbrechen vorgekommen, deren Ahndung mangels einer ausreichenden"
+                    HPOS="162"
+                    VPOS="2650"
+                    WIDTH="2116"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae7418b8"
+                    TAGREFS="LT3625"
+                    BASELINE="159 2743 2252 2795" 
+                    HPOS="156"
+                    VPOS="2705"
+                    WIDTH="2096"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="159 2743 156 2769 2246 2822 2252 2795 2249 2752 159 2705 159 2743"/></Shape>
+	    <String CONTENT="Vollzugsgewalt unterbleiben musste. Die Bestrafung solcher Handlungen"
+                    HPOS="156"
+                    VPOS="2705"
+                    WIDTH="2096"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2230366"
+                    TAGREFS="LT3625"
+                    BASELINE="159 2795 2307 2848" 
+                    HPOS="156"
+                    VPOS="2755"
+                    WIDTH="2151"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="159 2795 156 2819 2301 2877 2307 2848 2307 2810 159 2755 159 2795"/></Shape>
+	    <String CONTENT="wird wohl durch die ordentlichen Gerichte erfolgen müssen. Diese werden"
+                    HPOS="156"
+                    VPOS="2755"
+                    WIDTH="2151"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6e56a67"
+                    TAGREFS="LT3625"
+                    BASELINE="156 2848 2272 2900" 
+                    HPOS="154"
+                    VPOS="2801"
+                    WIDTH="2118"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="156 2848 154 2868 2266 2932 2272 2900 2269 2856 156 2801 156 2848"/></Shape>
+	    <String CONTENT="aber kaum in der Lage sein, die erforderlichen Organe zur Durchführung"
+                    HPOS="154"
+                    VPOS="2801"
+                    WIDTH="2118"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_594a5c53"
+                    TAGREFS="LT3625"
+                    BASELINE="156 2897 2310 2952" 
+                    HPOS="154"
+                    VPOS="2851"
+                    WIDTH="2156"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="156 2897 154 2929 2304 2984 2310 2952 2310 2912 156 2851 156 2897"/></Shape>
+	    <String CONTENT="des Vorverfahrens beizustellen. In diesem Umfange wäre eine Fortsetzung"
+                    HPOS="154"
+                    VPOS="2851"
+                    WIDTH="2156"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de840016"
+                    TAGREFS="LT3625"
+                    BASELINE="154 2952 1996 2993" 
+                    HPOS="151"
+                    VPOS="2909"
+                    WIDTH="1845"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="154 2952 151 2975 1990 3025 1996 2993 1993 2952 154 2909 154 2952"/></Shape>
+	    <String CONTENT="der Tätigkeit des bisherigen jüdischen Gerichtes zweckmässig."
+                    HPOS="151"
+                    VPOS="2909"
+                    WIDTH="1845"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef0bd909"
+                    TAGREFS="LT3625"
+                    BASELINE="456 3007 2281 3051" 
+                    HPOS="453"
+                    VPOS="2964"
+                    WIDTH="1828"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="456 3007 453 3031 2275 3074 2281 3051 2278 3013 456 2964 456 3007"/></Shape>
+	    <String CONTENT="Überdies kann die Ausübung der Polizeistrafgewalt natürlich"
+                    HPOS="453"
+                    VPOS="2964"
+                    WIDTH="1828"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6aeadb8a"
+                    TAGREFS="LT3625"
+                    BASELINE="145 3051 2322 3106" 
+                    HPOS="142"
+                    VPOS="3004"
+                    WIDTH="2180"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="145 3051 142 3080 281 3100 284 3100 340 3089 342 3089 383 3106 386 3106 389 3106 392 3106 427 3092 430 3092 491 3094 642 3100 714 3126 717 3126 967 3132 970 3132 973 3132 1043 3112 1046 3112 1069 3132 1072 3132 1075 3132 1177 3135 1179 3135 1313 3121 1389 3115 1409 3126 1438 3144 1441 3144 1444 3144 1447 3144 1551 3129 1624 3121 1711 3135 1746 3141 1749 3141 1775 3138 1860 3126 1921 3144 1973 3158 1976 3158 2159 3161 2162 3161 2165 3161 2182 3153 2205 3141 2316 3155 2322 3106 2319 3071 145 3004 145 3051"/></Shape>
+	    <String CONTENT="nicht entbehrt werden. Sie ist bisher von einem Richter ausgeübt worden."
+                    HPOS="142"
+                    VPOS="3004"
+                    WIDTH="2180"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

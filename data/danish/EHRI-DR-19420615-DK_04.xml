@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19420615-DK_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2528"
+          HEIGHT="3398"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2528"
+                  HEIGHT="3398">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_462468f9"
+                    TAGREFS="LT3627"
+                    BASELINE="561 436 2156 436" 
+                    HPOS="561"
+                    VPOS="362"
+                    WIDTH="1595"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="561 436 561 467 2156 467 2156 436 2156 390 2088 390 2046 362 2043 362 2040 362 1870 362 1867 362 1864 362 1861 362 1861 365 1850 376 1836 365 1836 362 1833 362 1830 362 1774 362 1771 362 1768 362 1731 382 1652 370 1649 370 1646 370 1612 387 1572 362 1570 362 1567 362 1564 362 1496 376 1473 362 1470 362 1468 362 1465 362 1462 362 1417 385 1397 365 1397 362 1394 362 1391 362 1317 362 1315 362 1312 362 1210 387 1181 370 1178 370 1176 370 1173 370 1082 387 1048 370 1045 370 1042 370 1040 370 1037 370 1037 373 1020 390 796 390 768 365 768 362 765 362 762 362 697 362 694 362 691 362 688 362 688 365 663 390 561 390 561 436"/></Shape>
+	    <String CONTENT="Ved Beslaglæggelsen afskæres den hidtitdige Ejer fra"
+                    HPOS="561"
+                    VPOS="362"
+                    WIDTH="1595"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22c40ecd"
+                    TAGREFS="LT3627"
+                    BASELINE="396 549 2244 538" 
+                    HPOS="393"
+                    VPOS="467"
+                    WIDTH="1851"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="396 549 396 569 2244 560 2244 538 2238 489 1776 467 1774 467 1643 470 1640 470 1638 470 1638 472 1615 492 1615 495 1493 495 1490 492 1462 472 1459 472 1456 472 1453 472 1451 472 1388 489 1334 472 1332 472 1329 472 1326 472 1323 472 1323 475 1320 475 1306 492 1023 481 1020 481 717 498 685 498 677 498 563 475 561 475 558 475 510 498 510 501 393 501 396 549"/></Shape>
+	    <String CONTENT="at sælge de beslagte Genstande eller paa anden Maade dispo-"
+                    HPOS="393"
+                    VPOS="467"
+                    WIDTH="1851"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1b66ed9"
+                    TAGREFS="LT3627"
+                    BASELINE="402 648 2301 634" 
+                    HPOS="399"
+                    VPOS="574"
+                    WIDTH="1902"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="402 648 402 671 674 685 677 685 844 671 847 668 2298 659 2301 634 2295 594 2023 594 1921 574 1918 574 1740 594 1669 577 1666 577 1663 577 1380 597 1351 580 1349 580 1346 580 1184 580 1181 580 1178 580 1099 600 918 586 915 586 912 586 909 586 892 600 742 588 739 588 736 588 734 588 717 605 399 605 402 648"/></Shape>
+	    <String CONTENT="nere over dem. For Formue, der er Genstand for Beslaglæggel-"
+                    HPOS="399"
+                    VPOS="574"
+                    WIDTH="1902"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e3e886f"
+                    TAGREFS="LT3627"
+                    BASELINE="405 750 2216 736" 
+                    HPOS="402"
+                    VPOS="685"
+                    WIDTH="1814"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="405 750 405 778 2213 764 2216 736 2210 696 1490 685 1487 685 1400 699 796 690 793 690 402 707 405 750"/></Shape>
+	    <String CONTENT="se, kan der indsættes en kommissarisk Forvaltning, saafremt"
+                    HPOS="402"
+                    VPOS="685"
+                    WIDTH="1814"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adf5a7df"
+                    TAGREFS="LT3627"
+                    BASELINE="402 849 2216 843" 
+                    HPOS="399"
+                    VPOS="787"
+                    WIDTH="1817"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="402 849 402 877 2213 877 2216 843 2210 801 1309 787 1306 787 1303 787 1300 787 1278 801 1176 790 1173 790 399 804 402 849"/></Shape>
+	    <String CONTENT="det maa anses for paakrævet af Hensyn til en ordentlig Ad_"
+                    HPOS="399"
+                    VPOS="787"
+                    WIDTH="1817"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e2969d2"
+                    TAGREFS="LT3627"
+                    BASELINE="405 951 1677 945" 
+                    HPOS="402"
+                    VPOS="897"
+                    WIDTH="1275"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="405 951 405 979 1674 974 1677 945 1669 897 402 908 405 951"/></Shape>
+	    <String CONTENT="ministration (Bewirtschaftung) af Formue."
+                    HPOS="402"
+                    VPOS="897"
+                    WIDTH="1275"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f315e49"
+                    TAGREFS="LT3627"
+                    BASELINE="558 1053 2309 1047" 
+                    HPOS="555"
+                    VPOS="988"
+                    WIDTH="1754"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="558 1053 558 1081 2306 1076 2309 1047 2304 1008 1609 988 1606 988 1493 1005 1298 991 1295 991 1292 991 1227 1008 1224 1010 977 1010 654 1010 597 993 595 993 592 993 589 993 555 1005 558 1053"/></Shape>
+	    <String CONTENT="Beslaglat Formue ken inddrages af Rigskommissæren eller"
+                    HPOS="555"
+                    VPOS="988"
+                    WIDTH="1754"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9a9897f"
+                    TAGREFS="LT3627"
+                    BASELINE="408 1158 2315 1149" 
+                    HPOS="405"
+                    VPOS="1093"
+                    WIDTH="1910"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="408 1158 408 1183 2312 1189 2315 1149 2309 1107 1677 1093 1674 1093 1439 1107 1125 1095 1122 1095 1037 1110 507 1098 504 1098 405 1112 408 1158"/></Shape>
+	    <String CONTENT="af dem af ham dertil bemyndigede. Raadigheden over inddragen"
+                    HPOS="405"
+                    VPOS="1093"
+                    WIDTH="1910"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52c30471"
+                    TAGREFS="LT3627"
+                    BASELINE="408 1260 2250 1251" 
+                    HPOS="405"
+                    VPOS="1194"
+                    WIDTH="1845"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="408 1260 408 1285 2247 1277 2250 1251 2244 1209 1660 1194 1657 1194 1655 1194 1626 1209 1244 1197 1241 1197 405 1214 408 1260"/></Shape>
+	    <String CONTENT="Formue tilkommer den Myndighed, der har foretaget Konfiska-"
+                    HPOS="405"
+                    VPOS="1194"
+                    WIDTH="1845"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50a00c28"
+                    TAGREFS="LT3627"
+                    BASELINE="410 1362 2255 1353" 
+                    HPOS="408"
+                    VPOS="1299"
+                    WIDTH="1847"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="410 1362 410 1387 2253 1379 2255 1353 2250 1316 1706 1299 1703 1299 1700 1299 1697 1299 1674 1313 1595 1302 1592 1302 1589 1302 1587 1302 1587 1305 1572 1319 838 1319 816 1305 813 1305 810 1305 807 1305 804 1305 802 1305 785 1319 433 1308 430 1308 427 1308 425 1308 408 1316 410 1362"/></Shape>
+	    <String CONTENT="tionen. De træffer endvidere ad Forvaltningsvejen - altsaa"
+                    HPOS="408"
+                    VPOS="1299"
+                    WIDTH="1847"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_798b7c42"
+                    TAGREFS="LT3627"
+                    BASELINE="408 1461 2224 1452" 
+                    HPOS="405"
+                    VPOS="1396"
+                    WIDTH="1819"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="408 1461 408 1492 2221 1480 2224 1452 2219 1413 1672 1396 1669 1396 1666 1396 1635 1410 1623 1398 1623 1396 1621 1396 1618 1396 1615 1396 1527 1413 1496 1398 1493 1398 1136 1398 1133 1398 830 1415 476 1404 473 1404 405 1418 408 1461"/></Shape>
+	    <String CONTENT="uden at Spørgsmaalet vil kunne indbringes for Domstolene -"
+                    HPOS="405"
+                    VPOS="1396"
+                    WIDTH="1819"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29160b65"
+                    TAGREFS="LT3627"
+                    BASELINE="413 1563 2278 1551" 
+                    HPOS="410"
+                    VPOS="1495"
+                    WIDTH="1868"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="413 1563 413 1591 2278 1580 2278 1551 2272 1509 1873 1495 1870 1495 1867 1495 1810 1509 1805 1509 1765 1509 1363 1497 1360 1497 1357 1497 1306 1512 1298 1514 410 1514 413 1563"/></Shape>
+	    <String CONTENT="Bestemmelse om Afvkling af den Gæld, der paahviler den ind-"
+                    HPOS="410"
+                    VPOS="1495"
+                    WIDTH="1868"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d777ce6e"
+                    TAGREFS="LT3627"
+                    BASELINE="410 1667 2253 1656" 
+                    HPOS="408"
+                    VPOS="1602"
+                    WIDTH="1845"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="410 1667 410 1696 2250 1684 2253 1656 2247 1614 1380 1602 1377 1602 1275 1616 589 1608 586 1608 408 1622 410 1667"/></Shape>
+	    <String CONTENT="dragne Formue. Den eventuelle Hæftelse indskrænker sig til"
+                    HPOS="408"
+                    VPOS="1602"
+                    WIDTH="1845"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd3d447"
+                    TAGREFS="LT3627"
+                    BASELINE="413 1769 1326 1758" 
+                    HPOS="410"
+                    VPOS="1715"
+                    WIDTH="916"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="413 1769 413 1798 1326 1786 1326 1758 1317 1715 410 1724 413 1769"/></Shape>
+	    <String CONTENT="det konfiskeredes Salgsværdi."
+                    HPOS="410"
+                    VPOS="1715"
+                    WIDTH="916"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66c4fee3"
+                    TAGREFS="LT3627"
+                    BASELINE="566 1871 2284 1857" 
+                    HPOS="563"
+                    VPOS="1800"
+                    WIDTH="1721"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="566 1871 566 1900 2281 1885 2284 1857 2278 1815 1992 1800 1989 1800 1904 1815 1898 1815 1884 1815 1666 1803 1663 1803 1601 1817 1592 1817 1564 1817 1400 1806 1397 1806 563 1820 566 1871"/></Shape>
+	    <String CONTENT="Ifølge en af Rigskommissæren under 22.November f.A. ud-"
+                    HPOS="563"
+                    VPOS="1800"
+                    WIDTH="1721"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0879dd0b"
+                    TAGREFS="LT3627"
+                    BASELINE="416 1973 2315 1965" 
+                    HPOS="413"
+                    VPOS="1908"
+                    WIDTH="1902"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="416 1973 416 2001 2312 1993 2315 1965 2309 1922 1680 1908 1677 1908 1547 1922 1076 1911 1074 1911 1071 1911 1040 1925 447 1914 444 1914 442 1914 413 1925 416 1973"/></Shape>
+	    <String CONTENT="færdiget første Geenemførelsesbetstemmelse til Anordningen af"
+                    HPOS="413"
+                    VPOS="1908"
+                    WIDTH="1902"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1d4ada4"
+                    TAGREFS="LT3627"
+                    BASELINE="416 2075 2284 2064" 
+                    HPOS="413"
+                    VPOS="2024"
+                    WIDTH="1871"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="416 2075 416 2103 2281 2092 2284 2064 2275 2024 413 2033 416 2075"/></Shape>
+	    <String CONTENT="24.Oktober s.A. om Oprettelse af en &quot;Treuhandverwaltung&quot; for"
+                    HPOS="413"
+                    VPOS="2024"
+                    WIDTH="1871"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_393f09ea"
+                    TAGREFS="LT3627"
+                    BASELINE="416 2174 2284 2166" 
+                    HPOS="413"
+                    VPOS="2112"
+                    WIDTH="1871"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="416 2174 416 2205 2281 2197 2284 2166 2278 2126 1660 2112 1657 2112 413 2132 416 2174"/></Shape>
+	    <String CONTENT="Rigskommissariatet Ostland finder Administrationen og Salget"
+                    HPOS="413"
+                    VPOS="2112"
+                    WIDTH="1871"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de076b29"
+                    TAGREFS="LT3627"
+                    BASELINE="416 2285 2219 2270" 
+                    HPOS="413"
+                    VPOS="2234"
+                    WIDTH="1806"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="416 2285 416 2310 2216 2299 2219 2270 2210 2234 413 2245 416 2285"/></Shape>
+	    <String CONTENT="af den jødiske Formue, der er Genstand for Beslaglæggelse,"
+                    HPOS="413"
+                    VPOS="2234"
+                    WIDTH="1806"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10ec3781"
+                    TAGREFS="LT3627"
+                    BASELINE="419 2387 2284 2372" 
+                    HPOS="416"
+                    VPOS="2313"
+                    WIDTH="1868"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="419 2387 419 2412 2284 2401 2284 2372 2278 2330 1966 2330 1913 2313 1910 2313 1907 2313 1799 2330 1779 2316 1776 2316 1774 2316 1771 2316 983 2336 858 2321 855 2321 765 2338 447 2327 444 2327 442 2327 416 2338 419 2387"/></Shape>
+	    <String CONTENT="i Henhold til Anordningen af 13.Oktober s.A. Sted i Overens-"
+                    HPOS="416"
+                    VPOS="2313"
+                    WIDTH="1868"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84072bfc"
+                    TAGREFS="LT3627"
+                    BASELINE="425 2491 2301 2474" 
+                    HPOS="422"
+                    VPOS="2429"
+                    WIDTH="1879"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="425 2491 425 2514 2301 2508 2301 2474 2292 2429 422 2443 425 2491"/></Shape>
+	    <String CONTENT="stemmelse med de i Anordningen af 24. s.M. indeholdte Regler,"
+                    HPOS="422"
+                    VPOS="2429"
+                    WIDTH="1879"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b89f63d6"
+                    TAGREFS="LT3627"
+                    BASELINE="425 2593 2278 2579" 
+                    HPOS="422"
+                    VPOS="2528"
+                    WIDTH="1856"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="425 2593 425 2619 2278 2602 2278 2579 2272 2534 793 2528 790 2528 422 2545 425 2593"/></Shape>
+	    <String CONTENT="jfr. herom Gesandtskabets Indberetning Nr.1657 af Dags Dato."
+                    HPOS="422"
+                    VPOS="2528"
+                    WIDTH="1856"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0917e7e8"
+                    TAGREFS="LT3627"
+                    BASELINE="569 2690 2287 2681" 
+                    HPOS="566"
+                    VPOS="2619"
+                    WIDTH="1721"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="569 2690 569 2718 2284 2709 2287 2681 2281 2636 1941 2619 1938 2619 1836 2633 1751 2619 1748 2619 1745 2619 1742 2619 1742 2622 1728 2633 1572 2622 1570 2622 1269 2636 1241 2622 1238 2622 1235 2622 1232 2622 1190 2636 1153 2622 1150 2622 1147 2622 1144 2622 1071 2639 793 2624 790 2624 702 2639 632 2624 629 2624 626 2624 566 2641 569 2690"/></Shape>
+	    <String CONTENT="Allerede inden Udfærdigelsen af Anordningen af 13.Okto-"
+                    HPOS="566"
+                    VPOS="2619"
+                    WIDTH="1721"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fdf31e7"
+                    TAGREFS="LT3627"
+                    BASELINE="419 2794 2343 2783" 
+                    HPOS="416"
+                    VPOS="2721"
+                    WIDTH="1927"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="419 2794 419 2820 2340 2809 2343 2783 2338 2741 1935 2721 1932 2721 1825 2741 1822 2741 1785 2724 1782 2724 1779 2724 1606 2741 1584 2724 1581 2724 1578 2724 1507 2724 1504 2724 1502 2724 1499 2724 1479 2741 1281 2726 1278 2726 1275 2726 1272 2726 1252 2743 1249 2743 1235 2743 1127 2729 1125 2729 1122 2729 1119 2729 1102 2743 1099 2746 416 2746 419 2794"/></Shape>
+	    <String CONTENT="ber f.A. var der indenfor de forskellige Omraader, hvoraf Ost-"
+                    HPOS="416"
+                    VPOS="2721"
+                    WIDTH="1927"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1233f0a3"
+                    TAGREFS="LT3627"
+                    BASELINE="419 2893 2264 2885" 
+                    HPOS="416"
+                    VPOS="2823"
+                    WIDTH="1848"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="419 2893 419 2925 2261 2916 2264 2885 2258 2842 1757 2823 1754 2823 1618 2842 1544 2826 1541 2826 1538 2826 1215 2842 1110 2826 1108 2826 1014 2842 666 2828 663 2828 660 2828 657 2828 637 2848 416 2848 419 2893"/></Shape>
+	    <String CONTENT="land bestaar, blevet udfærdiget lokale Forskrifter, hvorved"
+                    HPOS="416"
+                    VPOS="2823"
+                    WIDTH="1848"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76953586"
+                    TAGREFS="LT3627"
+                    BASELINE="419 2998 2346 2987" 
+                    HPOS="416"
+                    VPOS="2925"
+                    WIDTH="1930"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="419 2998 419 3024 2346 3012 2346 2987 2340 2944 1947 2925 1944 2925 1853 2939 1553 2927 1550 2927 1479 2942 1456 2927 1453 2927 1451 2927 1448 2927 1445 2927 1408 2942 1204 2933 1201 2933 1088 2947 1076 2947 1068 2947 989 2930 986 2930 983 2930 938 2947 904 2930 901 2930 898 2930 895 2930 830 2947 824 2947 821 2947 748 2933 745 2933 742 2933 711 2947 705 2950 691 2947 634 2936 632 2936 629 2936 597 2947 592 2950 416 2950 419 2998"/></Shape>
+	    <String CONTENT="der var indført en Anmeldelsespligt for al jødisk Ejendom samt"
+                    HPOS="416"
+                    VPOS="2925"
+                    WIDTH="1930"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b162f724"
+                    TAGREFS="LT3627"
+                    BASELINE="419 3100 2338 3089" 
+                    HPOS="416"
+                    VPOS="3041"
+                    WIDTH="1922"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="419 3100 419 3128 2338 3117 2338 3089 2332 3055 1873 3041 1870 3041 1371 3058 447 3049 444 3049 442 3049 416 3061 419 3100"/></Shape>
+	    <String CONTENT="udstedt Forbud mod, at Jøderne disponerede over deres Ejendom."
+                    HPOS="416"
+                    VPOS="3041"
+                    WIDTH="1922"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

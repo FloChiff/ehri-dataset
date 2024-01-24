@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP020_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2414"
+          HEIGHT="3484"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2414"
+                  HEIGHT="3484">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1f3e9245"
+                    TAGREFS="LT3625"
+                    BASELINE="531 354 2312 330" 
+                    HPOS="528"
+                    VPOS="261"
+                    WIDTH="1784"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="531 354 531 386 2312 365 2312 330 2300 270 2239 293 2140 293 2094 272 2068 261 2065 261 1864 261 1862 261 1661 264 1658 264 1655 264 1655 267 1644 278 1623 301 1362 301 1342 284 1336 278 1336 275 1333 275 1330 275 1327 275 1324 275 1310 284 1278 301 1156 304 941 290 938 290 935 290 932 290 877 307 807 290 787 287 784 287 752 293 641 310 595 293 566 284 563 284 560 284 557 284 528 290 531 354"/></Shape>
+	    <String CONTENT="Zusammenfassen ist für Theresienstadt eine besondere Rechts-"
+                    HPOS="528"
+                    VPOS="261"
+                    WIDTH="1784"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52f7e14f"
+                    TAGREFS="LT3625"
+                    BASELINE="229 415 2263 386" 
+                    HPOS="223"
+                    VPOS="345"
+                    WIDTH="2039"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="226 412 226 444 2262 418 2262 383 2254 345 223 360 226 412"/></Shape>
+	    <String CONTENT="prechung und Uebertretungssachen und eine solche in Polizeistrafsa-"
+                    HPOS="223"
+                    VPOS="345"
+                    WIDTH="2039"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dff7b75"
+                    TAGREFS="LT3625"
+                    BASELINE="241 464 2276 435" 
+                    HPOS="235"
+                    VPOS="397"
+                    WIDTH="2039"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="238 461 238 490 2271 461 2274 432 2265 397 235 423 238 461"/></Shape>
+	    <String CONTENT="chen unbedingt erforderlich. Ebenso muss für die Möglichkeit vorge-"
+                    HPOS="235"
+                    VPOS="397"
+                    WIDTH="2039"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74a209b9"
+                    TAGREFS="LT3625"
+                    BASELINE="235 516 2410 481" 
+                    HPOS="229"
+                    VPOS="438"
+                    WIDTH="2179"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="232 513 232 545 2405 516 2408 479 2399 438 229 476 232 513"/></Shape>
+	    <String CONTENT="sorgt sein, dass die Tatbestände von Verbrechen und Vergehen festgestell"
+                    HPOS="229"
+                    VPOS="438"
+                    WIDTH="2179"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99fd2389"
+                    TAGREFS="LT3625"
+                    BASELINE="238 563 2251 537" 
+                    HPOS="235"
+                    VPOS="499"
+                    WIDTH="2016"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="238 563 238 586 2251 566 2251 537 2242 499 235 522 238 563"/></Shape>
+	    <String CONTENT="werden können. Soweit diese Tätigkeit durch die normal vorgesehenen"
+                    HPOS="235"
+                    VPOS="499"
+                    WIDTH="2016"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f573df4"
+                    TAGREFS="LT3625"
+                    BASELINE="235 612 2207 586" 
+                    HPOS="232"
+                    VPOS="551"
+                    WIDTH="1975"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="235 612 235 638 2207 624 2207 586 2199 551 232 566 235 612"/></Shape>
+	    <String CONTENT="Organe nicht versehen werden können, wird die Weiterbelassung des"
+                    HPOS="232"
+                    VPOS="551"
+                    WIDTH="1975"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f19da50d"
+                    TAGREFS="LT3625"
+                    BASELINE="238 659 1870 644" 
+                    HPOS="235"
+                    VPOS="609"
+                    WIDTH="1635"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="238 659 238 688 456 714 458 717 560 717 560 714 563 714 624 688 630 688 772 688 778 688 798 705 801 705 804 705 807 705 810 705 813 705 830 688 833 688 868 702 871 702 874 702 877 702 880 702 880 699 891 688 894 685 1002 685 1013 688 1051 708 1054 708 1057 708 1060 708 1127 688 1132 688 1138 688 1188 708 1191 708 1193 711 1193 708 1196 708 1246 688 1266 682 1301 688 1379 705 1382 708 1542 708 1542 705 1545 705 1548 705 1568 688 1586 679 1658 688 1737 699 1740 699 1742 699 1745 699 1757 688 1774 679 1867 688 1870 644 1862 609 235 618 238 659"/></Shape>
+	    <String CONTENT="Theresienstädter Gerichtes in diesem Rahmen empfohlen."
+                    HPOS="235"
+                    VPOS="609"
+                    WIDTH="1635"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

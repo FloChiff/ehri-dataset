@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL16560176_09.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="806"
+          HEIGHT="1008"
+          PHYSICAL_IMG_NR="50"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="806"
+                  HEIGHT="1008">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_49d43786"
+                    TAGREFS="LT3625"
+                    BASELINE="92 115 744 106" 
+                    HPOS="91"
+                    VPOS="85"
+                    WIDTH="653"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="92 115 92 123 743 118 744 106 742 91 724 93 716 91 698 85 697 85 696 85 664 91 657 92 655 91 647 85 647 85 646 85 622 85 621 85 621 85 601 91 589 94 560 91 558 91 558 91 556 91 532 95 516 91 500 87 499 87 498 87 497 87 485 91 478 94 439 91 434 91 433 91 431 91 407 98 356 98 347 93 346 93 345 93 310 98 295 91 289 89 289 89 288 89 225 90 224 90 221 91 205 100 151 100 91 92 92 115"/></Shape>
+	    <String CONTENT="Was sollten wir nun tun? wir standen beim Fenster, naturlich hinterm"
+                    HPOS="91"
+                    VPOS="85"
+                    WIDTH="653"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1576ae8"
+                    TAGREFS="LT3625"
+                    BASELINE="89 130 739 123" 
+                    HPOS="89"
+                    VPOS="112"
+                    WIDTH="650"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="89 130 89 140 738 132 739 123 737 112 89 115 89 130"/></Shape>
+	    <String CONTENT="Vorhang, damit man uns nicht sehen konnte, uns beobachteten die Ein-"
+                    HPOS="89"
+                    VPOS="112"
+                    WIDTH="650"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a71d71c6"
+                    TAGREFS="LT3625"
+                    BASELINE="87 147 768 138" 
+                    HPOS="86"
+                    VPOS="127"
+                    WIDTH="682"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="87 147 87 157 768 147 768 138 765 127 86 133 87 147"/></Shape>
+	    <String CONTENT="wohner. Es war eine lange Dorfstrasse mit sehr geringem Verkehr, hie un"
+                    HPOS="86"
+                    VPOS="127"
+                    WIDTH="682"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6500f0f"
+                    TAGREFS="LT3625"
+                    BASELINE="88 162 752 155" 
+                    HPOS="87"
+                    VPOS="144"
+                    WIDTH="665"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="88 162 88 171 751 162 752 155 749 144 87 151 88 162"/></Shape>
+	    <String CONTENT="da fuhr ein Lastauto oder Radfahrer vorbei. Gegenuber von uns war ein"
+                    HPOS="87"
+                    VPOS="144"
+                    WIDTH="665"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f0481ec"
+                    TAGREFS="LT3625"
+                    BASELINE="87 178 753 170" 
+                    HPOS="86"
+                    VPOS="160"
+                    WIDTH="667"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="87 178 87 190 752 178 753 170 750 160 86 165 87 178"/></Shape>
+	    <String CONTENT="Häuschen in dem unzahlige Leute wohnten, denn jeden Augenblick konnte"
+                    HPOS="86"
+                    VPOS="160"
+                    WIDTH="667"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e7b3b63"
+                    TAGREFS="LT3625"
+                    BASELINE="86 196 777 187" 
+                    HPOS="84"
+                    VPOS="175"
+                    WIDTH="692"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="85 195 85 206 776 194 776 186 774 175 84 182 85 195"/></Shape>
+	    <String CONTENT="man jemand andern beim Fenster erscheinen sehen. So hatten wir wenigstens"
+                    HPOS="84"
+                    VPOS="175"
+                    WIDTH="692"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51fb9b54"
+                    TAGREFS="LT3625"
+                    BASELINE="90 212 722 204" 
+                    HPOS="89"
+                    VPOS="190"
+                    WIDTH="633"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="90 212 90 220 721 211 722 204 720 190 89 199 90 212"/></Shape>
+	    <String CONTENT="eine kleine Ablenkung. Beim Klo in unserem Gasthof war ein kleiner"
+                    HPOS="89"
+                    VPOS="190"
+                    WIDTH="633"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_792464da"
+                    TAGREFS="LT3625"
+                    BASELINE="88 225 733 217" 
+                    HPOS="87"
+                    VPOS="208"
+                    WIDTH="646"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="88 225 88 235 732 226 733 217 731 208 87 213 88 225"/></Shape>
+	    <String CONTENT="Balkon, der auf ein Gartchen schaute, dorthin gingen wir, um &quot;frische"
+                    HPOS="87"
+                    VPOS="208"
+                    WIDTH="646"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b01daa8"
+                    TAGREFS="LT3625"
+                    BASELINE="87 243 772 235" 
+                    HPOS="85"
+                    VPOS="220"
+                    WIDTH="686"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="86 242 86 252 770 244 771 234 769 220 85 228 86 242"/></Shape>
+	    <String CONTENT="Luft&quot; zu haben, da wir das Fenster in unserem Zimmer meistens zu hatten"
+                    HPOS="85"
+                    VPOS="220"
+                    WIDTH="686"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40bbe301"
+                    TAGREFS="LT3625"
+                    BASELINE="105 259 771 252" 
+                    HPOS="103"
+                    VPOS="240"
+                    WIDTH="667"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="104 258 104 269 770 262 770 252 768 240 103 246 104 258"/></Shape>
+	    <String CONTENT=".. heute ist der 13., in zwei Tagen läuft das französische Visum ab, was"
+                    HPOS="103"
+                    VPOS="240"
+                    WIDTH="667"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38fc0275"
+                    TAGREFS="LT3625"
+                    BASELINE="89 276 769 267" 
+                    HPOS="88"
+                    VPOS="256"
+                    WIDTH="681"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="89 276 89 286 768 278 769 267 766 256 88 262 89 276"/></Shape>
+	    <String CONTENT="dann. Zurück können wir auch nicht mehr.. Wir beschlossen, nicht nervos"
+                    HPOS="88"
+                    VPOS="256"
+                    WIDTH="681"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a860bdf6"
+                    TAGREFS="LT3625"
+                    BASELINE="89 293 726 283" 
+                    HPOS="89"
+                    VPOS="273"
+                    WIDTH="637"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="89 293 89 300 725 291 726 283 723 273 89 281 89 293"/></Shape>
+	    <String CONTENT="oder ungeduldig zu werden. Wir assen, standen wieder am Fenster und"
+                    HPOS="89"
+                    VPOS="273"
+                    WIDTH="637"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb5da54d"
+                    TAGREFS="LT3625"
+                    BASELINE="89 307 767 298" 
+                    HPOS="89"
+                    VPOS="285"
+                    WIDTH="678"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="89 307 89 315 766 309 767 298 764 285 89 295 89 307"/></Shape>
+	    <String CONTENT="warteten. Nach dem Tee sahen wir das kleine Auto draussen, es war wirk-"
+                    HPOS="89"
+                    VPOS="285"
+                    WIDTH="678"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b80832b"
+                    TAGREFS="LT3625"
+                    BASELINE="89 325 722 315" 
+                    HPOS="89"
+                    VPOS="302"
+                    WIDTH="633"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="89 325 89 336 722 325 722 315 720 302 89 310 89 325"/></Shape>
+	    <String CONTENT="lich der Kinobesitzer, er stieg aus und winkte uns zu, kam herauf,"
+                    HPOS="89"
+                    VPOS="302"
+                    WIDTH="633"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a733e5c"
+                    TAGREFS="LT3625"
+                    BASELINE="92 340 756 331" 
+                    HPOS="91"
+                    VPOS="318"
+                    WIDTH="665"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="92 340 92 349 756 340 756 331 753 318 91 328 92 340"/></Shape>
+	    <String CONTENT="aber er hatte Fritz noch nicht gesprochen, er war auf dem wege zu ihm."
+                    HPOS="91"
+                    VPOS="318"
+                    WIDTH="665"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d491aaff"
+                    TAGREFS="LT3625"
+                    BASELINE="90 357 743 347" 
+                    HPOS="89"
+                    VPOS="336"
+                    WIDTH="654"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="90 357 90 367 743 357 743 347 741 336 89 343 90 357"/></Shape>
+	    <String CONTENT="Es war 9 Uhr vorbei als es an unsere Tür klopfte. &quot;Alles in Ordnung&quot;,"
+                    HPOS="89"
+                    VPOS="336"
+                    WIDTH="654"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a6b5773"
+                    TAGREFS="LT3625"
+                    BASELINE="89 374 735 363" 
+                    HPOS="89"
+                    VPOS="351"
+                    WIDTH="646"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="89 374 89 383 734 374 735 363 732 351 89 362 89 374"/></Shape>
+	    <String CONTENT="begrüsste uns xxxxx der Kinobesitzer. Und uberreichte uns die Passe"
+                    HPOS="89"
+                    VPOS="351"
+                    WIDTH="646"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_922f6597"
+                    TAGREFS="LT3625"
+                    BASELINE="89 390 722 379" 
+                    HPOS="89"
+                    VPOS="368"
+                    WIDTH="633"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="89 390 89 400 722 386 722 379 720 368 89 376 89 390"/></Shape>
+	    <String CONTENT="und einen Brief von Fritz, dann wünschte er uns noch Gluck und ver-"
+                    HPOS="89"
+                    VPOS="368"
+                    WIDTH="633"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2ab74e"
+                    TAGREFS="LT3625"
+                    BASELINE="92 404 774 398" 
+                    HPOS="90"
+                    VPOS="384"
+                    WIDTH="683"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="91 403 91 414 773 404 773 397 771 386 502 384 501 384 465 388 463 389 90 392 91 403"/></Shape>
+	    <String CONTENT="abschiedete sich. Ja, er sagte noch, dass Fritz uns leider nicht an die"
+                    HPOS="90"
+                    VPOS="384"
+                    WIDTH="683"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3627918e"
+                    TAGREFS="LT3625"
+                    BASELINE="90 420 685 413" 
+                    HPOS="89"
+                    VPOS="403"
+                    WIDTH="596"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="90 420 90 429 684 420 685 413 683 403 89 409 90 420"/></Shape>
+	    <String CONTENT="Grenze begleiten könne, denn er müsse gleich nach Prag fahren."
+                    HPOS="89"
+                    VPOS="403"
+                    WIDTH="596"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d09bec2"
+                    TAGREFS="LT3625"
+                    BASELINE="92 435 732 429" 
+                    HPOS="91"
+                    VPOS="415"
+                    WIDTH="641"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="92 435 92 447 731 437 732 429 729 415 91 423 92 435"/></Shape>
+	    <String CONTENT="Er riet uns noch den Wirt zu bitten uns früh an die Bahn zu fahren,"
+                    HPOS="91"
+                    VPOS="415"
+                    WIDTH="641"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04224898"
+                    TAGREFS="LT3625"
+                    BASELINE="89 452 743 444" 
+                    HPOS="89"
+                    VPOS="431"
+                    WIDTH="654"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="89 452 89 461 407 462 408 462 409 462 410 462 417 456 418 456 421 456 480 461 481 461 482 461 498 456 545 460 546 460 596 455 627 458 628 458 629 458 637 454 676 458 677 458 743 451 743 444 741 431 89 441 89 452"/></Shape>
+	    <String CONTENT="damit wir das Gepack nicht zu schleppen hatten, da es doch ein ziem-"
+                    HPOS="89"
+                    VPOS="431"
+                    WIDTH="654"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46603fce"
+                    TAGREFS="LT3625"
+                    BASELINE="89 469 284 466" 
+                    HPOS="89"
+                    VPOS="453"
+                    WIDTH="195"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="89 469 89 482 283 477 284 466 281 453 89 455 89 469"/></Shape>
+	    <String CONTENT="lich weiter Weg war."
+                    HPOS="89"
+                    VPOS="453"
+                    WIDTH="195"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b42a0e3"
+                    TAGREFS="LT3625"
+                    BASELINE="89 488 148 490 738 478" 
+                    HPOS="88"
+                    VPOS="461"
+                    WIDTH="649"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="88 498 150 499 155 499 163 499 172 499 180 499 189 499 197 499 197 500 213 501 214 501 244 496 259 500 260 500 261 500 317 495 376 498 377 498 378 498 379 498 384 493 513 495 514 495 565 489 567 489 574 493 574 493 575 493 576 493 599 489 653 493 653 493 654 493 667 488 728 491 729 491 730 491 731 491 737 487 737 477 735 466 690 466 689 466 681 461 680 461 679 461 679 461 642 467 641 467 639 467 620 462 619 462 618 462 617 462 606 466 530 463 529 463 528 463 513 468 509 469 484 468 392 466 391 466 361 470 344 472 325 471 300 468 300 468 279 472 260 474 88 474 88 487 88 498"/></Shape>
+	    <String CONTENT="Nun gingen Mutzi und ich wieder aufs Zimmer zuruck und lasen zuerst"
+                    HPOS="88"
+                    VPOS="461"
+                    WIDTH="649"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48a33eb9"
+                    
+                    BASELINE="86 501 204 501" 
+                    HPOS="85"
+                    VPOS="490"
+                    WIDTH="118"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="178 490 169 490 161 490 152 490 144 490 136 490 85 490 85 500 85 514 203 511 203 500 203 490 186 490 178 490"/></Shape>
+	    <String CONTENT="den Brief."
+                    HPOS="85"
+                    VPOS="490"
+                    WIDTH="118"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c62648d4"
+                    TAGREFS="LT3625"
+                    BASELINE="91 520 355 519 541 511 745 506" 
+                    HPOS="89"
+                    VPOS="491"
+                    WIDTH="655"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="90 519 90 528 743 514 744 505 742 491 654 495 648 493 644 491 643 491 642 491 642 491 637 493 629 498 611 493 601 492 600 492 582 494 545 499 506 496 484 494 484 494 483 494 477 497 466 502 315 504 303 501 295 498 294 498 293 498 272 501 244 506 89 506 90 519"/></Shape>
+	    <String CONTENT="&quot;Gnadige, ich schicke Ihnen hier das ungarische Visum und etwas Geld."
+                    HPOS="89"
+                    VPOS="491"
+                    WIDTH="655"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e25e48ab"
+                    TAGREFS="LT3625"
+                    BASELINE="83 535 761 522" 
+                    HPOS="81"
+                    VPOS="508"
+                    WIDTH="679"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="451 514 442 514 434 515 426 515 417 515 409 516 400 516 392 517 384 517 375 517 367 518 358 518 350 519 342 519 333 519 325 519 316 519 308 519 300 519 291 519 283 519 274 519 266 519 258 519 249 519 241 519 238 519 220 519 215 519 207 519 199 519 81 521 82 534 82 540 124 545 125 545 147 540 165 544 166 544 227 539 236 539 272 539 434 539 435 539 436 539 442 536 446 535 465 536 487 538 488 538 521 535 555 533 760 533 760 521 758 508 453 514 451 514"/></Shape>
+	    <String CONTENT="Leider kann ich Sie nicht mehr weiter begleiten, da ich hier wichtiges"
+                    HPOS="81"
+                    VPOS="508"
+                    WIDTH="679"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2684f8b4"
+                    TAGREFS="LT3625"
+                    BASELINE="90 551 766 539" 
+                    HPOS="89"
+                    VPOS="528"
+                    WIDTH="677"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="90 551 90 560 766 546 766 539 763 528 89 539 90 551"/></Shape>
+	    <String CONTENT="zu tun habe, aber haben Sie keine Angst, alles wird schon ganz einfach"
+                    HPOS="89"
+                    VPOS="528"
+                    WIDTH="677"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e02b1a6"
+                    TAGREFS="LT3625"
+                    BASELINE="94 569 752 556" 
+                    HPOS="93"
+                    VPOS="544"
+                    WIDTH="659"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="94 569 94 579 751 563 752 556 749 544 93 556 94 569"/></Shape>
+	    <String CONTENT="geben. Ich schicke Ihnen einige Zehnmarkscheine, die nehmen Sie mit."
+                    HPOS="93"
+                    VPOS="544"
+                    WIDTH="659"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_899e030c"
+                    TAGREFS="LT3625"
+                    BASELINE="93 583 770 569" 
+                    HPOS="92"
+                    VPOS="557"
+                    WIDTH="678"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="93 583 93 594 770 578 770 569 768 557 92 571 93 583"/></Shape>
+	    <String CONTENT="Morgen früh fahren Sie zunachst nach Bratislava, dort mussen Sie leider"
+                    HPOS="92"
+                    VPOS="557"
+                    WIDTH="678"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79e62b20"
+                    TAGREFS="LT3625"
+                    BASELINE="91 601 774 585" 
+                    HPOS="89"
+                    VPOS="572"
+                    WIDTH="684"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="90 600 90 610 773 596 773 584 770 572 89 587 90 600"/></Shape>
+	    <String CONTENT="den Tag irgendwie verbringen, da Ihr Zug nach Budapest erst nach Mitter"
+                    HPOS="89"
+                    VPOS="572"
+                    WIDTH="684"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ac4ed89"
+                    TAGREFS="LT3625"
+                    BASELINE="91 619 774 602" 
+                    HPOS="89"
+                    VPOS="591"
+                    WIDTH="684"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="90 618 90 631 164 625 221 628 221 628 222 628 223 628 229 624 291 626 294 626 295 626 300 626 397 619 427 623 430 623 431 623 435 623 478 617 773 614 773 601 770 591 89 606 90 618"/></Shape>
+	    <String CONTENT="nacht weitergeht. Nehmen Sie zweiter Klasse Fahrkarten, und in Budapest"
+                    HPOS="89"
+                    VPOS="591"
+                    WIDTH="684"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15148882"
+                    TAGREFS="LT3625"
+                    BASELINE="91 638 747 624" 
+                    HPOS="90"
+                    VPOS="610"
+                    WIDTH="657"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="91 638 91 645 130 651 131 651 131 651 141 646 211 649 212 649 324 646 325 646 337 642 417 645 418 645 457 640 663 640 663 640 664 640 665 640 672 635 721 637 722 637 747 632 747 624 745 613 582 610 581 610 546 615 460 614 459 614 357 619 343 615 342 615 342 615 292 621 255 617 254 617 253 617 252 617 247 621 226 618 226 618 225 618 211 623 177 619 176 619 175 619 174 619 167 624 90 625 91 638"/></Shape>
+	    <String CONTENT="werden Ihnen ja Ihre Freunde schon weiterhelfen. Das Geld geben Sie"
+                    HPOS="90"
+                    VPOS="610"
+                    WIDTH="657"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed7d19cd"
+                    TAGREFS="LT3625"
+                    BASELINE="93 661 730 650" 
+                    HPOS="92"
+                    VPOS="639"
+                    WIDTH="638"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="93 661 93 671 729 658 730 650 728 640 474 639 473 639 472 639 458 644 455 644 447 644 393 640 392 640 344 645 339 645 338 645 327 641 326 641 326 641 273 642 273 642 259 646 257 647 246 647 192 644 191 644 92 649 93 661"/></Shape>
+	    <String CONTENT="am besten in ein Stück dunkles Tuch und verstecken es zwischen den"
+                    HPOS="92"
+                    VPOS="639"
+                    WIDTH="638"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3056f98"
+                    TAGREFS="LT3625"
+                    BASELINE="91 677 753 667" 
+                    HPOS="90"
+                    VPOS="653"
+                    WIDTH="663"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="91 677 91 685 753 675 753 667 751 653 90 666 91 677"/></Shape>
+	    <String CONTENT="Sitzen in einem leeren Coupé, ich nehme an, dass Sie keine Schwierig-"
+                    HPOS="90"
+                    VPOS="653"
+                    WIDTH="663"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4a71c71"
+                    TAGREFS="LT3625"
+                    BASELINE="92 698 730 683" 
+                    HPOS="91"
+                    VPOS="672"
+                    WIDTH="639"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="92 698 92 708 729 692 730 683 727 672 91 685 92 698"/></Shape>
+	    <String CONTENT="keiten damit haben werden, denn der Zug wird sicher leer sein. Also"
+                    HPOS="91"
+                    VPOS="672"
+                    WIDTH="639"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbd070a6"
+                    TAGREFS="LT3625"
+                    BASELINE="94 716 741 701" 
+                    HPOS="92"
+                    VPOS="687"
+                    WIDTH="648"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="93 715 93 726 740 708 740 700 737 687 92 703 93 715"/></Shape>
+	    <String CONTENT="haben Sie keine Angst, alles wird schon gehen. D s Geld konnen Sie"
+                    HPOS="92"
+                    VPOS="687"
+                    WIDTH="648"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8be81ee"
+                    TAGREFS="LT3625"
+                    BASELINE="97 730 773 716" 
+                    HPOS="95"
+                    VPOS="705"
+                    WIDTH="677"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="96 729 96 740 772 723 772 715 769 705 95 719 96 729"/></Shape>
+	    <String CONTENT="sich dann nach der Grenze holen und in Budapest einwechseln. Ich glaube"
+                    HPOS="95"
+                    VPOS="705"
+                    WIDTH="677"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4fb0030"
+                    TAGREFS="LT3625"
+                    BASELINE="97 745 755 733" 
+                    HPOS="96"
+                    VPOS="720"
+                    WIDTH="659"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="97 745 97 753 229 756 230 756 274 750 284 750 292 750 320 755 321 755 344 750 349 749 356 750 377 752 378 752 430 748 448 747 451 748 455 751 456 751 457 751 458 751 476 748 484 746 490 747 509 751 510 751 510 751 511 751 517 747 518 746 522 747 541 750 542 750 568 746 574 745 590 745 657 749 658 749 658 749 666 745 669 743 675 745 686 748 687 748 688 748 755 743 755 733 753 720 96 733 97 745"/></Shape>
+	    <String CONTENT="das ist alles. Bitte vernichten Sie den Brief, sobald Sie ihn gelesen"
+                    HPOS="96"
+                    VPOS="720"
+                    WIDTH="659"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de07b999"
+                    TAGREFS="LT3625"
+                    BASELINE="94 758 154 758" 
+                    HPOS="94"
+                    VPOS="746"
+                    WIDTH="60"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="94 758 94 772 154 766 154 758 154 746 94 746 94 758"/></Shape>
+	    <String CONTENT="haben."
+                    HPOS="94"
+                    VPOS="746"
+                    WIDTH="60"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39dda296"
+                    TAGREFS="LT3625"
+                    BASELINE="93 788 758 780" 
+                    HPOS="92"
+                    VPOS="762"
+                    WIDTH="666"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="93 788 93 799 758 790 758 780 755 766 706 767 703 766 698 762 697 762 696 762 695 762 695 762 685 766 680 769 652 769 641 766 621 764 620 764 603 767 594 769 586 767 558 762 557 762 556 762 536 768 533 769 532 768 526 763 525 763 524 763 498 763 497 763 496 763 495 763 486 769 484 771 481 769 472 764 471 764 470 764 469 764 451 770 446 771 356 773 321 773 318 771 305 766 304 766 303 766 256 770 158 767 158 767 157 767 142 772 107 768 106 768 105 768 92 773 93 788"/></Shape>
+	    <String CONTENT="Das kann ich nicht machen, meinte Mutz ganz verzweifelt, das nennt er,"
+                    HPOS="92"
+                    VPOS="762"
+                    WIDTH="666"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2241181d"
+                    TAGREFS="LT3625"
+                    BASELINE="90 806 726 797" 
+                    HPOS="89"
+                    VPOS="786"
+                    WIDTH="637"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="90 806 90 815 726 805 726 797 724 786 89 794 90 806"/></Shape>
+	    <String CONTENT="er bringt uns heil über die ungarische Grenze! Ich werde versuchen,"
+                    HPOS="89"
+                    VPOS="786"
+                    WIDTH="637"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fb5a9b0"
+                    TAGREFS="LT3625"
+                    BASELINE="97 822 728 813" 
+                    HPOS="96"
+                    VPOS="803"
+                    WIDTH="632"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="97 822 97 830 727 820 728 813 726 803 152 807 96 811 97 822"/></Shape>
+	    <String CONTENT="über die Grenze zu kommen, aber das mit dem Geld mach’/ ich nicht."
+                    HPOS="96"
+                    VPOS="803"
+                    WIDTH="632"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2883d488"
+                    TAGREFS="LT3625"
+                    BASELINE="98 837 757 828" 
+                    HPOS="97"
+                    VPOS="815"
+                    WIDTH="660"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="98 837 98 849 756 836 757 828 754 815 97 826 98 837"/></Shape>
+	    <String CONTENT="- Naturlich hatten wir es uns beide ganz anders vorgestellt, er hatte"
+                    HPOS="97"
+                    VPOS="815"
+                    WIDTH="660"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f9e5d2f"
+                    TAGREFS="LT3625"
+                    BASELINE="95 854 766 844" 
+                    HPOS="94"
+                    VPOS="830"
+                    WIDTH="672"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="95 854 95 865 766 854 766 844 763 830 94 841 95 854"/></Shape>
+	    <String CONTENT="uns doch so und so oft versprochen, uns bis über die Grenze zu bringen"
+                    HPOS="94"
+                    VPOS="830"
+                    WIDTH="672"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1501879"
+                    TAGREFS="LT3625"
+                    BASELINE="96 870 741 861" 
+                    HPOS="95"
+                    VPOS="850"
+                    WIDTH="646"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="96 870 96 881 158 877 187 880 197 881 198 881 199 881 202 880 214 876 310 877 388 878 389 878 402 876 410 874 459 874 563 876 564 876 615 871 625 871 632 871 681 874 682 874 741 868 741 861 738 850 95 859 96 870"/></Shape>
+	    <String CONTENT="und jetzt schrieb er einfach einen Brief, wir sollten Geld uber die"
+                    HPOS="95"
+                    VPOS="850"
+                    WIDTH="646"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cd095d9"
+                    TAGREFS="LT3625"
+                    BASELINE="98 883 767 887" 
+                    HPOS="97"
+                    VPOS="869"
+                    WIDTH="670"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="98 883 97 894 765 896 767 887 765 871 646 876 635 871 634 871 633 871 632 871 623 871 535 875 528 871 527 871 526 871 526 871 525 871 516 875 508 871 507 871 506 871 501 871 375 874 363 870 358 869 358 869 357 869 341 870 301 873 98 870 98 883"/></Shape>
+	    <String CONTENT="Grenze schwindeln, wozu zahlen wir ihm eigentlich so viel Geld, und ga"
+                    HPOS="97"
+                    VPOS="869"
+                    WIDTH="670"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8a9d017"
+                    TAGREFS="LT3625"
+                    BASELINE="100 901 768 902" 
+                    HPOS="100"
+                    VPOS="890"
+                    WIDTH="668"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="100 901 100 912 767 909 768 902 767 890 100 890 100 901"/></Shape>
+	    <String CONTENT="gaben ihm gestern noch einen ganz ansehnlichen Betrag? Aber von hier"
+                    HPOS="100"
+                    VPOS="890"
+                    WIDTH="668"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae8d0ec9"
+                    TAGREFS="LT3625"
+                    BASELINE="100 916 742 916" 
+                    HPOS="100"
+                    VPOS="905"
+                    WIDTH="642"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="100 916 100 927 237 926 240 928 245 930 252 930 257 930 267 928 273 926 281 928 295 930 296 930 297 930 303 928 306 926 367 926 375 928 390 931 395 931 399 931 410 928 414 927 416 928 424 934 425 934 426 934 426 934 427 934 440 929 485 934 486 934 487 934 501 928 502 928 507 928 580 934 581 934 609 928 615 927 634 928 720 934 721 934 721 934 742 928 742 916 741 905 100 905 100 916"/></Shape>
+	    <String CONTENT="weg mussten wir um jeden Preis, und zur/ck konnten wir auch nicht"
+                    HPOS="100"
+                    VPOS="905"
+                    WIDTH="642"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3b3f146"
+                    TAGREFS="LT3625"
+                    BASELINE="101 930 404 933" 
+                    HPOS="100"
+                    VPOS="919"
+                    WIDTH="304"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="101 930 100 943 179 941 184 944 187 946 188 946 189 946 259 947 260 947 261 947 262 947 266 943 268 942 295 942 298 943 312 948 313 948 314 949 347 949 347 948 348 948 349 948 349 947 353 944 366 947 367 947 368 947 403 942 404 933 403 922 101 919 101 930"/></Shape>
+	    <String CONTENT="Also hatten wir doch keine Wahl."
+                    HPOS="100"
+                    VPOS="919"
+                    WIDTH="304"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

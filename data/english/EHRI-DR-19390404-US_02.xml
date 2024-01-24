@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390404-US_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1880"
+          HEIGHT="3148"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1880"
+                  HEIGHT="3148">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b3099542"
+                    TAGREFS="LT3626"
+                    BASELINE="782 107 890 104" 
+                    HPOS="779"
+                    VPOS="73"
+                    WIDTH="111"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="782 107 782 123 887 123 890 104 882 73 779 73 782 107"/></Shape>
+	    <String CONTENT="- 2 -"
+                    HPOS="779"
+                    VPOS="73"
+                    WIDTH="111"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc052cc6"
+                    TAGREFS="LT3626"
+                    BASELINE="65 285 1693 249" 
+                    HPOS="63"
+                    VPOS="215"
+                    WIDTH="1630"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="65 285 65 309 1693 272 1693 249 1685 215 63 249 65 285"/></Shape>
+	    <String CONTENT="its manifestations took the form of a demonstration made"
+                    HPOS="63"
+                    VPOS="215"
+                    WIDTH="1630"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f07ca18"
+                    TAGREFS="LT3626"
+                    BASELINE="65 383 1575 348" 
+                    HPOS="63"
+                    VPOS="314"
+                    WIDTH="1512"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="65 383 65 403 1575 369 1575 348 1567 314 63 346 65 383"/></Shape>
+	    <String CONTENT="at the University lectures delivered by Professor M."
+                    HPOS="63"
+                    VPOS="314"
+                    WIDTH="1512"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6876380"
+                    TAGREFS="LT3626"
+                    BASELINE="65 474 1635 440" 
+                    HPOS="63"
+                    VPOS="409"
+                    WIDTH="1572"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="65 474 65 495 543 501 546 501 669 485 1113 487 1115 487 1635 461 1635 440 1627 409 63 440 65 474"/></Shape>
+	    <String CONTENT="Popoff on the purity of races, a theory which the Pro-"
+                    HPOS="63"
+                    VPOS="409"
+                    WIDTH="1572"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f91c0fdd"
+                    TAGREFS="LT3626"
+                    BASELINE="65 569 1641 532" 
+                    HPOS="63"
+                    VPOS="501"
+                    WIDTH="1578"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="65 569 65 590 157 603 160 603 1641 556 1641 532 1633 501 63 535 65 569"/></Shape>
+	    <String CONTENT="fessor repudiates as scientifically unjustified. Sub-"
+                    HPOS="63"
+                    VPOS="501"
+                    WIDTH="1578"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b3cf010"
+                    TAGREFS="LT3626"
+                    BASELINE="68 666 1672 629" 
+                    HPOS="65"
+                    VPOS="598"
+                    WIDTH="1607"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="68 666 68 684 178 697 181 697 346 682 522 689 525 689 527 689 554 676 619 687 622 687 682 674 714 684 716 684 719 684 1672 650 1672 629 1664 598 65 632 68 666"/></Shape>
+	    <String CONTENT="sequently during last summer and in November, 1938, the"
+                    HPOS="65"
+                    VPOS="598"
+                    WIDTH="1607"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bd6cac2"
+                    TAGREFS="LT3626"
+                    BASELINE="68 760 1735 724" 
+                    HPOS="65"
+                    VPOS="692"
+                    WIDTH="1670"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="68 760 68 779 1735 742 1735 724 1727 692 65 726 68 760"/></Shape>
+	    <String CONTENT="signs of Jewish shops were broken and a few Jews molested"
+                    HPOS="65"
+                    VPOS="692"
+                    WIDTH="1670"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58576529"
+                    TAGREFS="LT3626"
+                    BASELINE="73 855 1554 823 1603 821" 
+                    HPOS="68"
+                    VPOS="784"
+                    WIDTH="1533"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="70 852 70 873 1601 839 1601 818 1593 784 68 818 70 852"/></Shape>
+	    <String CONTENT="in the streets, but the police speedily arrested the"
+                    HPOS="68"
+                    VPOS="784"
+                    WIDTH="1533"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_892c4749"
+                    TAGREFS="LT3626"
+                    BASELINE="68 952 727 936" 
+                    HPOS="65"
+                    VPOS="899"
+                    WIDTH="662"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="68 952 68 970 727 957 727 936 719 899 65 912 68 952"/></Shape>
+	    <String CONTENT="young men responsible."
+                    HPOS="65"
+                    VPOS="899"
+                    WIDTH="662"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_907db3cd"
+                    TAGREFS="LT3626"
+                    BASELINE="215 1038 1709 1004" 
+                    HPOS="212"
+                    VPOS="973"
+                    WIDTH="1497"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="215 1038 215 1059 325 1072 328 1072 330 1072 378 1059 438 1070 441 1070 443 1070 469 1057 556 1067 559 1067 1709 1028 1709 1004 1701 973 212 1004 215 1038"/></Shape>
+	    <String CONTENT="Early in March this year a young group belonging to"
+                    HPOS="212"
+                    VPOS="973"
+                    WIDTH="1497"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46e0f9ef"
+                    TAGREFS="LT3626"
+                    BASELINE="70 1138 1680 1099" 
+                    HPOS="68"
+                    VPOS="1065"
+                    WIDTH="1612"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="70 1138 70 1162 1677 1122 1680 1099 1672 1065 68 1101 70 1138"/></Shape>
+	    <String CONTENT="this organization threw eggs at the public after a con-"
+                    HPOS="68"
+                    VPOS="1065"
+                    WIDTH="1612"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7934d955"
+                    TAGREFS="LT3626"
+                    BASELINE="73 1235 1656 1193" 
+                    HPOS="70"
+                    VPOS="1162"
+                    WIDTH="1586"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="73 1235 73 1259 1635 1230 1638 1230 1641 1230 1656 1217 1656 1193 1648 1162 70 1201 73 1235"/></Shape>
+	    <String CONTENT="cert given by the Choir of the Synagogue of Sofia, and"
+                    HPOS="70"
+                    VPOS="1162"
+                    WIDTH="1586"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96e41cdd"
+                    TAGREFS="LT3626"
+                    BASELINE="76 1332 1604 1293" 
+                    HPOS="73"
+                    VPOS="1261"
+                    WIDTH="1531"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="76 1332 76 1353 992 1343 1601 1314 1604 1293 1596 1261 73 1298 76 1332"/></Shape>
+	    <String CONTENT="this scandal was the direct incident that led to the"
+                    HPOS="73"
+                    VPOS="1261"
+                    WIDTH="1531"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73fb2cb9"
+                    TAGREFS="LT3626"
+                    BASELINE="78 1429 1622 1385" 
+                    HPOS="76"
+                    VPOS="1353"
+                    WIDTH="1546"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="78 1429 78 1453 1620 1411 1622 1385 1614 1353 76 1395 78 1429"/></Shape>
+	    <String CONTENT="internment of the instigator, Professor Kantardjieff."
+                    HPOS="76"
+                    VPOS="1353"
+                    WIDTH="1546"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_020e22be"
+                    TAGREFS="LT3626"
+                    BASELINE="223 1518 1753 1482" 
+                    HPOS="220"
+                    VPOS="1450"
+                    WIDTH="1533"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="223 1518 223 1539 656 1545 659 1545 1536 1511 1719 1518 1722 1518 1725 1518 1753 1503 1753 1482 1746 1450 220 1484 223 1518"/></Shape>
+	    <String CONTENT="There is no sympathy in Bulgaria for the anti-Jewish"
+                    HPOS="220"
+                    VPOS="1450"
+                    WIDTH="1533"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d75c87d4"
+                    TAGREFS="LT3626"
+                    BASELINE="78 1623 1725 1579" 
+                    HPOS="76"
+                    VPOS="1545"
+                    WIDTH="1649"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="78 1623 78 1644 1431 1623 1433 1623 1436 1623 1454 1610 1601 1618 1604 1618 1725 1600 1725 1579 1717 1545 76 1587 78 1623"/></Shape>
+	    <String CONTENT="demonstrations of this organization, especially as there"
+                    HPOS="76"
+                    VPOS="1545"
+                    WIDTH="1649"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9740125c"
+                    TAGREFS="LT3626"
+                    BASELINE="84 1723 1585 1678" 
+                    HPOS="81"
+                    VPOS="1644"
+                    WIDTH="1504"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="84 1723 84 1744 1583 1702 1585 1678 1578 1644 81 1686 84 1723"/></Shape>
+	    <String CONTENT="is no Jewish problem here, the total number of Jews"
+                    HPOS="81"
+                    VPOS="1644"
+                    WIDTH="1504"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_530f6684"
+                    TAGREFS="LT3626"
+                    BASELINE="86 1820 1701 1773" 
+                    HPOS="84"
+                    VPOS="1741"
+                    WIDTH="1617"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="86 1820 86 1838 170 1852 173 1852 354 1846 357 1846 359 1846 375 1833 433 1844 435 1844 438 1844 441 1844 441 1841 454 1831 517 1841 519 1841 1701 1794 1701 1773 1693 1741 84 1786 86 1820"/></Shape>
+	    <String CONTENT="amounting to less than 55,000. The Jews are not active"
+                    HPOS="84"
+                    VPOS="1741"
+                    WIDTH="1617"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce8c0d8c"
+                    TAGREFS="LT3626"
+                    BASELINE="86 1915 1677 1870" 
+                    HPOS="84"
+                    VPOS="1836"
+                    WIDTH="1593"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="86 1915 86 1936 1675 1894 1677 1870 1669 1836 84 1878 86 1915"/></Shape>
+	    <String CONTENT="in political and public life; there are none among the"
+                    HPOS="84"
+                    VPOS="1836"
+                    WIDTH="1593"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f21cb83"
+                    TAGREFS="LT3626"
+                    BASELINE="94 2017 1680 1964" 
+                    HPOS="91"
+                    VPOS="1933"
+                    WIDTH="1589"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="94 2017 94 2035 312 2043 315 2043 469 2038 472 2038 475 2038 491 2025 551 2035 554 2035 556 2035 601 2022 632 2033 635 2033 638 2033 790 2027 792 2027 795 2027 811 2014 866 2025 869 2025 1680 1985 1680 1964 1672 1933 91 1980 94 2017"/></Shape>
+	    <String CONTENT="army officers and almost none in civil service. Their"
+                    HPOS="91"
+                    VPOS="1933"
+                    WIDTH="1589"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e973f390"
+                    TAGREFS="LT3626"
+                    BASELINE="97 2109 1570 2064" 
+                    HPOS="94"
+                    VPOS="2030"
+                    WIDTH="1476"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="97 2109 97 2130 1567 2088 1570 2064 1562 2030 94 2072 97 2109"/></Shape>
+	    <String CONTENT="sphere of activity is business, industry and small"
+                    HPOS="94"
+                    VPOS="2030"
+                    WIDTH="1476"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d67eb8d9"
+                    TAGREFS="LT3626"
+                    BASELINE="97 2203 1711 2153" 
+                    HPOS="94"
+                    VPOS="2119"
+                    WIDTH="1617"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="97 2203 97 2224 1709 2177 1711 2153 1704 2119 94 2166 97 2203"/></Shape>
+	    <String CONTENT="trades, and there are very few Jews in the liberal pro-"
+                    HPOS="94"
+                    VPOS="2119"
+                    WIDTH="1617"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_039f0fed"
+                    TAGREFS="LT3626"
+                    BASELINE="99 2300 1748 2248" 
+                    HPOS="97"
+                    VPOS="2216"
+                    WIDTH="1651"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="99 2300 99 2321 1252 2300 1746 2271 1748 2248 1740 2216 97 2266 99 2300"/></Shape>
+	    <String CONTENT="fessions and arts. The anti-Jewish propaganda conducted"
+                    HPOS="97"
+                    VPOS="2216"
+                    WIDTH="1651"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_031c5c33"
+                    TAGREFS="LT3626"
+                    BASELINE="105 2395 1777 2342" 
+                    HPOS="102"
+                    VPOS="2311"
+                    WIDTH="1675"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="105 2395 105 2416 1774 2366 1777 2342 1769 2311 102 2361 105 2395"/></Shape>
+	    <String CONTENT="by the &quot;Workers of New Bulgaria&quot; is of foreign origin and"
+                    HPOS="102"
+                    VPOS="2311"
+                    WIDTH="1675"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b707212a"
+                    TAGREFS="LT3626"
+                    BASELINE="107 2494 1664 2447" 
+                    HPOS="105"
+                    VPOS="2416"
+                    WIDTH="1559"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="107 2494 107 2515 451 2518 454 2518 567 2502 577 2502 582 2502 619 2513 622 2513 624 2513 627 2513 672 2500 674 2500 690 2500 874 2505 876 2505 879 2505 924 2492 929 2492 937 2492 1031 2500 1034 2500 1662 2468 1664 2447 1656 2416 105 2458 107 2494"/></Shape>
+	    <String CONTENT="is, it is believed, directly encouraged from Germany."
+                    HPOS="105"
+                    VPOS="2416"
+                    WIDTH="1559"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_657fa802"
+                    TAGREFS="LT3626"
+                    BASELINE="257 2583 1698 2539" 
+                    HPOS="254"
+                    VPOS="2507"
+                    WIDTH="1444"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="257 2583 257 2604 1698 2562 1698 2539 1690 2507 254 2549 257 2583"/></Shape>
+	    <String CONTENT="Except for the measures taken against the authors"
+                    HPOS="254"
+                    VPOS="2507"
+                    WIDTH="1444"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe838b84"
+                    TAGREFS="LT3626"
+                    BASELINE="115 2686 1675 2636" 
+                    HPOS="112"
+                    VPOS="2602"
+                    WIDTH="1563"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="115 2686 115 2704 1675 2660 1675 2636 1667 2602 112 2649 115 2686"/></Shape>
+	    <String CONTENT="of anti-Jewish demonstrations, the Government has not"
+                    HPOS="112"
+                    VPOS="2602"
+                    WIDTH="1563"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34a1209c"
+                    TAGREFS="LT3626"
+                    BASELINE="123 2783 1651 2733" 
+                    HPOS="120"
+                    VPOS="2699"
+                    WIDTH="1531"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="123 2783 123 2804 1648 2754 1651 2733 1643 2699 120 2744 123 2783"/></Shape>
+	    <String CONTENT="considered important the activities of a group whose"
+                    HPOS="120"
+                    VPOS="2699"
+                    WIDTH="1531"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4016788"
+                    TAGREFS="LT3626"
+                    BASELINE="123 2875 1677 2822" 
+                    HPOS="120"
+                    VPOS="2780"
+                    WIDTH="1557"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="123 2875 123 2893 1591 2859 1677 2841 1677 2822 1669 2780 120 2838 123 2875"/></Shape>
+	    <String CONTENT="membership is not very large. After these last inci-"
+                    HPOS="120"
+                    VPOS="2780"
+                    WIDTH="1557"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43f082b9"
+                    TAGREFS="LT3626"
+                    BASELINE="128 2969 1743 2914" 
+                    HPOS="126"
+                    VPOS="2883"
+                    WIDTH="1617"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="128 2969 128 2990 1110 2972 1273 2953 1278 2953 1281 2953 1354 2964 1357 2964 1567 2956 1570 2956 1572 2956 1591 2943 1648 2953 1651 2953 1743 2935 1743 2914 1735 2883 126 2935 128 2969"/></Shape>
+	    <String CONTENT="dents, however, more severe measures of repression were"
+                    HPOS="126"
+                    VPOS="2883"
+                    WIDTH="1617"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea94a977"
+                    TAGREFS="LT3626"
+                    BASELINE="1478 3016 1761 3008" 
+                    HPOS="1475"
+                    VPOS="2977"
+                    WIDTH="286"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1478 3016 1478 3037 1759 3029 1761 3008 1753 2977 1475 2982 1478 3016"/></Shape>
+	    <String CONTENT="taken...."
+                    HPOS="1475"
+                    VPOS="2977"
+                    WIDTH="286"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

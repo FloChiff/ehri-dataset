@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL1375B310_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="793"
+          HEIGHT="1122"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="793"
+                  HEIGHT="1122">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_7d869bbf"
+                    TAGREFS="LT3625"
+                    BASELINE="1 64 65 61" 
+                    HPOS="1"
+                    VPOS="51"
+                    WIDTH="65"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="1 89 10 89 19 89 25 89 26 89 31 88 40 89 52 87 66 88 65 61 64 51 2 57 1 64"/></Shape>
+	    <String CONTENT="B.310"
+                    HPOS="1"
+                    VPOS="51"
+                    WIDTH="65"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dedc552"
+                    TAGREFS="LT3625"
+                    BASELINE="81 104 727 101" 
+                    HPOS="81"
+                    VPOS="92"
+                    WIDTH="649"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="81 113 726 110 727 101 730 92 81 92 81 104"/></Shape>
+	    <String CONTENT="Aus den nachstehenden Briefauszügen gehen die Erlebnisse eines"
+                    HPOS="81"
+                    VPOS="92"
+                    WIDTH="649"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3783be8"
+                    TAGREFS="LT3625"
+                    BASELINE="81 122 742 118" 
+                    HPOS="80"
+                    VPOS="106"
+                    WIDTH="662"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="81 122 81 134 741 128 742 118 739 106 80 109 81 122"/></Shape>
+	    <String CONTENT="zwӧlfjӓhrigen jüdischen Kindes in Wien im Winter 1938-39 hervor."
+                    HPOS="80"
+                    VPOS="106"
+                    WIDTH="662"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_439f449e"
+                    TAGREFS="LT3625"
+                    BASELINE="509 159 647 159" 
+                    HPOS="509"
+                    VPOS="147"
+                    WIDTH="138"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="509 159 509 169 606 173 607 173 647 169 647 159 647 147 509 147 509 159"/></Shape>
+	    <String CONTENT="Februar 1939"
+                    HPOS="509"
+                    VPOS="147"
+                    WIDTH="138"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ce8ead6"
+                    TAGREFS="LT3625"
+                    BASELINE="39 186 212 186" 
+                    HPOS="39"
+                    VPOS="172"
+                    WIDTH="173"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="39 186 39 197 212 197 212 186 212 172 39 172 39 186"/></Shape>
+	    <String CONTENT="Liebe Schwester,"
+                    HPOS="39"
+                    VPOS="172"
+                    WIDTH="173"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5e7ad6b"
+                    TAGREFS="LT3625"
+                    BASELINE="100 212 761 210" 
+                    HPOS="100"
+                    VPOS="197"
+                    WIDTH="661"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="100 212 100 220 759 221 761 210 758 197 100 197 100 212"/></Shape>
+	    <String CONTENT="Ich komme noch mit einer grossen Bitte. Aus Wien bekam ich sehr,"
+                    HPOS="100"
+                    VPOS="197"
+                    WIDTH="661"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5923e31b"
+                    TAGREFS="LT3625"
+                    BASELINE="43 230 788 229" 
+                    HPOS="43"
+                    VPOS="216"
+                    WIDTH="745"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="43 230 43 237 788 234 788 229 785 216 43 216 43 230"/></Shape>
+	    <String CONTENT="sehr traurige Briefe und zwar folgende. Vor ca. 10 Tagen einen, geschrie-"
+                    HPOS="43"
+                    VPOS="216"
+                    WIDTH="745"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72f8bc90"
+                    TAGREFS="LT3625"
+                    BASELINE="41 245 785 244" 
+                    HPOS="40"
+                    VPOS="232"
+                    WIDTH="745"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="41 245 41 253 785 251 785 244 782 232 40 233 41 245"/></Shape>
+	    <String CONTENT="ben von einem Mӓdelchen, das 12 jahre alt wird, ich hatte Dir wohl schon"
+                    HPOS="40"
+                    VPOS="232"
+                    WIDTH="745"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e66b744e"
+                    TAGREFS="LT3625"
+                    BASELINE="41 263 764 261" 
+                    HPOS="40"
+                    VPOS="250"
+                    WIDTH="724"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="41 263 41 272 764 270 764 261 762 250 40 251 41 263"/></Shape>
+	    <String CONTENT="von ihr erzӓhlt, sie war mit ihrer Schwester nach England gekommen und"
+                    HPOS="40"
+                    VPOS="250"
+                    WIDTH="724"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f56a844"
+                    TAGREFS="LT3625"
+                    BASELINE="41 281 784 278" 
+                    HPOS="40"
+                    VPOS="267"
+                    WIDTH="744"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="41 281 41 289 783 287 784 278 781 267 40 269 41 281"/></Shape>
+	    <String CONTENT="wurde von einer Bekannten wieder zurückgerufen, da die Kinder von Martha"
+                    HPOS="40"
+                    VPOS="267"
+                    WIDTH="744"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aedab6cd"
+                    TAGREFS="LT3625"
+                    BASELINE="42 298 773 296" 
+                    HPOS="41"
+                    VPOS="284"
+                    WIDTH="732"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="42 298 42 305 772 303 773 296 770 284 41 285 42 298"/></Shape>
+	    <String CONTENT="(einer Cousine ihres Vaters) sehr schwer erkrankten. Der kleine Junge"
+                    HPOS="41"
+                    VPOS="284"
+                    WIDTH="732"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09719c45"
+                    TAGREFS="LT3625"
+                    BASELINE="42 316 764 313" 
+                    HPOS="41"
+                    VPOS="302"
+                    WIDTH="723"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="42 316 42 323 763 321 764 313 761 302 41 302 42 316"/></Shape>
+	    <String CONTENT="wurde gesund, e s starb aber das kleine Mӓdel von 4 Jahren, von der ich"
+                    HPOS="41"
+                    VPOS="302"
+                    WIDTH="723"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8c340ea"
+                    TAGREFS="LT3625"
+                    BASELINE="40 330 757 330" 
+                    HPOS="40"
+                    VPOS="317"
+                    WIDTH="717"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="40 330 40 340 757 339 757 330 757 319 40 317 40 330"/></Shape>
+	    <String CONTENT="Dir das Bildchen einmal zeigte. – Leni schrieb mir nun, dass das Kind"
+                    HPOS="40"
+                    VPOS="317"
+                    WIDTH="717"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_192c7824"
+                    TAGREFS="LT3625"
+                    BASELINE="41 348 773 348" 
+                    HPOS="41"
+                    VPOS="337"
+                    WIDTH="732"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="41 348 41 359 773 358 773 348 773 337 41 337 41 348"/></Shape>
+	    <String CONTENT="gestorben ist und Martha nichts essen will, niemand sehen, nicht einmal"
+                    HPOS="41"
+                    VPOS="337"
+                    WIDTH="732"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68fb49be"
+                    TAGREFS="LT3625"
+                    BASELINE="39 364 239 367" 
+                    HPOS="38"
+                    VPOS="352"
+                    WIDTH="201"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="39 364 38 372 237 374 239 367 238 355 39 352 39 364"/></Shape>
+	    <String CONTENT="den kleinen Jungen."
+                    HPOS="38"
+                    VPOS="352"
+                    WIDTH="201"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caa7cc1e"
+                    TAGREFS="LT3625"
+                    BASELINE="99 388 735 389" 
+                    HPOS="98"
+                    VPOS="377"
+                    WIDTH="637"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="98 396 734 398 735 389 735 377 99 378 99 388"/></Shape>
+	    <String CONTENT="Ich schrieb ihr einen Trostbrief und bekam gestern einen noch"
+                    HPOS="98"
+                    VPOS="377"
+                    WIDTH="637"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ee6316d"
+                    TAGREFS="LT3625"
+                    BASELINE="39 405 724 407" 
+                    HPOS="38"
+                    VPOS="393"
+                    WIDTH="686"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="39 405 38 414 722 416 724 407 723 395 39 393 39 405"/></Shape>
+	    <String CONTENT="traurigeren Brief, auch von dem Mӓdel geschrieben. Martha liegt im"
+                    HPOS="38"
+                    VPOS="393"
+                    WIDTH="686"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40238c61"
+                    TAGREFS="LT3625"
+                    BASELINE="39 423 754 424" 
+                    HPOS="39"
+                    VPOS="411"
+                    WIDTH="715"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="39 423 39 432 753 431 754 424 753 412 39 411 39 423"/></Shape>
+	    <String CONTENT="Krankenhaus, hat einen Nervenzusammenbruch, und zwar ist es nicht der"
+                    HPOS="39"
+                    VPOS="411"
+                    WIDTH="715"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76ccc1d5"
+                    TAGREFS="LT3625"
+                    BASELINE="38 440 771 440" 
+                    HPOS="38"
+                    VPOS="429"
+                    WIDTH="733"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="38 440 38 450 771 450 771 440 771 429 38 429 38 440"/></Shape>
+	    <String CONTENT="Tod des kleinen Mӓdchens allein, sondern sie schrieb mit folgenden Wor-"
+                    HPOS="38"
+                    VPOS="429"
+                    WIDTH="733"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_794b00f8"
+                    TAGREFS="LT3625"
+                    BASELINE="39 459 764 459" 
+                    HPOS="39"
+                    VPOS="446"
+                    WIDTH="725"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="39 459 39 467 764 467 764 459 764 446 39 446 39 459"/></Shape>
+	    <String CONTENT="ten: &quot;Wir hatten hier sehr heisse Tage und mussten zur Abkühlung einen"
+                    HPOS="39"
+                    VPOS="446"
+                    WIDTH="725"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4342bd84"
+                    TAGREFS="LT3625"
+                    BASELINE="38 474 748 477" 
+                    HPOS="37"
+                    VPOS="461"
+                    WIDTH="711"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="38 474 37 481 41 485 41 486 42 486 43 486 43 486 168 482 216 487 216 488 747 488 748 477 747 465 38 461 38 474"/></Shape>
+	    <String CONTENT="Tag und eine Nacht im Keller verbringen. Als wir wieder heraus kamen,"
+                    HPOS="37"
+                    VPOS="461"
+                    WIDTH="711"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fbcb082"
+                    TAGREFS="LT3625"
+                    BASELINE="36 493 738 493" 
+                    HPOS="36"
+                    VPOS="481"
+                    WIDTH="702"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="36 493 36 503 738 503 738 493 738 482 36 481 36 493"/></Shape>
+	    <String CONTENT="waren Einbrecher da gewesen und haben alles gestohlen, Geld, Wӓsche,"
+                    HPOS="36"
+                    VPOS="481"
+                    WIDTH="702"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9535cad"
+                    TAGREFS="LT3625"
+                    BASELINE="36 516 755 518" 
+                    HPOS="35"
+                    VPOS="503"
+                    WIDTH="720"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="36 516 35 526 753 528 755 518 754 506 36 503 36 516"/></Shape>
+	    <String CONTENT="Kleider Schmuck, selbst die Sachen von dem Kleinen, und darauf bekam"
+                    HPOS="35"
+                    VPOS="503"
+                    WIDTH="720"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d408445"
+                    TAGREFS="LT3625"
+                    BASELINE="37 535 366 534" 
+                    HPOS="36"
+                    VPOS="523"
+                    WIDTH="330"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="37 535 37 546 364 547 366 534 364 523 36 523 37 535"/></Shape>
+	    <String CONTENT="Tante Martha den Zusammenbruch&quot;."
+                    HPOS="36"
+                    VPOS="523"
+                    WIDTH="330"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_775f501e"
+                    TAGREFS="LT3625"
+                    BASELINE="96 560 780 561" 
+                    HPOS="95"
+                    VPOS="547"
+                    WIDTH="685"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="96 560 95 567 778 569 780 561 780 549 96 547 96 560"/></Shape>
+	    <String CONTENT="Sie haben nichts als was sie auf dem Leibe tragen. Nun kommt meine"
+                    HPOS="95"
+                    VPOS="547"
+                    WIDTH="685"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da7060a0"
+                    TAGREFS="LT3625"
+                    BASELINE="37 576 775 579" 
+                    HPOS="36"
+                    VPOS="564"
+                    WIDTH="739"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="37 576 36 586 773 590 775 579 774 566 37 564 37 576"/></Shape>
+	    <String CONTENT="Bitte, hast Du von Deinem Mӓdel, was sie absolut nicht mehr tragen kann,"
+                    HPOS="36"
+                    VPOS="564"
+                    WIDTH="739"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d4afae5"
+                    TAGREFS="LT3625"
+                    BASELINE="37 593 772 596" 
+                    HPOS="36"
+                    VPOS="580"
+                    WIDTH="736"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="37 593 36 602 770 604 772 596 771 584 37 580 37 593"/></Shape>
+	    <String CONTENT="und auch von Dir, was Du nicht mehr trӓgst, so schicke es an Martha, es"
+                    HPOS="36"
+                    VPOS="580"
+                    WIDTH="736"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_624815f1"
+                    TAGREFS="LT3625"
+                    BASELINE="37 613 787 613" 
+                    HPOS="37"
+                    VPOS="601"
+                    WIDTH="750"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="37 613 37 622 787 622 787 613 787 601 37 601 37 613"/></Shape>
+	    <String CONTENT="ist eine grosse Mizweh, ich glaube bestimmt, dass Dein Mann damit einver-"
+                    HPOS="37"
+                    VPOS="601"
+                    WIDTH="750"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79ec3d18"
+                    TAGREFS="LT3625"
+                    BASELINE="36 631 163 630" 
+                    HPOS="35"
+                    VPOS="618"
+                    WIDTH="128"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="36 631 36 640 162 640 163 630 160 618 35 618 36 631"/></Shape>
+	    <String CONTENT="standen ist."
+                    HPOS="35"
+                    VPOS="618"
+                    WIDTH="128"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67e2f56e"
+                    TAGREFS="LT3625"
+                    BASELINE="95 654 771 654" 
+                    HPOS="95"
+                    VPOS="640"
+                    WIDTH="676"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="95 654 95 663 770 663 771 654 770 642 95 640 95 654"/></Shape>
+	    <String CONTENT="Das Mӓdel muss nun den Jungen betreuen, tagsüber sind sie bei Be-"
+                    HPOS="95"
+                    VPOS="640"
+                    WIDTH="676"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2b15d29"
+                    TAGREFS="LT3625"
+                    BASELINE="35 670 738 673" 
+                    HPOS="34"
+                    VPOS="658"
+                    WIDTH="704"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="35 670 34 678 736 681 738 673 737 660 35 658 35 670"/></Shape>
+	    <String CONTENT="kannten und nachts schlӓft sie mit dem Jungen allein in der Wohnung."
+                    HPOS="34"
+                    VPOS="658"
+                    WIDTH="704"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbba9e56"
+                    TAGREFS="LT3625"
+                    BASELINE="36 688 548 690" 
+                    HPOS="34"
+                    VPOS="676"
+                    WIDTH="513"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="35 687 34 696 546 698 547 689 547 676 35 676 35 687"/></Shape>
+	    <String CONTENT="Ist dies nicht ein furchtbares Trauerspiel? ......"
+                    HPOS="34"
+                    VPOS="676"
+                    WIDTH="513"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43f24d75"
+                    TAGREFS="LT3625"
+                    BASELINE="493 730 690 728" 
+                    HPOS="492"
+                    VPOS="714"
+                    WIDTH="198"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="493 730 493 739 678 743 679 743 680 743 690 737 690 728 687 714 492 718 493 730"/></Shape>
+	    <String CONTENT="Wien, Februar 1939"
+                    HPOS="492"
+                    VPOS="714"
+                    WIDTH="198"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9555537f"
+                    TAGREFS="LT3625"
+                    BASELINE="33 754 250 758" 
+                    HPOS="32"
+                    VPOS="741"
+                    WIDTH="218"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="33 754 32 762 248 768 250 758 249 745 33 741 33 754"/></Shape>
+	    <String CONTENT="Sehr geehrte Frau Z.,"
+                    HPOS="32"
+                    VPOS="741"
+                    WIDTH="218"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4e87e05"
+                    TAGREFS="LT3625"
+                    BASELINE="96 780 772 780" 
+                    HPOS="96"
+                    VPOS="765"
+                    WIDTH="676"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="96 780 96 790 771 790 772 780 770 765 96 766 96 780"/></Shape>
+	    <String CONTENT="Ich erlaube mir im Namen meiner Tante Martha Ihnen für das Packet"
+                    HPOS="96"
+                    VPOS="765"
+                    WIDTH="676"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b45eb8d7"
+                    TAGREFS="LT3625"
+                    BASELINE="33 798 778 798" 
+                    HPOS="33"
+                    VPOS="787"
+                    WIDTH="745"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="33 798 33 807 778 807 778 798 778 787 33 787 33 798"/></Shape>
+	    <String CONTENT="herzlich zu danken. Meine Tante ist sehr krank und liegt im Spital. Aber"
+                    HPOS="33"
+                    VPOS="787"
+                    WIDTH="745"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7b45092"
+                    TAGREFS="LT3625"
+                    BASELINE="35 816 778 816" 
+                    HPOS="35"
+                    VPOS="804"
+                    WIDTH="743"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="35 816 35 825 778 825 778 816 778 804 35 804 35 816"/></Shape>
+	    <String CONTENT="vor allem will ich mich erst bei Ihnen vorstellen, damit Sie wissen, wer"
+                    HPOS="35"
+                    VPOS="804"
+                    WIDTH="743"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4abf84f6"
+                    TAGREFS="LT3625"
+                    BASELINE="35 832 777 834" 
+                    HPOS="34"
+                    VPOS="819"
+                    WIDTH="743"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="35 832 34 839 775 841 777 834 776 821 35 819 35 832"/></Shape>
+	    <String CONTENT="ich bin. Mein verstorbener Pappa und Tante Martha waren Cousins. Ich bin"
+                    HPOS="34"
+                    VPOS="819"
+                    WIDTH="743"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48c6a003"
+                    TAGREFS="LT3625"
+                    BASELINE="36 848 764 850" 
+                    HPOS="35"
+                    VPOS="834"
+                    WIDTH="729"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="36 848 35 856 762 860 764 850 763 838 36 834 36 848"/></Shape>
+	    <String CONTENT="11 ½ Jahre alt und heisse Leni und bleibe jetzt immer bei meiner Tante,"
+                    HPOS="35"
+                    VPOS="834"
+                    WIDTH="729"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b08d293"
+                    TAGREFS="LT3625"
+                    BASELINE="35 868 737 868" 
+                    HPOS="35"
+                    VPOS="857"
+                    WIDTH="702"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="35 868 35 877 737 877 737 868 737 857 35 857 35 868"/></Shape>
+	    <String CONTENT="weil meine Mama auch vor einigen Wochen gestorben ist. Ich werde das"
+                    HPOS="35"
+                    VPOS="857"
+                    WIDTH="702"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13c0691e"
+                    TAGREFS="LT3625"
+                    BASELINE="34 884 737 884" 
+                    HPOS="34"
+                    VPOS="873"
+                    WIDTH="703"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="34 884 34 894 737 894 737 884 737 873 34 873 34 884"/></Shape>
+	    <String CONTENT="Packet aufbewahren, bis Tante Martha nach Hause kommt. Dann wird sie"
+                    HPOS="34"
+                    VPOS="873"
+                    WIDTH="703"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_524855ef"
+                    TAGREFS="LT3625"
+                    BASELINE="37 901 764 902" 
+                    HPOS="36"
+                    VPOS="888"
+                    WIDTH="728"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="37 901 36 910 763 913 764 902 764 890 37 888 37 901"/></Shape>
+	    <String CONTENT="Ihnen selber schreiben. Sie ist vor lauter Aufregung krank geworden. Im"
+                    HPOS="36"
+                    VPOS="888"
+                    WIDTH="728"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ce07737"
+                    TAGREFS="LT3625"
+                    BASELINE="33 920 756 919" 
+                    HPOS="32"
+                    VPOS="907"
+                    WIDTH="724"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="33 920 33 930 755 928 756 919 753 907 32 908 33 920"/></Shape>
+	    <String CONTENT="Oktober ist mein Pappi gestorben, sechs Wochen spӓter meine Mammi. Der"
+                    HPOS="32"
+                    VPOS="907"
+                    WIDTH="724"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3e24b69"
+                    TAGREFS="LT3625"
+                    BASELINE="33 936 777 938" 
+                    HPOS="32"
+                    VPOS="924"
+                    WIDTH="745"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="33 936 32 945 775 949 777 938 776 926 33 924 33 936"/></Shape>
+	    <String CONTENT="Onkel Jacob ist auch schon seit voriges Jahr im Mai fort, ich kann Ihnen"
+                    HPOS="32"
+                    VPOS="924"
+                    WIDTH="745"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a9a3491"
+                    TAGREFS="LT3625"
+                    BASELINE="34 954 758 956" 
+                    HPOS="33"
+                    VPOS="942"
+                    WIDTH="725"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="34 954 33 962 756 963 758 956 757 944 34 942 34 954"/></Shape>
+	    <String CONTENT="nicht schreiben, wo er ist. Im Jӓnner ist Sonja gestorben, das war von"
+                    HPOS="33"
+                    VPOS="942"
+                    WIDTH="725"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50ec6bf2"
+                    TAGREFS="LT3625"
+                    BASELINE="36 971 773 973" 
+                    HPOS="35"
+                    VPOS="959"
+                    WIDTH="738"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="36 971 35 979 771 982 773 973 772 961 36 959 36 971"/></Shape>
+	    <String CONTENT="Tante Martha das Mӓderl. Sie war 4 Jahre alt. Tante Martha hat aber noch"
+                    HPOS="35"
+                    VPOS="959"
+                    WIDTH="738"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8619b5c5"
+                    TAGREFS="LT3625"
+                    BASELINE="34 989 757 991" 
+                    HPOS="33"
+                    VPOS="977"
+                    WIDTH="724"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="34 989 33 997 755 999 757 991 756 977 34 977 34 989"/></Shape>
+	    <String CONTENT="ein Kind. Das ist der Hans, er ist 1 ½ Jahre alt. Jetzt ist noch etwas"
+                    HPOS="33"
+                    VPOS="977"
+                    WIDTH="724"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca49e8fa"
+                    TAGREFS="LT3625"
+                    BASELINE="33 1008 757 1008" 
+                    HPOS="33"
+                    VPOS="997"
+                    WIDTH="724"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="33 1008 33 1019 757 1019 757 1008 757 997 33 997 33 1008"/></Shape>
+	    <String CONTENT="passiert, ich kann Ihnen nicht alles schreiben, das war zuviel für die"
+                    HPOS="33"
+                    VPOS="997"
+                    WIDTH="724"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0ba9a21"
+                    TAGREFS="LT3625"
+                    BASELINE="32 1027 281 1035 697 1038" 
+                    HPOS="31"
+                    VPOS="1015"
+                    WIDTH="666"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="32 1027 31 1043 504 1052 505 1052 609 1050 611 1050 612 1050 642 1054 643 1054 696 1050 697 1038 696 1026 32 1015 32 1027"/></Shape>
+	    <String CONTENT="Tante. Sie hat mir oft von Ihnen erzӓhlt, Sie hat Sie sehr gerne."
+                    HPOS="31"
+                    VPOS="1015"
+                    WIDTH="666"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

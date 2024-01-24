@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP015_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2424"
+          HEIGHT="3486"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2424"
+                  HEIGHT="3486">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_ddb95b31"
+                    TAGREFS="LT3628"
+                    BASELINE="1008 217 1502 212" 
+                    HPOS="1005"
+                    VPOS="148"
+                    WIDTH="497"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1008 217 1008 235 1502 232 1502 212 1496 151 1005 148 1008 217"/></Shape>
+	    <String CONTENT="Protokol"
+                    HPOS="1005"
+                    VPOS="148"
+                    WIDTH="497"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb07ad9f"
+                    TAGREFS="LT3628"
+                    BASELINE="264 371 2104 357" 
+                    HPOS="261"
+                    VPOS="290"
+                    WIDTH="1843"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="264 371 264 400 2101 383 2104 357 2089 293 2060 310 1918 296 1865 290 1863 290 1825 296 1726 313 1537 299 1450 293 1447 293 1380 302 1246 316 1060 305 973 299 970 299 918 305 819 319 752 307 735 305 732 305 706 307 610 322 540 310 497 302 354 302 351 302 348 302 345 302 334 310 319 322 261 313 264 371"/></Shape>
+	    <String CONTENT="sepsaný s Hanušem G i b i a n e m, nar. 15. 8. 1902 v Praze, z"
+                    HPOS="261"
+                    VPOS="290"
+                    WIDTH="1843"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7a8b633"
+                    TAGREFS="LT3628"
+                    BASELINE="261 473 2290 453" 
+                    HPOS="258"
+                    VPOS="392"
+                    WIDTH="2032"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="261 473 261 517 2287 490 2290 453 2284 403 1996 392 1993 392 1990 392 1935 406 1909 412 1825 409 1694 400 1691 400 1499 412 1392 418 1380 415 1351 400 1348 400 1345 400 1342 400 1305 415 1293 418 1267 415 1156 400 1153 400 1150 400 1084 418 1066 421 1031 418 941 409 938 409 848 421 813 427 581 427 578 424 555 406 552 406 549 406 546 406 258 427 261 473"/></Shape>
+	    <String CONTENT="pracovního tábora Nováky, okr. Prijevica, Slovensko, bytem v Praze I.,"
+                    HPOS="258"
+                    VPOS="392"
+                    WIDTH="2032"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf18730b"
+                    TAGREFS="LT3628"
+                    BASELINE="261 569 1906 549" 
+                    HPOS="258"
+                    VPOS="505"
+                    WIDTH="1648"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="261 569 261 607 636 618 639 618 642 618 668 607 677 604 688 607 723 618 726 618 729 618 892 607 1023 598 1031 607 1037 610 1037 612 1040 612 1043 612 1046 615 1156 615 1156 612 1159 612 1177 607 1212 592 1453 592 1903 604 1906 549 1897 505 258 522 261 569"/></Shape>
+	    <String CONTENT="Rybná 8, národnosti české, povoláním bankovní úředník."
+                    HPOS="258"
+                    VPOS="505"
+                    WIDTH="1648"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e8ff7ea"
+                    TAGREFS="LT3628"
+                    BASELINE="267 769 2194 746" 
+                    HPOS="264"
+                    VPOS="700"
+                    WIDTH="1930"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="267 769 267 795 2191 778 2194 746 2188 703 991 700 988 700 915 705 738 720 531 705 502 705 499 705 497 705 491 705 424 723 264 708 267 769"/></Shape>
+	    <String CONTENT="Od roku 1941 do září 1944 žil jsem se svojí dvoučlennou rodinou"
+                    HPOS="264"
+                    VPOS="700"
+                    WIDTH="1930"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca44ff62"
+                    TAGREFS="LT3628"
+                    BASELINE="270 819 2226 795" 
+                    HPOS="264"
+                    VPOS="755"
+                    WIDTH="1959"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="267 816 267 842 2220 830 2223 793 2214 755 264 778 267 816"/></Shape>
+	    <String CONTENT="/: manželka a syn :/ v táboře Nováky, okres Prijevica, Slovensko."
+                    HPOS="264"
+                    VPOS="755"
+                    WIDTH="1959"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_690dc7c4"
+                    TAGREFS="LT3628"
+                    BASELINE="270 862 2258 845" 
+                    HPOS="267"
+                    VPOS="807"
+                    WIDTH="1991"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="270 900 2255 874 2258 845 2249 807 267 837 270 862"/></Shape>
+	    <String CONTENT="Tam jsem pracoval ve stavební správě. Byli jsme ubytování v dřevě-"
+                    HPOS="267"
+                    VPOS="807"
+                    WIDTH="1991"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6092870"
+                    TAGREFS="LT3628"
+                    BASELINE="273 915 2237 900" 
+                    HPOS="270"
+                    VPOS="865"
+                    WIDTH="1967"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="273 915 273 941 2235 926 2237 900 2229 865 270 877 273 915"/></Shape>
+	    <String CONTENT="ných barácích, rodiny bydlely pohromadě, svobodní zvlášť. Stravo-"
+                    HPOS="270"
+                    VPOS="865"
+                    WIDTH="1967"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e23110e7"
+                    TAGREFS="LT3628"
+                    BASELINE="273 964 2159 947" 
+                    HPOS="270"
+                    VPOS="912"
+                    WIDTH="1889"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="273 964 273 990 2156 973 2159 947 2150 912 270 917 273 964"/></Shape>
+	    <String CONTENT="vací podmínky byly ucházející. Tábor byl zpočátku pod dozorem"
+                    HPOS="270"
+                    VPOS="912"
+                    WIDTH="1889"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6e7ea67"
+                    TAGREFS="LT3628"
+                    BASELINE="270 1010 2269 996" 
+                    HPOS="267"
+                    VPOS="955"
+                    WIDTH="2002"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="270 1010 270 1034 2269 1019 2269 996 2261 955 267 967 270 1010"/></Shape>
+	    <String CONTENT="Hlinkovy gardy, která se vyznačovala surovostí. Později byla Hlin-"
+                    HPOS="267"
+                    VPOS="955"
+                    WIDTH="2002"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc194f56"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1063 2217 1048" 
+                    HPOS="270"
+                    VPOS="1013"
+                    WIDTH="1947"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="273 1063 273 1086 2214 1083 2217 1048 2208 1013 270 1025 273 1063"/></Shape>
+	    <String CONTENT="kova garda vystřídána slovenskými četníky. V září 1944, začátkem"
+                    HPOS="270"
+                    VPOS="1013"
+                    WIDTH="1947"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f5bffa4"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1112 2188 1098" 
+                    HPOS="273"
+                    VPOS="1063"
+                    WIDTH="1915"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="276 1112 276 1138 2185 1124 2188 1098 2179 1063 273 1074 276 1112"/></Shape>
+	    <String CONTENT="slovenského povstání, byl tábor zrušen a židovští občané tohoto"
+                    HPOS="273"
+                    VPOS="1063"
+                    WIDTH="1915"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47acf35e"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1162 2249 1147" 
+                    HPOS="273"
+                    VPOS="1112"
+                    WIDTH="1976"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="276 1162 276 1191 2246 1182 2249 1147 2240 1112 273 1118 276 1162"/></Shape>
+	    <String CONTENT="tábora směli se volně pohybovati na prostoru ovládaném slovenskou"
+                    HPOS="273"
+                    VPOS="1112"
+                    WIDTH="1976"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53fb406e"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1211 706 1205" 
+                    HPOS="273"
+                    VPOS="1170"
+                    WIDTH="433"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="276 1211 276 1246 703 1231 706 1205 697 1170 273 1173 276 1211"/></Shape>
+	    <String CONTENT="národní radou."
+                    HPOS="273"
+                    VPOS="1170"
+                    WIDTH="433"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_effd45e9"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1260 2188 1246" 
+                    HPOS="270"
+                    VPOS="1196"
+                    WIDTH="1918"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="677 1208 659 1208 270 1223 273 1260 273 1289 2185 1278 2188 1246 2182 1211 1868 1196 1865 1196 1863 1196 1799 1211 729 1205 726 1205 688 1205 677 1208"/></Shape>
+	    <String CONTENT="Následkem postupného obsazení Slovenska německou armádou prchli"
+                    HPOS="270"
+                    VPOS="1196"
+                    WIDTH="1918"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62c550bc"
+                    TAGREFS="LT3628"
+                    BASELINE="279 1310 2211 1301" 
+                    HPOS="276"
+                    VPOS="1260"
+                    WIDTH="1935"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="279 1310 279 1333 2208 1327 2211 1301 2203 1260 276 1272 279 1310"/></Shape>
+	    <String CONTENT="jsme s rodinou do okolí Banské Bystrice, kde jsem až do 28. října"
+                    HPOS="276"
+                    VPOS="1260"
+                    WIDTH="1935"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8f26ca4"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1356 2272 1350" 
+                    HPOS="273"
+                    VPOS="1307"
+                    WIDTH="1999"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="276 1356 276 1388 2269 1376 2272 1350 2264 1307 273 1310 276 1356"/></Shape>
+	    <String CONTENT="1944 pracoval ve státní rafinerii v Dubové. Když se německá armáda"
+                    HPOS="273"
+                    VPOS="1307"
+                    WIDTH="1999"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0ea2da9"
+                    TAGREFS="LT3628"
+                    BASELINE="281 1408 2304 1403" 
+                    HPOS="279"
+                    VPOS="1368"
+                    WIDTH="2025"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="281 1408 281 1440 2301 1440 2304 1403 2296 1368 279 1371 281 1408"/></Shape>
+	    <String CONTENT="blížila k Banské Bystrici, byli jsme nuceni ukrýti se ve slovenských"
+                    HPOS="279"
+                    VPOS="1368"
+                    WIDTH="2025"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df7d8371"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1461 2182 1449" 
+                    HPOS="273"
+                    VPOS="1414"
+                    WIDTH="1909"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="276 1461 276 1487 2179 1475 2182 1449 2174 1414 273 1414 276 1461"/></Shape>
+	    <String CONTENT="horách. Po třídenním bloudění bez cíle, po kterém Němci dvakrát"
+                    HPOS="273"
+                    VPOS="1414"
+                    WIDTH="1909"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_799340df"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1513 2243 1498" 
+                    HPOS="270"
+                    VPOS="1464"
+                    WIDTH="1973"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="273 1513 273 1539 2240 1528 2243 1498 2235 1464 270 1475 273 1513"/></Shape>
+	    <String CONTENT="na nás stříleli, byli jsme 1. 11. 1944 chyceni. Němečtí esesáci"
+                    HPOS="270"
+                    VPOS="1464"
+                    WIDTH="1973"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aea5fb18"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1562 2237 1551" 
+                    HPOS="273"
+                    VPOS="1516"
+                    WIDTH="1964"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="276 1562 276 1589 2235 1580 2237 1551 2229 1516 273 1516 276 1562"/></Shape>
+	    <String CONTENT="soustředili nás na jedné louce, ptali se nás, zdali jsme Židé, při"
+                    HPOS="273"
+                    VPOS="1516"
+                    WIDTH="1964"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7410cd42"
+                    TAGREFS="LT3628"
+                    BASELINE="279 1609 2313 1603" 
+                    HPOS="276"
+                    VPOS="1559"
+                    WIDTH="2037"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="279 1609 279 1635 2313 1635 2313 1603 2304 1559 276 1565 279 1609"/></Shape>
+	    <String CONTENT="čemž lidé, kteří se mohli vykázat árijskými papíry, byli propuštěni."
+                    HPOS="276"
+                    VPOS="1559"
+                    WIDTH="2037"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ec680df"
+                    TAGREFS="LT3628"
+                    BASELINE="279 1658 2258 1652" 
+                    HPOS="276"
+                    VPOS="1618"
+                    WIDTH="1982"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="279 1658 279 1696 2255 1690 2258 1652 2252 1618 276 1618 279 1658"/></Shape>
+	    <String CONTENT="Židé byli vyzváni, ihned odevzdat hodinky, peníze a všechno cenné,"
+                    HPOS="276"
+                    VPOS="1618"
+                    WIDTH="1982"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f9d719b"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1713 2278 1702" 
+                    HPOS="270"
+                    VPOS="1664"
+                    WIDTH="2008"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="273 1713 273 1740 2275 1737 2278 1702 2269 1664 270 1676 273 1713"/></Shape>
+	    <String CONTENT="co měli při sobě, při čemž esesáci se vyjádřili, že to už nebudeme"
+                    HPOS="270"
+                    VPOS="1664"
+                    WIDTH="2008"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb62df29"
+                    TAGREFS="LT3628"
+                    BASELINE="276 1763 2290 1754" 
+                    HPOS="273"
+                    VPOS="1719"
+                    WIDTH="2017"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="276 1763 276 1783 2287 1786 2290 1754 2281 1719 273 1722 276 1763"/></Shape>
+	    <String CONTENT="potřebovat. Potom nás dal velitel SS odtransportovat s upozorněním,"
+                    HPOS="273"
+                    VPOS="1719"
+                    WIDTH="2017"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_572d8a1c"
+                    TAGREFS="LT3628"
+                    BASELINE="279 1812 2211 1804" 
+                    HPOS="276"
+                    VPOS="1769"
+                    WIDTH="1935"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="279 1812 279 1841 2208 1838 2211 1804 2206 1769 276 1769 279 1812"/></Shape>
+	    <String CONTENT="že nás doprovodí hlídka 2 vojáků, a že se nám nic nestane. Cestou"
+                    HPOS="276"
+                    VPOS="1769"
+                    WIDTH="1935"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be1b488d"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1867 2171 1856" 
+                    HPOS="270"
+                    VPOS="1818"
+                    WIDTH="1901"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="273 1867 273 1891 2168 1879 2171 1856 2162 1818 270 1818 273 1867"/></Shape>
+	    <String CONTENT="z hor dolů přibyli ještě 4 esesáci, takže jich celkem bylo 6."
+                    HPOS="270"
+                    VPOS="1818"
+                    WIDTH="1901"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aefa103"
+                    TAGREFS="LT3628"
+                    BASELINE="273 1914 2197 1902" 
+                    HPOS="270"
+                    VPOS="1862"
+                    WIDTH="1927"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="273 1914 273 1940 2194 1928 2197 1902 2188 1862 270 1870 273 1914"/></Shape>
+	    <String CONTENT="Vedli nás na jednu louku, esesáci zůstali pozadu a dali nám pří-"
+                    HPOS="270"
+                    VPOS="1862"
+                    WIDTH="1927"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e2e53d7"
+                    TAGREFS="LT3628"
+                    BASELINE="270 1966 2194 1952" 
+                    HPOS="267"
+                    VPOS="1911"
+                    WIDTH="1927"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="270 1966 270 1995 2191 1987 2194 1952 2185 1911 267 1920 270 1966"/></Shape>
+	    <String CONTENT="kaz, abychom šli směrem na Banskou Bystrici a zůstali pohromadě."
+                    HPOS="267"
+                    VPOS="1911"
+                    WIDTH="1927"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_354958db"
+                    TAGREFS="LT3628"
+                    BASELINE="270 2016 2258 2004" 
+                    HPOS="267"
+                    VPOS="1966"
+                    WIDTH="1991"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="270 2016 270 2042 2255 2030 2258 2004 2249 1966 267 1972 270 2016"/></Shape>
+	    <String CONTENT="Když jsme se vzdálili asi 10 kroků, začali na nás zezadu střílet."
+                    HPOS="267"
+                    VPOS="1966"
+                    WIDTH="1991"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95460eb3"
+                    TAGREFS="LT3628"
+                    BASELINE="273 2068 2272 2053" 
+                    HPOS="270"
+                    VPOS="2016"
+                    WIDTH="2002"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="273 2068 273 2094 2269 2079 2272 2053 2264 2016 270 2030 273 2068"/></Shape>
+	    <String CONTENT="Stříleli tak dlouho, až všichni /: 42 osob :/ zůstali v mrtvém neb"
+                    HPOS="270"
+                    VPOS="2016"
+                    WIDTH="2002"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82b1d907"
+                    TAGREFS="LT3628"
+                    BASELINE="270 2120 2165 2103" 
+                    HPOS="267"
+                    VPOS="2068"
+                    WIDTH="1898"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="270 2120 270 2146 2162 2138 2165 2103 2156 2068 267 2079 270 2120"/></Shape>
+	    <String CONTENT="polomrtvém stavu ležet. Pak prohlíželi každou jednotlivou osobu,"
+                    HPOS="267"
+                    VPOS="2068"
+                    WIDTH="1898"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caf95897"
+                    TAGREFS="LT3628"
+                    BASELINE="273 2170 2211 2146" 
+                    HPOS="270"
+                    VPOS="2106"
+                    WIDTH="1941"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="273 2170 273 2196 2208 2172 2211 2146 2203 2106 270 2132 273 2170"/></Shape>
+	    <String CONTENT="vzali si ještě, co se jim líbilo, a zavraždili každého, kdo ještě"
+                    HPOS="270"
+                    VPOS="2106"
+                    WIDTH="1941"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61a5e07b"
+                    TAGREFS="LT3628"
+                    BASELINE="273 2222 2296 2199" 
+                    HPOS="270"
+                    VPOS="2155"
+                    WIDTH="2026"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="273 2222 273 2245 2293 2228 2296 2199 2287 2155 270 2184 273 2222"/></Shape>
+	    <String CONTENT="nebyl úplně mrtev ranou do hlavy. Já jsem se vydal za mrtvého, rov-"
+                    HPOS="270"
+                    VPOS="2155"
+                    WIDTH="2026"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e775d9e"
+                    TAGREFS="LT3628"
+                    BASELINE="273 2268 2290 2251" 
+                    HPOS="270"
+                    VPOS="2216"
+                    WIDTH="2020"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="273 2268 273 2297 2287 2286 2290 2251 2281 2216 270 2222 273 2268"/></Shape>
+	    <String CONTENT="něž jedna 14 letá holčička, která byla přikryta pláštěm svého otce,"
+                    HPOS="270"
+                    VPOS="2216"
+                    WIDTH="2020"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1339cb4f"
+                    TAGREFS="LT3628"
+                    BASELINE="273 2318 2322 2297" 
+                    HPOS="270"
+                    VPOS="2257"
+                    WIDTH="2052"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="273 2318 273 2344 2319 2329 2322 2297 2313 2257 270 2280 273 2318"/></Shape>
+	    <String CONTENT="zázrakem se zachránila. Bylo to 1. listopadu 1944 ve 13 hodin v sedle"
+                    HPOS="270"
+                    VPOS="2257"
+                    WIDTH="2052"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72a92d6f"
+                    TAGREFS="LT3628"
+                    BASELINE="270 2370 2345 2350" 
+                    HPOS="267"
+                    VPOS="2303"
+                    WIDTH="2078"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="270 2370 270 2402 683 2419 685 2419 688 2419 691 2419 709 2405 717 2399 746 2405 813 2416 816 2416 819 2416 863 2405 898 2396 912 2405 932 2419 935 2419 938 2419 941 2422 1066 2422 1066 2419 1168 2405 1261 2393 1281 2405 1293 2416 1296 2416 1299 2416 1302 2419 1444 2419 1444 2416 1517 2408 1636 2390 1709 2390 1735 2408 1738 2411 1740 2411 1743 2411 1746 2411 1749 2411 1758 2408 1802 2387 1845 2408 1848 2408 1967 2411 1970 2411 1973 2411 1985 2408 2072 2385 2339 2408 2345 2350 2336 2303 267 2321 270 2370"/></Shape>
+	    <String CONTENT="mezi Kozím Chrbátem a Prašivou v Nízkých Tatrách, blízko obci Hiadel."
+                    HPOS="267"
+                    VPOS="2303"
+                    WIDTH="2078"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

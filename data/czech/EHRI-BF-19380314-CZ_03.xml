@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380314-CZ_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1696"
+          HEIGHT="2492"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1696"
+                  HEIGHT="2492">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3f3bdaf6"
+                    TAGREFS="LT3628"
+                    BASELINE="174 253 899 259" 
+                    HPOS="172"
+                    VPOS="197"
+                    WIDTH="727"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="174 253 172 274 205 286 207 286 209 286 361 278 396 278 401 280 426 292 428 292 430 292 530 282 563 280 594 284 658 294 660 294 721 288 766 282 895 290 899 259 899 222 825 222 823 220 800 201 798 201 796 201 725 201 723 201 721 201 719 201 719 203 702 220 700 220 498 220 498 218 480 201 480 199 478 199 475 199 473 199 471 199 428 215 409 199 409 197 407 197 405 197 403 197 401 197 399 197 376 215 351 197 349 197 347 197 236 197 234 197 232 197 174 213 174 253"/></Shape>
+	    <String CONTENT="četnických stanic o 32 četníky."
+                    HPOS="172"
+                    VPOS="197"
+                    WIDTH="727"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d96da912"
+                    TAGREFS="LT3628"
+                    BASELINE="176 404 1579 409" 
+                    HPOS="174"
+                    VPOS="363"
+                    WIDTH="1405"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="176 404 174 425 232 438 234 438 843 429 877 440 879 440 881 440 1577 429 1579 409 1577 377 1427 369 1425 369 1394 375 1365 380 1340 373 1319 369 1317 369 1315 369 1272 373 1209 380 1182 373 1170 369 1168 369 1166 369 1163 369 1161 369 1157 371 1149 380 1138 371 1132 367 1130 367 1128 367 1062 367 1060 367 1057 367 1055 367 1049 371 1035 380 1008 371 995 367 993 367 991 367 964 369 908 377 854 369 827 365 825 365 783 369 681 377 638 367 629 365 627 365 625 365 623 365 615 367 573 380 340 380 328 367 326 367 324 367 322 367 257 377 176 363 176 404"/></Shape>
+	    <String CONTENT="též zástupcem zemského fin. ředitelstvi, jenž uznává take, že"
+                    HPOS="174"
+                    VPOS="363"
+                    WIDTH="1405"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14e559a3"
+                    TAGREFS="LT3628"
+                    BASELINE="405 332 1558 332" 
+                    HPOS="405"
+                    VPOS="286"
+                    WIDTH="1153"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="405 332 405 357 1558 357 1558 332 1558 303 1490 286 1409 286 1407 286 1405 286 1380 299 1338 286 1336 286 1334 286 1332 286 1292 299 1284 301 1278 299 1255 286 1253 286 1251 286 1249 286 1213 296 1203 301 1197 296 1178 288 1176 288 1174 288 1172 288 1155 296 1145 303 985 303 976 294 968 288 968 286 966 286 964 286 920 286 918 286 916 286 902 294 887 303 708 303 673 290 665 288 663 288 660 288 658 288 656 288 654 290 644 299 604 290 602 290 600 290 598 290 536 301 509 288 502 286 500 286 498 286 405 286 405 332"/></Shape>
+	    <String CONTENT="Nutnost zesílení četnických stanic byla zdůrazněna"
+                    HPOS="405"
+                    VPOS="286"
+                    WIDTH="1153"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f48e0a0d"
+                    TAGREFS="LT3628"
+                    BASELINE="178 488 1681 488" 
+                    HPOS="178"
+                    VPOS="448"
+                    WIDTH="1503"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="178 488 178 517 1679 512 1681 488 1679 450 178 448 178 488"/></Shape>
+	    <String CONTENT="i fin. stráž je výkonemslužby již znavena a bude rovněž protřebova"
+                    HPOS="178"
+                    VPOS="448"
+                    WIDTH="1503"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd7d3b7c"
+                    TAGREFS="LT3628"
+                    BASELINE="178 558 608 558" 
+                    HPOS="178"
+                    VPOS="531"
+                    WIDTH="430"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="178 558 178 583 245 596 247 596 249 596 282 587 295 585 606 596 608 558 608 531 178 531 178 558"/></Shape>
+	    <String CONTENT="výměny a doplnění."
+                    HPOS="178"
+                    VPOS="531"
+                    WIDTH="430"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ffa21fe"
+                    TAGREFS="LT3628"
+                    BASELINE="182 710 1323 710" 
+                    HPOS="182"
+                    VPOS="668"
+                    WIDTH="1141"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="182 710 182 730 288 745 290 745 293 745 328 733 369 745 372 745 374 745 507 735 530 745 532 745 534 747 694 747 694 745 696 745 698 745 712 733 864 745 866 745 1107 733 1136 743 1138 743 1141 743 1253 733 1290 745 1292 745 1294 745 1296 745 1323 730 1323 710 1323 681 1209 668 1207 668 1205 668 1163 679 1161 679 991 668 989 668 860 679 850 681 671 681 669 679 654 668 652 668 650 668 648 668 646 668 613 679 611 679 606 679 575 668 573 668 571 668 182 676 182 710"/></Shape>
+	    <String CONTENT="aby pohran. četn. stanice byly přiměřeně zesíleny."
+                    HPOS="182"
+                    VPOS="668"
+                    WIDTH="1141"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_771fb7cb"
+                    TAGREFS="LT3628"
+                    BASELINE="405 637 1654 633" 
+                    HPOS="403"
+                    VPOS="591"
+                    WIDTH="1251"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="405 637 405 666 1652 662 1654 633 1648 596 1269 602 1265 598 1259 593 1259 591 1257 591 1255 591 1145 591 1143 591 1141 591 1122 600 1116 602 1111 600 1087 591 1084 591 1082 591 1080 591 1078 591 1078 593 1070 600 1068 602 1049 600 962 593 960 593 958 593 941 602 937 604 910 602 816 593 814 593 752 604 748 604 742 604 685 593 683 593 681 593 679 593 665 604 663 604 459 593 457 593 455 593 403 606 405 637"/></Shape>
+	    <String CONTENT="Sděleno presidiu min. vnitra (Hamáčcek), které souhlasí,"
+                    HPOS="403"
+                    VPOS="591"
+                    WIDTH="1251"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc9ef82d"
+                    TAGREFS="LT3628"
+                    BASELINE="407 784 1554 780" 
+                    HPOS="405"
+                    VPOS="739"
+                    WIDTH="1149"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="407 784 407 807 1552 803 1554 780 1548 739 976 751 831 749 521 741 519 741 517 741 496 751 467 741 465 741 463 741 405 753 407 784"/></Shape>
+	    <String CONTENT="Při té příležitosti žádá min. vnitra o podrobnější"
+                    HPOS="405"
+                    VPOS="739"
+                    WIDTH="1149"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f7756fa"
+                    TAGREFS="LT3628"
+                    BASELINE="187 868 1590 861" 
+                    HPOS="184"
+                    VPOS="828"
+                    WIDTH="1406"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="187 868 187 897 328 886 1587 886 1590 861 1585 832 184 828 187 868"/></Shape>
+	    <String CONTENT="zprávu o případu v Dešné a o rakouských uprchlících ve Znojmě."
+                    HPOS="184"
+                    VPOS="828"
+                    WIDTH="1406"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_811000eb"
+                    TAGREFS="LT3628"
+                    BASELINE="409 938 1596 934" 
+                    HPOS="407"
+                    VPOS="895"
+                    WIDTH="1189"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="409 938 409 963 654 969 656 969 714 961 742 959 750 961 766 969 769 969 771 969 839 961 864 959 893 961 997 969 999 969 1272 959 1317 957 1319 957 1328 965 1328 967 1330 967 1332 967 1334 969 1452 969 1452 967 1594 955 1596 934 1592 905 1012 895 1010 895 1008 895 985 905 602 897 600 897 407 907 409 938"/></Shape>
+	    <String CONTENT="Okresní úřad v Mor. Budějovicích a stát. polic. úřad"
+                    HPOS="407"
+                    VPOS="895"
+                    WIDTH="1189"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5418ed42"
+                    TAGREFS="LT3628"
+                    BASELINE="187 1019 1637 1009" 
+                    HPOS="184"
+                    VPOS="969"
+                    WIDTH="1453"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="187 1019 187 1040 1635 1038 1637 1009 1633 978 1394 969 1392 969 1269 980 1244 982 1232 980 1157 969 1155 969 1153 969 1151 969 1134 982 1132 984 1053 984 1049 982 958 971 956 971 954 971 912 984 910 984 899 984 783 976 781 976 692 986 683 986 677 986 550 973 548 973 546 973 544 973 530 988 459 988 284 976 282 976 184 990 187 1019"/></Shape>
+	    <String CONTENT="ve Znojmě byly požádány, aby po vyšetření podaly ve věci přesnou"
+                    HPOS="184"
+                    VPOS="969"
+                    WIDTH="1453"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68d134cb"
+                    TAGREFS="LT3628"
+                    BASELINE="191 1092 367 1092" 
+                    HPOS="191"
+                    VPOS="1048"
+                    WIDTH="176"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="191 1092 191 1138 255 1142 257 1142 259 1142 261 1142 261 1140 266 1138 282 1123 365 1133 367 1092 363 1048 338 1059 297 1050 278 1048 276 1048 191 1054 191 1092"/></Shape>
+	    <String CONTENT="zprávu."
+                    HPOS="191"
+                    VPOS="1048"
+                    WIDTH="176"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ead6aecd"
+                    TAGREFS="LT3628"
+                    BASELINE="413 1162 1579 1156" 
+                    HPOS="411"
+                    VPOS="1111"
+                    WIDTH="1168"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="413 1162 413 1192 704 1187 708 1189 714 1196 714 1198 717 1198 719 1198 721 1200 800 1200 800 1198 1035 1187 1087 1185 1093 1187 1122 1196 1124 1196 1126 1196 1261 1185 1290 1183 1305 1185 1369 1194 1371 1194 1373 1194 1400 1183 1405 1183 1415 1183 1511 1194 1513 1194 1577 1181 1579 1156 1575 1125 1411 1125 1394 1111 1392 1111 1390 1111 1388 1111 1336 1121 1305 1111 1303 1111 1301 1111 1299 1111 1272 1125 1157 1125 1103 1113 1101 1113 1099 1113 958 1125 941 1113 939 1113 937 1113 802 1113 800 1113 798 1113 796 1113 771 1129 710 1129 698 1117 698 1115 696 1115 694 1115 692 1115 571 1127 552 1115 550 1115 548 1115 546 1115 544 1115 498 1125 444 1115 442 1115 440 1115 411 1127 413 1162"/></Shape>
+	    <String CONTENT="Nato hlásí okresní úřad v Mor. Budějovicích v 11.20"
+                    HPOS="411"
+                    VPOS="1111"
+                    WIDTH="1168"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6474e6c4"
+                    TAGREFS="LT3628"
+                    BASELINE="187 1239 459 1239" 
+                    HPOS="187"
+                    VPOS="1210"
+                    WIDTH="272"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="187 1239 187 1270 459 1254 459 1239 457 1210 187 1210 187 1239"/></Shape>
+	    <String CONTENT="hod. toto :"
+                    HPOS="187"
+                    VPOS="1210"
+                    WIDTH="272"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5719945b"
+                    TAGREFS="LT3628"
+                    BASELINE="415 1312 1610 1306" 
+                    HPOS="413"
+                    VPOS="1268"
+                    WIDTH="1197"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="415 1312 415 1333 1608 1326 1610 1306 1606 1279 1209 1268 1207 1268 1205 1268 1176 1279 1174 1281 413 1281 415 1312"/></Shape>
+	    <String CONTENT="Strážmistr Miroslav Humplík konal službu nastát. hra-"
+                    HPOS="413"
+                    VPOS="1268"
+                    WIDTH="1197"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a13d1dd6"
+                    TAGREFS="LT3628"
+                    BASELINE="195 1393 1664 1380" 
+                    HPOS="193"
+                    VPOS="1349"
+                    WIDTH="1471"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="195 1393 195 1414 1172 1418 1174 1418 1234 1414 1417 1403 1442 1414 1444 1414 1446 1414 1448 1414 1475 1403 1660 1414 1664 1380 1660 1351 444 1349 442 1349 193 1362 195 1393"/></Shape>
+	    <String CONTENT="nicích v obvodu četn. stanice Dešná, polit. okres Mor. Budějovice,"
+                    HPOS="193"
+                    VPOS="1349"
+                    WIDTH="1471"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c347683f"
+                    TAGREFS="LT3628"
+                    BASELINE="193 1461 1562 1451" 
+                    HPOS="191"
+                    VPOS="1414"
+                    WIDTH="1371"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="193 1461 193 1495 253 1484 1560 1484 1562 1451 1558 1424 1288 1414 1286 1414 1003 1426 222 1422 220 1422 218 1422 191 1430 193 1461"/></Shape>
+	    <String CONTENT="Dne 13. března 1938 kolem 21 hod. byl několik, kroků od stát."
+                    HPOS="191"
+                    VPOS="1414"
+                    WIDTH="1371"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81f25c82"
+                    TAGREFS="LT3628"
+                    BASELINE="195 1538 1579 1528" 
+                    HPOS="193"
+                    VPOS="1488"
+                    WIDTH="1386"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="195 1538 195 1557 1577 1547 1579 1528 1575 1499 1423 1488 1421 1488 193 1505 195 1538"/></Shape>
+	    <String CONTENT="hranic na silnici vedoucí z Hluboké do rakouské obce Schading."
+                    HPOS="193"
+                    VPOS="1488"
+                    WIDTH="1386"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6a0d141"
+                    TAGREFS="LT3628"
+                    BASELINE="195 1611 1565 1599" 
+                    HPOS="193"
+                    VPOS="1559"
+                    WIDTH="1372"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="195 1611 195 1640 1562 1619 1565 1599 1560 1567 1409 1559 1407 1559 1405 1559 1402 1559 1392 1567 1388 1572 1263 1572 1247 1569 1188 1561 1186 1561 1184 1561 1155 1572 1151 1572 1141 1561 1138 1561 1136 1561 1134 1561 887 1574 829 1576 802 1574 687 1565 685 1565 600 1576 598 1576 517 1567 515 1567 513 1567 492 1578 490 1578 486 1578 421 1567 419 1567 417 1567 384 1580 380 1582 193 1582 195 1611"/></Shape>
+	    <String CONTENT="S rakouské strany přricházeli dva ozbrojení občané a volali na"
+                    HPOS="193"
+                    VPOS="1559"
+                    WIDTH="1372"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d318a493"
+                    TAGREFS="LT3628"
+                    BASELINE="195 1684 1583 1671" 
+                    HPOS="193"
+                    VPOS="1632"
+                    WIDTH="1390"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="195 1684 195 1711 1583 1696 1583 1671 1579 1642 1461 1632 1459 1632 1363 1642 1346 1644 193 1644 195 1684"/></Shape>
+	    <String CONTENT="strážm-istra Humplíka &quot;Heil Hitler!&quot;. Strážmistr Humplík na to"
+                    HPOS="193"
+                    VPOS="1632"
+                    WIDTH="1390"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fd9607e"
+                    TAGREFS="LT3628"
+                    BASELINE="197 1754 1542 1742" 
+                    HPOS="195"
+                    VPOS="1704"
+                    WIDTH="1347"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="197 1754 197 1781 1540 1763 1542 1742 1535 1704 854 1719 719 1717 434 1713 432 1713 386 1723 382 1723 374 1723 270 1715 268 1715 195 1725 197 1754"/></Shape>
+	    <String CONTENT="hereagoval, obrátil se a odcházel zpět od stát. hranic. Nato"
+                    HPOS="195"
+                    VPOS="1704"
+                    WIDTH="1347"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd97be02"
+                    TAGREFS="LT3628"
+                    BASELINE="197 1829 1644 1819" 
+                    HPOS="195"
+                    VPOS="1781"
+                    WIDTH="1449"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="197 1829 197 1848 409 1848 436 1858 438 1858 440 1858 594 1846 604 1846 615 1846 771 1856 773 1856 843 1846 856 1844 875 1846 970 1854 972 1854 1041 1844 1066 1842 1111 1844 1228 1852 1230 1854 1332 1854 1332 1852 1334 1852 1336 1852 1348 1844 1357 1839 1375 1844 1409 1850 1411 1850 1413 1850 1440 1844 1459 1839 1484 1844 1529 1850 1531 1850 1641 1842 1644 1819 1637 1781 195 1794 197 1829"/></Shape>
+	    <String CONTENT="mu oni dva muži počali nadávat a spílat a hodili za ním 3 x kame-"
+                    HPOS="195"
+                    VPOS="1781"
+                    WIDTH="1449"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bc52685"
+                    TAGREFS="LT3628"
+                    BASELINE="201 1906 1623 1893" 
+                    HPOS="199"
+                    VPOS="1858"
+                    WIDTH="1424"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="201 1906 203 1937 230 1925 407 1935 421 1935 424 1935 426 1935 428 1935 461 1922 494 1933 496 1933 498 1935 650 1935 650 1933 652 1933 654 1933 667 1922 854 1931 895 1931 897 1931 899 1931 902 1931 902 1929 914 1918 1010 1929 1022 1929 1024 1929 1039 1929 1149 1916 1619 1920 1623 1893 1617 1858 199 1864 201 1906"/></Shape>
+	    <String CONTENT="ním aniž ho zasáhli. Strážmistr Humplík na to nereagoval a konal"
+                    HPOS="199"
+                    VPOS="1858"
+                    WIDTH="1424"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fae440b"
+                    TAGREFS="LT3628"
+                    BASELINE="203 1979 760 1966" 
+                    HPOS="199"
+                    VPOS="1931"
+                    WIDTH="559"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="201 1976 201 1999 569 2003 571 2003 758 1987 758 1964 752 1931 199 1945 201 1976"/></Shape>
+	    <String CONTENT="obchůzkovou službu dále."
+                    HPOS="199"
+                    VPOS="1931"
+                    WIDTH="559"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed9bf311"
+                    TAGREFS="LT3628"
+                    BASELINE="421 2122 1386 2109" 
+                    HPOS="419"
+                    VPOS="2055"
+                    WIDTH="967"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="421 2122 421 2141 733 2149 735 2149 737 2149 739 2149 752 2136 754 2136 762 2136 837 2147 839 2147 926 2134 935 2134 937 2134 945 2143 945 2145 947 2145 949 2145 951 2147 1062 2147 1062 2145 1384 2128 1386 2109 1382 2076 1319 2076 1296 2055 1294 2055 1292 2055 1290 2055 1288 2055 1222 2076 1220 2076 1180 2060 1178 2060 1176 2060 1174 2060 1172 2060 1151 2076 1120 2062 1118 2062 1116 2062 1114 2062 1084 2076 960 2068 958 2068 908 2078 895 2080 891 2078 860 2064 858 2064 856 2064 854 2064 793 2078 787 2080 785 2078 771 2068 769 2068 766 2068 764 2068 721 2076 687 2064 685 2064 579 2064 577 2064 575 2064 538 2080 527 2084 517 2080 478 2068 475 2068 473 2068 471 2068 419 2080 421 2122"/></Shape>
+	    <String CONTENT="Stát. polic. úřad v Břeclavi kole m 11 hod. :"
+                    HPOS="419"
+                    VPOS="2055"
+                    WIDTH="967"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fa74214"
+                    TAGREFS="LT3628"
+                    BASELINE="424 2192 1560 2180" 
+                    HPOS="421"
+                    VPOS="2143"
+                    WIDTH="1139"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="424 2192 426 2226 451 2213 569 2224 577 2224 579 2224 590 2224 702 2211 739 2222 742 2222 744 2222 746 2222 769 2222 999 2207 1124 2215 1151 2217 1153 2217 1186 2215 1305 2205 1330 2213 1336 2215 1338 2215 1340 2215 1558 2209 1560 2180 1556 2153 1386 2143 1384 2143 1382 2143 1380 2143 1363 2153 1361 2153 1334 2153 1114 2145 1111 2145 1109 2145 1082 2153 1076 2155 1070 2153 1037 2145 1035 2145 1032 2145 991 2153 974 2157 937 2155 856 2147 854 2147 781 2155 739 2159 723 2155 700 2149 698 2149 696 2149 421 2155 424 2192"/></Shape>
+	    <String CONTENT="Dnes přršly do Břeclavě vídeňské noviny, které mají"
+                    HPOS="421"
+                    VPOS="2143"
+                    WIDTH="1139"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_185d7f11"
+                    TAGREFS="LT3628"
+                    BASELINE="201 2267 864 2257 1560 2259" 
+                    HPOS="199"
+                    VPOS="2224"
+                    WIDTH="1361"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="201 2267 201 2296 473 2284 532 2294 550 2296 552 2296 577 2294 656 2282 744 2282 752 2292 754 2292 754 2294 756 2294 758 2294 760 2294 798 2290 906 2280 926 2290 933 2292 935 2292 937 2294 1026 2294 1026 2292 1028 2292 1037 2288 1057 2280 1093 2288 1114 2292 1116 2292 1170 2286 1259 2278 1367 2284 1450 2290 1452 2290 1454 2290 1471 2284 1488 2278 1558 2282 1560 2259 1556 2224 199 2228 201 2267"/></Shape>
+	    <String CONTENT="na první straně znamení skobového kříže. Noviny ty byly až do"
+                    HPOS="199"
+                    VPOS="2224"
+                    WIDTH="1361"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12937ecb"
+                    TAGREFS="LT3628"
+                    BASELINE="207 2338 754 2332" 
+                    HPOS="205"
+                    VPOS="2300"
+                    WIDTH="549"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="207 2338 207 2373 390 2367 415 2371 465 2377 467 2377 507 2369 523 2365 532 2367 552 2377 554 2377 557 2377 654 2365 679 2363 685 2365 712 2375 714 2375 717 2375 719 2375 754 2363 754 2332 748 2300 205 2300 207 2338"/></Shape>
+	    <String CONTENT="dalšího pokynu zadrženy."
+                    HPOS="205"
+                    VPOS="2300"
+                    WIDTH="549"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

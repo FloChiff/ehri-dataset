@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390125-US_10.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1894"
+          HEIGHT="3148"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1894"
+                  HEIGHT="3148">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_68279532"
+                    TAGREFS="LT3626"
+                    BASELINE="969 73 1113 81" 
+                    HPOS="966"
+                    VPOS="39"
+                    WIDTH="148"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="966 111 1063 112 1066 112 1069 112 1114 108 1113 81 1111 47 969 39 969 73"/></Shape>
+	    <String CONTENT="- 10 -"
+                    HPOS="966"
+                    VPOS="39"
+                    WIDTH="148"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dc39e09"
+                    TAGREFS="LT3626"
+                    BASELINE="344 299 1678 314" 
+                    HPOS="341"
+                    VPOS="264"
+                    WIDTH="1337"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="344 299 341 327 359 338 362 338 365 338 367 338 522 327 562 341 564 341 567 341 1675 338 1678 314 1675 280 344 264 344 299"/></Shape>
+	    <String CONTENT="There is always, of course, as I have reported"
+                    HPOS="341"
+                    VPOS="264"
+                    WIDTH="1337"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2da7591e"
+                    TAGREFS="LT3626"
+                    BASELINE="197 403 1731 409" 
+                    HPOS="194"
+                    VPOS="369"
+                    WIDTH="1537"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="197 403 194 422 964 440 966 440 1728 427 1731 409 1728 375 197 369 197 403"/></Shape>
+	    <String CONTENT="elsewhere, a good possibility that the Patriarch will"
+                    HPOS="194"
+                    VPOS="369"
+                    WIDTH="1537"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f01fbf1b"
+                    TAGREFS="LT3626"
+                    BASELINE="202 495 1728 501" 
+                    HPOS="199"
+                    VPOS="461"
+                    WIDTH="1529"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="202 495 199 514 286 529 288 529 945 519 958 529 958 532 961 532 964 532 966 532 1725 519 1728 501 1725 466 202 461 202 495"/></Shape>
+	    <String CONTENT="not continue indefinitely as Premier, and a change of"
+                    HPOS="199"
+                    VPOS="461"
+                    WIDTH="1529"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a60e50a"
+                    TAGREFS="LT3626"
+                    BASELINE="199 587 1752 595" 
+                    HPOS="197"
+                    VPOS="553"
+                    WIDTH="1555"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="199 587 197 611 1746 619 1752 595 1749 561 199 553 199 587"/></Shape>
+	    <String CONTENT="Government might bring a modification to the treatment"
+                    HPOS="197"
+                    VPOS="553"
+                    WIDTH="1555"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2492a8d5"
+                    TAGREFS="LT3626"
+                    BASELINE="197 682 1707 692" 
+                    HPOS="194"
+                    VPOS="647"
+                    WIDTH="1513"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="197 682 194 703 215 716 218 716 220 716 223 716 225 716 275 703 309 716 312 716 315 716 388 703 541 716 543 716 546 716 572 703 609 718 612 718 614 718 701 705 717 718 719 718 722 718 725 718 995 708 1071 721 1074 721 1077 721 1079 721 1095 708 1113 721 1116 721 1119 721 1121 721 1326 708 1492 724 1494 724 1704 708 1707 692 1704 658 197 647 197 682"/></Shape>
+	    <String CONTENT="of the Jews. The Romanians are not, on the whole, a"
+                    HPOS="194"
+                    VPOS="647"
+                    WIDTH="1513"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d0448dc"
+                    TAGREFS="LT3626"
+                    BASELINE="197 773 1739 784" 
+                    HPOS="194"
+                    VPOS="739"
+                    WIDTH="1545"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="197 773 194 794 270 813 273 813 467 800 966 818 969 818 971 818 974 818 974 815 987 805 1074 818 1077 818 1079 818 1121 805 1150 818 1153 818 1155 818 1229 805 1352 818 1355 818 1736 805 1739 784 1736 750 197 739 197 773"/></Shape>
+	    <String CONTENT="harsh or vindictive people; they are, rather, tolerant"
+                    HPOS="194"
+                    VPOS="739"
+                    WIDTH="1545"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_225d1836"
+                    TAGREFS="LT3626"
+                    BASELINE="194 870 1723 881" 
+                    HPOS="191"
+                    VPOS="836"
+                    WIDTH="1532"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="194 870 191 894 210 905 212 905 215 905 218 905 436 894 575 907 577 907 1720 899 1723 881 1720 847 194 836 194 870"/></Shape>
+	    <String CONTENT="and easy-going. I feel, therefore, that although the"
+                    HPOS="191"
+                    VPOS="836"
+                    WIDTH="1532"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9c83177"
+                    TAGREFS="LT3626"
+                    BASELINE="191 968 1662 973" 
+                    HPOS="189"
+                    VPOS="933"
+                    WIDTH="1473"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="191 968 189 994 197 1002 197 1004 199 1004 202 1004 204 1004 1660 994 1662 973 1660 939 191 933 191 968"/></Shape>
+	    <String CONTENT="program of getting rid of what are termed the &quot;sur-"
+                    HPOS="189"
+                    VPOS="933"
+                    WIDTH="1473"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f250a50"
+                    TAGREFS="LT3626"
+                    BASELINE="189 1062 1599 1067" 
+                    HPOS="186"
+                    VPOS="1028"
+                    WIDTH="1413"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="189 1062 186 1091 197 1099 199 1099 202 1099 204 1099 732 1091 890 1088 916 1093 964 1101 966 1104 1597 1104 1599 1067 1597 1033 189 1028 189 1062"/></Shape>
+	    <String CONTENT="plus&quot; Jews will probably in any case be retained,"
+                    HPOS="186"
+                    VPOS="1028"
+                    WIDTH="1413"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aea8856b"
+                    TAGREFS="LT3626"
+                    BASELINE="189 1151 1720 1167" 
+                    HPOS="186"
+                    VPOS="1117"
+                    WIDTH="1534"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="189 1151 186 1175 210 1188 212 1188 215 1188 693 1180 709 1193 711 1193 714 1193 717 1193 1105 1185 1208 1198 1211 1198 1717 1188 1720 1167 1717 1133 189 1117 189 1151"/></Shape>
+	    <String CONTENT="there is not much likelihood of such a degree of vio-"
+                    HPOS="186"
+                    VPOS="1117"
+                    WIDTH="1534"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71c346e4"
+                    TAGREFS="LT3626"
+                    BASELINE="186 1248 1668 1261" 
+                    HPOS="183"
+                    VPOS="1214"
+                    WIDTH="1485"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="186 1248 183 1269 1662 1282 1668 1261 1665 1227 186 1214 186 1248"/></Shape>
+	    <String CONTENT="lence or severity being employed as would call down"
+                    HPOS="183"
+                    VPOS="1214"
+                    WIDTH="1485"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd4a0361"
+                    TAGREFS="LT3626"
+                    BASELINE="186 1348 1691 1358" 
+                    HPOS="183"
+                    VPOS="1314"
+                    WIDTH="1508"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="186 1348 183 1369 1686 1379 1691 1358 1689 1324 186 1314 186 1348"/></Shape>
+	    <String CONTENT="strong criticism or general protest from the outside"
+                    HPOS="183"
+                    VPOS="1314"
+                    WIDTH="1508"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f380f265"
+                    TAGREFS="LT3626"
+                    BASELINE="183 1437 378 1442" 
+                    HPOS="181"
+                    VPOS="1403"
+                    WIDTH="197"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="183 1437 181 1461 373 1466 378 1442 378 1408 183 1403 183 1437"/></Shape>
+	    <String CONTENT="world."
+                    HPOS="181"
+                    VPOS="1403"
+                    WIDTH="197"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_929dbb66"
+                    TAGREFS="LT3626"
+                    BASELINE="528 1584 1092 1592" 
+                    HPOS="525"
+                    VPOS="1550"
+                    WIDTH="567"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="528 1584 525 1610 1087 1618 1092 1592 1090 1558 528 1550 528 1584"/></Shape>
+	    <String CONTENT="Respectfully yours,"
+                    HPOS="525"
+                    VPOS="1550"
+                    WIDTH="567"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_750acf2a"
+                    TAGREFS="LT3626"
+                    BASELINE="806 1912 1457 1920" 
+                    HPOS="803"
+                    VPOS="1878"
+                    WIDTH="654"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="806 1912 803 1938 1452 1946 1457 1920 1455 1886 806 1878 806 1912"/></Shape>
+	    <String CONTENT="Franklin Mott Gunther."
+                    HPOS="803"
+                    VPOS="1878"
+                    WIDTH="654"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_867f65b8"
+                    TAGREFS="LT3626"
+                    BASELINE="404 2898 1654 2909" 
+                    HPOS="401"
+                    VPOS="2862"
+                    WIDTH="1253"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="404 2898 401 2922 1649 2932 1654 2909 1654 2872 404 2862 404 2898"/></Shape>
+	    <String CONTENT="Copies to London, Berlin, Jerusalem. Warsaw."
+                    HPOS="401"
+                    VPOS="2862"
+                    WIDTH="1253"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

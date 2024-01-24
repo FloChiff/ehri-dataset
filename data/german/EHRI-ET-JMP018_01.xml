@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP018_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_fe6a8874"
+                    TAGREFS="LT3625"
+                    BASELINE="716 268 1280 268" 
+                    HPOS="716"
+                    VPOS="201"
+                    WIDTH="564"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="716 268 716 303 1278 306 1280 268 1280 225 1225 225 1222 222 1207 207 1207 204 1204 204 1201 204 1199 204 1196 204 1163 219 1161 222 1152 219 1117 201 1114 201 1111 201 1108 201 1105 201 1085 216 1073 225 930 225 903 210 891 204 889 204 716 204 716 268"/></Shape>
+	    <String CONTENT="Protokoll"
+                    HPOS="716"
+                    VPOS="201"
+                    WIDTH="564"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e302b4e"
+                    TAGREFS="LT3625"
+                    BASELINE="403 365 2196 365" 
+                    HPOS="403"
+                    VPOS="292"
+                    WIDTH="1793"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="403 365 403 412 465 400 503 412 526 420 529 420 532 423 862 423 862 420 865 420 903 409 915 406 924 409 956 420 959 420 962 420 965 420 1006 409 1035 400 1061 409 1087 414 1090 414 1093 414 1342 406 1485 400 1506 403 1582 420 1585 423 1857 423 1857 420 1860 420 1862 420 1895 400 1898 400 2082 400 2137 417 2140 417 2143 417 2146 417 2196 397 2196 365 2196 324 2123 324 2120 321 2079 292 2076 292 2073 292 1792 292 1789 292 1702 301 1699 301 1696 301 1675 318 1669 321 1550 315 1327 306 1324 306 1321 306 1292 312 1266 321 1242 312 1222 306 1219 306 1216 306 1213 306 1190 312 1161 321 1134 312 1120 306 1117 306 1114 306 1111 306 1108 306 1099 312 1082 324 935 324 903 309 853 292 851 292 848 292 845 292 792 309 751 321 660 306 552 292 549 292 403 303 403 365"/></Shape>
+	    <String CONTENT="Aufgenommen mit: B e r n e r  I s a a k , geb.: 18.6.1909"
+                    HPOS="403"
+                    VPOS="292"
+                    WIDTH="1793"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a5d326a"
+                    TAGREFS="LT3625"
+                    BASELINE="1906 420 2155 420" 
+                    HPOS="1906"
+                    VPOS="379"
+                    WIDTH="249"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1906 420 1906 455 2032 473 2035 473 2155 458 2155 420 2155 382 1906 379 1906 420"/></Shape>
+	    <String CONTENT="in Riga"
+                    HPOS="1906"
+                    VPOS="379"
+                    WIDTH="249"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90f73c97"
+                    TAGREFS="LT3625"
+                    BASELINE="307 666 2278 675" 
+                    HPOS="307"
+                    VPOS="613"
+                    WIDTH="1971"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="307 666 307 704 2275 704 2278 675 2278 634 307 613 307 666"/></Shape>
+	    <String CONTENT="Am 1.VII.1941 kamen die Deutschen nach Riga. Am 2. VII. wurde eine"
+                    HPOS="307"
+                    VPOS="613"
+                    WIDTH="1971"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b09ecda"
+                    TAGREFS="LT3625"
+                    BASELINE="310 716 2330 727" 
+                    HPOS="307"
+                    VPOS="678"
+                    WIDTH="2023"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="310 716 307 742 2325 762 2330 727 2327 680 310 678 310 716"/></Shape>
+	    <String CONTENT="lettische SS Hilfstruppe gebildet. Auf den Aermeln trugen sie grüne"
+                    HPOS="307"
+                    VPOS="678"
+                    WIDTH="2023"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e05b098e"
+                    TAGREFS="LT3625"
+                    BASELINE="307 765 2333 777" 
+                    HPOS="304"
+                    VPOS="724"
+                    WIDTH="2029"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="307 765 304 800 2327 809 2333 777 2330 736 307 724 307 765"/></Shape>
+	    <String CONTENT="Binden mit dem Totenkopf. Die erste Leistung dieser Hilfstruppe be-"
+                    HPOS="304"
+                    VPOS="724"
+                    WIDTH="2029"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02bb7d07"
+                    TAGREFS="LT3625"
+                    BASELINE="307 818 2368 829" 
+                    HPOS="304"
+                    VPOS="780"
+                    WIDTH="2064"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="307 818 304 847 2363 853 2368 829 2365 791 307 780 307 818"/></Shape>
+	    <String CONTENT="stand darin, Juden auf der Strasse abzufangen, zu peinigen, jüdische"
+                    HPOS="304"
+                    VPOS="780"
+                    WIDTH="2064"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc01671a"
+                    TAGREFS="LT3625"
+                    BASELINE="307 867 2281 879" 
+                    HPOS="304"
+                    VPOS="827"
+                    WIDTH="1977"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="307 867 304 900 2275 903 2281 879 2278 844 307 827 307 867"/></Shape>
+	    <String CONTENT="Frauen und Kinder aus den Wohnungen zu treiben, und zur Arbeit zu"
+                    HPOS="304"
+                    VPOS="827"
+                    WIDTH="1977"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef327770"
+                    TAGREFS="LT3625"
+                    BASELINE="301 923 2330 923" 
+                    HPOS="301"
+                    VPOS="882"
+                    WIDTH="2029"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="301 923 301 952 2327 958 2330 923 2327 882 301 882 301 923"/></Shape>
+	    <String CONTENT="zwingen. Es wurden Aufräumungsarbeiten durchgeführt, wobei es nicht"
+                    HPOS="301"
+                    VPOS="882"
+                    WIDTH="2029"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3a80d6b"
+                    TAGREFS="LT3625"
+                    BASELINE="304 970 2327 976" 
+                    HPOS="304"
+                    VPOS="932"
+                    WIDTH="2023"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="304 970 304 1002 2325 999 2327 976 2325 938 304 932 304 970"/></Shape>
+	    <String CONTENT="so sehr darauf ankam, dass eine Arbeit geleistet wird, als vielmehr"
+                    HPOS="304"
+                    VPOS="932"
+                    WIDTH="2023"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7530a09"
+                    TAGREFS="LT3625"
+                    BASELINE="304 1017 2316 1031" 
+                    HPOS="301"
+                    VPOS="979"
+                    WIDTH="2015"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="304 1017 301 1040 2310 1052 2316 1031 2313 984 304 979 304 1017"/></Shape>
+	    <String CONTENT="darauf, die Juden zu tyrannisieren. Bärte wurden ihnen ausgerissen,"
+                    HPOS="301"
+                    VPOS="979"
+                    WIDTH="2015"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e68eda4e"
+                    TAGREFS="LT3625"
+                    BASELINE="304 1066 2357 1075" 
+                    HPOS="301"
+                    VPOS="1022"
+                    WIDTH="2056"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2292 1031 2263 1031 2234 1031 2205 1031 2175 1031 2146 1031 2117 1031 2088 1031 2058 1031 2029 1031 2000 1031 1971 1031 1941 1031 1921 1028 1669 1028 1649 1028 1620 1028 1590 1028 1561 1028 1532 1028 1523 1025 304 1022 304 1066 301 1093 2351 1110 2357 1075 2354 1031 2292 1028 2292 1031"/></Shape>
+	    <String CONTENT="den Frauen die Kopfhaare abgeschnitten, unter Schlägen und Fusstrit-"
+                    HPOS="301"
+                    VPOS="1022"
+                    WIDTH="2056"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bdd6a3a"
+                    TAGREFS="LT3625"
+                    BASELINE="301 1119 2327 1131" 
+                    HPOS="298"
+                    VPOS="1081"
+                    WIDTH="2029"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="301 1119 298 1139 2322 1151 2327 1131 2325 1087 301 1081 301 1119"/></Shape>
+	    <String CONTENT="ten blieben die Menschen am Boden liegen. Am 3. Juli wurde damit be-"
+                    HPOS="298"
+                    VPOS="1081"
+                    WIDTH="2029"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc825a28"
+                    TAGREFS="LT3625"
+                    BASELINE="304 1171 2301 1180" 
+                    HPOS="301"
+                    VPOS="1133"
+                    WIDTH="2000"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="304 1171 301 1195 2295 1201 2301 1180 2298 1142 304 1133 304 1171"/></Shape>
+	    <String CONTENT="gonnen, die Wohnungen der Juden zu plündern. Am 6. Juli wurden alle"
+                    HPOS="301"
+                    VPOS="1133"
+                    WIDTH="2000"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a006709a"
+                    TAGREFS="LT3625"
+                    BASELINE="301 1218 2386 1236" 
+                    HPOS="298"
+                    VPOS="1180"
+                    WIDTH="2088"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="301 1218 298 1242 2380 1265 2386 1236 2383 1189 301 1180 301 1218"/></Shape>
+	    <String CONTENT="Synagogen in Riga in Brandt gesetzt. Ich kann unter Eid aussagen, dass"
+                    HPOS="298"
+                    VPOS="1180"
+                    WIDTH="2088"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bb58d34"
+                    TAGREFS="LT3625"
+                    BASELINE="298 1265 2330 1282" 
+                    HPOS="295"
+                    VPOS="1221"
+                    WIDTH="2035"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="298 1265 295 1300 2325 1309 2330 1282 2327 1239 298 1221 298 1265"/></Shape>
+	    <String CONTENT="viele Rabbiner, Kantore, Tempeldiener und in der Nachbarschaft der Sy-"
+                    HPOS="295"
+                    VPOS="1221"
+                    WIDTH="2035"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae4727f1"
+                    TAGREFS="LT3625"
+                    BASELINE="298 1323 2380 1332" 
+                    HPOS="295"
+                    VPOS="1282"
+                    WIDTH="2085"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="298 1323 295 1347 2374 1367 2380 1332 2377 1294 298 1282 298 1323"/></Shape>
+	    <String CONTENT="nagogen lebende jüdische Familien in die brennenden Synagogen getrie-"
+                    HPOS="295"
+                    VPOS="1282"
+                    WIDTH="2085"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ecdf59a"
+                    TAGREFS="LT3625"
+                    BASELINE="298 1373 2354 1385" 
+                    HPOS="295"
+                    VPOS="1326"
+                    WIDTH="2059"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="298 1373 295 1396 2348 1417 2354 1385 2351 1341 298 1326 298 1373"/></Shape>
+	    <String CONTENT="ben wurden, dort erstickten und bei lebendigem Leibe verbrannten. Kurz"
+                    HPOS="295"
+                    VPOS="1326"
+                    WIDTH="2059"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74e89176"
+                    TAGREFS="LT3625"
+                    BASELINE="298 1420 2228 1434" 
+                    HPOS="295"
+                    VPOS="1376"
+                    WIDTH="1933"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="298 1420 295 1443 2222 1458 2228 1434 2225 1396 298 1376 298 1420"/></Shape>
+	    <String CONTENT="darnach begannen Massenverhaftungen unter jüdischer Bevölkerung."
+                    HPOS="295"
+                    VPOS="1376"
+                    WIDTH="1933"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14d1f1c5"
+                    TAGREFS="LT3625"
+                    BASELINE="298 1470 2325 1484" 
+                    HPOS="295"
+                    VPOS="1432"
+                    WIDTH="2030"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="298 1470 295 1493 2319 1510 2325 1484 2322 1443 298 1432 298 1470"/></Shape>
+	    <String CONTENT="3000-4000 Juden sind innerhalb kurzer Zeit verschwunden, es ist mir"
+                    HPOS="295"
+                    VPOS="1432"
+                    WIDTH="2030"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05eec662"
+                    TAGREFS="LT3625"
+                    BASELINE="295 1525 2319 1537" 
+                    HPOS="292"
+                    VPOS="1487"
+                    WIDTH="2027"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="295 1525 292 1554 2313 1557 2319 1537 2316 1490 295 1487 295 1525"/></Shape>
+	    <String CONTENT="nicht bekannt was mit diesen Menschen geschah. Alle in Freiheit ge-"
+                    HPOS="292"
+                    VPOS="1487"
+                    WIDTH="2027"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_865bf1ed"
+                    TAGREFS="LT3625"
+                    BASELINE="292 1572 2316 1583" 
+                    HPOS="289"
+                    VPOS="1534"
+                    WIDTH="2027"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="292 1572 289 1595 2310 1619 2316 1583 2313 1540 292 1534 292 1572"/></Shape>
+	    <String CONTENT="bliebenen Juden mussten sich täglich auf der Praefektur melden und"
+                    HPOS="289"
+                    VPOS="1534"
+                    WIDTH="2027"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc4edbca"
+                    TAGREFS="LT3625"
+                    BASELINE="292 1621 2286 1642" 
+                    HPOS="289"
+                    VPOS="1583"
+                    WIDTH="1997"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="292 1621 289 1642 2281 1662 2286 1642 2284 1595 292 1583 292 1621"/></Shape>
+	    <String CONTENT="wurden zur Arbeit geschickt, bei der sie natürlich aufs ärgste ge-"
+                    HPOS="289"
+                    VPOS="1583"
+                    WIDTH="1997"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_910fe692"
+                    TAGREFS="LT3625"
+                    BASELINE="292 1674 2263 1692" 
+                    HPOS="289"
+                    VPOS="1636"
+                    WIDTH="1974"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="292 1674 289 1700 2257 1712 2263 1692 2260 1645 292 1636 292 1674"/></Shape>
+	    <String CONTENT="peinigt wurden. Anfang September liess der Praefekt Stieglitz ein"
+                    HPOS="289"
+                    VPOS="1636"
+                    WIDTH="1974"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_034057b1"
+                    TAGREFS="LT3625"
+                    BASELINE="292 1724 2295 1738" 
+                    HPOS="289"
+                    VPOS="1683"
+                    WIDTH="2006"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="292 1724 289 1744 2289 1771 2295 1738 2292 1695 292 1683 292 1724"/></Shape>
+	    <String CONTENT="repatriierter Deutscher der nach Lettland zurückkahm alle jüdischen"
+                    HPOS="289"
+                    VPOS="1683"
+                    WIDTH="2006"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f480f1a"
+                    TAGREFS="LT3625"
+                    BASELINE="295 1768 2263 1788" 
+                    HPOS="292"
+                    VPOS="1727"
+                    WIDTH="1971"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="295 1768 292 1797 2257 1811 2263 1788 2260 1750 295 1727 295 1768"/></Shape>
+	    <String CONTENT="führenden Männer zu sich zu holen und forderte sie auf ein jüdisches"
+                    HPOS="292"
+                    VPOS="1727"
+                    WIDTH="1971"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25bcb57e"
+                    TAGREFS="LT3625"
+                    BASELINE="286 1817 2248 1841" 
+                    HPOS="283"
+                    VPOS="1776"
+                    WIDTH="1965"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="286 1817 283 1847 2243 1873 2248 1841 2248 1797 286 1776 286 1817"/></Shape>
+	    <String CONTENT="Komitee zu bilden. Mitglieder wurden Rechtsanwalt Dr. Eljachow,"
+                    HPOS="283"
+                    VPOS="1776"
+                    WIDTH="1965"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6590c092"
+                    TAGREFS="LT3625"
+                    BASELINE="289 1870 2260 1887" 
+                    HPOS="286"
+                    VPOS="1829"
+                    WIDTH="1974"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="289 1870 286 1893 365 1911 368 1911 558 1899 663 1914 2254 1917 2260 1887 2257 1844 289 1829 289 1870"/></Shape>
+	    <String CONTENT="Dr. Minz 1, Kaugert, Winzker, Dr. Blumfeld. Deren Aufgabe war: für"
+                    HPOS="286"
+                    VPOS="1829"
+                    WIDTH="1974"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1f83120"
+                    TAGREFS="LT3625"
+                    BASELINE="286 1923 2316 1940" 
+                    HPOS="283"
+                    VPOS="1887"
+                    WIDTH="2033"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="286 1923 283 1952 2310 1972 2316 1940 2316 1899 286 1887 286 1923"/></Shape>
+	    <String CONTENT="die Umsiedlung der Juden Rigas in das Arbeiterviertel Letgaler Vor-"
+                    HPOS="283"
+                    VPOS="1887"
+                    WIDTH="2033"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c016723"
+                    TAGREFS="LT3625"
+                    BASELINE="289 1969 2310 1990" 
+                    HPOS="286"
+                    VPOS="1931"
+                    WIDTH="2024"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="289 1969 286 1998 2304 2025 2310 1990 2307 1946 289 1931 289 1969"/></Shape>
+	    <String CONTENT="stadt zu sorgen, einem Viertel in dem ursprünglich 3000-4000 Arbei-"
+                    HPOS="286"
+                    VPOS="1931"
+                    WIDTH="2024"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_679c12af"
+                    TAGREFS="LT3625"
+                    BASELINE="292 2025 2310 2039" 
+                    HPOS="289"
+                    VPOS="1987"
+                    WIDTH="2021"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="292 2025 289 2048 2304 2063 2310 2039 2307 2001 292 1987 292 2025"/></Shape>
+	    <String CONTENT="ter gesiedelt hatten. Auf dieser engen Fläche, in den kleinen nied-"
+                    HPOS="289"
+                    VPOS="1987"
+                    WIDTH="2021"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6668c92"
+                    TAGREFS="LT3625"
+                    BASELINE="286 2074 2278 2092" 
+                    HPOS="283"
+                    VPOS="2034"
+                    WIDTH="1995"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="286 2074 283 2098 2272 2115 2278 2092 2275 2054 286 2034 286 2074"/></Shape>
+	    <String CONTENT="rigen Räumen mussten 30.000-40.000 Menschen Unterkunft finden. Un-"
+                    HPOS="283"
+                    VPOS="2034"
+                    WIDTH="1995"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0648980"
+                    TAGREFS="LT3625"
+                    BASELINE="292 2127 2248 2142" 
+                    HPOS="289"
+                    VPOS="2086"
+                    WIDTH="1959"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="292 2127 289 2148 2243 2171 2248 2142 2246 2104 292 2086 292 2127"/></Shape>
+	    <String CONTENT="sere Wohnungen mussten wird den Arbeitervierteln ausgesie-"
+                    HPOS="289"
+                    VPOS="2086"
+                    WIDTH="1959"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3eef48"
+                    TAGREFS="LT3625"
+                    BASELINE="292 2174 2234 2194" 
+                    HPOS="289"
+                    VPOS="2136"
+                    WIDTH="1945"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="292 2174 289 2200 2228 2224 2234 2194 2231 2156 292 2136 292 2174"/></Shape>
+	    <String CONTENT="delten unentgeltlich übergeben, durften nur das notdürftigste an"
+                    HPOS="289"
+                    VPOS="2136"
+                    WIDTH="1945"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1e83248"
+                    TAGREFS="LT3625"
+                    BASELINE="286 2221 2281 2241" 
+                    HPOS="283"
+                    VPOS="2177"
+                    WIDTH="1998"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="286 2221 283 2247 2275 2267 2281 2241 2281 2203 286 2177 286 2221"/></Shape>
+	    <String CONTENT="Handgepäck mitnehmen; eine besondere Bewilligung war schon notwen-"
+                    HPOS="283"
+                    VPOS="2177"
+                    WIDTH="1998"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fbecf47"
+                    TAGREFS="LT3625"
+                    BASELINE="283 2273 2304 2297" 
+                    HPOS="280"
+                    VPOS="2226"
+                    WIDTH="2024"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="283 2273 280 2294 2298 2317 2304 2297 2304 2256 283 2226 283 2273"/></Shape>
+	    <String CONTENT="dig, wenn man z.B. einen Schrank mitnehmen wollte. War es ein bes-"
+                    HPOS="280"
+                    VPOS="2226"
+                    WIDTH="2024"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caedef26"
+                    TAGREFS="LT3625"
+                    BASELINE="283 2323 2301 2346" 
+                    HPOS="280"
+                    VPOS="2285"
+                    WIDTH="2021"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="283 2323 280 2346 2295 2370 2301 2346 2298 2308 283 2285 283 2323"/></Shape>
+	    <String CONTENT="seres Möbelstück, wo wurde die Erlaubnis nicht erteilt. Die Umsied-"
+                    HPOS="280"
+                    VPOS="2285"
+                    WIDTH="2021"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ccf0b8"
+                    TAGREFS="LT3625"
+                    BASELINE="286 2373 2307 2393" 
+                    HPOS="283"
+                    VPOS="2329"
+                    WIDTH="2024"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="286 2373 283 2396 2301 2425 2307 2393 2304 2352 286 2329 286 2373"/></Shape>
+	    <String CONTENT="lung musste bis zum 15.X. durchgeführt werden, das Ghetto wurde um-"
+                    HPOS="283"
+                    VPOS="2329"
+                    WIDTH="2024"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c28aa81b"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2422 2310 2446" 
+                    HPOS="274"
+                    VPOS="2378"
+                    WIDTH="2036"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="277 2422 274 2449 2304 2469 2310 2446 2307 2408 277 2378 277 2422"/></Shape>
+	    <String CONTENT="zaunt, von lettischer SS umstellt, die Juden waren abgesondert und"
+                    HPOS="274"
+                    VPOS="2378"
+                    WIDTH="2036"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_737ef2b9"
+                    TAGREFS="LT3625"
+                    BASELINE="286 2475 1371 2484" 
+                    HPOS="283"
+                    VPOS="2434"
+                    WIDTH="1088"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="286 2475 283 2501 1365 2516 1371 2484 1368 2446 286 2434 286 2475"/></Shape>
+	    <String CONTENT="es beginnt die Tragödie des Ghettos."
+                    HPOS="283"
+                    VPOS="2434"
+                    WIDTH="1088"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d9f9e9d"
+                    TAGREFS="LT3625"
+                    BASELINE="280 2519 2336 2545" 
+                    HPOS="277"
+                    VPOS="2478"
+                    WIDTH="2059"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1128 2484 1099 2484 1046 2489 1000 2492 280 2478 280 2519 277 2542 2330 2568 2336 2545 2336 2510 2184 2510 2175 2507 2102 2487 2099 2487 2096 2487 2009 2504 1997 2504 1988 2504 1886 2484 1883 2484 1769 2498 1751 2501 1737 2498 1655 2481 1652 2481 1482 2495 1438 2498 1430 2495 1412 2481 1409 2481 1406 2481 1403 2481 1260 2492 1204 2495 1175 2489 1143 2484 1128 2484"/></Shape>
+	    <String CONTENT="Schon in den ersten Tagen wurden viele Juden, die sich dem Zaune nur"
+                    HPOS="277"
+                    VPOS="2478"
+                    WIDTH="2059"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b45fff5"
+                    TAGREFS="LT3625"
+                    BASELINE="280 2574 2360 2595" 
+                    HPOS="277"
+                    VPOS="2527"
+                    WIDTH="2083"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="280 2574 277 2598 2354 2618 2360 2595 2360 2551 280 2527 280 2574"/></Shape>
+	    <String CONTENT="näherten &quot;auf der Flucht erschossen&quot; In angeblich schlecht verdunkel-"
+                    HPOS="277"
+                    VPOS="2527"
+                    WIDTH="2083"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c44bdf2e"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2621 2330 2644" 
+                    HPOS="274"
+                    VPOS="2583"
+                    WIDTH="2056"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="277 2621 274 2644 2325 2674 2330 2644 2327 2603 277 2583 277 2621"/></Shape>
+	    <String CONTENT="te Fenster wurde gefeuert, viele Menschen sind so ums Leben gebracht"
+                    HPOS="274"
+                    VPOS="2583"
+                    WIDTH="2056"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29e2b396"
+                    TAGREFS="LT3625"
+                    BASELINE="274 2674 2307 2700" 
+                    HPOS="271"
+                    VPOS="2633"
+                    WIDTH="2036"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="274 2674 271 2700 2301 2729 2307 2700 2304 2656 274 2633 274 2674"/></Shape>
+	    <String CONTENT="worden. Arbeitskommandos gingen täglich hinaus. Wer es nur halbwegs"
+                    HPOS="271"
+                    VPOS="2633"
+                    WIDTH="2036"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90678b3c"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2726 2278 2747" 
+                    HPOS="274"
+                    VPOS="2679"
+                    WIDTH="2004"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="277 2726 274 2752 2272 2767 2278 2747 2275 2706 277 2679 277 2726"/></Shape>
+	    <String CONTENT="konnte, der versuchte sich zu drücken, weil die Heimkehr ins Ghetto"
+                    HPOS="274"
+                    VPOS="2679"
+                    WIDTH="2004"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10b3ba3e"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2773 2333 2799" 
+                    HPOS="274"
+                    VPOS="2735"
+                    WIDTH="2059"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="277 2773 274 2799 2327 2828 2333 2799 2333 2758 277 2735 277 2773"/></Shape>
+	    <String CONTENT="lebensgefährlich war. Am Tore wurde man kontrolliert, Durchsuchungen"
+                    HPOS="274"
+                    VPOS="2735"
+                    WIDTH="2059"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3f0160c"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2826 2336 2842" 
+                    HPOS="271"
+                    VPOS="2779"
+                    WIDTH="2062"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="274 2823 271 2855 2327 2878 2333 2840 2333 2802 274 2779 274 2823"/></Shape>
+	    <String CONTENT="wurden vorgenommen, und meistfurchtbar verprügelt, wobei Kinder und"
+                    HPOS="271"
+                    VPOS="2779"
+                    WIDTH="2062"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb4d94cf"
+                    TAGREFS="LT3625"
+                    BASELINE="280 2872 2275 2902" 
+                    HPOS="277"
+                    VPOS="2828"
+                    WIDTH="1998"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="280 2872 277 2904 2269 2925 2275 2902 2272 2861 280 2828 280 2872"/></Shape>
+	    <String CONTENT="Frauen nicht geschont wurden. Die Versorgung von Lebensmitteln und"
+                    HPOS="277"
+                    VPOS="2828"
+                    WIDTH="1998"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d35e184a"
+                    TAGREFS="LT3625"
+                    BASELINE="271 2925 2386 2954" 
+                    HPOS="269"
+                    VPOS="2884"
+                    WIDTH="2117"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1734 2896 1705 2896 1699 2893 1696 2896 1579 2907 968 2902 950 2890 941 2884 938 2884 935 2884 932 2884 271 2884 271 2925 269 2948 2380 2980 2386 2954 2380 2902 2234 2916 1795 2913 1748 2896 1734 2896"/></Shape>
+	    <String CONTENT="Gebrauchsgegenständen wurde durch 14 Geschäfte vorgenommen, wobei aber"
+                    HPOS="269"
+                    VPOS="2884"
+                    WIDTH="2117"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_444a1952"
+                    TAGREFS="LT3625"
+                    BASELINE="277 2980 2357 2998" 
+                    HPOS="274"
+                    VPOS="2934"
+                    WIDTH="2083"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="277 2980 274 3004 2351 3033 2357 2998 2354 2960 277 2934 277 2980"/></Shape>
+	    <String CONTENT="die Zuteilung von Woche zu Woche knapper wurde. Den Sicherheitsdienst"
+                    HPOS="274"
+                    VPOS="2934"
+                    WIDTH="2083"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7a2f66c"
+                    TAGREFS="LT3625"
+                    BASELINE="271 3030 2330 3054" 
+                    HPOS="269"
+                    VPOS="2983"
+                    WIDTH="2061"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="271 3030 269 3051 2325 3086 2330 3054 2327 3013 271 2983 271 3030"/></Shape>
+	    <String CONTENT="besorgte jüdische Polizei. Am 18. November wurde verlautbart, dass am"
+                    HPOS="269"
+                    VPOS="2983"
+                    WIDTH="2061"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_585d8cb2"
+                    TAGREFS="LT3625"
+                    BASELINE="271 3074 2304 3103" 
+                    HPOS="269"
+                    VPOS="3033"
+                    WIDTH="2035"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="271 3074 269 3109 2298 3129 2304 3103 2301 3065 271 3033 271 3074"/></Shape>
+	    <String CONTENT="20. November das Ghetto evakuiert werde, alle würden in Arbeitslager"
+                    HPOS="269"
+                    VPOS="3033"
+                    WIDTH="2035"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0507e402"
+                    TAGREFS="LT3625"
+                    BASELINE="269 3127 2322 3156" 
+                    HPOS="266"
+                    VPOS="3089"
+                    WIDTH="2056"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="269 3127 266 3156 2316 3179 2322 3156 2319 3115 269 3089 269 3127"/></Shape>
+	    <String CONTENT="überführt. Auf die Frage Dr. Eljachows, was mit Alten und Kranken ge-"
+                    HPOS="266"
+                    VPOS="3089"
+                    WIDTH="2056"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79467f23"
+                    TAGREFS="LT3625"
+                    BASELINE="269 3179 2325 3208" 
+                    HPOS="266"
+                    VPOS="3135"
+                    WIDTH="2059"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="269 3179 266 3203 2319 3229 2325 3208 2322 3162 269 3135 269 3179"/></Shape>
+	    <String CONTENT="schehen werde, antwortete der S.A. Mann Schulze aufrichtig, wer nicht"
+                    HPOS="266"
+                    VPOS="3135"
+                    WIDTH="2059"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e51a0c75"
+                    TAGREFS="LT3625"
+                    BASELINE="266 3226 2237 3252" 
+                    HPOS="263"
+                    VPOS="3182"
+                    WIDTH="1974"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="266 3226 263 3258 2231 3276 2237 3252 2234 3217 266 3182 266 3226"/></Shape>
+	    <String CONTENT="marschieren könne, der werde erschossen. Es war erlaubt bis zu 20 kg"
+                    HPOS="263"
+                    VPOS="3182"
+                    WIDTH="1974"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85eb65f2"
+                    TAGREFS="LT3625"
+                    BASELINE="269 3276 2260 3302" 
+                    HPOS="266"
+                    VPOS="3238"
+                    WIDTH="1994"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="269 3276 266 3302 2254 3325 2260 3302 2257 3264 269 3238 269 3276"/></Shape>
+	    <String CONTENT="Gepäck mitzunehmen. Wir glaubten daran, dass wir tatsächlich in Ar-"
+                    HPOS="266"
+                    VPOS="3238"
+                    WIDTH="1994"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5224a43"
+                    TAGREFS="LT3625"
+                    BASELINE="269 3325 2295 3352" 
+                    HPOS="266"
+                    VPOS="3284"
+                    WIDTH="2029"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="269 3325 266 3352 2289 3378 2295 3352 2292 3308 269 3284 269 3325"/></Shape>
+	    <String CONTENT="beitslager gebracht werden. Am 20. November kamen lettische Arbeiter"
+                    HPOS="266"
+                    VPOS="3284"
+                    WIDTH="2029"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad41f2e8"
+                    TAGREFS="LT3625"
+                    BASELINE="266 3378 2322 3404" 
+                    HPOS="263"
+                    VPOS="3340"
+                    WIDTH="2059"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="266 3378 263 3407 1690 3442 1693 3442 1748 3436 1839 3428 1860 3439 1865 3445 1868 3445 1871 3445 2093 3448 2096 3448 2149 3445 2286 3433 2310 3448 2322 3404 2322 3363 266 3340 266 3378"/></Shape>
+	    <String CONTENT="und sonderten innerhalb des Ghettos ein kleines Viertel ab. Zunächst"
+                    HPOS="263"
+                    VPOS="3340"
+                    WIDTH="2059"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390404-US_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2280"
+          HEIGHT="3222"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2280"
+                  HEIGHT="3222">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_341909b1"
+                    TAGREFS="LT3626"
+                    BASELINE="349 2134 491 2134" 
+                    HPOS="349"
+                    VPOS="2102"
+                    WIDTH="142"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="349 2134 349 2161 491 2161 491 2134 491 2102 349 2102 349 2134"/></Shape>
+	    <String CONTENT="Sir:"
+                    HPOS="349"
+                    VPOS="2102"
+                    WIDTH="142"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fc90c62"
+                    TAGREFS="LT3626"
+                    BASELINE="488 2228 1925 2239" 
+                    HPOS="486"
+                    VPOS="2193"
+                    WIDTH="1439"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="488 2228 486 2255 499 2266 502 2266 504 2266 507 2266 805 2255 843 2268 845 2268 848 2268 1922 2260 1925 2239 1925 2204 488 2193 488 2228"/></Shape>
+	    <String CONTENT="I have the honor to refer to my telegram of March"
+                    HPOS="486"
+                    VPOS="2193"
+                    WIDTH="1439"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffbc006a"
+                    TAGREFS="LT3626"
+                    BASELINE="346 2330 1861 2330" 
+                    HPOS="346"
+                    VPOS="2298"
+                    WIDTH="1515"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="346 2330 346 2354 1858 2357 1861 2330 1861 2298 346 2298 346 2330"/></Shape>
+	    <String CONTENT="25, 1939, in which it was reported that Professor A."
+                    HPOS="346"
+                    VPOS="2298"
+                    WIDTH="1515"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54301a1f"
+                    TAGREFS="LT3626"
+                    BASELINE="346 2427 1904 2427" 
+                    HPOS="346"
+                    VPOS="2395"
+                    WIDTH="1558"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="346 2427 346 2454 1904 2454 1904 2427 1904 2395 346 2395 346 2427"/></Shape>
+	    <String CONTENT="Kantardjieff, leader of a movement called &quot;Workers of"
+                    HPOS="346"
+                    VPOS="2395"
+                    WIDTH="1558"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aba9a6ea"
+                    TAGREFS="LT3626"
+                    BASELINE="346 2521 1957 2521" 
+                    HPOS="346"
+                    VPOS="2488"
+                    WIDTH="1611"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="346 2521 346 2545 563 2561 566 2561 719 2548 832 2561 835 2561 837 2561 888 2548 1248 2548 1305 2561 1307 2561 1310 2561 1957 2545 1957 2521 1957 2488 346 2488 346 2521"/></Shape>
+	    <String CONTENT="New Bulgaria&quot;, was interned in a provincial town. This"
+                    HPOS="346"
+                    VPOS="2488"
+                    WIDTH="1611"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_849894d0"
+                    TAGREFS="LT3626"
+                    BASELINE="349 2628 1898 2615" 
+                    HPOS="346"
+                    VPOS="2582"
+                    WIDTH="1552"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="349 2628 349 2650 1895 2636 1898 2615 1890 2582 346 2593 349 2628"/></Shape>
+	    <String CONTENT="grouping, which has existed for over two years, is or-"
+                    HPOS="346"
+                    VPOS="2582"
+                    WIDTH="1552"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bf234ff"
+                    TAGREFS="LT3626"
+                    BASELINE="351 2719 2016 2711" 
+                    HPOS="349"
+                    VPOS="2679"
+                    WIDTH="1667"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="351 2719 351 2744 2016 2736 2016 2711 2008 2679 349 2685 351 2719"/></Shape>
+	    <String CONTENT="ganized along nationalistic and totalitarian lines with a"
+                    HPOS="349"
+                    VPOS="2679"
+                    WIDTH="1667"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6e18b39"
+                    TAGREFS="LT3626"
+                    BASELINE="351 2819 1989 2811" 
+                    HPOS="349"
+                    VPOS="2776"
+                    WIDTH="1640"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="351 2819 351 2840 1987 2832 1989 2811 1981 2776 349 2781 351 2819"/></Shape>
+	    <String CONTENT="strong emphasis on pure race and anti-Semitism. It came"
+                    HPOS="349"
+                    VPOS="2776"
+                    WIDTH="1640"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8733912"
+                    TAGREFS="LT3626"
+                    BASELINE="351 2913 2014 2902" 
+                    HPOS="349"
+                    VPOS="2870"
+                    WIDTH="1665"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="351 2913 351 2934 703 2948 706 2948 2014 2929 2014 2902 2006 2870 349 2878 351 2913"/></Shape>
+	    <String CONTENT="into brief prominence in the summer of 1937 (see despatch"
+                    HPOS="349"
+                    VPOS="2870"
+                    WIDTH="1665"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18bf0e9c"
+                    TAGREFS="LT3626"
+                    BASELINE="351 3007 1989 2999" 
+                    HPOS="349"
+                    VPOS="2966"
+                    WIDTH="1640"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="351 3007 351 3034 1987 3025 1989 2999 1981 2966 349 2972 351 3007"/></Shape>
+	    <String CONTENT="No. 416, of August 11, 1937), and again last spring when"
+                    HPOS="349"
+                    VPOS="2966"
+                    WIDTH="1640"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85a09284"
+                    TAGREFS="LT3626"
+                    BASELINE="1750 3095 2011 3095" 
+                    HPOS="1750"
+                    VPOS="3063"
+                    WIDTH="261"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1750 3095 1750 3122 2011 3122 2011 3095 2011 3063 1750 3063 1750 3095"/></Shape>
+	    <String CONTENT="its....."
+                    HPOS="1750"
+                    VPOS="3063"
+                    WIDTH="261"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

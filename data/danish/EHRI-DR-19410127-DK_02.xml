@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19410127-DK_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2531"
+          HEIGHT="4056"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2531"
+                  HEIGHT="4056">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a5d3725c"
+                    TAGREFS="LT3627"
+                    BASELINE="1025 169 1211 165" 
+                    HPOS="1021"
+                    VPOS="104"
+                    WIDTH="190"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1025 169 1025 212 1211 196 1211 165 1201 104 1021 114 1025 169"/></Shape>
+	    <String CONTENT="- 2 -"
+                    HPOS="1021"
+                    VPOS="104"
+                    WIDTH="190"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a49e2ea"
+                    TAGREFS="LT3627"
+                    BASELINE="517 338 2202 290" 
+                    HPOS="514"
+                    VPOS="216"
+                    WIDTH="1688"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="517 338 517 368 2202 334 2202 290 2182 216 2172 229 1962 219 1833 216 1830 216 1786 223 1698 243 1624 229 1593 223 1590 223 1495 229 1218 256 1130 239 1113 236 1109 236 1106 236 1096 239 1035 260 751 253 747 253 625 273 514 253 517 338"/></Shape>
+	    <String CONTENT="Man kunde ikke undlade at mærke paa den af Legionærerne"
+                    HPOS="514"
+                    VPOS="216"
+                    WIDTH="1688"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c5707cc"
+                    TAGREFS="LT3627"
+                    BASELINE="284 449 2199 392" 
+                    HPOS="280"
+                    VPOS="331"
+                    WIDTH="1919"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="284 449 284 486 2196 422 2199 392 2189 331 280 395 284 449"/></Shape>
+	    <String CONTENT="kontrollerede Presse, at der gjordes Propaganda for Revolution,"
+                    HPOS="280"
+                    VPOS="331"
+                    WIDTH="1919"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ebfa346"
+                    TAGREFS="LT3627"
+                    BASELINE="287 550 2131 493" 
+                    HPOS="284"
+                    VPOS="446"
+                    WIDTH="1847"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="287 550 287 581 2131 520 2131 493 2121 446 284 500 287 550"/></Shape>
+	    <String CONTENT="d.v.s. yderligere Udplyndring af de besiddende Klasser og da"
+                    HPOS="284"
+                    VPOS="446"
+                    WIDTH="1847"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ac756c2"
+                    TAGREFS="LT3627"
+                    BASELINE="290 648 1732 605" 
+                    HPOS="287"
+                    VPOS="537"
+                    WIDTH="1445"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="290 648 290 692 1732 642 1732 605 1718 537 1681 554 1563 544 1526 540 1522 540 1519 540 1495 544 1431 561 1370 550 1343 547 1339 547 1336 547 1333 547 1326 550 1299 567 1221 557 1174 550 1170 550 1167 550 1147 561 1113 577 903 581 879 571 859 561 856 561 852 561 849 561 845 561 845 564 842 564 839 571 825 584 785 574 744 564 741 564 737 564 734 564 730 564 717 577 703 588 287 591 290 648"/></Shape>
+	    <String CONTENT="navnlig af Jøderne samt nytilkommet Frimurerne."
+                    HPOS="287"
+                    VPOS="537"
+                    WIDTH="1445"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_664aca95"
+                    TAGREFS="LT3627"
+                    BASELINE="527 740 2270 686" 
+                    HPOS="524"
+                    VPOS="638"
+                    WIDTH="1746"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="527 740 527 774 2270 730 2270 686 2260 638 1292 648 524 689 527 740"/></Shape>
+	    <String CONTENT="Da det aabenbart sluttelig var gaaet op for Statsføreren,"
+                    HPOS="524"
+                    VPOS="638"
+                    WIDTH="1746"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2dfe4a97"
+                    TAGREFS="LT3627"
+                    BASELINE="301 851 2199 790" 
+                    HPOS="297"
+                    VPOS="730"
+                    WIDTH="1902"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="301 851 301 895 2199 817 2199 790 2189 743 2033 746 2030 746 1989 730 1986 730 1982 730 1979 730 1925 750 1921 750 1877 730 1874 730 1871 730 1867 730 1779 753 1766 757 1759 753 1739 743 1735 743 1732 743 1630 760 1614 760 1610 760 1563 740 1559 740 1556 740 1553 740 1461 763 1444 767 1417 763 1272 750 1268 750 1265 750 1262 750 1231 770 1224 774 1211 770 1140 753 1136 753 1133 753 1130 753 1045 777 1025 780 1008 777 927 760 923 760 754 784 707 794 297 797 301 851"/></Shape>
+	    <String CONTENT="at den samlede Situation, under hvilken han regerede med nogle"
+                    HPOS="297"
+                    VPOS="730"
+                    WIDTH="1902"
+                    HEIGHT="165"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_596cd062"
+                    TAGREFS="LT3627"
+                    BASELINE="301 953 2196 888" 
+                    HPOS="297"
+                    VPOS="845"
+                    WIDTH="1899"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="301 953 301 983 2196 926 2196 888 2185 845 1383 855 1045 882 984 885 971 885 893 872 889 872 886 872 883 872 859 888 852 888 788 875 785 875 781 875 751 892 747 892 744 892 693 878 690 878 686 878 683 878 649 895 646 895 605 882 602 882 598 882 297 905 301 953"/></Shape>
+	    <String CONTENT="Ministre i een Retning, d.v.s. paa Basis af det bestaaende for"
+                    HPOS="297"
+                    VPOS="845"
+                    WIDTH="1899"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a978e11"
+                    TAGREFS="LT3627"
+                    BASELINE="301 1054 2175 993" 
+                    HPOS="279"
+                    VPOS="964"
+                    WIDTH="1897"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="301 1084 2175 1041 2175 993 2176 964 279 1022 301 1054"/></Shape>
+	    <String CONTENT="Evolution, mens Viceministeren, Legionærkommandant Horia Sima"
+                    HPOS="279"
+                    VPOS="964"
+                    WIDTH="1897"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c2d44be"
+                    
+                    BASELINE="847 984 1050 984" 
+                    HPOS="845"
+                    VPOS="926"
+                    WIDTH="203"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="981 929 947 929 933 929 845 943 845 983 845 1014 1048 1007 1048 983 1048 939 994 926 981 929"/></Shape>
+	    <String CONTENT="stats"
+                    HPOS="845"
+                    VPOS="926"
+                    WIDTH="203"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b9c53f1"
+                    TAGREFS="LT3627"
+                    BASELINE="307 1152 2348 1098" 
+                    HPOS="304"
+                    VPOS="1030"
+                    WIDTH="2044"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="307 1152 307 1183 1580 1166 1854 1142 1857 1142 2070 1152 2074 1152 2077 1152 2080 1152 2080 1149 2097 1135 2216 1149 2219 1149 2348 1125 2348 1098 2341 1051 2233 1030 2229 1030 1976 1037 1972 1037 1969 1037 1969 1041 1965 1041 1952 1057 1333 1057 1329 1057 1326 1057 1323 1057 1299 1078 1052 1081 906 1068 903 1068 900 1068 842 1084 720 1071 717 1071 713 1071 710 1071 710 1074 690 1091 598 1074 595 1074 592 1074 588 1074 551 1098 304 1101 307 1152"/></Shape>
+	    <String CONTENT="med andre Ministre regerede i Retning ad Revolution of øjeblikkelig"
+                    HPOS="304"
+                    VPOS="1030"
+                    WIDTH="2044"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_812fbcac"
+                    TAGREFS="LT3627"
+                    BASELINE="311 1253 2246 1196" 
+                    HPOS="307"
+                    VPOS="1139"
+                    WIDTH="1939"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="311 1253 311 1281 419 1297 422 1297 734 1287 737 1287 741 1287 764 1270 768 1270 801 1270 988 1281 991 1281 1109 1264 1140 1260 1160 1264 1218 1274 1221 1274 1224 1274 1228 1274 1241 1260 1248 1253 2246 1237 2246 1196 2240 1152 2036 1139 2033 1139 2030 1139 2026 1139 2006 1155 1992 1155 1566 1152 1563 1152 1353 1172 1323 1176 1312 1176 1255 1162 1251 1162 1248 1162 1218 1176 1211 1179 1177 1179 1021 1169 1018 1169 1015 1169 1011 1169 991 1183 984 1186 964 1183 876 1172 872 1172 785 1189 761 1193 751 1189 720 1179 717 1179 713 1179 307 1199 311 1253"/></Shape>
+	    <String CONTENT="Udplyndring af det bestaaende, var uholdbar, fremkom som første"
+                    HPOS="307"
+                    VPOS="1139"
+                    WIDTH="1939"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71fc0309"
+                    TAGREFS="LT3627"
+                    BASELINE="321 1358 2307 1297" 
+                    HPOS="318"
+                    VPOS="1240"
+                    WIDTH="1989"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="321 1358 321 1385 981 1382 1170 1362 1204 1358 1221 1358 1309 1372 1312 1372 1316 1372 1319 1372 1343 1355 1350 1355 1421 1368 1424 1368 1729 1345 1776 1341 1800 1341 1972 1352 1976 1352 2304 1324 2307 1297 2297 1240 1813 1260 1796 1257 1759 1243 1756 1243 1752 1243 1583 1264 1505 1270 1421 1267 1204 1260 1201 1260 1197 1260 1150 1277 1136 1281 1099 1281 967 1270 964 1270 960 1270 957 1270 957 1274 944 1284 940 1287 933 1284 876 1270 872 1270 869 1270 866 1270 808 1291 798 1291 781 1291 653 1277 649 1277 318 1304 321 1358"/></Shape>
+	    <String CONTENT="alvorlige Modforholdsregel fra Statsførerens Side den 21. d.M. et"
+                    HPOS="318"
+                    VPOS="1240"
+                    WIDTH="1989"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ebb757e"
+                    TAGREFS="LT3627"
+                    BASELINE="314 1456 2304 1392" 
+                    HPOS="311"
+                    VPOS="1341"
+                    WIDTH="1993"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="314 1456 314 1487 2304 1426 2304 1392 2297 1348 1901 1341 1898 1341 1894 1341 1844 1358 1840 1358 1688 1348 1685 1348 1681 1348 1678 1348 1651 1365 1647 1365 1627 1365 1390 1358 1387 1358 1272 1375 1245 1379 1191 1379 937 1372 933 1372 930 1372 927 1372 910 1385 906 1389 893 1385 832 1375 829 1375 747 1392 720 1395 697 1392 622 1382 619 1382 311 1402 314 1456"/></Shape>
+	    <String CONTENT="Dekret, ved hvilket Legionærernes Hovedindsats, den i min ovenfor"
+                    HPOS="311"
+                    VPOS="1341"
+                    WIDTH="1993"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45933061"
+                    TAGREFS="LT3627"
+                    BASELINE="328 1561 2179 1507" 
+                    HPOS="324"
+                    VPOS="1456"
+                    WIDTH="1855"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="328 1561 328 1588 2179 1551 2179 1507 2172 1460 1597 1456 1593 1456 1590 1456 1539 1477 703 1483 324 1510 328 1561"/></Shape>
+	    <String CONTENT="citerede ærbødige Beretning omtalte Rumæniseringsinstitution,"
+                    HPOS="324"
+                    VPOS="1456"
+                    WIDTH="1855"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6b00d16"
+                    TAGREFS="LT3627"
+                    BASELINE="331 1656 2304 1602" 
+                    HPOS="328"
+                    VPOS="1537"
+                    WIDTH="1976"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="331 1656 331 1690 2300 1635 2304 1602 2300 1554 2273 1537 2270 1537 2267 1537 2263 1537 2260 1537 2256 1537 2256 1541 2240 1554 1756 1551 1752 1551 1749 1551 1678 1571 1441 1558 1438 1558 1434 1558 1383 1581 1103 1585 1076 1568 1072 1568 1069 1568 1065 1568 1062 1568 1059 1568 1025 1588 852 1575 849 1575 845 1575 842 1575 815 1595 737 1578 734 1578 730 1578 653 1598 575 1581 571 1581 328 1608 331 1656"/></Shape>
+	    <String CONTENT="afskaffedes, samtidig med at en lang Række for Staten betydnings-"
+                    HPOS="328"
+                    VPOS="1537"
+                    WIDTH="1976"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f57bf870"
+                    TAGREFS="LT3627"
+                    BASELINE="331 1757 1407 1723" 
+                    HPOS="328"
+                    VPOS="1669"
+                    WIDTH="1079"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="331 1757 331 1788 416 1804 419 1804 1407 1757 1407 1723 1397 1679 1035 1686 1025 1683 998 1669 994 1669 991 1669 988 1669 937 1683 916 1690 903 1683 876 1673 872 1673 869 1673 791 1686 724 1696 615 1686 544 1683 541 1683 507 1690 429 1706 328 1693 331 1757"/></Shape>
+	    <String CONTENT="fulde Foretagender militariseredes."
+                    HPOS="328"
+                    VPOS="1669"
+                    WIDTH="1079"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8ff2d33"
+                    TAGREFS="LT3627"
+                    BASELINE="568 1852 2297 1808" 
+                    HPOS="565"
+                    VPOS="1754"
+                    WIDTH="1732"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="568 1852 568 1882 815 1896 818 1896 1062 1875 1099 1872 1120 1872 1228 1886 1231 1886 1336 1869 1367 1862 2297 1848 2297 1808 2287 1754 565 1804 568 1852"/></Shape>
+	    <String CONTENT="Svaret paa denne forholdsvis fredelige Handling blev, at"
+                    HPOS="565"
+                    VPOS="1754"
+                    WIDTH="1732"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94d17515"
+                    TAGREFS="LT3627"
+                    BASELINE="331 1963 2361 1906" 
+                    HPOS="328"
+                    VPOS="1845"
+                    WIDTH="2033"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="331 1963 331 1987 2361 1936 2361 1906 2355 1855 2036 1845 2033 1845 2030 1845 1979 1865 1972 1865 1962 1865 1881 1848 1877 1848 1874 1848 1820 1869 1817 1869 1762 1852 1759 1852 1756 1852 1752 1852 1749 1852 1722 1872 1718 1872 1691 1872 1441 1862 1438 1862 1434 1862 1397 1879 1394 1882 1380 1882 1282 1865 1279 1865 1174 1886 1157 1889 1130 1889 964 1875 960 1875 957 1875 920 1892 916 1896 886 1896 683 1882 680 1882 328 1909 331 1963"/></Shape>
+	    <String CONTENT="Legionærpartiet den 22. d.M. med 600 Mand besatte en Politikaserne,"
+                    HPOS="328"
+                    VPOS="1845"
+                    WIDTH="2033"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_289d8521"
+                    TAGREFS="LT3627"
+                    BASELINE="341 2058 2256 2007" 
+                    HPOS="338"
+                    VPOS="1960"
+                    WIDTH="1918"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="341 2058 341 2092 2256 2038 2256 2007 2246 1960 1103 1970 1099 1970 1096 1970 1072 1987 984 1973 981 1973 977 1973 927 1990 632 1984 629 1984 338 2007 341 2058"/></Shape>
+	    <String CONTENT="der er beliggende umiddelbart ved Siden af Udenrigsministeriet,"
+                    HPOS="338"
+                    VPOS="1960"
+                    WIDTH="1918"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8b46c04"
+                    TAGREFS="LT3627"
+                    BASELINE="341 2159 2365 2112" 
+                    HPOS="338"
+                    VPOS="2051"
+                    WIDTH="2027"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="341 2159 341 2207 1928 2156 1942 2156 2067 2169 2070 2169 2223 2149 2334 2163 2338 2163 2341 2163 2344 2163 2365 2146 2365 2112 2358 2068 2219 2051 2216 2051 1918 2075 1370 2071 1367 2071 1363 2071 1360 2071 1339 2088 629 2088 625 2088 622 2088 619 2088 595 2105 507 2092 504 2092 338 2112 341 2159"/></Shape>
+	    <String CONTENT="hvor Statsføreren har sit Bureau saavel som sin midlertidige Bolig."
+                    HPOS="338"
+                    VPOS="2051"
+                    WIDTH="2027"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38df3a91"
+                    TAGREFS="LT3627"
+                    BASELINE="345 2264 1187 2237" 
+                    HPOS="341"
+                    VPOS="2190"
+                    WIDTH="846"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="345 2264 345 2291 527 2308 531 2308 534 2308 538 2308 554 2291 561 2288 1187 2288 1187 2237 1180 2197 764 2190 761 2190 757 2190 720 2207 483 2200 480 2200 341 2220 345 2264"/></Shape>
+	    <String CONTENT="Dermed var Oprøret begyndt."
+                    HPOS="341"
+                    VPOS="2190"
+                    WIDTH="846"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e154da94"
+                    TAGREFS="LT3627"
+                    BASELINE="588 2359 2304 2308" 
+                    HPOS="585"
+                    VPOS="2261"
+                    WIDTH="1719"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="588 2359 588 2399 2300 2352 2304 2308 2294 2261 585 2305 588 2359"/></Shape>
+	    <String CONTENT="Det viste sig hurtigt, at Legionærerne var vel forsynede"
+                    HPOS="585"
+                    VPOS="2261"
+                    WIDTH="1719"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd7489de"
+                    TAGREFS="LT3627"
+                    BASELINE="351 2467 2256 2416" 
+                    HPOS="348"
+                    VPOS="2369"
+                    WIDTH="1908"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="351 2467 351 2491 1745 2474 1749 2474 1752 2474 1773 2457 1996 2467 1999 2467 2256 2440 2256 2416 2246 2369 348 2413 351 2467"/></Shape>
+	    <String CONTENT="med Geværer of Ammunition, samt at de havde forberedt Aktionen"
+                    HPOS="348"
+                    VPOS="2369"
+                    WIDTH="1908"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47f2b276"
+                    TAGREFS="LT3627"
+                    BASELINE="358 2568 2304 2514" 
+                    HPOS="355"
+                    VPOS="2470"
+                    WIDTH="1949"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="358 2568 358 2599 2304 2545 2304 2514 2294 2470 355 2511 358 2568"/></Shape>
+	    <String CONTENT="ved forud at have besat Huse, der var taget fra velhavende Jøder"
+                    HPOS="355"
+                    VPOS="2470"
+                    WIDTH="1949"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd8ed903"
+                    TAGREFS="LT3627"
+                    BASELINE="362 2670 2290 2622" 
+                    HPOS="358"
+                    VPOS="2558"
+                    WIDTH="1932"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="362 2670 362 2697 2290 2649 2290 2622 2287 2572 2267 2558 2263 2558 2260 2558 2256 2558 2253 2558 2250 2558 2250 2562 2233 2578 1921 2582 1891 2565 1888 2565 1884 2565 1881 2565 1877 2565 1874 2565 1874 2568 1871 2568 1857 2585 1857 2589 1661 2589 1641 2572 1637 2572 1634 2572 1630 2572 1627 2572 1586 2592 1583 2592 1563 2592 1417 2578 1414 2578 1333 2595 1316 2599 1268 2599 1059 2589 1055 2589 906 2605 869 2609 849 2605 771 2592 768 2592 358 2616 362 2670"/></Shape>
+	    <String CONTENT="i alle Bydele. Den af General Antonescu udkommanderede Garnison"
+                    HPOS="358"
+                    VPOS="2558"
+                    WIDTH="1932"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25298964"
+                    TAGREFS="LT3627"
+                    BASELINE="362 2771 2317 2724" 
+                    HPOS="358"
+                    VPOS="2676"
+                    WIDTH="1959"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="362 2771 362 2812 2317 2768 2317 2724 2307 2676 1607 2693 1593 2693 1488 2680 1485 2680 1194 2704 1180 2704 1174 2704 1062 2690 1059 2690 686 2714 646 2700 642 2700 639 2700 358 2724 362 2771"/></Shape>
+	    <String CONTENT="lykkedes det i sidste øjeblik at indtage Politikasernen, hvorfra"
+                    HPOS="358"
+                    VPOS="2676"
+                    WIDTH="1959"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33f52ef5"
+                    TAGREFS="LT3627"
+                    BASELINE="362 2876 2338 2832" 
+                    HPOS="358"
+                    VPOS="2771"
+                    WIDTH="1980"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="362 2876 362 2913 2338 2876 2338 2832 2331 2788 2226 2771 2223 2771 2138 2788 1732 2781 1729 2781 1593 2802 1573 2802 1536 2802 1279 2791 1275 2791 1272 2791 1268 2791 1248 2808 1245 2808 1228 2808 1130 2795 1126 2795 1123 2795 1120 2795 1120 2798 1106 2808 1103 2812 1082 2808 974 2798 971 2798 358 2822 362 2876"/></Shape>
+	    <String CONTENT="Legionærerne angreb Udenrigsministeriet med det Formaal at ihjæl-"
+                    HPOS="358"
+                    VPOS="2771"
+                    WIDTH="1980"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57c6a589"
+                    TAGREFS="LT3627"
+                    BASELINE="372 2974 856 2960" 
+                    HPOS="368"
+                    VPOS="2896"
+                    WIDTH="488"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="372 2974 372 3004 710 3018 713 3018 856 2994 856 2960 845 2916 727 2916 724 2913 707 2900 707 2896 703 2896 700 2896 697 2896 581 2910 487 2923 368 2910 372 2974"/></Shape>
+	    <String CONTENT="slaa Generalen."
+                    HPOS="368"
+                    VPOS="2896"
+                    WIDTH="488"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d67c894d"
+                    TAGREFS="LT3627"
+                    BASELINE="602 3065 2344 3038" 
+                    HPOS="598"
+                    VPOS="2974"
+                    WIDTH="1746"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="602 3065 602 3092 1448 3096 1451 3096 1969 3072 2114 3085 2118 3085 2344 3062 2344 3038 2334 2974 1468 3001 598 3001 602 3065"/></Shape>
+	    <String CONTENT="Det første Døgn søgte Militæret at undgaa Skydning aaben-"
+                    HPOS="598"
+                    VPOS="2974"
+                    WIDTH="1746"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a5381eb"
+                    TAGREFS="LT3627"
+                    BASELINE="372 3177 2351 3133" 
+                    HPOS="368"
+                    VPOS="3072"
+                    WIDTH="1983"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="372 3177 372 3204 2348 3173 2351 3133 2341 3082 1942 3092 1935 3092 1905 3072 1901 3072 1898 3072 1894 3072 1891 3072 1888 3072 1857 3092 1850 3099 1661 3099 1654 3099 1603 3079 1600 3079 1597 3079 1458 3102 1434 3106 1417 3106 1289 3085 1285 3085 1180 3109 1147 3089 1143 3089 1140 3089 1136 3089 1133 3089 1130 3089 1130 3092 1126 3092 1109 3112 1103 3112 974 3096 971 3096 967 3096 906 3116 680 3099 676 3099 368 3129 372 3177"/></Shape>
+	    <String CONTENT="bart med det Formaal at virke alene ved sin Tilsynekomst. Da Sol-"
+                    HPOS="368"
+                    VPOS="3072"
+                    WIDTH="1983"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a683756"
+                    TAGREFS="LT3627"
+                    BASELINE="378 3281 2409 3244" 
+                    HPOS="375"
+                    VPOS="3173"
+                    WIDTH="2034"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="378 3281 378 3312 2405 3271 2409 3244 2402 3194 2256 3173 2253 3173 2250 3173 2185 3197 1962 3197 1918 3180 1915 3180 1911 3180 1908 3180 1857 3200 1779 3187 1776 3187 1495 3207 1492 3207 1353 3190 1350 3190 1346 3190 1285 3207 1207 3194 1204 3194 1201 3194 1197 3194 1197 3197 1180 3211 1079 3197 1076 3197 1072 3197 1069 3197 1069 3200 1055 3211 1042 3197 1038 3197 1035 3197 1032 3197 1028 3197 950 3217 845 3200 842 3200 839 3200 764 3221 588 3204 585 3204 375 3227 378 3281"/></Shape>
+	    <String CONTENT="daterne imidlertid overalt blev nedskudt, udviklede der sig i Løbet"
+                    HPOS="375"
+                    VPOS="3173"
+                    WIDTH="2034"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32942d14"
+                    TAGREFS="LT3627"
+                    BASELINE="382 3393 2388 3363" 
+                    HPOS="378"
+                    VPOS="3302"
+                    WIDTH="2010"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="382 3393 382 3417 598 3434 602 3434 2388 3393 2388 3363 2382 3312 1729 3302 1725 3302 1485 3322 409 3322 406 3322 402 3322 399 3322 378 3332 382 3393"/></Shape>
+	    <String CONTENT="af det andet Døgn en almindelig Kamp over hele Byen, under hvilken"
+                    HPOS="378"
+                    VPOS="3302"
+                    WIDTH="2010"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6162bce6"
+                    TAGREFS="LT3627"
+                    BASELINE="378 3505 2331 3474" 
+                    HPOS="375"
+                    VPOS="3423"
+                    WIDTH="1956"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="378 3505 378 3538 463 3559 466 3559 1617 3525 1654 3542 1658 3542 1661 3542 1664 3542 1668 3542 1695 3521 1810 3538 1813 3538 1928 3518 2108 3535 2111 3535 2331 3508 2331 3474 2324 3423 1316 3423 1312 3423 1309 3423 1248 3437 1235 3440 1201 3440 1025 3427 1021 3427 1018 3427 988 3444 984 3444 974 3444 900 3430 896 3430 754 3447 734 3447 717 3447 588 3434 585 3434 375 3450 378 3505"/></Shape>
+	    <String CONTENT="Militæret med Kanoner, Tanks og Maskingeværer beskød Legionærer-"
+                    HPOS="375"
+                    VPOS="3423"
+                    WIDTH="1956"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e18da924"
+                    TAGREFS="LT3627"
+                    BASELINE="385 3623 984 3613" 
+                    HPOS="382"
+                    VPOS="3555"
+                    WIDTH="602"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="385 3623 385 3667 581 3680 585 3680 981 3653 984 3613 974 3555 382 3572 385 3623"/></Shape>
+	    <String CONTENT="nes befæstede Huse."
+                    HPOS="382"
+                    VPOS="3555"
+                    WIDTH="602"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_173f4fa8"
+                    TAGREFS="LT3627"
+                    BASELINE="619 3728 2338 3704" 
+                    HPOS="615"
+                    VPOS="3643"
+                    WIDTH="1723"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="619 3728 619 3761 1350 3772 1353 3772 1448 3751 1458 3751 1468 3751 1590 3768 1593 3768 1688 3748 1695 3748 1701 3748 1752 3765 1756 3765 1759 3765 1847 3745 1861 3745 1888 3745 2084 3761 2087 3761 2091 3761 2094 3761 2094 3758 2111 3741 2114 3741 2165 3758 2168 3758 2172 3758 2334 3738 2338 3704 2327 3647 1718 3660 1691 3650 1674 3643 1671 3643 1668 3643 1664 3643 1641 3650 1593 3663 1285 3653 1160 3650 1157 3650 1153 3650 1140 3653 1096 3670 1062 3653 1059 3653 1055 3653 1052 3653 1048 3653 1045 3657 1011 3670 615 3660 619 3728"/></Shape>
+	    <String CONTENT="Der var mange Døde og Saarede paa begge Sider; hvormange"
+                    HPOS="615"
+                    VPOS="3643"
+                    WIDTH="1723"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

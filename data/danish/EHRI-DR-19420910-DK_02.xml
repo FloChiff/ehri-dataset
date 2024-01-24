@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19420910-DK_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2496"
+          HEIGHT="3319"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2496"
+                  HEIGHT="3319">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a3f5ddf0"
+                    TAGREFS="LT3627"
+                    BASELINE="1214 141 1380 141" 
+                    HPOS="1212"
+                    VPOS="82"
+                    WIDTH="166"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1212 138 1212 163 1375 171 1378 138 1378 99 1281 82 1278 82 1212 96 1212 138"/></Shape>
+	    <String CONTENT="- 2 -"
+                    HPOS="1212"
+                    VPOS="82"
+                    WIDTH="166"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c51a89f9"
+                    TAGREFS="LT3627"
+                    BASELINE="304 403 2282 384" 
+                    HPOS="301"
+                    VPOS="326"
+                    WIDTH="1981"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="304 403 304 431 2280 417 2282 384 2277 342 2111 326 2108 326 2105 326 2103 326 2083 342 2036 326 2033 326 2031 326 2028 326 1997 342 1989 348 1696 348 1690 345 1674 331 1671 331 1668 331 1665 331 1663 331 1616 345 1607 348 1607 345 1591 331 1588 331 1585 331 1582 331 1580 331 1527 345 1441 331 1438 331 1436 331 1433 331 1408 348 1402 351 1397 348 1369 334 1366 334 1364 334 1361 334 1358 334 1342 348 1336 354 1037 354 1007 351 924 337 921 337 918 337 874 351 852 359 713 359 702 351 675 340 672 340 669 340 301 354 304 403"/></Shape>
+	    <String CONTENT="være antinationalsocialistiske. Medens baade tyske og udenlandske"
+                    HPOS="301"
+                    VPOS="326"
+                    WIDTH="1981"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9ed00d2"
+                    TAGREFS="LT3627"
+                    BASELINE="307 497 2365 481" 
+                    HPOS="304"
+                    VPOS="428"
+                    WIDTH="2061"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="307 497 307 531 2363 511 2365 481 2354 428 2318 445 2017 445 1867 431 1851 431 1848 431 1823 431 1627 448 1557 434 1552 434 1549 434 1502 434 987 453 902 439 896 439 893 439 891 439 888 439 871 453 304 445 307 497"/></Shape>
+	    <String CONTENT="Jøder tidligere i Almindelighed kunde faa Lov til at rejse ud - saa-"
+                    HPOS="304"
+                    VPOS="428"
+                    WIDTH="2061"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c79ca0b3"
+                    TAGREFS="LT3627"
+                    BASELINE="304 611 2374 591" 
+                    HPOS="301"
+                    VPOS="539"
+                    WIDTH="2073"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="304 611 304 647 2374 619 2374 591 2365 539 2280 553 1898 544 1806 544 1804 544 1801 544 1793 547 1754 558 1624 550 1577 547 1574 547 1544 550 1472 561 1331 555 1231 550 1228 550 1225 550 1203 555 1176 564 1043 558 888 553 885 553 882 553 843 561 821 566 749 564 597 555 594 555 592 555 589 555 589 558 578 566 575 572 301 572 304 611"/></Shape>
+	    <String CONTENT="ledes at man paa denne Maade blev af med dem -, har efterhaanden som"
+                    HPOS="301"
+                    VPOS="539"
+                    WIDTH="2073"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79620658"
+                    TAGREFS="LT3627"
+                    BASELINE="301 708 2305 691" 
+                    HPOS="298"
+                    VPOS="649"
+                    WIDTH="2007"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="301 708 301 741 2302 721 2305 691 2296 649 298 663 301 708"/></Shape>
+	    <String CONTENT="Krigen skred frem et andet Hensyn gjort sig mere og mere gældende:"
+                    HPOS="298"
+                    VPOS="649"
+                    WIDTH="2007"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_380e1ff7"
+                    TAGREFS="LT3627"
+                    BASELINE="304 810 2313 791" 
+                    HPOS="301"
+                    VPOS="744"
+                    WIDTH="2012"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="304 810 304 835 586 857 589 857 592 857 655 835 658 835 794 854 796 854 799 854 802 854 832 835 954 832 1007 832 1021 832 1148 843 1151 843 1333 829 1355 829 1358 829 1380 846 1383 846 1386 846 1389 846 1541 829 1568 826 1571 829 1599 846 1602 846 1604 846 1607 849 1737 849 1737 846 1840 826 1848 826 1854 826 1898 843 1901 843 1903 843 2155 826 2227 821 2235 824 2266 840 2269 840 2271 840 2274 840 2313 824 2313 791 2305 744 301 768 304 810"/></Shape>
+	    <String CONTENT="Frygten for Udspredelse i Udlandet af ufordelagtige Oplysninger om"
+                    HPOS="301"
+                    VPOS="744"
+                    WIDTH="2012"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_150f6b14"
+                    TAGREFS="LT3627"
+                    BASELINE="304 909 2191 896" 
+                    HPOS="301"
+                    VPOS="860"
+                    WIDTH="1890"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="304 909 304 940 2188 923 2191 896 2183 860 301 860 304 909"/></Shape>
+	    <String CONTENT="Forholdene her i Landet, som kunde skade Tysklands Stilling og"
+                    HPOS="301"
+                    VPOS="860"
+                    WIDTH="1890"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6adc87a"
+                    TAGREFS="LT3627"
+                    BASELINE="304 1012 2285 995" 
+                    HPOS="301"
+                    VPOS="956"
+                    WIDTH="1984"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="304 1012 304 1042 2282 1026 2285 995 2277 956 301 970 304 1012"/></Shape>
+	    <String CONTENT="bringe Stof til den antinationalsocialistiske Propaganda. Man ser"
+                    HPOS="301"
+                    VPOS="956"
+                    WIDTH="1984"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdf25c2e"
+                    TAGREFS="LT3627"
+                    BASELINE="304 1114 2341 1092" 
+                    HPOS="301"
+                    VPOS="1045"
+                    WIDTH="2040"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="304 1114 304 1145 2338 1122 2341 1092 2335 1056 1898 1045 1895 1045 475 1073 318 1062 315 1062 312 1062 309 1062 309 1064 301 1070 304 1114"/></Shape>
+	    <String CONTENT="derfor ugerne for megen Trafik over Græserne af Personer, der ikke"
+                    HPOS="301"
+                    VPOS="1045"
+                    WIDTH="2040"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7650e781"
+                    TAGREFS="LT3627"
+                    BASELINE="304 1219 2341 1197" 
+                    HPOS="301"
+                    VPOS="1158"
+                    WIDTH="2040"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="304 1219 304 1250 2338 1222 2341 1197 2332 1158 301 1178 304 1219"/></Shape>
+	    <String CONTENT="anses for at være 100%-paalidelige politisk - herfa delvis Vanske-"
+                    HPOS="301"
+                    VPOS="1158"
+                    WIDTH="2040"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2cc5188"
+                    TAGREFS="LT3627"
+                    BASELINE="304 1316 2338 1299" 
+                    HPOS="301"
+                    VPOS="1250"
+                    WIDTH="2037"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="304 1316 304 1358 644 1341 902 1352 940 1352 943 1352 2338 1333 2338 1299 2329 1250 301 1275 304 1316"/></Shape>
+	    <String CONTENT="lighederne ved Ud- og Indrejsetilladelser i Almindelighed -, og for"
+                    HPOS="301"
+                    VPOS="1250"
+                    WIDTH="2037"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37cb1b03"
+                    TAGREFS="LT3627"
+                    BASELINE="309 1418 2316 1405" 
+                    HPOS="307"
+                    VPOS="1352"
+                    WIDTH="2009"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="309 1418 309 1449 2313 1440 2316 1405 2310 1369 2020 1369 2017 1366 1989 1352 1986 1352 1984 1352 1865 1366 1840 1369 1801 1366 1646 1355 1643 1355 1557 1366 1533 1369 1524 1366 1499 1358 1497 1358 1494 1358 1491 1358 1488 1358 1477 1366 1472 1371 1455 1366 1430 1358 1427 1358 1425 1358 1267 1366 1104 1374 307 1366 309 1418"/></Shape>
+	    <String CONTENT="Jødernes Vedkommende, der alle anses for 100%-uppalidelige, er man"
+                    HPOS="307"
+                    VPOS="1352"
+                    WIDTH="2009"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99dec40d"
+                    TAGREFS="LT3627"
+                    BASELINE="307 1518 2374 1501" 
+                    HPOS="304"
+                    VPOS="1452"
+                    WIDTH="2070"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="307 1518 307 1548 2374 1535 2374 1501 2368 1465 2031 1452 2028 1452 1950 1465 1687 1454 1685 1454 1682 1454 1646 1468 1438 1457 1436 1457 1336 1471 1106 1460 1104 1460 304 1479 307 1518"/></Shape>
+	    <String CONTENT="nu naaet til praktisk talt helt at lukke af. Medens der maaske endnu"
+                    HPOS="304"
+                    VPOS="1452"
+                    WIDTH="2070"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dd85d7d"
+                    TAGREFS="LT3627"
+                    BASELINE="307 1623 2338 1606" 
+                    HPOS="304"
+                    VPOS="1562"
+                    WIDTH="2034"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="307 1623 307 1653 581 1665 583 1665 586 1665 636 1651 661 1645 885 1645 896 1648 921 1659 924 1659 927 1659 1023 1648 1065 1642 1115 1645 1236 1656 1239 1656 1358 1642 1400 1640 1538 1640 1546 1642 1588 1656 1591 1656 1593 1656 1989 1653 2103 1637 2258 1651 2260 1651 2263 1651 2338 1631 2338 1606 2329 1562 558 1579 478 1568 475 1568 304 1582 307 1623"/></Shape>
+	    <String CONTENT="er Mulighed for at opnaa Undtagelser for udenland skfødte Jøder, gi-"
+                    HPOS="304"
+                    VPOS="1562"
+                    WIDTH="2034"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f2d3c19"
+                    TAGREFS="LT3627"
+                    BASELINE="307 1723 2313 1706" 
+                    HPOS="304"
+                    VPOS="1670"
+                    WIDTH="2009"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="307 1723 307 1745 606 1759 608 1759 2310 1731 2313 1706 2305 1670 304 1684 307 1723"/></Shape>
+	    <String CONTENT="ves Udrejsetilladelse ikke mere for tyskfødte Jøder, selv om disse"
+                    HPOS="304"
+                    VPOS="1670"
+                    WIDTH="2009"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bd04680"
+                    TAGREFS="LT3627"
+                    BASELINE="307 1822 2260 1808" 
+                    HPOS="304"
+                    VPOS="1767"
+                    WIDTH="1956"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="307 1822 307 1861 2258 1836 2260 1808 2255 1767 495 1767 492 1767 304 1781 307 1822"/></Shape>
+	    <String CONTENT="ved Ægteskab har erhvervet fremmed Statsborgerret, og navnlig da"
+                    HPOS="304"
+                    VPOS="1767"
+                    WIDTH="1956"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6135d1a"
+                    TAGREFS="LT3627"
+                    BASELINE="309 1925 2285 1911" 
+                    HPOS="307"
+                    VPOS="1869"
+                    WIDTH="1978"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="309 1925 309 1955 2282 1949 2285 1911 2280 1869 307 1869 309 1925"/></Shape>
+	    <String CONTENT="ikke, naar dette Ægteskab er indgaaet her efter Jødelovgivningens"
+                    HPOS="307"
+                    VPOS="1869"
+                    WIDTH="1978"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bbdae28"
+                    TAGREFS="LT3627"
+                    BASELINE="323 2024 2310 2007" 
+                    HPOS="318"
+                    VPOS="1966"
+                    WIDTH="1989"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="320 2021 320 2077 630 2063 633 2063 636 2063 655 2046 954 2066 957 2066 960 2066 962 2066 987 2043 1015 2057 1018 2057 1225 2060 1228 2060 1231 2060 1281 2043 1344 2057 1347 2057 1588 2041 1616 2057 1624 2060 1627 2060 1629 2060 1671 2055 1784 2041 1878 2052 1887 2052 1889 2052 1892 2052 1917 2038 1934 2052 1939 2057 1942 2057 1945 2057 1948 2057 2017 2049 2114 2038 2141 2046 2166 2057 2169 2057 2172 2057 2175 2057 2177 2057 2191 2046 2197 2043 2302 2043 2307 2005 2299 1966 318 1974 320 2021"/></Shape>
+	    <String CONTENT="Indførelse, hvilket er Tilfældet baade med Ægteparret Hagen og med"
+                    HPOS="318"
+                    VPOS="1966"
+                    WIDTH="1989"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a736791f"
+                    TAGREFS="LT3627"
+                    BASELINE="319 2124 2393 2113" 
+                    HPOS="315"
+                    VPOS="2057"
+                    WIDTH="2075"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="318 2121 320 2168 351 2154 384 2168 387 2168 390 2168 547 2171 550 2171 553 2171 556 2171 561 2165 572 2157 589 2165 600 2171 603 2171 606 2173 830 2173 830 2171 832 2171 835 2171 843 2162 852 2157 979 2162 1109 2168 1112 2168 1115 2168 1137 2160 1170 2151 1223 2160 1256 2165 1259 2165 1297 2160 1361 2149 1411 2160 1447 2165 1450 2165 1452 2165 1483 2157 1524 2149 1618 2157 1718 2165 1721 2165 1798 2154 1870 2146 1889 2154 1906 2162 1909 2162 1912 2162 1914 2162 1948 2154 1978 2146 2006 2154 2039 2162 2042 2162 2044 2162 2047 2162 2083 2151 2111 2146 2385 2149 2390 2110 2385 2071 2078 2057 2075 2057 1878 2071 1867 2071 1848 2071 1402 2060 1400 2060 1319 2074 1311 2074 1283 2074 951 2063 949 2063 315 2077 318 2121"/></Shape>
+	    <String CONTENT="det i Schøon&#x27;s Brev af 7. August til Ryder omhandlede Ægtepar Thomsen."
+                    HPOS="315"
+                    VPOS="2057"
+                    WIDTH="2075"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1e8ca01"
+                    TAGREFS="LT3627"
+                    BASELINE="606 2220 2313 2207" 
+                    HPOS="603"
+                    VPOS="2154"
+                    WIDTH="1710"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="606 2220 606 2256 2310 2237 2313 2207 2307 2168 1629 2154 1627 2154 1624 2154 1555 2171 1419 2157 1416 2157 1414 2157 1380 2173 783 2176 758 2162 755 2162 752 2162 749 2162 747 2162 744 2162 744 2165 730 2179 603 2179 606 2220"/></Shape>
+	    <String CONTENT="Som det vil være Dem bekendt, har mange kvindelige tyske"
+                    HPOS="603"
+                    VPOS="2154"
+                    WIDTH="1710"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_747e6adf"
+                    TAGREFS="LT3627"
+                    BASELINE="307 2328 2341 2312" 
+                    HPOS="304"
+                    VPOS="2262"
+                    WIDTH="2037"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="307 2328 307 2362 2338 2348 2341 2312 2335 2270 1322 2262 1319 2262 1317 2262 1314 2262 1314 2265 1300 2276 985 2265 982 2265 979 2265 940 2279 669 2267 666 2267 664 2267 625 2281 451 2270 448 2270 304 2284 307 2328"/></Shape>
+	    <String CONTENT="Jøder i de første Aar efter Jødelovgivningens Indførelse giftet sig"
+                    HPOS="304"
+                    VPOS="2262"
+                    WIDTH="2037"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a51d4f4"
+                    TAGREFS="LT3627"
+                    BASELINE="307 2431 2365 2414" 
+                    HPOS="304"
+                    VPOS="2367"
+                    WIDTH="2061"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="307 2431 307 2461 2363 2447 2365 2414 2360 2373 998 2367 996 2367 304 2386 307 2431"/></Shape>
+	    <String CONTENT="med Udlændinge. De tyske Myndigheder betragter alle disse Ægteskaber"
+                    HPOS="304"
+                    VPOS="2367"
+                    WIDTH="2061"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4dfd9ab"
+                    TAGREFS="LT3627"
+                    BASELINE="304 2530 2282 2514" 
+                    HPOS="301"
+                    VPOS="2461"
+                    WIDTH="1981"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="304 2530 304 2563 583 2572 586 2572 680 2561 730 2555 805 2558 960 2569 962 2569 1026 2558 1051 2552 1137 2555 1331 2563 1333 2563 1455 2552 1485 2550 1497 2552 1541 2563 1544 2563 1546 2563 1834 2561 1912 2547 1917 2547 1925 2547 2064 2558 2067 2558 2069 2558 2097 2544 2100 2544 2108 2544 2210 2558 2213 2558 2280 2541 2282 2514 2269 2461 2255 2472 1834 2467 1621 2464 1618 2464 1566 2469 1499 2478 1397 2472 1292 2467 1289 2467 1286 2467 1270 2475 1256 2480 1178 2475 1095 2469 1093 2469 301 2486 304 2530"/></Shape>
+	    <String CONTENT="som indgaaet udelukkende for at forsøge derigennem at omgaa Jøde-"
+                    HPOS="301"
+                    VPOS="2461"
+                    WIDTH="1981"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5531a0f6"
+                    TAGREFS="LT3627"
+                    BASELINE="304 2630 2313 2608" 
+                    HPOS="301"
+                    VPOS="2558"
+                    WIDTH="2012"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="304 2630 304 2660 2277 2652 2280 2652 2313 2635 2313 2608 2307 2569 1809 2558 1806 2558 1729 2572 1062 2566 1059 2566 1057 2566 1054 2566 1034 2580 606 2572 603 2572 301 2588 304 2630"/></Shape>
+	    <String CONTENT="lovgivningen. I de fleste Tilfælde har dette ogsaa Sandsynligheden"
+                    HPOS="301"
+                    VPOS="2558"
+                    WIDTH="2012"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e08bfac4"
+                    TAGREFS="LT3627"
+                    BASELINE="307 2735 2338 2713" 
+                    HPOS="304"
+                    VPOS="2660"
+                    WIDTH="2034"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="307 2735 307 2768 2058 2760 2061 2760 2091 2746 2335 2757 2338 2713 2332 2674 2006 2660 2003 2660 2000 2660 1997 2660 1981 2674 1939 2660 1937 2660 1934 2660 1931 2660 1884 2674 1831 2660 1829 2660 1826 2660 1823 2660 1820 2660 1795 2677 1793 2677 1574 2663 1571 2663 1333 2682 1314 2682 1300 2682 1081 2669 1079 2669 1076 2669 1015 2685 1010 2685 1004 2685 924 2674 921 2674 636 2688 630 2688 592 2674 589 2674 586 2674 583 2674 581 2674 556 2691 553 2691 539 2691 437 2677 434 2677 304 2691 307 2735"/></Shape>
+	    <String CONTENT="for sig (hvilket selvfølgelig ikke udelukker, at Manden har handlet"
+                    HPOS="304"
+                    VPOS="2660"
+                    WIDTH="2034"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35968edd"
+                    TAGREFS="LT3627"
+                    BASELINE="307 2826 2252 2815" 
+                    HPOS="304"
+                    VPOS="2765"
+                    WIDTH="1948"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="307 2826 307 2857 2249 2846 2252 2815 2246 2779 1876 2765 1873 2765 304 2787 307 2826"/></Shape>
+	    <String CONTENT="udfra de ædleste og mest menneskekærlige Motiver). Hertil kommer"
+                    HPOS="304"
+                    VPOS="2765"
+                    WIDTH="1948"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7be659ec"
+                    TAGREFS="LT3627"
+                    BASELINE="307 2940 2197 2915" 
+                    HPOS="304"
+                    VPOS="2865"
+                    WIDTH="1893"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="307 2940 307 2970 2194 2942 2197 2915 2191 2876 1776 2865 1773 2865 1707 2879 935 2876 932 2876 702 2893 514 2881 511 2881 304 2898 307 2940"/></Shape>
+	    <String CONTENT="yderligere, at Blanding af arisk of jødisk Blod efter tysk Op-"
+                    HPOS="304"
+                    VPOS="2865"
+                    WIDTH="1893"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d417a71"
+                    TAGREFS="LT3627"
+                    BASELINE="309 3036 2313 3017" 
+                    HPOS="307"
+                    VPOS="2976"
+                    WIDTH="2006"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="309 3036 309 3067 545 3081 547 3081 550 3081 600 3067 603 3067 622 3067 868 3078 871 3078 938 3064 943 3064 951 3064 1001 3075 1004 3075 1129 3064 1167 3061 1217 3064 1389 3072 1391 3072 2313 3056 2313 3017 2305 2976 675 2992 611 2981 608 2981 606 2981 603 2981 578 2995 334 2984 332 2984 329 2984 326 2984 307 2992 309 3036"/></Shape>
+	    <String CONTENT="fattelse er en Forbrydelse, og at Ægteskaber mellem Arier og Jøder"
+                    HPOS="307"
+                    VPOS="2976"
+                    WIDTH="2006"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

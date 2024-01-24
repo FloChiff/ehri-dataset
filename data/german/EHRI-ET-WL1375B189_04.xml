@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL1375B189_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="793"
+          HEIGHT="1122"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="793"
+                  HEIGHT="1122">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_5a9940be"
+                    TAGREFS="LT3625"
+                    BASELINE="259 24 328 24" 
+                    HPOS="259"
+                    VPOS="6"
+                    WIDTH="69"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="259 24 259 34 328 34 328 24 328 11 288 6 287 6 259 12 259 24"/></Shape>
+	    <String CONTENT="- 4 -"
+                    HPOS="259"
+                    VPOS="6"
+                    WIDTH="69"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9d02a40"
+                    TAGREFS="LT3625"
+                    BASELINE="45 42 111 42" 
+                    HPOS="45"
+                    VPOS="28"
+                    WIDTH="66"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="45 42 45 60 111 60 111 42 111 28 45 28 45 42"/></Shape>
+	    <String CONTENT="B. 189"
+                    HPOS="45"
+                    VPOS="28"
+                    WIDTH="66"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a07cb1cf"
+                    TAGREFS="LT3625"
+                    BASELINE="88 121 768 121" 
+                    HPOS="88"
+                    VPOS="106"
+                    WIDTH="680"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="88 121 88 133 767 134 768 121 767 106 88 107 88 121"/></Shape>
+	    <String CONTENT="Es ist so furchtbar, dass man garnicht darüber schreiben kann,"
+                    HPOS="88"
+                    VPOS="106"
+                    WIDTH="680"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf99a816"
+                    TAGREFS="LT3625"
+                    BASELINE="43 142 356 142" 
+                    HPOS="43"
+                    VPOS="129"
+                    WIDTH="313"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="43 142 43 152 356 152 356 142 356 129 43 129 43 142"/></Shape>
+	    <String CONTENT="was ich allein gesehen habe."
+                    HPOS="43"
+                    VPOS="129"
+                    WIDTH="313"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_683800fe"
+                    TAGREFS="LT3625"
+                    BASELINE="89 166 762 167" 
+                    HPOS="88"
+                    VPOS="150"
+                    WIDTH="674"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="89 166 88 177 760 178 762 167 760 150 89 150 89 166"/></Shape>
+	    <String CONTENT="Man kann sich seiner Freiheit nicht recht freuen, wenn man an"
+                    HPOS="88"
+                    VPOS="150"
+                    WIDTH="674"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_625f9aa2"
+                    TAGREFS="LT3625"
+                    BASELINE="46 186 649 184" 
+                    HPOS="45"
+                    VPOS="172"
+                    WIDTH="604"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="46 186 46 200 114 202 115 202 115 202 123 200 131 196 140 200 147 202 148 202 149 203 231 203 231 202 232 202 233 202 240 199 241 198 245 199 265 202 266 202 267 202 268 202 268 201 273 198 275 196 296 198 346 202 346 202 347 202 348 202 357 197 359 196 425 195 433 197 447 200 448 200 479 196 490 195 499 196 535 201 536 201 648 194 649 184 647 172 45 172 46 186"/></Shape>
+	    <String CONTENT="das Los derer dankt, die in dieser Hölle zurüchblieben!"
+                    HPOS="45"
+                    VPOS="172"
+                    WIDTH="604"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

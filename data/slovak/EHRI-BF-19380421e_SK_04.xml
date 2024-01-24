@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380421e_SK_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9589" LABEL="numbering" DESCRIPTION="block type numbering"/><OtherTag ID="BT9588" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3604" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1887"
+          HEIGHT="2657"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1887"
+                  HEIGHT="2657">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a19106ae"
+                    TAGREFS="LT3604"
+                    BASELINE="905 223 1054 219" 
+                    HPOS="903"
+                    VPOS="183"
+                    WIDTH="151"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="905 223 905 241 1052 239 1054 219 1047 183 903 188 905 223"/></Shape>
+	    <String CONTENT="- 4 -"
+                    HPOS="903"
+                    VPOS="183"
+                    WIDTH="151"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64191312"
+                    TAGREFS="LT3604"
+                    BASELINE="398 323 1111 325" 
+                    HPOS="394"
+                    VPOS="274"
+                    WIDTH="715"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="396 321 394 349 1107 347 1109 323 1107 283 396 274 396 321"/></Shape>
+	    <String CONTENT="36/ Knap Alexander, 65 ročný"
+                    HPOS="394"
+                    VPOS="274"
+                    WIDTH="715"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae0a9c86"
+                    TAGREFS="LT3604"
+                    BASELINE="400 407 1100 407" 
+                    HPOS="400"
+                    VPOS="371"
+                    WIDTH="700"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="400 407 400 431 1098 442 1100 407 1098 371 400 376 400 407"/></Shape>
+	    <String CONTENT="37/ Knapová Jozefa, 71 ročná"
+                    HPOS="400"
+                    VPOS="371"
+                    WIDTH="700"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06ddf177"
+                    TAGREFS="LT3604"
+                    BASELINE="400 493 1098 489" 
+                    HPOS="398"
+                    VPOS="460"
+                    WIDTH="700"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="400 493 400 518 1094 526 1098 489 1091 460 398 462 400 493"/></Shape>
+	    <String CONTENT="38/ Singer Wilhelm, 18 ročný"
+                    HPOS="398"
+                    VPOS="460"
+                    WIDTH="700"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67a61529"
+                    TAGREFS="LT3604"
+                    BASELINE="400 575 981 575" 
+                    HPOS="400"
+                    VPOS="540"
+                    WIDTH="581"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="400 575 400 597 978 600 981 575 978 540 400 542 400 575"/></Shape>
+	    <String CONTENT="39/ Roth Hugo, 46 ročný"
+                    HPOS="400"
+                    VPOS="540"
+                    WIDTH="581"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8762b0d4"
+                    TAGREFS="LT3604"
+                    BASELINE="403 662 1094 662" 
+                    HPOS="403"
+                    VPOS="622"
+                    WIDTH="691"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="403 662 403 684 1094 684 1094 662 1091 622 403 628 403 662"/></Shape>
+	    <String CONTENT="40/ Rothová Regina, 51 ročná"
+                    HPOS="403"
+                    VPOS="622"
+                    WIDTH="691"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2485c4c"
+                    TAGREFS="LT3604"
+                    BASELINE="403 746 1074 739" 
+                    HPOS="400"
+                    VPOS="710"
+                    WIDTH="674"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="403 746 403 768 1071 772 1074 739 1067 710 400 715 403 746"/></Shape>
+	    <String CONTENT="41/ Roth Ladislav, 16 ročný"
+                    HPOS="400"
+                    VPOS="710"
+                    WIDTH="674"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17c90043"
+                    TAGREFS="LT3604"
+                    BASELINE="403 830 1003 819" 
+                    HPOS="400"
+                    VPOS="790"
+                    WIDTH="603"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="403 830 403 850 465 861 467 861 684 848 759 859 761 859 764 859 766 859 786 848 976 854 978 854 981 854 983 854 1003 841 1003 819 996 790 400 790 403 830"/></Shape>
+	    <String CONTENT="42/ Roth Pavel, 12 ročný"
+                    HPOS="400"
+                    VPOS="790"
+                    WIDTH="603"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8abc7db2"
+                    TAGREFS="LT3604"
+                    BASELINE="403 912 1009 905" 
+                    HPOS="400"
+                    VPOS="874"
+                    WIDTH="609"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="403 912 403 932 597 945 600 945 602 945 651 934 970 941 972 941 974 941 1009 925 1009 905 1003 874 400 881 403 912"/></Shape>
+	    <String CONTENT="43/ Weiner Max, 51 ročný"
+                    HPOS="400"
+                    VPOS="874"
+                    WIDTH="609"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec0c47f1"
+                    TAGREFS="LT3604"
+                    BASELINE="403 996 1169 989" 
+                    HPOS="400"
+                    VPOS="947"
+                    WIDTH="769"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="403 996 403 1016 1164 1022 1169 989 1160 947 1129 958 1014 949 956 947 954 947 952 947 941 952 930 958 846 954 730 949 728 949 400 965 403 996"/></Shape>
+	    <String CONTENT="44/ Weinerová Terezia, 51 ročná"
+                    HPOS="400"
+                    VPOS="947"
+                    WIDTH="769"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27f7b79a"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1078 1142 1071" 
+                    HPOS="400"
+                    VPOS="1036"
+                    WIDTH="742"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="403 1078 403 1096 456 1109 458 1109 507 1098 509 1098 520 1107 520 1109 522 1109 524 1109 527 1109 529 1109 560 1100 631 1111 633 1111 695 1100 730 1096 757 1102 784 1109 786 1109 788 1109 1142 1107 1142 1071 1138 1040 400 1036 403 1078"/></Shape>
+	    <String CONTENT="45/ Weinerová Helena, 12 ročná"
+                    HPOS="400"
+                    VPOS="1036"
+                    WIDTH="742"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba38bb97"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1164 1100 1155" 
+                    HPOS="400"
+                    VPOS="1124"
+                    WIDTH="700"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="403 1164 403 1186 691 1195 693 1195 806 1182 817 1182 826 1182 912 1193 914 1193 1098 1177 1100 1155 1094 1124 400 1131 403 1164"/></Shape>
+	    <String CONTENT="46/ Weinerová Herta, 9 ročná"
+                    HPOS="400"
+                    VPOS="1124"
+                    WIDTH="700"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_986df62e"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1244 1120 1244" 
+                    HPOS="403"
+                    VPOS="1202"
+                    WIDTH="717"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="403 1244 403 1268 1120 1268 1120 1244 1120 1211 403 1202 403 1244"/></Shape>
+	    <String CONTENT="47/ Weinerová Magda, 14 ročná"
+                    HPOS="403"
+                    VPOS="1202"
+                    WIDTH="717"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c3b5c49"
+                    TAGREFS="LT3604"
+                    BASELINE="400 1330 1169 1324" 
+                    HPOS="398"
+                    VPOS="1290"
+                    WIDTH="771"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="400 1330 400 1348 653 1359 655 1359 657 1359 682 1348 1149 1355 1151 1355 1153 1355 1156 1355 1169 1343 1169 1324 1162 1290 398 1295 400 1330"/></Shape>
+	    <String CONTENT="48/ Weinerová Barbota, 27 ročná"
+                    HPOS="398"
+                    VPOS="1290"
+                    WIDTH="771"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9efce777"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1414 1076 1410" 
+                    HPOS="400"
+                    VPOS="1381"
+                    WIDTH="676"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="403 1414 403 1434 1074 1430 1076 1410 1069 1381 400 1383 403 1414"/></Shape>
+	    <String CONTENT="49/ Hauser Alfred, 52 ročný"
+                    HPOS="400"
+                    VPOS="1381"
+                    WIDTH="676"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ddbf21e"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1498 1096 1492" 
+                    HPOS="400"
+                    VPOS="1461"
+                    WIDTH="696"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="403 1498 403 1518 1094 1516 1096 1492 1089 1461 400 1463 403 1498"/></Shape>
+	    <String CONTENT="50/ Hauserová Rosa, 68 ročná"
+                    HPOS="400"
+                    VPOS="1461"
+                    WIDTH="696"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2af5ddaa"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1580 1824 1585" 
+                    HPOS="400"
+                    VPOS="1532"
+                    WIDTH="1424"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="403 1580 400 1600 418 1611 420 1611 423 1611 425 1611 1007 1603 1125 1614 1127 1614 1822 1603 1824 1585 1820 1534 1725 1545 1667 1534 1663 1534 1550 1534 1548 1534 1545 1534 1543 1534 1543 1536 1532 1545 1455 1534 1441 1534 1439 1534 1424 1534 1333 1545 1136 1536 1071 1534 1069 1534 1018 1536 921 1543 908 1536 896 1532 894 1532 892 1532 890 1532 879 1538 865 1543 808 1538 741 1532 739 1532 403 1538 403 1580"/></Shape>
+	    <String CONTENT="51/ Friedler Emanuel, 47 ročný, /má neplatný pol&#x27;ský cestov-"
+                    HPOS="400"
+                    VPOS="1532"
+                    WIDTH="1424"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f428f7a8"
+                    TAGREFS="LT3604"
+                    BASELINE="1215 1627 1357 1625" 
+                    HPOS="1213"
+                    VPOS="1596"
+                    WIDTH="144"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1215 1627 1215 1649 1355 1653 1357 1625 1353 1596 1213 1596 1215 1627"/></Shape>
+	    <String CONTENT="ný pas"
+                    HPOS="1213"
+                    VPOS="1596"
+                    WIDTH="144"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_507ea64f"
+                    TAGREFS="LT3604"
+                    BASELINE="403 1709 1813 1709" 
+                    HPOS="403"
+                    VPOS="1660"
+                    WIDTH="1410"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="403 1709 403 1731 1811 1735 1813 1709 1811 1665 1554 1673 1517 1662 1508 1660 1506 1660 1328 1660 1326 1660 1324 1660 1315 1662 1269 1673 1253 1662 1251 1660 1249 1660 1246 1660 1145 1660 1142 1660 1129 1662 1056 1673 1034 1660 1032 1660 1029 1660 939 1660 936 1660 934 1660 932 1660 905 1676 538 1676 403 1660 403 1709"/></Shape>
+	    <String CONTENT="52/ osoba doteraz neznámeho mena, ktorú četníctvo zist&#x27;uje. &quot;"
+                    HPOS="403"
+                    VPOS="1660"
+                    WIDTH="1410"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43e414a9"
+                    TAGREFS="LT3604"
+                    BASELINE="617 1795 1725 1795" 
+                    HPOS="617"
+                    VPOS="1751"
+                    WIDTH="1108"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="617 1795 617 1817 1725 1817 1725 1795 1725 1760 617 1751 617 1795"/></Shape>
+	    <String CONTENT="Dňa 17. apríla 1938 o 10 hodině sdelil okresný"
+                    HPOS="617"
+                    VPOS="1751"
+                    WIDTH="1108"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_260cdeda"
+                    TAGREFS="LT3604"
+                    BASELINE="352 1877 1169 1877" 
+                    HPOS="352"
+                    VPOS="1831"
+                    WIDTH="817"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="352 1877 352 1901 1169 1901 1169 1877 1169 1842 1120 1831 1118 1831 1116 1831 1114 1831 1074 1842 936 1831 934 1831 837 1842 693 1831 691 1831 688 1831 666 1842 644 1831 642 1831 640 1831 637 1831 635 1831 635 1833 624 1844 458 1844 416 1831 414 1831 411 1831 352 1842 352 1877"/></Shape>
+	    <String CONTENT="náčelník v Bratislave ďalej toto:"
+                    HPOS="352"
+                    VPOS="1831"
+                    WIDTH="817"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_760c7cd0"
+                    TAGREFS="LT3604"
+                    BASELINE="622 1952 1829 1963" 
+                    HPOS="620"
+                    VPOS="1910"
+                    WIDTH="1209"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="622 1952 620 1975 682 1990 684 1990 812 1979 870 1992 872 1992 874 1994 954 1994 954 1992 956 1992 959 1992 959 1990 970 1981 1049 1992 1052 1992 1054 1992 1089 1981 1100 1992 1102 1992 1105 1992 1107 1992 1231 1986 1346 1997 1348 1997 1720 1988 1747 1999 1749 1999 1751 1999 1827 1986 1829 1963 1827 1928 1712 1917 1709 1917 1634 1926 1607 1928 1601 1926 1581 1915 1579 1915 1576 1915 1574 1915 1534 1926 1528 1926 1514 1924 1446 1915 1444 1915 1240 1924 1195 1924 1191 1921 1180 1913 1178 1913 1176 1913 1173 1913 1171 1913 1136 1921 1125 1924 1107 1921 1029 1910 1027 1910 981 1921 974 1921 963 1921 892 1910 890 1910 622 1917 622 1952"/></Shape>
+	    <String CONTENT="&quot;Všetky osoby, mená ktorých som oznámil, nachádzajů"
+                    HPOS="620"
+                    VPOS="1910"
+                    WIDTH="1209"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_604887ab"
+                    TAGREFS="LT3604"
+                    BASELINE="400 2043 1811 2048" 
+                    HPOS="400"
+                    VPOS="1999"
+                    WIDTH="1411"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="400 2043 400 2076 1809 2070 1811 2048 1809 2014 1510 2014 1508 2012 1499 2003 1499 2001 1497 2001 1494 2001 1492 2001 1490 2001 1452 2010 1446 2012 1432 2010 1366 2001 1209 2001 1207 2001 1204 2001 1202 2001 1191 2010 1187 2012 1164 2010 1094 1999 1091 1999 400 2003 400 2043"/></Shape>
+	    <String CONTENT="sa neteraz v Devíne, sú bez všetkých finančných prostriedkov"
+                    HPOS="400"
+                    VPOS="1999"
+                    WIDTH="1411"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a766dbf"
+                    TAGREFS="LT3604"
+                    BASELINE="398 2130 1745 2138" 
+                    HPOS="396"
+                    VPOS="2099"
+                    WIDTH="1349"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="398 2130 396 2149 1083 2169 1085 2172 1295 2172 1295 2169 1297 2169 1328 2158 1353 2169 1355 2169 1357 2169 1625 2161 1656 2172 1658 2172 1661 2172 1743 2158 1745 2138 1743 2107 398 2099 398 2130"/></Shape>
+	    <String CONTENT="núdzne oblečené. Peniaze v malom množstve majů len nie-"
+                    HPOS="396"
+                    VPOS="2099"
+                    WIDTH="1349"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9848687"
+                    TAGREFS="LT3604"
+                    BASELINE="398 2220 1353 2216" 
+                    HPOS="396"
+                    VPOS="2180"
+                    WIDTH="957"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="398 2220 398 2249 640 2249 662 2256 697 2269 699 2269 702 2269 883 2262 934 2260 945 2262 970 2271 972 2271 974 2273 1351 2273 1353 2216 1348 2185 396 2180 398 2220"/></Shape>
+	    <String CONTENT="ktoré osoby. Osobných dokladov nemajú.&quot;"
+                    HPOS="396"
+                    VPOS="2180"
+                    WIDTH="957"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17f5ea01"
+                    TAGREFS="LT3604"
+                    BASELINE="613 2302 1705 2311" 
+                    HPOS="611"
+                    VPOS="2262"
+                    WIDTH="1094"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="613 2302 611 2327 1700 2335 1705 2311 1705 2278 613 2262 613 2302"/></Shape>
+	    <String CONTENT="Okresný náčelník sa pokusil o opatrenie, aby"
+                    HPOS="611"
+                    VPOS="2262"
+                    WIDTH="1094"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecf54283"
+                    TAGREFS="LT3604"
+                    BASELINE="349 2391 1754 2400" 
+                    HPOS="347"
+                    VPOS="2355"
+                    WIDTH="1407"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="349 2391 347 2415 1749 2420 1754 2400 1751 2360 349 2355 349 2391"/></Shape>
+	    <String CONTENT="tieto osoby ešte v noci boly vrátené do Rakúska cez rieku"
+                    HPOS="347"
+                    VPOS="2355"
+                    WIDTH="1407"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

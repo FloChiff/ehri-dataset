@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP010_07.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2452"
+          HEIGHT="3444"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2452"
+                  HEIGHT="3444">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4856f4c6"
+                    
+                    BASELINE="928 333 1031 333" 
+                    HPOS="927"
+                    VPOS="269"
+                    WIDTH="103"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="927 332 927 350 956 370 958 370 961 370 964 370 967 370 1030 344 1030 332 1030 292 927 269 927 332"/></Shape>
+	    <String CONTENT="7"
+                    HPOS="927"
+                    VPOS="269"
+                    WIDTH="103"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8da5646"
+                    TAGREFS="LT3628"
+                    BASELINE="264 456 2150 400" 
+                    HPOS="258"
+                    VPOS="358"
+                    WIDTH="1889"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2124 358 2095 361 2067 361 2038 361 2009 361 1981 361 1952 364 1923 364 1894 364 1866 364 1837 367 1808 367 1780 367 1751 367 1722 370 1694 370 1665 370 1636 370 1607 370 1579 373 1550 373 1521 373 1493 373 1464 375 1435 375 1406 375 1378 375 1349 375 1320 378 1292 378 1263 378 1234 378 1205 381 1177 381 1148 381 1119 381 1091 384 1062 384 1033 384 1004 384 976 384 947 387 918 387 890 387 861 387 832 390 803 390 775 390 746 390 717 390 689 393 660 393 631 393 602 393 574 396 545 396 516 396 488 396 459 398 430 398 401 398 373 398 344 398 315 401 287 401 258 401 261 453 261 482 2147 421 2147 398 2139 358 2124 358"/></Shape>
+	    <String CONTENT="moci zvenčí. Dne 7. 10. 1944 ve 13 hodin mělo býti zaplynováno"
+                    HPOS="258"
+                    VPOS="358"
+                    WIDTH="1889"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf98f0cd"
+                    TAGREFS="LT3628"
+                    BASELINE="269 505 2228 444" 
+                    HPOS="267"
+                    VPOS="401"
+                    WIDTH="1961"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="269 505 269 530 2225 479 2228 444 2219 401 267 464 269 505"/></Shape>
+	    <String CONTENT="300 mužů ze zvláštního komanda. Oni podnikli útok na krematorium"
+                    HPOS="267"
+                    VPOS="401"
+                    WIDTH="1961"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_632ce136"
+                    TAGREFS="LT3628"
+                    BASELINE="262 553 2225 499" 
+                    HPOS="258"
+                    VPOS="456"
+                    WIDTH="1964"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="261 551 261 576 2222 530 2222 496 2213 456 258 510 261 551"/></Shape>
+	    <String CONTENT="III, hodili do ohně dynamitové granáty, krematorium III se vzňalo"
+                    HPOS="258"
+                    VPOS="456"
+                    WIDTH="1964"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b0a2b1f"
+                    TAGREFS="LT3628"
+                    BASELINE="267 602 2222 545" 
+                    HPOS="261"
+                    VPOS="510"
+                    WIDTH="1958"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="264 599 264 625 2219 568 2219 542 2210 510 261 559 264 599"/></Shape>
+	    <String CONTENT="a lehlo popelem. Na místo se dostavila SS pod vedením Hauptsturm-"
+                    HPOS="261"
+                    VPOS="510"
+                    WIDTH="1958"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51c1c019"
+                    TAGREFS="LT3628"
+                    BASELINE="275 654 2199 596" 
+                    HPOS="272"
+                    VPOS="556"
+                    WIDTH="1927"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="275 654 275 680 2199 631 2199 596 2190 556 272 611 275 654"/></Shape>
+	    <String CONTENT="führera Hahna, který byl sám ozbrojen strojní puškou. Zabili 378"
+                    HPOS="272"
+                    VPOS="556"
+                    WIDTH="1927"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ab12853"
+                    TAGREFS="LT3628"
+                    BASELINE="284 703 2163 648" 
+                    HPOS="278"
+                    VPOS="614"
+                    WIDTH="1884"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="281 700 281 737 2162 668 2162 645 2153 614 278 662 281 700"/></Shape>
+	    <String CONTENT="mužů. Půl hodiny na to zabilo Sonderkommando krematoria I svého"
+                    HPOS="278"
+                    VPOS="614"
+                    WIDTH="1884"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a126779d"
+                    TAGREFS="LT3628"
+                    BASELINE="275 754 2294 697" 
+                    HPOS="269"
+                    VPOS="657"
+                    WIDTH="2022"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="272 751 272 777 2288 726 2291 694 2282 657 269 711 272 751"/></Shape>
+	    <String CONTENT="vrchního kápo a vrhlo ho do ohně. Pak přestřihli dráty a volajíce:"
+                    HPOS="269"
+                    VPOS="657"
+                    WIDTH="2022"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b015b21"
+                    TAGREFS="LT3628"
+                    BASELINE="335 802 2291 746" 
+                    HPOS="330"
+                    VPOS="703"
+                    WIDTH="1958"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="333 800 333 823 2288 769 2288 743 2279 703 330 760 333 800"/></Shape>
+	    <String CONTENT="&quot;Rusové jsou tu&quot; začali utíkat. SS obklíčila okolí, všichni byli"
+                    HPOS="330"
+                    VPOS="703"
+                    WIDTH="1958"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fa19c69"
+                    TAGREFS="LT3628"
+                    BASELINE="284 849 2317 794" 
+                    HPOS="281"
+                    VPOS="749"
+                    WIDTH="2036"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="2147 751 2118 751 2090 751 2061 751 2032 754 2004 754 1975 754 1946 754 1917 757 1903 757 1892 766 1889 769 1874 769 1811 757 1803 760 1774 760 1765 760 1639 772 1570 780 551 794 539 797 511 797 482 797 479 794 281 797 284 849 284 881 2314 820 2317 794 2311 760 2162 749 2147 751"/></Shape>
+	    <String CONTENT="zastřeleni. Celkem bylo zabito v tento den 455 mužů. Celé toto pov-"
+                    HPOS="281"
+                    VPOS="749"
+                    WIDTH="2036"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a933f37c"
+                    TAGREFS="LT3628"
+                    BASELINE="272 901 2205 843" 
+                    HPOS="267"
+                    VPOS="797"
+                    WIDTH="1935"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="269 898 269 924 2199 886 2202 840 2193 797 267 858 269 898"/></Shape>
+	    <String CONTENT="stání bylo akcí zvláštního komanda, jehož se ilegální organisace"
+                    HPOS="267"
+                    VPOS="797"
+                    WIDTH="1935"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc816a63"
+                    TAGREFS="LT3628"
+                    BASELINE="278 949 1576 909" 
+                    HPOS="275"
+                    VPOS="872"
+                    WIDTH="1301"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="278 949 278 987 367 1001 370 1001 373 1001 376 1001 376 998 390 984 396 978 499 978 531 981 646 993 648 993 735 975 746 972 760 972 855 984 858 984 861 984 913 970 930 964 947 967 1007 981 1010 981 1088 964 1114 958 1131 961 1197 975 1200 975 1203 975 1205 975 1223 958 1226 958 1248 958 1455 967 1458 967 1576 947 1576 909 1567 872 275 904 278 949"/></Shape>
+	    <String CONTENT="nezúčastnila, jelikož neměla rozkaz zvenčí."
+                    HPOS="275"
+                    VPOS="872"
+                    WIDTH="1301"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63113027"
+                    TAGREFS="LT3628"
+                    BASELINE="281 1044 2251 987" 
+                    HPOS="278"
+                    VPOS="935"
+                    WIDTH="1973"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="281 1044 281 1070 2248 1018 2251 987 2242 944 1998 952 1992 949 1963 935 1961 935 1958 935 1854 938 1851 938 1814 955 1808 958 1785 958 1676 947 1673 947 1671 947 1642 961 1636 964 1602 964 1472 955 1470 955 1297 972 1260 975 1237 975 1073 961 1070 961 1068 961 1065 961 1065 964 1045 981 1027 981 775 970 772 970 697 972 694 972 691 972 691 975 668 993 591 981 588 981 278 1004 281 1044"/></Shape>
+	    <String CONTENT="Dne 17. ledna 1945 byla zahájena konečná likvidace tábora, v němž"
+                    HPOS="278"
+                    VPOS="935"
+                    WIDTH="1973"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eec22d01"
+                    TAGREFS="LT3628"
+                    BASELINE="292 1096 2236 1047" 
+                    HPOS="289"
+                    VPOS="1007"
+                    WIDTH="1947"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="292 1096 292 1122 2233 1076 2236 1047 2228 1007 289 1053 292 1096"/></Shape>
+	    <String CONTENT="bylo t.č. ještě asi 6.000 osob. Dne 18. ledna likvidace byla za-"
+                    HPOS="289"
+                    VPOS="1007"
+                    WIDTH="1947"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73dd94b9"
+                    TAGREFS="LT3628"
+                    BASELINE="289 1145 1808 1107" 
+                    HPOS="287"
+                    VPOS="1073"
+                    WIDTH="1521"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="289 1145 289 1182 1808 1145 1808 1107 1800 1073 287 1099 289 1145"/></Shape>
+	    <String CONTENT="končena. Zůstali tam jenom nemocní z tábora B II f."
+                    HPOS="287"
+                    VPOS="1073"
+                    WIDTH="1521"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a837641"
+                    TAGREFS="LT3628"
+                    BASELINE="278 1347 2236 1294" 
+                    HPOS="272"
+                    VPOS="1239"
+                    WIDTH="1961"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="275 1346 281 1389 312 1368 424 1368 447 1380 476 1380 479 1380 496 1366 752 1357 815 1368 832 1371 849 1371 864 1371 887 1366 941 1351 1111 1357 1257 1360 1280 1360 1303 1360 1432 1346 1530 1334 1559 1340 1636 1360 1639 1360 1642 1360 1645 1360 1682 1346 2124 1348 2127 1348 2130 1348 2233 1314 2233 1291 2228 1251 2012 1239 2009 1239 1917 1257 1903 1259 1892 1257 1843 1245 1840 1245 1837 1245 1834 1245 1805 1259 1800 1262 1765 1262 1610 1251 1607 1251 1513 1268 1484 1271 1418 1271 1214 1262 1211 1262 1119 1277 1079 1285 913 1285 904 1282 881 1271 878 1271 875 1271 872 1271 826 1285 809 1288 780 1285 703 1277 700 1277 611 1291 559 1297 548 1291 528 1282 525 1282 522 1282 272 1297 275 1346"/></Shape>
+	    <String CONTENT="Protokol sepsal: Dr. Robert Weinberger a Dr. Erich Nasch u příleži-"
+                    HPOS="272"
+                    VPOS="1239"
+                    WIDTH="1961"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7b7cf4e"
+                    TAGREFS="LT3628"
+                    BASELINE="304 1391 1613 1364" 
+                    HPOS="298"
+                    VPOS="1328"
+                    WIDTH="1312"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="301 1389 301 1426 1607 1406 1610 1363 1602 1328 298 1351 301 1389"/></Shape>
+	    <String CONTENT="tosti své návštěvy v Zeilsheimu u Frankfurtu."
+                    HPOS="298"
+                    VPOS="1328"
+                    WIDTH="1312"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380421e_SK_08.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9589" LABEL="numbering" DESCRIPTION="block type numbering"/><OtherTag ID="BT9588" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3604" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1864"
+          HEIGHT="2672"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1864"
+                  HEIGHT="2672">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_8d872666"
+                    TAGREFS="LT3604"
+                    BASELINE="904 233 1053 233" 
+                    HPOS="904"
+                    VPOS="191"
+                    WIDTH="149"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="904 233 904 260 959 251 984 256 1028 262 1031 262 1033 262 1035 262 1053 251 1053 233 1051 191 904 200 904 233"/></Shape>
+	    <String CONTENT="- 8 -"
+                    HPOS="904"
+                    VPOS="191"
+                    WIDTH="149"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88bd472c"
+                    TAGREFS="LT3604"
+                    BASELINE="336 354 1701 360" 
+                    HPOS="334"
+                    VPOS="298"
+                    WIDTH="1367"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="336 354 334 380 1699 380 1701 360 1701 302 1567 302 1565 302 1563 302 1561 302 1561 305 1541 322 1356 322 1307 305 1298 302 1296 302 1293 302 1276 305 1227 316 1195 307 1175 300 1173 300 1171 300 1133 307 1071 320 817 320 808 309 795 300 795 298 792 298 790 298 788 298 786 298 783 298 763 311 752 318 605 318 601 311 585 300 585 298 583 298 581 298 543 298 541 298 538 298 536 298 536 300 521 313 518 316 512 313 469 298 467 298 465 298 336 313 336 354"/></Shape>
+	    <String CONTENT="ostrova &quot;Kesmacher&quot; nariadilo obstarávaď vo dne hliadkou"
+                    HPOS="334"
+                    VPOS="298"
+                    WIDTH="1367"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f5d6dbf"
+                    TAGREFS="LT3604"
+                    BASELINE="334 440 1741 445" 
+                    HPOS="331"
+                    VPOS="407"
+                    WIDTH="1410"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="334 440 331 460 1737 465 1741 445 1741 411 334 407 334 440"/></Shape>
+	    <String CONTENT="potravnej dane na čiare, v noci hliadkou oddelenia finanč-"
+                    HPOS="331"
+                    VPOS="407"
+                    WIDTH="1410"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9276ccd"
+                    TAGREFS="LT3604"
+                    BASELINE="334 523 1676 532" 
+                    HPOS="331"
+                    VPOS="489"
+                    WIDTH="1345"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="334 523 331 545 338 552 338 554 340 554 342 554 345 554 601 545 705 556 708 556 888 547 915 547 930 547 1006 558 1008 561 1674 561 1676 532 1674 492 334 489 334 523"/></Shape>
+	    <String CONTENT="nej stráže Bratislava - colný úrad. Oddelenie finančnej"
+                    HPOS="331"
+                    VPOS="489"
+                    WIDTH="1345"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_591e2a6c"
+                    TAGREFS="LT3604"
+                    BASELINE="334 607 1674 612" 
+                    HPOS="331"
+                    VPOS="572"
+                    WIDTH="1343"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="334 607 331 632 1670 636 1674 612 1672 576 334 572 334 607"/></Shape>
+	    <String CONTENT="stráže v Devíne bolo dočasne sosilnené o 6 zamestnancov"
+                    HPOS="331"
+                    VPOS="572"
+                    WIDTH="1343"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_612ecb36"
+                    TAGREFS="LT3604"
+                    BASELINE="334 690 1739 701" 
+                    HPOS="331"
+                    VPOS="650"
+                    WIDTH="1408"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="334 690 331 714 1734 723 1739 701 1739 668 334 650 334 690"/></Shape>
+	    <String CONTENT="finančnej stráže. Rozkaz, ktorý dňa 20.apríla 1938 pod ci-"
+                    HPOS="331"
+                    VPOS="650"
+                    WIDTH="1408"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f0578d9"
+                    TAGREFS="LT3604"
+                    BASELINE="331 772 1734 786" 
+                    HPOS="329"
+                    VPOS="737"
+                    WIDTH="1405"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="331 772 329 797 1730 808 1734 786 1732 752 331 737 331 772"/></Shape>
+	    <String CONTENT="tovaným čislom generálne finančné riaditel&#x27;stvo v Bratisla-"
+                    HPOS="329"
+                    VPOS="737"
+                    WIDTH="1405"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a6f246f"
+                    TAGREFS="LT3604"
+                    BASELINE="331 857 1160 863" 
+                    HPOS="329"
+                    VPOS="826"
+                    WIDTH="831"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="331 857 329 879 1155 886 1160 863 1158 832 331 826 331 857"/></Shape>
+	    <String CONTENT="ve vydalo, sa v prílohe pripojuje."
+                    HPOS="329"
+                    VPOS="826"
+                    WIDTH="831"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6000173"
+                    TAGREFS="LT3604"
+                    BASELINE="585 941 1672 955" 
+                    HPOS="583"
+                    VPOS="904"
+                    WIDTH="1089"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="585 941 583 966 1668 975 1672 955 1672 919 585 904 585 941"/></Shape>
+	    <String CONTENT="Zemské četnícke velitel&#x27;stvo v Bratislave sem"
+                    HPOS="583"
+                    VPOS="904"
+                    WIDTH="1089"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71ba9aa2"
+                    TAGREFS="LT3604"
+                    BASELINE="329 1024 1708 1037" 
+                    HPOS="327"
+                    VPOS="988"
+                    WIDTH="1381"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="329 1024 327 1044 1703 1057 1708 1037 1708 997 329 988 329 1024"/></Shape>
+	    <String CONTENT="dňa 20.apríla 1938 čislo 7873-1/1938 zeslalo pÍsomný roz-"
+                    HPOS="327"
+                    VPOS="988"
+                    WIDTH="1381"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a83f836c"
+                    TAGREFS="LT3604"
+                    BASELINE="325 1106 1692 1120" 
+                    HPOS="322"
+                    VPOS="1068"
+                    WIDTH="1370"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="325 1106 322 1133 1688 1142 1692 1120 1692 1088 325 1068 325 1106"/></Shape>
+	    <String CONTENT="kaz, ktorý dodatkom k ústnemu rozkazu vydalo velitel&#x27;stvu"
+                    HPOS="322"
+                    VPOS="1068"
+                    WIDTH="1370"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cd9c474"
+                    TAGREFS="LT3604"
+                    BASELINE="327 1189 1732 1204" 
+                    HPOS="325"
+                    VPOS="1155"
+                    WIDTH="1407"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="327 1189 325 1213 1728 1226 1732 1204 1730 1171 327 1155 327 1189"/></Shape>
+	    <String CONTENT="četníckeho oddelenia v Bratislave. Odpis tohoto rozkazu sa"
+                    HPOS="325"
+                    VPOS="1155"
+                    WIDTH="1407"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f14fea3"
+                    TAGREFS="LT3604"
+                    BASELINE="325 1273 1734 1289" 
+                    HPOS="322"
+                    VPOS="1240"
+                    WIDTH="1412"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="325 1273 322 1300 1730 1311 1734 1289 1734 1253 325 1240 325 1273"/></Shape>
+	    <String CONTENT="tiež pripojuje. Zmocnenie k nariadenému opatreniu zemskému"
+                    HPOS="322"
+                    VPOS="1240"
+                    WIDTH="1412"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03224e0b"
+                    TAGREFS="LT3604"
+                    BASELINE="325 1356 1313 1364" 
+                    HPOS="322"
+                    VPOS="1322"
+                    WIDTH="991"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="325 1356 322 1384 1309 1393 1313 1364 1311 1329 325 1322 325 1356"/></Shape>
+	    <String CONTENT="četníckemu velitel&#x27;stvu sa súčasne vydáva."
+                    HPOS="322"
+                    VPOS="1322"
+                    WIDTH="991"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44a61579"
+                    TAGREFS="LT3604"
+                    BASELINE="581 1440 1712 1456" 
+                    HPOS="579"
+                    VPOS="1407"
+                    WIDTH="1133"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="581 1440 579 1460 1708 1476 1712 1456 1712 1422 581 1407 581 1440"/></Shape>
+	    <String CONTENT="Dodatkom dovoľujem si oznámiť, že dľa hlásenia"
+                    HPOS="579"
+                    VPOS="1407"
+                    WIDTH="1133"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f3fa22b"
+                    TAGREFS="LT3604"
+                    BASELINE="320 1525 1728 1538" 
+                    HPOS="318"
+                    VPOS="1491"
+                    WIDTH="1410"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="320 1525 318 1549 1723 1556 1728 1538 1728 1507 1561 1494 1558 1494 1505 1503 1494 1494 1494 1491 1492 1491 1489 1491 1487 1491 320 1491 320 1525"/></Shape>
+	    <String CONTENT="okresného náčelníka v Šamoríne zo dňa 20. apríla 1938 obja-"
+                    HPOS="318"
+                    VPOS="1491"
+                    WIDTH="1410"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b8e7b48"
+                    TAGREFS="LT3604"
+                    BASELINE="318 1609 1754 1627" 
+                    HPOS="316"
+                    VPOS="1565"
+                    WIDTH="1438"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="316 1643 1035 1663 1037 1665 1089 1665 1089 1663 1091 1663 1093 1663 1093 1661 1111 1647 1115 1643 1750 1647 1754 1627 1754 1592 318 1565 318 1609"/></Shape>
+	    <String CONTENT="vily sa naproti obci Gútor na maďarskom ostrove Gútor ľudia"
+                    HPOS="316"
+                    VPOS="1565"
+                    WIDTH="1438"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be53f354"
+                    TAGREFS="LT3604"
+                    BASELINE="318 1698 1725 1707" 
+                    HPOS="316"
+                    VPOS="1661"
+                    WIDTH="1409"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="318 1698 316 1718 1721 1725 1725 1707 1723 1672 318 1661 318 1698"/></Shape>
+	    <String CONTENT="/: asi 45-50 rakúskych Židov :/, který sa dostali do Ma-"
+                    HPOS="316"
+                    VPOS="1661"
+                    WIDTH="1409"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49783ce2"
+                    TAGREFS="LT3604"
+                    BASELINE="316 1779 1748 1796" 
+                    HPOS="314"
+                    VPOS="1743"
+                    WIDTH="1434"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="316 1779 314 1803 1743 1814 1748 1796 1748 1763 316 1743 316 1779"/></Shape>
+	    <String CONTENT="ďarska ilegálnou cestou a čakajú na prechod do Českosloven-"
+                    HPOS="314"
+                    VPOS="1743"
+                    WIDTH="1434"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dc72485"
+                    TAGREFS="LT3604"
+                    BASELINE="314 1861 1728 1881" 
+                    HPOS="311"
+                    VPOS="1828"
+                    WIDTH="1417"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="314 1861 311 1888 1723 1903 1728 1881 1725 1848 314 1828 314 1861"/></Shape>
+	    <String CONTENT="ska. Okresný náčelník v Šamoríně urobil cestou inšpektorá-"
+                    HPOS="311"
+                    VPOS="1828"
+                    WIDTH="1417"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ec5b7b1"
+                    TAGREFS="LT3604"
+                    BASELINE="314 1946 1770 1968" 
+                    HPOS="311"
+                    VPOS="1903"
+                    WIDTH="1459"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="314 1946 311 1970 334 1983 336 1983 338 1983 340 1983 438 1972 483 1983 485 1983 487 1983 603 1975 810 1986 812 1986 852 1981 893 1975 904 1981 913 1988 915 1988 917 1988 919 1988 1002 1983 1104 1979 1766 2004 1770 1968 1768 1932 1512 1932 1507 1928 1494 1917 1492 1917 1489 1917 1487 1917 1382 1926 1356 1928 1351 1926 1338 1914 1336 1914 1333 1914 1331 1914 1329 1914 1305 1926 1300 1926 1293 1926 1244 1914 1242 1914 1102 1921 1064 1923 1044 1921 973 1910 970 1910 832 1919 808 1919 801 1919 766 1906 763 1906 612 1903 610 1903 547 1914 541 1914 314 1912 314 1946"/></Shape>
+	    <String CONTENT="tu pohraničnej stráže v Šamoríně ihned opatrenie, aby pohra-"
+                    HPOS="311"
+                    VPOS="1903"
+                    WIDTH="1459"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf895cb4"
+                    TAGREFS="LT3604"
+                    BASELINE="307 2035 1750 2055" 
+                    HPOS="305"
+                    VPOS="1999"
+                    WIDTH="1445"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="307 2035 305 2055 1745 2073 1750 2055 1750 2021 1498 2006 1496 2006 1420 2015 1418 2015 1416 2015 1382 2004 1380 2004 1378 2004 1293 2012 1291 2012 1289 2012 1213 2001 307 1999 307 2035"/></Shape>
+	    <String CONTENT="ničná finančná stráž na brehu Dunaja bezpodminečne precho-"
+                    HPOS="305"
+                    VPOS="1999"
+                    WIDTH="1445"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d71a64f"
+                    TAGREFS="LT3604"
+                    BASELINE="307 2119 1730 2139" 
+                    HPOS="305"
+                    VPOS="2059"
+                    WIDTH="1425"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="307 2119 305 2142 1725 2157 1730 2139 1728 2106 948 2097 919 2079 904 2068 901 2068 899 2068 307 2059 307 2119"/></Shape>
+	    <String CONTENT="du týchto ľudí na čs. pōdu zabránila. odbodné opatrenie u-"
+                    HPOS="305"
+                    VPOS="2059"
+                    WIDTH="1425"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80c5e4c2"
+                    TAGREFS="LT3604"
+                    BASELINE="305 2204 1772 2224" 
+                    HPOS="302"
+                    VPOS="2171"
+                    WIDTH="1470"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="305 2204 302 2224 1768 2246 1772 2224 1770 2184 305 2171 305 2204"/></Shape>
+	    <String CONTENT="drobilo i okresné četnícke veliteľstvo v Šamoríne. Po obdrža-"
+                    HPOS="302"
+                    VPOS="2171"
+                    WIDTH="1470"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c048dcc"
+                    TAGREFS="LT3604"
+                    BASELINE="298 2293 1734 2311" 
+                    HPOS="296"
+                    VPOS="2260"
+                    WIDTH="1438"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="298 2293 296 2315 1730 2340 1734 2311 1734 2277 298 2260 298 2293"/></Shape>
+	    <String CONTENT="ní tejto zprávy upovedomilo prezídium krajinského úradu na"
+                    HPOS="296"
+                    VPOS="2260"
+                    WIDTH="1438"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee6f8aa1"
+                    TAGREFS="LT3604"
+                    BASELINE="296 2380 1688 2398" 
+                    HPOS="293"
+                    VPOS="2346"
+                    WIDTH="1395"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="296 2380 293 2415 1683 2427 1688 2398 1685 2364 1518 2364 1514 2362 1500 2351 1498 2351 1496 2351 1494 2351 1387 2360 1371 2360 1367 2360 1342 2349 1340 2349 1338 2349 1242 2358 1231 2358 1220 2358 1129 2346 296 2346 296 2380"/></Shape>
+	    <String CONTENT="mōj pokyn ihneď generálne finančné riaditeľstvo a zemské"
+                    HPOS="293"
+                    VPOS="2346"
+                    WIDTH="1395"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

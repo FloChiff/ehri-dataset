@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19421116-US_06.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2091"
+          HEIGHT="3187"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2091"
+                  HEIGHT="3187">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_62e17780"
+                    TAGREFS="LT3626"
+                    BASELINE="284 223 1899 260" 
+                    HPOS="281"
+                    VPOS="188"
+                    WIDTH="1618"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="284 223 281 244 1894 281 1899 260 1899 225 284 188 284 223"/></Shape>
+	    <String CONTENT="impossibility of carrying out the order has lead to some"
+                    HPOS="281"
+                    VPOS="188"
+                    WIDTH="1618"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55ac84f2"
+                    TAGREFS="LT3626"
+                    BASELINE="286 273 1113 289" 
+                    HPOS="284"
+                    VPOS="239"
+                    WIDTH="829"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="286 273 284 292 433 310 435 310 534 302 560 300 1107 318 1113 289 1110 254 286 239 286 273"/></Shape>
+	    <String CONTENT="easing up on its enforcement."
+                    HPOS="284"
+                    VPOS="239"
+                    WIDTH="829"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e43c438d"
+                    TAGREFS="LT3626"
+                    BASELINE="276 408 1421 438" 
+                    HPOS="273"
+                    VPOS="377"
+                    WIDTH="1148"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="276 408 273 430 1416 464 1421 438 1421 406 276 377 276 408"/></Shape>
+	    <String CONTENT="reside without permission of the police."
+                    HPOS="273"
+                    VPOS="377"
+                    WIDTH="1148"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3627d708"
+                    TAGREFS="LT3626"
+                    BASELINE="422 366 1756 398" 
+                    HPOS="419"
+                    VPOS="331"
+                    WIDTH="1337"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="422 366 419 395 422 398 425 398 425 401 427 401 430 401 433 401 531 390 765 408 767 408 1192 406 1200 416 1203 416 1203 419 1206 419 1208 419 1211 419 1357 411 1533 427 1535 427 1753 416 1756 398 1753 363 422 331 422 366"/></Shape>
+	    <String CONTENT="3. Jews can not leave the towns in which they"
+                    HPOS="419"
+                    VPOS="331"
+                    WIDTH="1337"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcf45826"
+                    TAGREFS="LT3626"
+                    BASELINE="271 549 1886 589" 
+                    HPOS="268"
+                    VPOS="515"
+                    WIDTH="1618"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="271 549 268 576 278 584 281 584 284 584 483 589 486 589 913 586 1131 605 1134 605 1668 605 1780 621 1782 621 1883 608 1886 589 1883 555 271 515 271 549"/></Shape>
+	    <String CONTENT="29, reads as follows: &quot;Jews living in Sofia are subject"
+                    HPOS="268"
+                    VPOS="515"
+                    WIDTH="1618"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a20b68b9"
+                    TAGREFS="LT3626"
+                    BASELINE="419 509 1891 536" 
+                    HPOS="417"
+                    VPOS="475"
+                    WIDTH="1474"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="419 509 417 533 438 547 441 547 443 547 446 547 539 533 759 549 762 549 765 549 794 539 858 555 860 555 863 555 1099 544 1373 563 1376 563 1378 563 1416 549 1448 565 1450 565 1453 565 1522 552 1745 571 1748 573 1870 573 1870 571 1873 571 1875 571 1889 557 1891 536 1891 501 419 475 419 509"/></Shape>
+	    <String CONTENT="4. The most oppressive article in the Law, article"
+                    HPOS="417"
+                    VPOS="475"
+                    WIDTH="1474"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0a4d5b4"
+                    TAGREFS="LT3626"
+                    BASELINE="273 602 1936 640" 
+                    HPOS="271"
+                    VPOS="568"
+                    WIDTH="1665"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="273 602 271 618 406 637 1931 658 1936 640 1936 605 273 568 273 602"/></Shape>
+	    <String CONTENT="to deportation to the provinces or outside of the country."
+                    HPOS="271"
+                    VPOS="568"
+                    WIDTH="1665"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea940551"
+                    TAGREFS="LT3626"
+                    BASELINE="271 648 1912 685" 
+                    HPOS="268"
+                    VPOS="613"
+                    WIDTH="1644"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="271 648 268 666 414 685 417 687 1036 687 1089 701 1091 701 1094 701 1660 701 1668 711 1671 711 1671 714 1673 714 1676 714 1679 714 1910 703 1912 685 1910 650 271 613 271 648"/></Shape>
+	    <String CONTENT="In any case by November 1, 1942, all Jews living in Sofia"
+                    HPOS="268"
+                    VPOS="613"
+                    WIDTH="1644"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8fb885d"
+                    TAGREFS="LT3626"
+                    BASELINE="268 693 1939 735" 
+                    HPOS="265"
+                    VPOS="658"
+                    WIDTH="1674"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="268 693 265 711 1934 754 1939 735 1939 701 268 658 268 693"/></Shape>
+	    <String CONTENT="who are unemployed in accordance with the Law for National"
+                    HPOS="265"
+                    VPOS="658"
+                    WIDTH="1674"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3710aee0"
+                    TAGREFS="LT3626"
+                    BASELINE="265 740 1822 778" 
+                    HPOS="263"
+                    VPOS="706"
+                    WIDTH="1559"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="265 740 263 762 1817 802 1822 778 1819 743 265 706 265 740"/></Shape>
+	    <String CONTENT="Defense, or in accordance with the present decree, and"
+                    HPOS="263"
+                    VPOS="706"
+                    WIDTH="1559"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_633dc062"
+                    TAGREFS="LT3626"
+                    BASELINE="268 794 1656 827" 
+                    HPOS="263"
+                    VPOS="756"
+                    WIDTH="1392"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="265 791 263 807 1649 841 1655 825 1652 791 265 756 265 791"/></Shape>
+	    <String CONTENT="who have no other occupation, must be deported.&quot;"
+                    HPOS="263"
+                    VPOS="756"
+                    WIDTH="1392"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_995727a3"
+                    TAGREFS="LT3626"
+                    BASELINE="398 884 1944 921" 
+                    HPOS="395"
+                    VPOS="849"
+                    WIDTH="1549"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="398 884 395 908 1939 945 1944 921 1944 887 398 849 398 884"/></Shape>
+	    <String CONTENT="We are reliably informed from Sofia that deportations"
+                    HPOS="395"
+                    VPOS="849"
+                    WIDTH="1549"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32e49b0d"
+                    TAGREFS="LT3626"
+                    BASELINE="255 932 1819 969" 
+                    HPOS="252"
+                    VPOS="900"
+                    WIDTH="1567"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="255 932 252 950 1814 987 1819 969 1817 937 255 900 255 932"/></Shape>
+	    <String CONTENT="under this article have already begun and that several"
+                    HPOS="252"
+                    VPOS="900"
+                    WIDTH="1567"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fcea382"
+                    TAGREFS="LT3626"
+                    BASELINE="257 980 1705 1014" 
+                    HPOS="255"
+                    VPOS="945"
+                    WIDTH="1450"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="257 980 255 998 369 1017 1230 1022 1254 1038 1256 1038 1259 1038 1262 1038 1703 1033 1705 1014 1703 980 257 945 257 980"/></Shape>
+	    <String CONTENT="thousand people are being rounded up for immediate"
+                    HPOS="255"
+                    VPOS="945"
+                    WIDTH="1450"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbe9ac44"
+                    TAGREFS="LT3626"
+                    BASELINE="255 1030 1854 1062" 
+                    HPOS="252"
+                    VPOS="995"
+                    WIDTH="1602"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="255 1030 252 1049 308 1064 310 1064 313 1064 650 1059 690 1072 693 1072 696 1072 775 1062 1054 1080 1057 1080 1184 1070 1214 1083 1216 1083 1219 1083 1368 1075 1453 1088 1455 1088 1851 1080 1854 1062 1854 1027 255 995 255 1030"/></Shape>
+	    <String CONTENT="deportation. The destination of these deportees is not"
+                    HPOS="252"
+                    VPOS="995"
+                    WIDTH="1602"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fac374a2"
+                    TAGREFS="LT3626"
+                    BASELINE="252 1080 438 1080" 
+                    HPOS="252"
+                    VPOS="1049"
+                    WIDTH="186"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="252 1080 252 1107 438 1107 438 1080 438 1049 252 1049 252 1080"/></Shape>
+	    <String CONTENT="known."
+                    HPOS="252"
+                    VPOS="1049"
+                    WIDTH="186"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e759dc8b"
+                    TAGREFS="LT3626"
+                    BASELINE="244 1171 1530 1203" 
+                    HPOS="241"
+                    VPOS="1136"
+                    WIDTH="1289"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="244 1171 241 1205 1525 1237 1530 1203 1530 1168 244 1136 244 1171"/></Shape>
+	    <String CONTENT="Restrictions on Jewish Business Enterprises."
+                    HPOS="241"
+                    VPOS="1136"
+                    WIDTH="1289"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41983963"
+                    TAGREFS="LT3626"
+                    BASELINE="385 1269 1843 1304" 
+                    HPOS="382"
+                    VPOS="1234"
+                    WIDTH="1461"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="385 1269 382 1288 1838 1322 1843 1304 1843 1269 385 1234 385 1269"/></Shape>
+	    <String CONTENT="1. Jews who are not allowed to engage in commerce"
+                    HPOS="382"
+                    VPOS="1234"
+                    WIDTH="1461"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41d34507"
+                    TAGREFS="LT3626"
+                    BASELINE="252 1317 1812 1343" 
+                    HPOS="249"
+                    VPOS="1282"
+                    WIDTH="1563"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="252 1317 249 1338 1806 1365 1812 1343 1812 1309 252 1282 252 1317"/></Shape>
+	    <String CONTENT="and industry can not invest their capital in any other"
+                    HPOS="249"
+                    VPOS="1282"
+                    WIDTH="1563"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d44d6c70"
+                    TAGREFS="LT3626"
+                    BASELINE="244 1362 1809 1396" 
+                    HPOS="241"
+                    VPOS="1327"
+                    WIDTH="1568"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="244 1362 241 1383 1804 1418 1809 1396 1809 1365 244 1327 244 1362"/></Shape>
+	    <String CONTENT="business enterprise. Jews are not allowed to open any"
+                    HPOS="241"
+                    VPOS="1327"
+                    WIDTH="1568"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ab7f504"
+                    TAGREFS="LT3626"
+                    BASELINE="239 1415 940 1426" 
+                    HPOS="236"
+                    VPOS="1381"
+                    WIDTH="704"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="239 1415 236 1434 935 1450 940 1426 937 1391 239 1381 239 1415"/></Shape>
+	    <String CONTENT="new business enterprise."
+                    HPOS="236"
+                    VPOS="1381"
+                    WIDTH="704"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c50e8f8"
+                    TAGREFS="LT3626"
+                    BASELINE="379 1505 1729 1537" 
+                    HPOS="377"
+                    VPOS="1471"
+                    WIDTH="1352"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="379 1505 377 1532 390 1543 393 1543 395 1543 398 1543 488 1532 603 1548 605 1551 1272 1551 1285 1561 1285 1564 1288 1564 1291 1564 1293 1564 1357 1553 1615 1572 1618 1572 1727 1558 1729 1537 1727 1503 379 1471 379 1505"/></Shape>
+	    <String CONTENT="2. Jews who have been allowed to retain their"
+                    HPOS="377"
+                    VPOS="1471"
+                    WIDTH="1352"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9204413"
+                    TAGREFS="LT3626"
+                    BASELINE="239 1556 1285 1574" 
+                    HPOS="236"
+                    VPOS="1519"
+                    WIDTH="1049"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="239 1556 236 1580 1280 1598 1285 1574 1285 1540 239 1519 239 1556"/></Shape>
+	    <String CONTENT="occupational rights are not allowed:"
+                    HPOS="236"
+                    VPOS="1519"
+                    WIDTH="1049"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e47b14fd"
+                    TAGREFS="LT3626"
+                    BASELINE="515 1659 1368 1673" 
+                    HPOS="512"
+                    VPOS="1625"
+                    WIDTH="856"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="515 1659 512 1678 563 1694 565 1694 568 1697 1365 1697 1368 1673 1368 1638 515 1625 515 1659"/></Shape>
+	    <String CONTENT="a. to hold more than one job."
+                    HPOS="512"
+                    VPOS="1625"
+                    WIDTH="856"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_125d2db2"
+                    TAGREFS="LT3626"
+                    BASELINE="518 1707 1413 1723" 
+                    HPOS="515"
+                    VPOS="1673"
+                    WIDTH="898"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="518 1707 515 1726 563 1742 565 1742 568 1742 571 1742 616 1731 1408 1752 1413 1723 1410 1689 518 1673 518 1707"/></Shape>
+	    <String CONTENT="b. to enlarge their businesses."
+                    HPOS="515"
+                    VPOS="1673"
+                    WIDTH="898"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59a60cdd"
+                    TAGREFS="LT3626"
+                    BASELINE="518 1755 1556 1776" 
+                    HPOS="515"
+                    VPOS="1720"
+                    WIDTH="1041"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="518 1755 515 1774 1551 1805 1556 1776 1556 1742 518 1720 518 1755"/></Shape>
+	    <String CONTENT="c. to form new business connections."
+                    HPOS="515"
+                    VPOS="1720"
+                    WIDTH="1041"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e75c21df"
+                    TAGREFS="LT3626"
+                    BASELINE="512 1803 1835 1827" 
+                    HPOS="510"
+                    VPOS="1768"
+                    WIDTH="1325"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="512 1803 510 1821 557 1837 560 1837 563 1840 1389 1840 1410 1853 1413 1853 1416 1853 1418 1853 1538 1843 1687 1859 1689 1859 1833 1845 1835 1827 1833 1792 512 1768 512 1803"/></Shape>
+	    <String CONTENT="d. to invest more than 500,000 leva ( 5952 at"
+                    HPOS="510"
+                    VPOS="1768"
+                    WIDTH="1325"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efd3706a"
+                    TAGREFS="LT3626"
+                    BASELINE="685 1856 1862 1880" 
+                    HPOS="682"
+                    VPOS="1821"
+                    WIDTH="1180"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="685 1856 682 1875 1857 1898 1862 1880 1859 1845 685 1821 685 1856"/></Shape>
+	    <String CONTENT="84 leva equals one dollar) and this must"
+                    HPOS="682"
+                    VPOS="1821"
+                    WIDTH="1180"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da88efce"
+                    TAGREFS="LT3626"
+                    BASELINE="685 1904 1697 1928" 
+                    HPOS="682"
+                    VPOS="1869"
+                    WIDTH="1015"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="685 1904 682 1922 1692 1954 1697 1928 1695 1893 685 1869 685 1904"/></Shape>
+	    <String CONTENT="be invested in one enterprise only."
+                    HPOS="682"
+                    VPOS="1869"
+                    WIDTH="1015"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b00db51a"
+                    TAGREFS="LT3626"
+                    BASELINE="366 1989 1947 2026" 
+                    HPOS="363"
+                    VPOS="1954"
+                    WIDTH="1584"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="366 1989 363 2010 1942 2047 1947 2026 1947 1991 366 1954 366 1989"/></Shape>
+	    <String CONTENT="3. Jews are entirely debarred from working in certain"
+                    HPOS="363"
+                    VPOS="1954"
+                    WIDTH="1584"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea7f4297"
+                    TAGREFS="LT3626"
+                    BASELINE="220 2037 1883 2068" 
+                    HPOS="217"
+                    VPOS="2005"
+                    WIDTH="1666"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="220 2037 217 2055 260 2071 263 2071 265 2071 621 2066 1052 2087 1054 2090 1881 2090 1883 2068 1881 2037 220 2005 220 2037"/></Shape>
+	    <String CONTENT="enterprises. Article 33 reads in part as follows: &quot;Jews"
+                    HPOS="217"
+                    VPOS="2005"
+                    WIDTH="1666"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db939224"
+                    TAGREFS="LT3626"
+                    BASELINE="220 2087 1785 2119" 
+                    HPOS="217"
+                    VPOS="2052"
+                    WIDTH="1568"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="220 2087 217 2106 1780 2143 1785 2119 1782 2084 220 2052 220 2087"/></Shape>
+	    <String CONTENT="are debarred from production of or, trade in medicines;"
+                    HPOS="217"
+                    VPOS="2052"
+                    WIDTH="1568"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b88d4986"
+                    TAGREFS="LT3626"
+                    BASELINE="223 2135 1780 2169" 
+                    HPOS="220"
+                    VPOS="2100"
+                    WIDTH="1560"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="223 2135 220 2151 1774 2196 1780 2169 1777 2135 223 2100 223 2135"/></Shape>
+	    <String CONTENT="sanitary materials, optical instruments and chemicals,"
+                    HPOS="220"
+                    VPOS="2100"
+                    WIDTH="1560"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd71c5d1"
+                    TAGREFS="LT3626"
+                    BASELINE="220 2180 1782 2214" 
+                    HPOS="217"
+                    VPOS="2145"
+                    WIDTH="1565"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="220 2180 217 2196 496 2217 499 2217 666 2209 698 2209 810 2209 813 2214 818 2222 820 2222 820 2225 823 2225 826 2225 1777 2238 1782 2214 1780 2180 220 2145 220 2180"/></Shape>
+	    <String CONTENT="and they can not own pharmacies, drug stores, clinics,"
+                    HPOS="217"
+                    VPOS="2145"
+                    WIDTH="1565"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_512825b5"
+                    TAGREFS="LT3626"
+                    BASELINE="217 2228 1920 2262" 
+                    HPOS="215"
+                    VPOS="2193"
+                    WIDTH="1705"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="217 2228 215 2246 268 2262 271 2262 273 2262 640 2260 735 2260 743 2262 770 2273 773 2273 775 2273 921 2268 996 2265 1001 2270 1004 2276 1006 2276 1006 2278 1009 2278 1012 2278 1014 2278 1145 2273 1248 2270 1254 2276 1256 2281 1259 2281 1259 2284 1262 2284 1264 2284 1267 2284 1325 2278 1389 2273 1400 2281 1405 2286 1408 2286 1410 2286 1915 2294 1920 2262 1918 2228 217 2193 217 2228"/></Shape>
+	    <String CONTENT="et cetera.&quot; Jews are also debarred from industries, mines,"
+                    HPOS="215"
+                    VPOS="2193"
+                    WIDTH="1705"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_129732c3"
+                    TAGREFS="LT3626"
+                    BASELINE="220 2278 1936 2315" 
+                    HPOS="217"
+                    VPOS="2238"
+                    WIDTH="1719"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="220 2278 217 2297 1931 2345 1936 2315 1934 2281 220 2238 220 2278"/></Shape>
+	    <String CONTENT="trade in agricultural products, import and export, shipping"
+                    HPOS="217"
+                    VPOS="2238"
+                    WIDTH="1719"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eddb233c"
+                    TAGREFS="LT3626"
+                    BASELINE="217 2323 1899 2363" 
+                    HPOS="215"
+                    VPOS="2289"
+                    WIDTH="1684"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="217 2323 215 2342 1894 2384 1899 2363 1897 2329 217 2289 217 2323"/></Shape>
+	    <String CONTENT="transport and commission agencies. Jewish small craftsmen"
+                    HPOS="215"
+                    VPOS="2289"
+                    WIDTH="1684"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86d6d6fd"
+                    TAGREFS="LT3626"
+                    BASELINE="212 2371 1785 2403" 
+                    HPOS="209"
+                    VPOS="2337"
+                    WIDTH="1576"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="212 2371 209 2390 278 2406 281 2406 597 2400 640 2414 642 2414 645 2414 1078 2411 1259 2427 1262 2427 1782 2422 1785 2403 1782 2369 212 2337 212 2371"/></Shape>
+	    <String CONTENT="may continue to work if their working capital does not"
+                    HPOS="209"
+                    VPOS="2337"
+                    WIDTH="1576"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e77ce03d"
+                    TAGREFS="LT3626"
+                    BASELINE="212 2424 1838 2453" 
+                    HPOS="209"
+                    VPOS="2390"
+                    WIDTH="1629"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="212 2424 209 2443 1833 2472 1838 2453 1835 2419 212 2390 212 2424"/></Shape>
+	    <String CONTENT="exceed 200,000 leva ($2380.00 at 84 leva to one dollar)."
+                    HPOS="209"
+                    VPOS="2390"
+                    WIDTH="1629"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_348eba3a"
+                    TAGREFS="LT3626"
+                    BASELINE="356 2520 1878 2546" 
+                    HPOS="353"
+                    VPOS="2485"
+                    WIDTH="1525"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="356 2520 353 2541 1873 2568 1878 2546 1878 2512 356 2485 356 2520"/></Shape>
+	    <String CONTENT="4. Jews practicing professions henceforth closed to"
+                    HPOS="353"
+                    VPOS="2485"
+                    WIDTH="1525"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fc25349"
+                    TAGREFS="LT3626"
+                    BASELINE="209 2562 1368 2586" 
+                    HPOS="207"
+                    VPOS="2528"
+                    WIDTH="1161"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="209 2562 207 2586 241 2600 244 2600 1363 2613 1368 2586 1368 2552 209 2528 209 2562"/></Shape>
+	    <String CONTENT="them must liquidate by October 29, 1942."
+                    HPOS="207"
+                    VPOS="2528"
+                    WIDTH="1161"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d50e72df"
+                    TAGREFS="LT3626"
+                    BASELINE="353 2661 1873 2693" 
+                    HPOS="350"
+                    VPOS="2626"
+                    WIDTH="1523"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="353 2661 350 2690 353 2693 356 2693 356 2695 358 2695 361 2695 363 2695 603 2687 1113 2711 1115 2714 1870 2714 1873 2693 1873 2658 353 2626 353 2661"/></Shape>
+	    <String CONTENT="5. Jews debarred from commerce and industry by this"
+                    HPOS="350"
+                    VPOS="2626"
+                    WIDTH="1523"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75a51c70"
+                    TAGREFS="LT3626"
+                    BASELINE="207 2708 1750 2738" 
+                    HPOS="204"
+                    VPOS="2674"
+                    WIDTH="1546"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="207 2708 204 2727 1745 2756 1750 2738 1750 2703 207 2674 207 2708"/></Shape>
+	    <String CONTENT="act must deposit all their shares and holdings of any"
+                    HPOS="204"
+                    VPOS="2674"
+                    WIDTH="1546"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eae6894a"
+                    TAGREFS="LT3626"
+                    BASELINE="217 2756 1727 2785" 
+                    HPOS="215"
+                    VPOS="2722"
+                    WIDTH="1512"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="217 2756 215 2778 1721 2804 1727 2785 1724 2751 217 2722 217 2756"/></Shape>
+	    <String CONTENT="sort in the National Bank within two weeks after the"
+                    HPOS="215"
+                    VPOS="2722"
+                    WIDTH="1512"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dde7ada0"
+                    TAGREFS="LT3626"
+                    BASELINE="212 2807 1812 2836" 
+                    HPOS="209"
+                    VPOS="2772"
+                    WIDTH="1603"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="212 2807 209 2825 1115 2855 1118 2855 1222 2844 1227 2844 1230 2844 1267 2857 1270 2857 1272 2857 1370 2847 1373 2847 1400 2860 1402 2860 1405 2860 1479 2849 1519 2862 1522 2862 1525 2862 1809 2852 1812 2836 1812 2801 212 2772 212 2807"/></Shape>
+	    <String CONTENT="law goes into effect. The proceeds will be turned over"
+                    HPOS="209"
+                    VPOS="2772"
+                    WIDTH="1603"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f862fe5"
+                    TAGREFS="LT3626"
+                    BASELINE="212 2849 1750 2884" 
+                    HPOS="209"
+                    VPOS="2815"
+                    WIDTH="1541"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="212 2849 209 2876 220 2884 223 2884 225 2884 228 2884 783 2884 1038 2902 1041 2902 1155 2892 1275 2908 1277 2908 1748 2902 1750 2884 1748 2849 212 2815 212 2849"/></Shape>
+	    <String CONTENT="to the &quot;Fund Jewish Communities.&quot; Failure to conform"
+                    HPOS="209"
+                    VPOS="2815"
+                    WIDTH="1541"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77010c9a"
+                    TAGREFS="LT3626"
+                    BASELINE="1612 3019 1684 3027" 
+                    HPOS="1610"
+                    VPOS="2985"
+                    WIDTH="74"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1612 3019 1610 3038 1679 3046 1684 3027 1684 2993 1615 2985 1612 3019"/></Shape>
+	    <String CONTENT="to"
+                    HPOS="1610"
+                    VPOS="2985"
+                    WIDTH="74"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

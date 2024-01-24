@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP001_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2456"
+          HEIGHT="3497"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2456"
+                  HEIGHT="3497">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4254b873"
+                    TAGREFS="LT3628"
+                    BASELINE="2222 183 2323 183" 
+                    HPOS="2219"
+                    VPOS="87"
+                    WIDTH="102"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="2219 180 2219 227 2318 241 2321 180 2321 90 2219 87 2219 180"/></Shape>
+	    <String CONTENT="3."
+                    HPOS="2219"
+                    VPOS="87"
+                    WIDTH="102"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6441c9a6"
+                    TAGREFS="LT3628"
+                    BASELINE="145 407 2237 384" 
+                    HPOS="142"
+                    VPOS="308"
+                    WIDTH="2095"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="145 407 145 437 2234 428 2237 384 2228 329 1957 332 1948 329 1910 308 1907 308 1823 308 1820 308 1817 308 1814 308 1782 329 1776 332 1773 329 1735 308 1732 308 1729 308 1726 308 1680 329 1668 335 1572 329 1292 314 1289 314 1172 332 1134 338 1125 332 1108 317 1105 317 1102 317 1003 317 1000 317 997 317 953 332 921 343 880 332 828 320 825 320 822 320 662 323 659 323 656 323 641 335 627 343 595 335 557 323 554 323 551 323 481 335 399 349 367 335 344 326 341 326 338 326 294 335 236 349 142 338 145 407"/></Shape>
+	    <String CONTENT="ještě v noci /28. dubna/ prodělali desinfekci a pak jsem spal 15 hodin"
+                    HPOS="142"
+                    VPOS="308"
+                    WIDTH="2095"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7daad2b3"
+                    TAGREFS="LT3628"
+                    BASELINE="145 480 2208 463" 
+                    HPOS="142"
+                    VPOS="413"
+                    WIDTH="2066"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="145 480 145 518 2205 501 2208 463 2202 422 1175 413 1172 413 1087 428 860 416 857 416 854 416 822 431 183 422 180 422 177 422 142 434 145 480"/></Shape>
+	    <String CONTENT="jako zabitý. Spal, ačkoliv celou noc neustávalo ostřelování města"
+                    HPOS="142"
+                    VPOS="413"
+                    WIDTH="2066"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36e73da6"
+                    TAGREFS="LT3628"
+                    BASELINE="145 556 2208 533" 
+                    HPOS="142"
+                    VPOS="492"
+                    WIDTH="2066"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="145 556 145 585 2205 574 2208 533 2199 492 142 512 145 556"/></Shape>
+	    <String CONTENT="a ačkoliv se dopoledne příštího dne boj přenesl dokonce do tábora. To"
+                    HPOS="142"
+                    VPOS="492"
+                    WIDTH="2066"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c98afbf"
+                    TAGREFS="LT3628"
+                    BASELINE="145 626 2178 609" 
+                    HPOS="142"
+                    VPOS="568"
+                    WIDTH="2036"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="145 626 145 658 2175 641 2178 609 2170 568 142 582 145 626"/></Shape>
+	    <String CONTENT="se jej zúčastnili činně již i vězňové a odpoledne zavlál nad hlavní"
+                    HPOS="142"
+                    VPOS="568"
+                    WIDTH="2036"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e3dcb36"
+                    TAGREFS="LT3628"
+                    BASELINE="145 699 2231 684" 
+                    HPOS="142"
+                    VPOS="644"
+                    WIDTH="2089"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="145 699 145 731 2228 728 2231 684 2222 644 142 652 145 699"/></Shape>
+	    <String CONTENT="strážní věží prapor USA. Naši osvoboditelé nepřišli příliš brzo, neboť,"
+                    HPOS="142"
+                    VPOS="644"
+                    WIDTH="2089"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2614333"
+                    TAGREFS="LT3628"
+                    BASELINE="148 778 2263 760" 
+                    HPOS="145"
+                    VPOS="711"
+                    WIDTH="2118"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="148 778 148 818 2260 801 2263 760 2254 711 145 722 148 778"/></Shape>
+	    <String CONTENT="jak jsme se později dozvěděli, nařídil Himmler ve zvláštním rozkaze po-"
+                    HPOS="145"
+                    VPOS="711"
+                    WIDTH="2118"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1905bfd8"
+                    TAGREFS="LT3628"
+                    BASELINE="151 848 1604 833" 
+                    HPOS="148"
+                    VPOS="795"
+                    WIDTH="1456"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="151 848 151 888 221 891 242 912 242 915 245 915 247 915 250 917 358 917 358 915 361 915 425 891 440 885 565 885 577 891 606 912 609 912 612 912 615 912 720 900 723 900 726 900 726 897 729 897 732 891 740 882 775 891 816 900 819 900 877 891 933 882 947 891 971 909 974 909 977 909 980 909 982 909 1015 891 1032 906 1035 906 1038 906 1041 909 1175 909 1175 906 1178 906 1204 891 1228 880 1309 891 1365 900 1368 900 1370 900 1397 891 1449 877 1601 891 1604 833 1595 795 148 807 151 848"/></Shape>
+	    <String CONTENT="stříleti všechny dachovské vězně večer 29. dubna."
+                    HPOS="148"
+                    VPOS="795"
+                    WIDTH="1456"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

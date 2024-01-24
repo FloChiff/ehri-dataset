@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19390519-US_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1705"
+          HEIGHT="2576"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1705"
+                  HEIGHT="2576">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_41c7310c"
+                    
+                    BASELINE="372 1514 650 1517" 
+                    HPOS="369"
+                    VPOS="1485"
+                    WIDTH="279"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="371 1513 369 1539 646 1534 648 1515 646 1487 371 1485 371 1513"/></Shape>
+	    <String CONTENT="The Honorable"
+                    HPOS="369"
+                    VPOS="1485"
+                    WIDTH="279"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62251fb1"
+                    
+                    BASELINE="456 1596 955 1586" 
+                    HPOS="453"
+                    VPOS="1558"
+                    WIDTH="500"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="455 1594 455 1610 953 1603 953 1584 946 1558 453 1567 455 1594"/></Shape>
+	    <String CONTENT="The Secretary of State,"
+                    HPOS="453"
+                    VPOS="1558"
+                    WIDTH="500"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7abd3207"
+                    
+                    BASELINE="568 1668 829 1666" 
+                    HPOS="564"
+                    VPOS="1640"
+                    WIDTH="264"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="566 1667 566 1680 723 1691 725 1691 828 1678 828 1665 822 1640 564 1640 566 1667"/></Shape>
+	    <String CONTENT="Washington."
+                    HPOS="564"
+                    VPOS="1640"
+                    WIDTH="264"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2051d5f"
+                    TAGREFS="LT3626"
+                    BASELINE="461 1880 1475 1871" 
+                    HPOS="459"
+                    VPOS="1846"
+                    WIDTH="1016"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="461 1880 461 1899 1473 1901 1475 1871 1468 1846 459 1852 461 1880"/></Shape>
+	    <String CONTENT="With reference to my despatch No. 1535 of May 4,"
+                    HPOS="459"
+                    VPOS="1846"
+                    WIDTH="1016"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6608cc3"
+                    TAGREFS="LT3626"
+                    BASELINE="469 1951 1421 1942" 
+                    HPOS="465"
+                    VPOS="1914"
+                    WIDTH="954"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="468 1949 468 1972 1417 1964 1419 1940 1412 1914 465 1921 468 1949"/></Shape>
+	    <String CONTENT="(Hungarian Domestic Political Notes), wherein"
+                    HPOS="465"
+                    VPOS="1914"
+                    WIDTH="954"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33fc07ed"
+                    TAGREFS="LT3626"
+                    BASELINE="445 2024 1480 2018" 
+                    HPOS="442"
+                    VPOS="1983"
+                    WIDTH="1037"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="444 2022 444 2043 1477 2035 1479 2017 1473 1983 442 1992 444 2022"/></Shape>
+	    <String CONTENT="passage through Partiament on May 3 of the second"
+                    HPOS="442"
+                    VPOS="1983"
+                    WIDTH="1037"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b79bbd6"
+                    TAGREFS="LT3626"
+                    BASELINE="444 2091 1403 2087" 
+                    HPOS="440"
+                    VPOS="2058"
+                    WIDTH="962"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="442 2090 442 2105 818 2116 820 2116 852 2110 878 2105 897 2110 914 2116 916 2116 919 2116 921 2116 942 2112 977 2103 1249 2103 1397 2114 1402 2086 1395 2058 440 2060 442 2090"/></Shape>
+	    <String CONTENT="Bill was reported, I have the honor to report"
+                    HPOS="440"
+                    VPOS="2058"
+                    WIDTH="962"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_843848df"
+                    TAGREFS="LT3626"
+                    BASELINE="451 2165 1002 2155" 
+                    HPOS="448"
+                    VPOS="2127"
+                    WIDTH="552"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="450 2163 450 2183 1000 2170 1000 2153 994 2127 448 2135 450 2163"/></Shape>
+	    <String CONTENT="Bill now has been enacted."
+                    HPOS="448"
+                    VPOS="2127"
+                    WIDTH="552"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00a59588"
+                    TAGREFS="LT3626"
+                    BASELINE="256 2237 1494 2226" 
+                    HPOS="253"
+                    VPOS="2196"
+                    WIDTH="1239"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="255 2236 255 2247 294 2262 296 2262 298 2262 300 2262 302 2262 302 2260 315 2247 356 2247 461 2247 654 2247 657 2247 678 2258 680 2258 682 2258 807 2247 839 2245 1490 2245 1492 2223 1485 2196 253 2206 255 2236"/></Shape>
+	    <String CONTENT="1/ There is appended hereto a translation of the new"
+                    HPOS="253"
+                    VPOS="2196"
+                    WIDTH="1239"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a51a2a7"
+                    TAGREFS="LT3626"
+                    BASELINE="257 2305 1447 2296" 
+                    HPOS="255"
+                    VPOS="2269"
+                    WIDTH="1192"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="257 2305 257 2322 272 2333 274 2333 277 2333 279 2333 281 2333 313 2322 551 2333 554 2333 659 2331 661 2331 663 2331 663 2329 674 2320 843 2331 846 2331 848 2331 850 2331 850 2329 852 2329 861 2318 912 2329 914 2329 1150 2316 1421 2324 1423 2324 1425 2324 1447 2311 1447 2296 1440 2269 255 2275 257 2305"/></Shape>
+	    <String CONTENT="2/ law as finally enacted, together with a copy of the"
+                    HPOS="255"
+                    VPOS="2269"
+                    WIDTH="1192"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e13e2d1"
+                    TAGREFS="LT3626"
+                    BASELINE="259 2378 1466 2365" 
+                    HPOS="257"
+                    VPOS="2339"
+                    WIDTH="1209"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="259 2378 259 2397 1262 2399 1264 2399 1266 2399 1269 2399 1284 2389 1412 2397 1415 2397 1466 2384 1466 2365 1460 2339 257 2350 259 2378"/></Shape>
+	    <String CONTENT="3/ original Bill and of the motivation made at the time"
+                    HPOS="257"
+                    VPOS="2339"
+                    WIDTH="1209"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90f25853"
+                    TAGREFS="LT3626"
+                    BASELINE="1309 2470 1468 2466" 
+                    HPOS="1307"
+                    VPOS="2438"
+                    WIDTH="161"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1309 2470 1309 2492 1440 2507 1443 2507 1445 2507 1447 2507 1468 2487 1468 2466 1462 2438 1307 2440 1309 2470"/></Shape>
+	    <String CONTENT="of its"
+                    HPOS="1307"
+                    VPOS="2438"
+                    WIDTH="161"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

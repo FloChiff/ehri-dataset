@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19431111-DK_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2474"
+          HEIGHT="4034"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2474"
+                  HEIGHT="4034">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1920bd9a"
+                    TAGREFS="LT3627"
+                    BASELINE="1514 245 1858 245" 
+                    HPOS="1514"
+                    VPOS="201"
+                    WIDTH="344"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1514 245 1514 292 1854 302 1858 245 1858 201 1514 201 1514 245"/></Shape>
+	    <String CONTENT="Fortrolig."
+                    HPOS="1514"
+                    VPOS="201"
+                    WIDTH="344"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4eee32f9"
+                    TAGREFS="LT3627"
+                    BASELINE="1518 389 1864 379" 
+                    HPOS="1514"
+                    VPOS="336"
+                    WIDTH="350"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1518 389 1518 423 1864 416 1864 379 1854 336 1514 339 1518 389"/></Shape>
+	    <String CONTENT="1.11.1943."
+                    HPOS="1514"
+                    VPOS="336"
+                    WIDTH="350"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6df2e0b"
+                    TAGREFS="LT3627"
+                    BASELINE="892 520 1417 514" 
+                    HPOS="888"
+                    VPOS="467"
+                    WIDTH="525"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="891 517 891 558 1410 554 1413 510 1406 467 888 467 891 517"/></Shape>
+	    <String CONTENT="Jødespørgsmaalet"
+                    HPOS="888"
+                    VPOS="467"
+                    WIDTH="525"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68ded69d"
+                    
+                    BASELINE="1102 595 1170 591" 
+                    HPOS="1093"
+                    VPOS="544"
+                    WIDTH="74"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1100 591 1100 628 1167 625 1167 588 1157 544 1093 544 1100 591"/></Shape>
+	    <String CONTENT="i"
+                    HPOS="1093"
+                    VPOS="544"
+                    WIDTH="74"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_456a5dfc"
+                    TAGREFS="LT3627"
+                    BASELINE="1014 665 1309 665" 
+                    HPOS="1013"
+                    VPOS="618"
+                    WIDTH="293"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1013 662 1013 716 1306 705 1306 662 1302 618 1013 618 1013 662"/></Shape>
+	    <String CONTENT="Tyskland."
+                    HPOS="1013"
+                    VPOS="618"
+                    WIDTH="293"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bedde0a"
+                    TAGREFS="LT3627"
+                    BASELINE="511 863 2268 863" 
+                    HPOS="511"
+                    VPOS="820"
+                    WIDTH="1757"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="511 863 511 894 2268 894 2268 863 2268 820 511 820 511 863"/></Shape>
+	    <String CONTENT="I Tiden fra Foraaret 1940 til Foraaret 1943 blev Jøderne"
+                    HPOS="511"
+                    VPOS="820"
+                    WIDTH="1757"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83e6bf5e"
+                    TAGREFS="LT3627"
+                    BASELINE="360 941 2268 934" 
+                    HPOS="356"
+                    VPOS="894"
+                    WIDTH="1912"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 941 360 971 2265 964 2268 934 2258 894 356 897 360 941"/></Shape>
+	    <String CONTENT="i Tyskland deporteret. Deportationen begyndte i Stettin i Fe-"
+                    HPOS="356"
+                    VPOS="894"
+                    WIDTH="1912"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e216b60d"
+                    TAGREFS="LT3627"
+                    BASELINE="360 1015 2241 1015" 
+                    HPOS="360"
+                    VPOS="974"
+                    WIDTH="1881"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="360 1015 360 1045 2241 1045 2241 1015 2241 974 360 974 360 1015"/></Shape>
+	    <String CONTENT="bruar 1940 og er nu i det store og hele gennemført, saaledes"
+                    HPOS="360"
+                    VPOS="974"
+                    WIDTH="1881"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_420f5483"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1095 2268 1085" 
+                    HPOS="360"
+                    VPOS="1045"
+                    WIDTH="1908"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="363 1095 363 1122 2265 1112 2268 1085 2258 1045 360 1052 363 1095"/></Shape>
+	    <String CONTENT="at alle de ældre (oprindelig over 65, nu over 70 Aar) kom til"
+                    HPOS="360"
+                    VPOS="1045"
+                    WIDTH="1908"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8992a90"
+                    TAGREFS="LT3627"
+                    BASELINE="360 1166 2268 1159" 
+                    HPOS="356"
+                    VPOS="1119"
+                    WIDTH="1912"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 1166 360 1196 2265 1190 2268 1159 2258 1119 356 1122 360 1166"/></Shape>
+	    <String CONTENT="Theresienstadt i Protektoratet Böhmen-Mähren, hvilken By blev"
+                    HPOS="356"
+                    VPOS="1119"
+                    WIDTH="1912"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ead37c5"
+                    TAGREFS="LT3627"
+                    BASELINE="360 1243 2292 1233" 
+                    HPOS="356"
+                    VPOS="1193"
+                    WIDTH="1936"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="360 1243 360 1274 2288 1263 2292 1233 2282 1193 356 1200 360 1243"/></Shape>
+	    <String CONTENT="rømmet for sin tidligere Befolkning. Byen, der oprindelig hav-"
+                    HPOS="356"
+                    VPOS="1193"
+                    WIDTH="1936"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da8465d7"
+                    TAGREFS="LT3627"
+                    BASELINE="360 1317 2285 1317" 
+                    HPOS="360"
+                    VPOS="1277"
+                    WIDTH="1925"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="360 1317 360 1348 2285 1348 2285 1317 2285 1277 360 1277 360 1317"/></Shape>
+	    <String CONTENT="de 20 à 25.000 Indbyggere, rummer vistnok nu ca. 50.000 Jøder."
+                    HPOS="360"
+                    VPOS="1277"
+                    WIDTH="1925"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8daa0707"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1395 2235 1388" 
+                    HPOS="360"
+                    VPOS="1348"
+                    WIDTH="1875"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="363 1395 363 1421 2231 1415 2235 1388 2224 1348 360 1351 363 1395"/></Shape>
+	    <String CONTENT="Ogsaa som Følge af, at Befolkningen kun bestaar af Gamle, er"
+                    HPOS="360"
+                    VPOS="1348"
+                    WIDTH="1875"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82aeb710"
+                    TAGREFS="LT3627"
+                    BASELINE="360 1465 2211 1458" 
+                    HPOS="356"
+                    VPOS="1418"
+                    WIDTH="1855"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 1465 360 1495 2208 1489 2211 1458 2201 1418 356 1421 360 1465"/></Shape>
+	    <String CONTENT="Afgangen dog til Stadighed meget stor.Yngre Jøder et blevet"
+                    HPOS="356"
+                    VPOS="1418"
+                    WIDTH="1855"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fc03999"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1543 2356 1536" 
+                    HPOS="360"
+                    VPOS="1495"
+                    WIDTH="1996"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="363 1543 363 1579 2356 1566 2356 1536 2346 1495 360 1499 363 1543"/></Shape>
+	    <String CONTENT="indsat til Arbejde forskellige Steder i de østlige Omraader. De-"
+                    HPOS="360"
+                    VPOS="1495"
+                    WIDTH="1996"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a16d1ad"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1620 2265 1613" 
+                    HPOS="360"
+                    VPOS="1569"
+                    WIDTH="1905"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="363 1620 363 1650 2261 1643 2265 1613 2255 1569 360 1573 363 1620"/></Shape>
+	    <String CONTENT="portationen har været praktiseret noget forskelligt i de for-"
+                    HPOS="360"
+                    VPOS="1569"
+                    WIDTH="1905"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0949646c"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1694 1194 1694" 
+                    HPOS="363"
+                    VPOS="1650"
+                    WIDTH="831"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="363 1694 363 1724 1194 1721 1194 1694 1194 1650 363 1650 363 1694"/></Shape>
+	    <String CONTENT="skellige Egne af Tyskland."
+                    HPOS="363"
+                    VPOS="1650"
+                    WIDTH="831"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab666e43"
+                    TAGREFS="LT3627"
+                    BASELINE="541 1768 2275 1768" 
+                    HPOS="541"
+                    VPOS="1724"
+                    WIDTH="1734"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="541 1768 541 1798 2275 1798 2275 1768 2275 1724 541 1724 541 1768"/></Shape>
+	    <String CONTENT="De Undtagelser, som ifølge Lovgivningen gælder paa vis-"
+                    HPOS="541"
+                    VPOS="1724"
+                    WIDTH="1734"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_550bf08b"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1845 2295 1838" 
+                    HPOS="360"
+                    VPOS="1798"
+                    WIDTH="1935"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="363 1845 363 1869 2295 1865 2295 1838 2285 1798 360 1801 363 1845"/></Shape>
+	    <String CONTENT="se Omraader fra Foranstaltningerne mod Jøderne, med Hensyn til"
+                    HPOS="360"
+                    VPOS="1798"
+                    WIDTH="1935"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7131c033"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1912 2268 1919" 
+                    HPOS="360"
+                    VPOS="1865"
+                    WIDTH="1908"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="363 1912 360 1943 2265 1943 2268 1919 2265 1872 363 1865 363 1912"/></Shape>
+	    <String CONTENT="Jøder gift med Ariere er ikke i fuldt Omfang blevet iagttaget"
+                    HPOS="360"
+                    VPOS="1865"
+                    WIDTH="1908"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04b7f3ce"
+                    TAGREFS="LT3627"
+                    BASELINE="363 1993 2265 1986" 
+                    HPOS="360"
+                    VPOS="1946"
+                    WIDTH="1905"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="363 1993 363 2023 2261 2017 2265 1986 2255 1946 360 1949 363 1993"/></Shape>
+	    <String CONTENT="ved Deportationerne. Den jødiske Ægtefælle i et saadant Ægte-"
+                    HPOS="360"
+                    VPOS="1946"
+                    WIDTH="1905"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_859a1c3b"
+                    TAGREFS="LT3627"
+                    BASELINE="363 2060 2211 2067" 
+                    HPOS="360"
+                    VPOS="2017"
+                    WIDTH="1851"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="363 2060 360 2087 2204 2094 2211 2067 2208 2023 363 2017 363 2060"/></Shape>
+	    <String CONTENT="skab skaanes sædvanlig kun, naar vedkommende bor sammen med"
+                    HPOS="360"
+                    VPOS="2017"
+                    WIDTH="1851"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_014e5e67"
+                    TAGREFS="LT3627"
+                    BASELINE="363 2141 2292 2141" 
+                    HPOS="363"
+                    VPOS="2097"
+                    WIDTH="1929"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="363 2141 363 2174 2288 2178 2292 2141 2288 2097 363 2097 363 2141"/></Shape>
+	    <String CONTENT="den ariske Part eller med eventuelle Fællesbørn, Herved er der"
+                    HPOS="363"
+                    VPOS="2097"
+                    WIDTH="1929"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66833e70"
+                    TAGREFS="LT3627"
+                    BASELINE="363 2211 2238 2218" 
+                    HPOS="360"
+                    VPOS="2168"
+                    WIDTH="1878"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="363 2211 360 2238 2231 2245 2238 2218 2235 2174 363 2168 363 2211"/></Shape>
+	    <String CONTENT="i Almindelighed ikke blevet gjort Forskel paa, om Børnene er"
+                    HPOS="360"
+                    VPOS="2168"
+                    WIDTH="1878"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5f1622b"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2285 1188 2292" 
+                    HPOS="356"
+                    VPOS="2242"
+                    WIDTH="832"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="360 2285 356 2316 1181 2322 1188 2292 1184 2248 360 2242 360 2285"/></Shape>
+	    <String CONTENT="mindreaarige eller voskne."
+                    HPOS="356"
+                    VPOS="2242"
+                    WIDTH="832"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b60f5279"
+                    TAGREFS="LT3627"
+                    BASELINE="541 2359 2261 2369" 
+                    HPOS="538"
+                    VPOS="2312"
+                    WIDTH="1723"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="541 2359 538 2386 2255 2396 2261 2369 2258 2322 541 2312 541 2359"/></Shape>
+	    <String CONTENT="Der foreligger saaledes adskillige Tilfælde, hvor jødi-"
+                    HPOS="538"
+                    VPOS="2312"
+                    WIDTH="1723"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff5d9f20"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2440 2238 2447" 
+                    HPOS="356"
+                    VPOS="2393"
+                    WIDTH="1882"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 2440 356 2464 2231 2470 2238 2447 2235 2400 360 2393 360 2440"/></Shape>
+	    <String CONTENT="ske Mænd gift med ariske Kvinder er blevet deporteret, deri-"
+                    HPOS="356"
+                    VPOS="2393"
+                    WIDTH="1882"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1785c09c"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2511 2295 2517" 
+                    HPOS="356"
+                    VPOS="2467"
+                    WIDTH="1939"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="360 2511 356 2538 2288 2548 2295 2517 2295 2474 360 2467 360 2511"/></Shape>
+	    <String CONTENT="mod vist intet Tilfælde af Deportation af jødiske Kvinder gift"
+                    HPOS="356"
+                    VPOS="2467"
+                    WIDTH="1939"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b9e56f4"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2585 2231 2595" 
+                    HPOS="356"
+                    VPOS="2541"
+                    WIDTH="1875"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="360 2585 356 2612 2224 2622 2231 2595 2228 2551 360 2541 360 2585"/></Shape>
+	    <String CONTENT="med ariske Mænd. Der skal endvidere være forekommet Tilfælde,"
+                    HPOS="356"
+                    VPOS="2541"
+                    WIDTH="1875"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b379638d"
+                    TAGREFS="LT3627"
+                    BASELINE="363 2659 2298 2669" 
+                    HPOS="360"
+                    VPOS="2615"
+                    WIDTH="1938"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="363 2659 360 2696 2295 2696 2298 2669 2298 2625 363 2615 363 2659"/></Shape>
+	    <String CONTENT="hvore den jødiske Ægtefælle er blevet deporteret efter at Ægto-"
+                    HPOS="360"
+                    VPOS="2615"
+                    WIDTH="1938"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e809b42"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2739 2268 2746" 
+                    HPOS="356"
+                    VPOS="2696"
+                    WIDTH="1912"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="360 2739 356 2763 2261 2770 2268 2746 2265 2702 360 2696 360 2739"/></Shape>
+	    <String CONTENT="parrets eneste Søn er faldet i Krigen, hvilket ellers i Jøde-"
+                    HPOS="356"
+                    VPOS="2696"
+                    WIDTH="1912"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8238cb0"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2817 2292 2823" 
+                    HPOS="356"
+                    VPOS="2773"
+                    WIDTH="1936"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 2817 356 2843 2285 2850 2292 2823 2288 2776 360 2773 360 2817"/></Shape>
+	    <String CONTENT="lovgivningen begrunder en priviligeret Stilling. Dette motive-"
+                    HPOS="356"
+                    VPOS="2773"
+                    WIDTH="1936"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26cdaf12"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2891 2238 2897" 
+                    HPOS="356"
+                    VPOS="2843"
+                    WIDTH="1882"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="360 2891 356 2914 2231 2921 2238 2897 2235 2850 360 2843 360 2891"/></Shape>
+	    <String CONTENT="res med, at Undtagelse fra Deportation kun kan begrundes med"
+                    HPOS="356"
+                    VPOS="2843"
+                    WIDTH="1882"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_867370e1"
+                    TAGREFS="LT3627"
+                    BASELINE="360 2964 2292 2975" 
+                    HPOS="356"
+                    VPOS="2917"
+                    WIDTH="1936"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="360 2964 356 2991 2285 3001 2292 2975 2288 2931 360 2917 360 2964"/></Shape>
+	    <String CONTENT="Hensynet til Ægtefællen eller Børnene, og at dette Hensyn ikke"
+                    HPOS="356"
+                    VPOS="2917"
+                    WIDTH="1936"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32c85130"
+                    TAGREFS="LT3627"
+                    BASELINE="356 3042 2295 3052" 
+                    HPOS="353"
+                    VPOS="2991"
+                    WIDTH="1942"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="356 3042 353 3065 2288 3075 2295 3052 2295 3008 356 2991 356 3042"/></Shape>
+	    <String CONTENT="mere gør sig gældende, naar Barnet ikke bor hjemme, jfr. oven-"
+                    HPOS="353"
+                    VPOS="2991"
+                    WIDTH="1942"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbce4941"
+                    TAGREFS="LT3627"
+                    BASELINE="356 3112 1309 3122" 
+                    HPOS="353"
+                    VPOS="3065"
+                    WIDTH="956"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="356 3112 353 3136 1302 3146 1309 3122 1306 3075 356 3065 356 3112"/></Shape>
+	    <String CONTENT="for, eller er faldet i Krigen."
+                    HPOS="353"
+                    VPOS="3065"
+                    WIDTH="956"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_716275e7"
+                    TAGREFS="LT3627"
+                    BASELINE="575 3186 2235 3200" 
+                    HPOS="572"
+                    VPOS="3143"
+                    WIDTH="1663"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="575 3186 572 3213 2228 3227 2235 3200 2231 3156 575 3143 575 3186"/></Shape>
+	    <String CONTENT="Ihvorvel Jødelovgivningen i Princippet kun gælder for"
+                    HPOS="572"
+                    VPOS="3143"
+                    WIDTH="1663"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4118ba5"
+                    TAGREFS="LT3627"
+                    BASELINE="360 3260 2185 3277" 
+                    HPOS="353"
+                    VPOS="3213"
+                    WIDTH="1831"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="356 3257 353 3284 2177 3301 2184 3274 2181 3230 356 3213 356 3257"/></Shape>
+	    <String CONTENT="Jøder, findes der i Praksis vedrørende Mischlinge (Halv-og"
+                    HPOS="353"
+                    VPOS="3213"
+                    WIDTH="1831"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c815dd0b"
+                    TAGREFS="LT3627"
+                    BASELINE="356 3338 2295 3351" 
+                    HPOS="353"
+                    VPOS="3294"
+                    WIDTH="1942"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="356 3338 353 3371 2288 3375 2295 3351 2295 3307 356 3294 356 3338"/></Shape>
+	    <String CONTENT="Kvartjøder) saa mange Særbestemmelser, at de maa betragtes som"
+                    HPOS="353"
+                    VPOS="3294"
+                    WIDTH="1942"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be664e3e"
+                    TAGREFS="LT3627"
+                    BASELINE="360 3415 2197 3425" 
+                    HPOS="356"
+                    VPOS="3371"
+                    WIDTH="1841"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="360 3415 356 3438 2191 3449 2197 3425 2194 3381 360 3371 360 3415"/></Shape>
+	    <String CONTENT="en særlig Klasse, hvortil kommer, at der paa alle Omraader,"
+                    HPOS="356"
+                    VPOS="3371"
+                    WIDTH="1841"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_254f7239"
+                    TAGREFS="LT3627"
+                    BASELINE="356 3489 2319 3502" 
+                    HPOS="353"
+                    VPOS="3445"
+                    WIDTH="1966"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="356 3489 353 3512 2312 3526 2319 3502 2319 3459 356 3445 356 3489"/></Shape>
+	    <String CONTENT="hvor Administrationens Skøn er afgørende, maa regnes med dennes"
+                    HPOS="353"
+                    VPOS="3445"
+                    WIDTH="1966"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279ec37"
+                    TAGREFS="LT3627"
+                    BASELINE="360 3563 2319 3576" 
+                    HPOS="356"
+                    VPOS="3519"
+                    WIDTH="1963"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="360 3563 356 3590 2312 3603 2319 3576 2315 3533 360 3519 360 3563"/></Shape>
+	    <String CONTENT="i Princippet antijødiske Indstilling. Der findes indenfor leden-"
+                    HPOS="356"
+                    VPOS="3519"
+                    WIDTH="1963"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d881d4b"
+                    TAGREFS="LT3627"
+                    BASELINE="360 3633 2288 3650" 
+                    HPOS="356"
+                    VPOS="3590"
+                    WIDTH="1932"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="360 3633 356 3677 2282 3687 2288 3650 2285 3607 360 3590 360 3633"/></Shape>
+	    <String CONTENT="de Kresdse to Strømninger, een der ønsker at indskrænke Jødebe-"
+                    HPOS="356"
+                    VPOS="3590"
+                    WIDTH="1932"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

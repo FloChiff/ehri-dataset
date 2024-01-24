@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-ZIH3010884_01.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9604" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3614" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1310"
+          HEIGHT="1842"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1310"
+                  HEIGHT="1842">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6ba4e331"
+                    TAGREFS="LT3614"
+                    BASELINE="531 240 1239 240" 
+                    HPOS="531"
+                    VPOS="202"
+                    WIDTH="708"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="531 240 531 257 1237 260 1239 240 1239 216 1199 207 1197 207 1196 207 1144 214 1133 216 1121 214 1079 207 1078 207 1076 207 1075 207 1075 208 1068 213 1065 217 985 217 976 211 964 204 962 204 961 204 959 204 958 204 939 210 924 216 913 210 904 205 903 205 901 205 878 208 843 216 833 208 830 205 830 204 829 204 827 204 718 202 717 202 715 202 707 205 680 217 618 217 603 204 602 204 600 204 531 202 531 240"/></Shape>
+	    <String CONTENT="Zeznanie jedenastoletniej Renaty Trau przedsta"
+                    HPOS="531"
+                    VPOS="202"
+                    WIDTH="708"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f126f4c5"
+                    TAGREFS="LT3614"
+                    BASELINE="531 293 1240 293" 
+                    HPOS="531"
+                    VPOS="270"
+                    WIDTH="709"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="531 293 531 308 568 317 569 317 571 317 591 310 606 319 608 319 609 319 611 319 652 310 666 319 668 319 669 319 671 319 672 319 674 319 684 311 735 319 737 319 738 319 740 319 754 310 755 310 922 310 924 310 938 319 939 319 941 319 942 319 1044 310 1053 310 1065 310 1210 319 1211 319 1213 319 1240 310 1240 293 1239 270 531 270 531 293"/></Shape>
+	    <String CONTENT="wia w prostych słowach przejścia dzieci w ghet"
+                    HPOS="531"
+                    VPOS="270"
+                    WIDTH="709"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92a8830b"
+                    TAGREFS="LT3614"
+                    BASELINE="531 342 1211 342" 
+                    HPOS="531"
+                    VPOS="310"
+                    WIDTH="680"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="531 342 531 356 585 365 586 365 588 365 615 357 618 357 625 357 674 365 675 365 734 359 757 357 772 360 801 365 803 365 804 365 815 360 821 357 836 360 858 365 860 365 861 365 873 360 886 357 901 362 915 365 916 365 918 365 972 362 1068 357 1090 363 1094 365 1096 365 1098 365 1108 365 1164 357 1210 365 1211 342 1211 319 1148 310 1147 310 1145 310 1130 317 1007 310 1005 310 744 317 723 310 721 310 720 310 718 310 688 317 680 310 678 310 677 310 602 310 600 310 531 317 531 342"/></Shape>
+	    <String CONTENT="cie: łapanki, ukrywanie się, utrata bliskich."
+                    HPOS="531"
+                    VPOS="310"
+                    WIDTH="680"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa84faa1"
+                    TAGREFS="LT3614"
+                    BASELINE="502 388 1239 391" 
+                    HPOS="500"
+                    VPOS="356"
+                    WIDTH="739"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="502 388 500 405 514 415 516 415 517 415 519 415 563 408 651 415 652 415 654 415 655 415 669 405 758 412 760 412 800 405 803 405 804 405 823 415 824 415 826 415 898 406 901 406 904 406 956 417 958 419 1032 419 1032 417 1033 417 1051 408 1056 406 1145 406 1153 409 1170 415 1171 415 1173 415 1174 415 1176 415 1184 409 1188 408 1236 409 1239 391 1239 357 1211 357 1210 357 1208 357 1207 357 1207 359 1194 368 1139 357 1133 357 1131 357 1130 357 1128 357 1104 369 961 369 944 360 938 357 936 357 935 357 889 360 823 366 809 362 790 356 789 356 741 356 740 356 738 356 737 356 729 363 726 365 723 363 709 356 707 356 706 356 655 363 637 366 621 365 578 356 577 356 575 356 574 356 563 365 560 366 502 366 502 388"/></Shape>
+	    <String CONTENT="Dzieciom nie wolno było się znajdować w dziel-"
+                    HPOS="500"
+                    VPOS="356"
+                    WIDTH="739"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd511c74"
+                    TAGREFS="LT3614"
+                    BASELINE="529 439 1236 443" 
+                    HPOS="528"
+                    VPOS="415"
+                    WIDTH="708"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="529 439 528 458 909 466 910 466 912 466 913 466 924 458 927 457 962 458 1093 465 1094 465 1141 458 1153 466 1154 466 1156 466 1157 466 1234 457 1236 443 1234 417 529 415 529 439"/></Shape>
+	    <String CONTENT="nicy dla pracujących. Z narażeniem życia wycho-"
+                    HPOS="528"
+                    VPOS="415"
+                    WIDTH="708"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34bfd79e"
+                    TAGREFS="LT3614"
+                    BASELINE="531 492 1199 492" 
+                    HPOS="531"
+                    VPOS="463"
+                    WIDTH="668"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="531 492 531 514 555 524 557 524 559 524 608 521 609 521 611 521 618 514 621 512 640 514 752 524 754 524 755 524 778 515 803 521 804 521 806 521 807 521 824 512 827 512 878 512 879 512 895 524 896 524 898 524 899 526 1012 526 1012 524 1075 512 1076 512 1078 512 1113 524 1114 524 1116 524 1118 524 1119 524 1137 512 1139 512 1199 512 1199 492 1197 463 856 471 841 463 840 463 838 463 836 463 820 471 801 463 800 463 798 463 754 471 709 463 707 463 706 463 677 471 666 463 664 463 663 463 661 463 602 471 531 463 531 492"/></Shape>
+	    <String CONTENT="dziły dzieci &quot;niższej rasy&quot; słuchać muzyki"
+                    HPOS="531"
+                    VPOS="463"
+                    WIDTH="668"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab2d6969"
+                    TAGREFS="LT3614"
+                    BASELINE="531 543 686 540" 
+                    HPOS="529"
+                    VPOS="517"
+                    WIDTH="157"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="531 543 532 574 566 563 583 569 592 572 594 572 595 572 597 572 598 572 598 571 603 567 609 560 628 564 657 571 658 571 660 571 686 558 686 540 681 517 529 523 531 543"/></Shape>
+	    <String CONTENT="i śpiewu."
+                    HPOS="529"
+                    VPOS="517"
+                    WIDTH="157"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37415411"
+                    TAGREFS="LT3614"
+                    BASELINE="440 644 926 640" 
+                    HPOS="439"
+                    VPOS="610"
+                    WIDTH="487"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="440 644 440 660 502 669 503 669 546 661 560 660 572 663 592 667 594 667 595 667 597 667 609 663 620 658 638 663 651 666 652 666 654 666 655 666 661 663 672 658 922 666 926 640 922 617 843 610 841 610 840 610 829 615 821 618 810 615 795 610 793 610 792 610 790 610 775 615 757 621 643 621 629 614 625 612 623 612 621 612 620 612 618 612 617 614 608 621 516 621 439 614 440 644"/></Shape>
+	    <String CONTENT="2. Protokół Nr. 884/II."
+                    HPOS="439"
+                    VPOS="610"
+                    WIDTH="487"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_501685bb"
+                    TAGREFS="LT3614"
+                    BASELINE="201 719 1210 716" 
+                    HPOS="199"
+                    VPOS="683"
+                    WIDTH="1011"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="201 719 201 742 1208 739 1210 716 1205 693 1041 693 1030 690 1012 686 1010 686 1008 686 956 690 921 693 913 690 899 683 898 683 823 683 821 683 820 683 795 689 775 693 750 689 727 684 726 684 724 684 715 689 700 696 578 696 551 687 542 684 540 684 539 684 537 684 532 686 516 695 503 686 502 684 500 684 499 684 497 684 482 686 442 692 394 686 383 684 382 684 368 686 277 695 261 684 259 684 258 684 199 684 201 719"/></Shape>
+	    <String CONTENT="Zeznań złożonych przed Wojewódzką Komisją Historyczną w Przemyślu."
+                    HPOS="199"
+                    VPOS="683"
+                    WIDTH="1011"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec76a14b"
+                    TAGREFS="LT3614"
+                    BASELINE="198 767 1225 770" 
+                    HPOS="196"
+                    VPOS="738"
+                    WIDTH="1029"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="198 767 196 787 1222 792 1225 770 1223 739 978 739 976 739 975 739 973 739 961 747 852 739 836 739 835 739 827 739 777 747 672 741 628 738 626 738 625 738 614 741 595 746 589 741 586 738 585 738 583 738 582 738 568 741 545 746 499 741 468 738 466 738 465 738 463 738 460 741 453 746 198 742 198 767"/></Shape>
+	    <String CONTENT="Odbierający zeznania dr Dawid Haupt, przewodniczący W.Z.K.H w Prze-"
+                    HPOS="196"
+                    VPOS="738"
+                    WIDTH="1029"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75da78ca"
+                    TAGREFS="LT3614"
+                    BASELINE="196 819 310 816" 
+                    HPOS="195"
+                    VPOS="776"
+                    WIDTH="115"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="196 819 196 847 236 847 238 847 239 847 254 836 308 842 310 816 305 776 195 790 196 819"/></Shape>
+	    <String CONTENT="myślu."
+                    HPOS="195"
+                    VPOS="776"
+                    WIDTH="115"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e0eb01e"
+                    TAGREFS="LT3614"
+                    BASELINE="196 893 1239 896" 
+                    HPOS="196"
+                    VPOS="859"
+                    WIDTH="1043"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="196 893 196 916 488 910 496 914 497 917 499 917 500 917 502 919 568 919 568 917 569 917 582 914 600 910 612 914 620 917 621 917 623 917 663 914 706 910 712 914 718 919 720 919 721 919 723 919 724 919 726 919 734 913 738 911 876 911 881 913 890 919 892 919 893 919 895 921 1073 921 1073 919 1075 919 1101 911 1104 911 1107 911 1151 919 1153 919 1154 919 1156 919 1165 911 1167 911 1237 911 1239 896 1237 865 941 870 922 865 906 861 904 861 903 861 879 865 858 870 838 865 812 861 810 861 809 861 795 865 784 870 775 865 764 861 763 861 761 861 715 867 692 868 686 867 668 859 666 859 489 859 488 859 486 859 465 867 460 868 454 867 434 859 433 859 431 859 430 859 413 867 408 868 402 867 380 861 379 861 377 861 196 867 196 893"/></Shape>
+	    <String CONTENT="Zeznający: Renata Trau, ur. w 1934 roku w Przemyślu, ojciec Leon, mat"
+                    HPOS="196"
+                    VPOS="859"
+                    WIDTH="1043"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_314c77b4"
+                    TAGREFS="LT3614"
+                    BASELINE="193 944 1234 948" 
+                    HPOS="191"
+                    VPOS="916"
+                    WIDTH="1043"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="193 944 191 968 466 973 468 973 469 973 471 973 476 968 482 963 516 963 525 968 539 974 540 974 542 974 571 968 585 965 629 968 732 974 734 974 770 967 781 965 786 967 800 974 801 974 803 976 861 976 861 974 863 974 881 967 887 965 892 967 916 976 918 976 919 976 921 976 939 967 941 967 1105 967 1107 967 1188 976 1190 976 1233 965 1234 948 1233 927 1179 917 1177 917 984 924 926 925 915 924 887 916 886 916 884 916 810 922 790 924 786 922 778 916 777 916 775 916 774 916 772 916 755 922 749 924 743 922 724 916 723 916 721 916 683 921 661 924 193 917 193 944"/></Shape>
+	    <String CONTENT="ka Golda zginęła wraz z drugą córką z rąk hitlerowców. Ojciec z zawo-"
+                    HPOS="191"
+                    VPOS="916"
+                    WIDTH="1043"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6a059b4"
+                    TAGREFS="LT3614"
+                    BASELINE="196 994 709 991" 
+                    HPOS="195"
+                    VPOS="960"
+                    WIDTH="514"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="196 994 196 1016 251 1014 265 1017 290 1025 291 1025 293 1025 294 1025 317 1019 339 1013 439 1013 482 1020 497 1023 499 1023 500 1023 506 1022 534 1011 563 1022 568 1023 569 1023 571 1023 572 1023 574 1023 575 1022 589 1011 603 1022 605 1022 606 1022 706 1023 709 991 706 971 557 960 555 960 554 960 552 960 535 970 311 962 310 962 248 971 218 962 216 962 215 962 213 962 195 971 196 994"/></Shape>
+	    <String CONTENT="du emerytowany urzędnik wojskowy."
+                    HPOS="195"
+                    VPOS="960"
+                    WIDTH="514"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95eb4ef4"
+                    TAGREFS="LT3614"
+                    BASELINE="191 1095 1234 1099" 
+                    HPOS="190"
+                    VPOS="1066"
+                    WIDTH="1044"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="191 1095 190 1108 296 1117 297 1117 1233 1115 1234 1099 1233 1066 191 1066 191 1095"/></Shape>
+	    <String CONTENT="Zeznanie: Mieszkaliśmy we własnym domku, przy ulicy Dworskiego w Przemy-"
+                    HPOS="190"
+                    VPOS="1066"
+                    WIDTH="1044"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb8f9974"
+                    TAGREFS="LT3614"
+                    BASELINE="195 1145 1219 1148" 
+                    HPOS="193"
+                    VPOS="1112"
+                    WIDTH="1026"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="195 1145 193 1158 218 1168 219 1168 221 1168 704 1161 714 1169 715 1169 717 1169 718 1169 1217 1161 1219 1148 1217 1125 1147 1115 1145 1115 1079 1122 1065 1123 1059 1122 1033 1115 1032 1115 1030 1115 803 1119 625 1122 606 1117 597 1114 595 1114 594 1114 517 1115 305 1122 265 1114 264 1114 262 1114 241 1122 195 1112 195 1145"/></Shape>
+	    <String CONTENT="ślu. Gdy Niemcy zajęli w 1941 r.Przemyśl, ojciec prowadził nadal mały"
+                    HPOS="193"
+                    VPOS="1112"
+                    WIDTH="1026"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e84debb4"
+                    TAGREFS="LT3614"
+                    BASELINE="190 1192 1214 1198" 
+                    HPOS="188"
+                    VPOS="1165"
+                    WIDTH="1026"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="190 1192 188 1208 261 1217 262 1217 443 1211 451 1217 451 1218 453 1218 454 1218 456 1218 1213 1214 1214 1198 1213 1175 190 1165 190 1192"/></Shape>
+	    <String CONTENT="handel towarów mieszanych. Mieliśmy na utrzymanie i nie cierpieliśmy"
+                    HPOS="188"
+                    VPOS="1165"
+                    WIDTH="1026"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d738c860"
+                    TAGREFS="LT3614"
+                    BASELINE="190 1247 1156 1244" 
+                    HPOS="188"
+                    VPOS="1220"
+                    WIDTH="968"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="190 1247 190 1267 245 1275 247 1275 248 1275 270 1269 284 1264 363 1264 396 1269 437 1275 439 1275 473 1269 499 1264 516 1269 535 1275 537 1275 539 1277 652 1277 652 1275 654 1275 668 1269 684 1263 723 1270 746 1274 747 1274 749 1274 757 1270 770 1263 821 1263 958 1270 1018 1274 1019 1274 1021 1274 1032 1270 1058 1263 1076 1270 1082 1274 1084 1274 1085 1274 1087 1274 1096 1270 1113 1266 1153 1270 1156 1244 1153 1224 188 1220 190 1247"/></Shape>
+	    <String CONTENT="żadnych braków. Siostra moja Tosia była starsza ode mnie o 4 lata"
+                    HPOS="188"
+                    VPOS="1220"
+                    WIDTH="968"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b116cf53"
+                    TAGREFS="LT3614"
+                    BASELINE="188 1297 614 1292" 
+                    HPOS="187"
+                    VPOS="1266"
+                    WIDTH="427"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="188 1297 188 1315 612 1315 614 1292 609 1266 187 1274 188 1297"/></Shape>
+	    <String CONTENT="(urodziła się w roku 1930)."
+                    HPOS="187"
+                    VPOS="1266"
+                    WIDTH="427"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b45fd65e"
+                    TAGREFS="LT3614"
+                    BASELINE="185 1344 1230 1350" 
+                    HPOS="184"
+                    VPOS="1313"
+                    WIDTH="1046"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="185 1344 184 1360 267 1369 1227 1372 1230 1350 1228 1320 995 1326 936 1318 921 1317 919 1317 873 1318 707 1324 651 1317 631 1315 629 1315 628 1315 626 1315 623 1317 614 1323 598 1317 592 1315 591 1315 589 1315 588 1315 583 1317 571 1324 456 1324 443 1317 439 1313 437 1313 436 1313 434 1313 433 1313 431 1313 428 1317 422 1321 406 1317 397 1313 396 1313 394 1313 393 1313 385 1317 374 1321 348 1317 331 1313 330 1313 310 1317 274 1321 185 1317 185 1344"/></Shape>
+	    <String CONTENT="Pamiętam, że Niemcy nakazali Żydom nosić opaski. Ojciec przez 3 miesią"
+                    HPOS="184"
+                    VPOS="1313"
+                    WIDTH="1046"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b9b153d"
+                    TAGREFS="LT3614"
+                    BASELINE="188 1396 1227 1401" 
+                    HPOS="187"
+                    VPOS="1372"
+                    WIDTH="1040"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="188 1396 187 1410 208 1419 210 1419 211 1419 1225 1418 1227 1401 1225 1378 188 1372 188 1396"/></Shape>
+	    <String CONTENT="ce nie ubrał opaski, lecz potem musiał, bo Żydów za nienoszenie opas-"
+                    HPOS="187"
+                    VPOS="1372"
+                    WIDTH="1040"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6741539b"
+                    TAGREFS="LT3614"
+                    BASELINE="198 1447 420 1447" 
+                    HPOS="198"
+                    VPOS="1422"
+                    WIDTH="222"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="198 1447 198 1467 254 1475 256 1475 258 1475 259 1475 271 1465 276 1464 357 1464 359 1464 400 1475 402 1475 403 1475 405 1475 406 1475 420 1464 420 1447 420 1426 198 1422 198 1447"/></Shape>
+	    <String CONTENT="ki strzelano."
+                    HPOS="198"
+                    VPOS="1422"
+                    WIDTH="222"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7ec6db2"
+                    TAGREFS="LT3614"
+                    BASELINE="185 1496 1217 1501" 
+                    HPOS="184"
+                    VPOS="1467"
+                    WIDTH="1033"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="185 1496 184 1510 233 1521 234 1521 319 1513 454 1521 456 1521 488 1515 496 1513 505 1515 540 1522 542 1522 615 1516 634 1515 641 1516 663 1522 664 1522 666 1522 668 1522 681 1516 688 1515 1214 1522 1217 1501 1216 1475 185 1467 185 1496"/></Shape>
+	    <String CONTENT="W r.1942 musieliśmy się wyprowadzić z własnego domu do ghetta i tam"
+                    HPOS="184"
+                    VPOS="1467"
+                    WIDTH="1033"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e38bf341"
+                    TAGREFS="LT3614"
+                    BASELINE="185 1545 1222 1551" 
+                    HPOS="184"
+                    VPOS="1518"
+                    WIDTH="1038"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="185 1545 184 1568 1219 1570 1222 1551 1219 1521 972 1528 950 1519 949 1519 947 1519 946 1519 944 1519 942 1519 921 1527 876 1519 870 1519 869 1519 863 1519 818 1527 807 1519 806 1519 804 1519 803 1519 793 1519 706 1527 683 1519 678 1518 677 1518 675 1518 661 1519 620 1525 185 1519 185 1545"/></Shape>
+	    <String CONTENT="miał ojciec jeszcze tylko przez 2 tygodnie sklep towarów mieszanych,"
+                    HPOS="184"
+                    VPOS="1518"
+                    WIDTH="1038"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86173a7e"
+                    TAGREFS="LT3614"
+                    BASELINE="184 1601 1213 1601" 
+                    HPOS="184"
+                    VPOS="1574"
+                    WIDTH="1029"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="184 1601 184 1620 1211 1624 1213 1601 1211 1574 184 1577 184 1601"/></Shape>
+	    <String CONTENT="gdyż była akcja w ghetcie. My nie dostaliśmy pieczęci na dokumentach"
+                    HPOS="184"
+                    VPOS="1574"
+                    WIDTH="1029"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1465a76f"
+                    TAGREFS="LT3614"
+                    BASELINE="184 1648 1219 1651" 
+                    HPOS="182"
+                    VPOS="1617"
+                    WIDTH="1037"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="184 1648 182 1665 1216 1668 1219 1651 1217 1628 950 1628 949 1627 929 1619 927 1619 926 1619 820 1627 804 1627 800 1627 767 1619 766 1619 731 1627 724 1627 717 1627 658 1617 657 1617 184 1624 184 1648"/></Shape>
+	    <String CONTENT="i musieliśmy pójść na &quot;wysiedlenie&quot;. Rodzice poszli na punkt zborny, a"
+                    HPOS="182"
+                    VPOS="1617"
+                    WIDTH="1037"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_970c6c0c"
+                    TAGREFS="LT3614"
+                    BASELINE="191 1697 1219 1703" 
+                    HPOS="191"
+                    VPOS="1667"
+                    WIDTH="1028"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="191 1697 191 1722 273 1717 284 1723 297 1729 299 1729 301 1729 328 1723 353 1717 373 1723 394 1729 396 1729 480 1731 482 1731 483 1731 499 1723 509 1719 529 1723 562 1731 563 1731 565 1731 583 1723 591 1720 598 1723 612 1731 614 1731 615 1731 617 1731 618 1731 626 1723 634 1719 680 1719 691 1723 703 1733 704 1733 706 1733 707 1733 743 1725 760 1720 767 1725 780 1731 781 1731 824 1733 826 1733 827 1733 846 1725 853 1722 867 1725 907 1733 909 1733 910 1733 939 1725 946 1723 950 1725 964 1731 965 1731 967 1731 969 1731 970 1731 979 1725 987 1722 1076 1722 1087 1725 1110 1734 1111 1734 1113 1736 1156 1736 1156 1734 1157 1734 1174 1725 1182 1722 1216 1725 1219 1703 1217 1682 1065 1682 1062 1680 1036 1671 1035 1671 1033 1671 976 1679 964 1680 952 1679 890 1671 889 1671 887 1671 886 1671 875 1679 873 1679 860 1679 757 1671 755 1671 754 1671 731 1677 723 1679 715 1677 677 1668 675 1668 635 1676 503 1668 502 1668 500 1668 471 1676 463 1677 454 1676 420 1667 419 1667 417 1667 191 1673 191 1697"/></Shape>
+	    <String CONTENT="my odprowadzałyśmy ich. Ja i siostra płakałyśmy i nie chciałyśmy się"
+                    HPOS="191"
+                    VPOS="1667"
+                    WIDTH="1028"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

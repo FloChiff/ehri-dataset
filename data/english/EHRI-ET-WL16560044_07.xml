@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL16560044_07.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="825"
+          HEIGHT="1013"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="825"
+                  HEIGHT="1013">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_789ccea0"
+                    TAGREFS="LT3626"
+                    BASELINE="421 88 473 86" 
+                    HPOS="420"
+                    VPOS="74"
+                    WIDTH="53"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="421 88 421 92 472 97 473 86 471 74 420 75 421 88"/></Shape>
+	    <String CONTENT="- 2 -"
+                    HPOS="420"
+                    VPOS="74"
+                    WIDTH="53"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc659f08"
+                    TAGREFS="LT3626"
+                    BASELINE="140 120 775 120" 
+                    HPOS="139"
+                    VPOS="104"
+                    WIDTH="635"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="139 119 139 131 774 131 774 119 773 104 139 104 139 119"/></Shape>
+	    <String CONTENT="was being considered. Meanwhile Mrs Fraenkel did not wear the star and"
+                    HPOS="139"
+                    VPOS="104"
+                    WIDTH="635"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13195cb2"
+                    TAGREFS="LT3626"
+                    BASELINE="140 136 716 135" 
+                    HPOS="139"
+                    VPOS="124"
+                    WIDTH="577"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="140 136 140 145 716 143 716 135 715 124 139 124 140 136"/></Shape>
+	    <String CONTENT="therefore did not suffer the resulting loss of privilege (smaller"
+                    HPOS="139"
+                    VPOS="124"
+                    WIDTH="577"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60445334"
+                    TAGREFS="LT3626"
+                    BASELINE="139 153 744 151" 
+                    HPOS="138"
+                    VPOS="138"
+                    WIDTH="606"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="139 153 139 161 743 158 744 151 742 138 138 141 139 153"/></Shape>
+	    <String CONTENT="rations etc). After three months, Mrs Fraenkel was summoned to the"
+                    HPOS="138"
+                    VPOS="138"
+                    WIDTH="606"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db533252"
+                    TAGREFS="LT3626"
+                    BASELINE="138 168 770 167" 
+                    HPOS="137"
+                    VPOS="156"
+                    WIDTH="633"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="138 168 138 176 768 178 770 167 768 156 137 156 138 168"/></Shape>
+	    <String CONTENT="Gestapo H.Q. in Lindenstrasse. Here, after a two hour wait, during which"
+                    HPOS="137"
+                    VPOS="156"
+                    WIDTH="633"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_683a1494"
+                    TAGREFS="LT3626"
+                    BASELINE="138 185 705 184" 
+                    HPOS="137"
+                    VPOS="173"
+                    WIDTH="568"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="138 185 138 193 704 194 705 184 703 173 137 173 138 185"/></Shape>
+	    <String CONTENT="a Gestapo official accosted and insulted her in the corridor, Mrs"
+                    HPOS="137"
+                    VPOS="173"
+                    WIDTH="568"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b7fac5f"
+                    TAGREFS="LT3626"
+                    BASELINE="138 200 727 198" 
+                    HPOS="137"
+                    VPOS="188"
+                    WIDTH="590"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="138 200 138 209 726 206 727 198 724 188 137 189 138 200"/></Shape>
+	    <String CONTENT="Fraenkel was interviewed by a Gestapo official, Schmidt who seemed"
+                    HPOS="137"
+                    VPOS="188"
+                    WIDTH="590"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0be86e64"
+                    TAGREFS="LT3626"
+                    BASELINE="139 217 735 214" 
+                    HPOS="138"
+                    VPOS="204"
+                    WIDTH="597"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="139 217 139 225 734 224 735 214 732 204 138 206 139 217"/></Shape>
+	    <String CONTENT="to have more humanity than most of his colleagues. However, he told"
+                    HPOS="138"
+                    VPOS="204"
+                    WIDTH="597"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35f3885f"
+                    TAGREFS="LT3626"
+                    BASELINE="139 232 753 232" 
+                    HPOS="139"
+                    VPOS="220"
+                    WIDTH="614"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="139 232 139 240 753 239 753 232 753 222 139 220 139 232"/></Shape>
+	    <String CONTENT="her that he had received orders from the Ministry of the Interior that"
+                    HPOS="139"
+                    VPOS="220"
+                    WIDTH="614"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_677f994a"
+                    TAGREFS="LT3626"
+                    BASELINE="138 249 700 248" 
+                    HPOS="137"
+                    VPOS="236"
+                    WIDTH="563"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="138 249 138 260 700 257 700 248 699 236 137 236 138 249"/></Shape>
+	    <String CONTENT="she had, in future, to wear the star. During the interview, the"
+                    HPOS="137"
+                    VPOS="236"
+                    WIDTH="563"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8122927"
+                    TAGREFS="LT3626"
+                    BASELINE="138 265 726 263" 
+                    HPOS="137"
+                    VPOS="253"
+                    WIDTH="589"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="138 265 138 272 724 274 726 263 724 253 137 253 138 265"/></Shape>
+	    <String CONTENT="Gestapo Commissar entered, shouted at her and told her she would be"
+                    HPOS="137"
+                    VPOS="253"
+                    WIDTH="589"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8aaefef"
+                    TAGREFS="LT3626"
+                    BASELINE="139 281 744 279" 
+                    HPOS="138"
+                    VPOS="266"
+                    WIDTH="606"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="139 281 139 289 743 287 744 279 742 266 138 270 139 281"/></Shape>
+	    <String CONTENT="sent to prison and deported. Mrs Fraenkel answered very quietly and"
+                    HPOS="138"
+                    VPOS="266"
+                    WIDTH="606"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e1e36c5"
+                    TAGREFS="LT3626"
+                    BASELINE="140 297 736 295" 
+                    HPOS="139"
+                    VPOS="284"
+                    WIDTH="597"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="140 297 140 305 735 303 736 295 733 284 139 287 140 297"/></Shape>
+	    <String CONTENT="the Commissar left without taking any further action. Meanwhile, at another"
+                    HPOS="139"
+                    VPOS="284"
+                    WIDTH="597"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_281aef19"
+                    TAGREFS="LT3626"
+                    BASELINE="139 314 782 312" 
+                    HPOS="138"
+                    VPOS="298"
+                    WIDTH="644"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="139 314 139 320 781 321 782 312 780 298 138 302 139 314"/></Shape>
+	    <String CONTENT="table in the same room, another &quot;Mischling&quot; was being interviewed."
+                    HPOS="138"
+                    VPOS="298"
+                    WIDTH="644"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_006eacce"
+                    TAGREFS="LT3626"
+                    BASELINE="138 330 761 330" 
+                    HPOS="138"
+                    VPOS="319"
+                    WIDTH="623"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="138 330 138 339 761 338 761 330 761 319 138 319 138 330"/></Shape>
+	    <String CONTENT="Her children had had a Jewish education. Suddenly the doors were flung"
+                    HPOS="138"
+                    VPOS="319"
+                    WIDTH="623"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a9708c6"
+                    TAGREFS="LT3626"
+                    BASELINE="138 346 769 343" 
+                    HPOS="137"
+                    VPOS="332"
+                    WIDTH="632"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="138 346 138 355 768 354 769 343 766 332 137 334 138 346"/></Shape>
+	    <String CONTENT="open and a Gestapo officer yelled: &quot;Any more for prison?&quot; and the woman"
+                    HPOS="137"
+                    VPOS="332"
+                    WIDTH="632"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f40805e"
+                    TAGREFS="LT3626"
+                    BASELINE="138 362 290 361" 
+                    HPOS="137"
+                    VPOS="350"
+                    WIDTH="153"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="138 362 138 373 239 369 244 369 282 373 283 373 284 373 285 373 290 368 290 361 287 350 137 351 138 362"/></Shape>
+	    <String CONTENT="was dragged away."
+                    HPOS="137"
+                    VPOS="350"
+                    WIDTH="153"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26d17898"
+                    TAGREFS="LT3626"
+                    BASELINE="198 393 770 393" 
+                    HPOS="198"
+                    VPOS="379"
+                    WIDTH="572"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="198 393 198 400 768 402 770 393 769 381 198 379 198 393"/></Shape>
+	    <String CONTENT="Before allowing Mrs Fraenkel to leave, Schmidt asked her to send"
+                    HPOS="198"
+                    VPOS="379"
+                    WIDTH="572"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d127cc09"
+                    TAGREFS="LT3626"
+                    BASELINE="137 409 723 407" 
+                    HPOS="136"
+                    VPOS="396"
+                    WIDTH="587"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="137 409 137 420 722 418 723 407 721 396 136 396 137 409"/></Shape>
+	    <String CONTENT="her father to his office, as he, too, now had to wear a star. Mrs."
+                    HPOS="136"
+                    VPOS="396"
+                    WIDTH="587"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0b8407b"
+                    TAGREFS="LT3626"
+                    BASELINE="138 425 761 423" 
+                    HPOS="137"
+                    VPOS="412"
+                    WIDTH="624"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="138 425 138 434 760 433 761 423 759 412 137 414 138 425"/></Shape>
+	    <String CONTENT="Fraenkel asked whether anything would happen to him, and Schmidt assured"
+                    HPOS="137"
+                    VPOS="412"
+                    WIDTH="624"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ea24156"
+                    TAGREFS="LT3626"
+                    BASELINE="138 442 752 439" 
+                    HPOS="137"
+                    VPOS="428"
+                    WIDTH="615"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="138 442 138 452 752 449 752 439 749 428 137 430 138 442"/></Shape>
+	    <String CONTENT="her that he would be sent back. Mrs Fraenkel asked whether she could"
+                    HPOS="137"
+                    VPOS="428"
+                    WIDTH="615"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_371c9204"
+                    TAGREFS="LT3626"
+                    BASELINE="138 458 743 456" 
+                    HPOS="137"
+                    VPOS="446"
+                    WIDTH="606"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="138 458 138 466 292 471 293 471 306 468 312 466 314 468 317 471 318 471 319 471 320 471 352 471 352 471 366 468 375 466 379 468 385 471 385 471 386 471 387 471 396 468 402 466 419 468 439 471 439 471 458 469 484 465 507 469 515 470 516 470 559 469 718 465 741 470 743 456 740 446 137 447 138 458"/></Shape>
+	    <String CONTENT="not simply give her father the message, and Schmidt finally agreed to"
+                    HPOS="137"
+                    VPOS="446"
+                    WIDTH="606"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26217d0a"
+                    TAGREFS="LT3626"
+                    BASELINE="138 474 247 472" 
+                    HPOS="137"
+                    VPOS="462"
+                    WIDTH="110"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="138 474 138 487 246 484 247 472 244 462 137 463 138 474"/></Shape>
+	    <String CONTENT="her request."
+                    HPOS="137"
+                    VPOS="462"
+                    WIDTH="110"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad73ebbd"
+                    TAGREFS="LT3626"
+                    BASELINE="198 506 492 506" 
+                    HPOS="198"
+                    VPOS="490"
+                    WIDTH="294"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="198 506 198 519 492 519 492 506 492 493 198 490 198 506"/></Shape>
+	    <String CONTENT="Deportation in Frankfurt-am-Main."
+                    HPOS="198"
+                    VPOS="490"
+                    WIDTH="294"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70184476"
+                    TAGREFS="LT3626"
+                    BASELINE="199 536 719 535" 
+                    HPOS="198"
+                    VPOS="520"
+                    WIDTH="521"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="199 536 199 547 718 543 719 535 717 524 641 520 640 520 640 520 631 524 630 524 629 524 614 520 613 520 613 520 612 520 611 520 606 524 606 525 548 525 511 525 481 520 480 520 445 525 443 525 439 525 369 520 369 520 334 525 325 520 325 520 324 520 323 520 322 520 316 525 282 525 269 520 268 520 267 520 266 520 251 525 232 520 231 520 198 525 199 536"/></Shape>
+	    <String CONTENT="The first two transports, consisting only of full Jews, had"
+                    HPOS="198"
+                    VPOS="520"
+                    WIDTH="521"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ba9f456"
+                    TAGREFS="LT3626"
+                    BASELINE="137 552 700 551" 
+                    HPOS="136"
+                    VPOS="539"
+                    WIDTH="564"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="137 552 137 562 699 563 700 551 699 541 136 539 137 552"/></Shape>
+	    <String CONTENT="left Frankfurt for Poland and Minsk on October and November 1941,"
+                    HPOS="136"
+                    VPOS="539"
+                    WIDTH="564"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04c1a181"
+                    TAGREFS="LT3626"
+                    BASELINE="138 570 256 568" 
+                    HPOS="137"
+                    VPOS="557"
+                    WIDTH="119"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="138 570 138 579 154 585 155 585 156 585 157 585 157 585 163 580 192 585 193 585 194 585 195 585 195 584 198 581 201 579 255 583 256 568 254 557 137 558 138 570"/></Shape>
+	    <String CONTENT="respectively."
+                    HPOS="137"
+                    VPOS="557"
+                    WIDTH="119"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2843b0b7"
+                    TAGREFS="LT3626"
+                    BASELINE="198 601 761 601" 
+                    HPOS="198"
+                    VPOS="584"
+                    WIDTH="563"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="198 601 198 609 761 609 761 601 759 584 744 589 724 585 723 585 722 585 721 585 716 590 600 590 591 585 591 584 590 584 589 584 556 584 555 584 554 584 553 584 552 585 546 589 539 585 536 584 535 584 534 584 525 585 505 589 493 585 487 584 486 584 485 584 484 584 483 584 481 585 476 589 469 585 465 584 464 584 434 584 434 584 433 584 432 584 429 586 424 590 378 590 371 586 365 584 364 584 363 584 363 584 362 584 358 586 355 590 309 590 303 587 294 584 293 584 293 584 271 587 259 589 250 587 234 584 233 584 198 587 198 601"/></Shape>
+	    <String CONTENT="In May, 1942, Mrs Fraenkel was leaving her home when she met an"
+                    HPOS="198"
+                    VPOS="584"
+                    WIDTH="563"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce2148dc"
+                    TAGREFS="LT3626"
+                    BASELINE="138 617 753 615" 
+                    HPOS="137"
+                    VPOS="605"
+                    WIDTH="616"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="138 617 138 626 752 626 753 615 750 605 137 606 138 617"/></Shape>
+	    <String CONTENT="officer from the Jewish Community of Frankfurt entering the house. As"
+                    HPOS="137"
+                    VPOS="605"
+                    WIDTH="616"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09a36864"
+                    TAGREFS="LT3626"
+                    BASELINE="140 633 734 631" 
+                    HPOS="139"
+                    VPOS="620"
+                    WIDTH="595"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="140 633 140 641 733 639 734 631 732 620 139 622 140 633"/></Shape>
+	    <String CONTENT="the Community had to compile the lists for the transports and had to"
+                    HPOS="139"
+                    VPOS="620"
+                    WIDTH="595"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c0752f9"
+                    TAGREFS="LT3626"
+                    BASELINE="140 649 774 649" 
+                    HPOS="140"
+                    VPOS="636"
+                    WIDTH="634"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="140 649 140 660 774 660 774 649 773 636 140 637 140 649"/></Shape>
+	    <String CONTENT="break the news to the deportees, Mrs Fraenkel feared the worst. Indeed,"
+                    HPOS="140"
+                    VPOS="636"
+                    WIDTH="634"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e1ab05b"
+                    TAGREFS="LT3626"
+                    BASELINE="139 665 761 663" 
+                    HPOS="138"
+                    VPOS="653"
+                    WIDTH="623"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="139 665 139 673 760 673 761 663 759 653 138 654 139 665"/></Shape>
+	    <String CONTENT="she was on the list of the next transport. She went immediately to see"
+                    HPOS="138"
+                    VPOS="653"
+                    WIDTH="623"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5173a28f"
+                    TAGREFS="LT3626"
+                    BASELINE="140 681 734 679" 
+                    HPOS="139"
+                    VPOS="666"
+                    WIDTH="595"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="140 681 140 689 733 688 734 679 732 666 139 670 140 681"/></Shape>
+	    <String CONTENT="the lawyer, who represented the Jewish Community and who happened to"
+                    HPOS="139"
+                    VPOS="666"
+                    WIDTH="595"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60fe993c"
+                    TAGREFS="LT3626"
+                    BASELINE="139 696 724 698" 
+                    HPOS="139"
+                    VPOS="685"
+                    WIDTH="585"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="139 696 139 704 425 704 428 704 465 708 466 708 723 704 724 698 723 686 139 685 139 696"/></Shape>
+	    <String CONTENT="be a relative of Mrs Fraenkel. The lawyer suggested that the only"
+                    HPOS="139"
+                    VPOS="685"
+                    WIDTH="585"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5478fb32"
+                    TAGREFS="LT3626"
+                    BASELINE="140 713 713 711" 
+                    HPOS="139"
+                    VPOS="700"
+                    WIDTH="574"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="140 713 140 723 712 721 713 711 711 700 139 701 140 713"/></Shape>
+	    <String CONTENT="way to escape deportation was to divorce her Jewish husband. Mrs"
+                    HPOS="139"
+                    VPOS="700"
+                    WIDTH="574"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6baed95"
+                    TAGREFS="LT3626"
+                    BASELINE="140 729 770 729" 
+                    HPOS="140"
+                    VPOS="715"
+                    WIDTH="630"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="140 729 140 736 770 736 770 729 770 715 140 716 140 729"/></Shape>
+	    <String CONTENT="Fraenkel&#x27;s brother there upon went to Gestapo H.Q. where he was told that"
+                    HPOS="140"
+                    VPOS="715"
+                    WIDTH="630"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c2218e3"
+                    TAGREFS="LT3626"
+                    BASELINE="140 745 732 745" 
+                    HPOS="140"
+                    VPOS="732"
+                    WIDTH="592"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="140 745 140 752 731 756 732 745 732 735 140 732 140 745"/></Shape>
+	    <String CONTENT="if divorce proceedings had been started by that same afternoon, Mrs."
+                    HPOS="140"
+                    VPOS="732"
+                    WIDTH="592"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c18afa25"
+                    TAGREFS="LT3626"
+                    BASELINE="140 759 709 761" 
+                    HPOS="140"
+                    VPOS="748"
+                    WIDTH="569"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="140 759 140 769 708 769 709 761 708 748 140 748 140 759"/></Shape>
+	    <String CONTENT="Fraenkel would not be deported. The rest of the day was spent in"
+                    HPOS="140"
+                    VPOS="748"
+                    WIDTH="569"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_590a6d74"
+                    TAGREFS="LT3626"
+                    BASELINE="141 777 760 775" 
+                    HPOS="141"
+                    VPOS="765"
+                    WIDTH="619"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="141 777 141 785 759 784 760 775 758 765 141 766 141 777"/></Shape>
+	    <String CONTENT="running from office to office (Jews were, of course, not allowed to use"
+                    HPOS="141"
+                    VPOS="765"
+                    WIDTH="619"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34204008"
+                    TAGREFS="LT3626"
+                    BASELINE="141 794 727 792" 
+                    HPOS="140"
+                    VPOS="780"
+                    WIDTH="587"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="141 794 141 802 726 799 727 792 724 780 140 780 141 794"/></Shape>
+	    <String CONTENT="public transport) until a document was obtained stating officially"
+                    HPOS="140"
+                    VPOS="780"
+                    WIDTH="587"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_167cec4c"
+                    TAGREFS="LT3626"
+                    BASELINE="141 809 743 807" 
+                    HPOS="140"
+                    VPOS="796"
+                    WIDTH="603"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="141 809 141 817 741 818 743 807 740 796 140 798 141 809"/></Shape>
+	    <String CONTENT="that proceedings had been begun. Mrs Fraenkel then took this to the"
+                    HPOS="140"
+                    VPOS="796"
+                    WIDTH="603"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cb2c1eb"
+                    TAGREFS="LT3626"
+                    BASELINE="140 824 769 824" 
+                    HPOS="140"
+                    VPOS="812"
+                    WIDTH="629"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="140 824 140 833 768 835 769 824 769 812 140 812 140 824"/></Shape>
+	    <String CONTENT="Gestapo who, at first refused to accept it and asked why she had waited"
+                    HPOS="140"
+                    VPOS="812"
+                    WIDTH="629"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d87c1746"
+                    TAGREFS="LT3626"
+                    BASELINE="141 840 733 841" 
+                    HPOS="141"
+                    VPOS="828"
+                    WIDTH="592"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="141 840 141 847 732 848 733 841 732 828 141 828 141 840"/></Shape>
+	    <String CONTENT="until the last moment to begin proceedings and why she had married a"
+                    HPOS="141"
+                    VPOS="828"
+                    WIDTH="592"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdde5bef"
+                    TAGREFS="LT3626"
+                    BASELINE="139 857 710 855" 
+                    HPOS="138"
+                    VPOS="845"
+                    WIDTH="572"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="139 857 139 867 709 866 710 855 707 845 138 845 139 857"/></Shape>
+	    <String CONTENT="Jew in the first place. Mrs. Fraenkel andwered that if they (the"
+                    HPOS="138"
+                    VPOS="845"
+                    WIDTH="572"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34c56e5d"
+                    TAGREFS="LT3626"
+                    BASELINE="140 873 781 872" 
+                    HPOS="138"
+                    VPOS="861"
+                    WIDTH="642"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="139 872 139 881 779 879 780 871 777 861 138 861 139 872"/></Shape>
+	    <String CONTENT="Gestapo) had any humanity (&quot;Menschliches Verständnis&quot;) at all, they would"
+                    HPOS="138"
+                    VPOS="861"
+                    WIDTH="642"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02135f1d"
+                    TAGREFS="LT3626"
+                    BASELINE="141 888 750 888" 
+                    HPOS="141"
+                    VPOS="876"
+                    WIDTH="609"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="141 888 141 897 749 899 750 888 749 876 141 877 141 888"/></Shape>
+	    <String CONTENT="understand that se wanted to giver her daughter a home and had married"
+                    HPOS="141"
+                    VPOS="876"
+                    WIDTH="609"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6518e88"
+                    TAGREFS="LT3626"
+                    BASELINE="141 904 743 904" 
+                    HPOS="141"
+                    VPOS="892"
+                    WIDTH="602"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="141 904 141 914 743 913 743 904 743 893 141 892 141 904"/></Shape>
+	    <String CONTENT="for her sake. This evidently had some effect on the Gestapo officers"
+                    HPOS="141"
+                    VPOS="892"
+                    WIDTH="602"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd86e3cc"
+                    TAGREFS="LT3626"
+                    BASELINE="141 920 692 920" 
+                    HPOS="141"
+                    VPOS="910"
+                    WIDTH="551"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="141 920 141 933 692 933 692 920 692 910 141 910 141 920"/></Shape>
+	    <String CONTENT="who passed Mrs. Fraenkel&#x27;s application not to be deported, &quot;not"
+                    HPOS="141"
+                    VPOS="910"
+                    WIDTH="551"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

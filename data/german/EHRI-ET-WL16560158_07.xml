@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL16560158_07.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="785"
+          HEIGHT="978"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="785"
+                  HEIGHT="978">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c25df881"
+                    TAGREFS="LT3625"
+                    BASELINE="175 44 400 41" 
+                    HPOS="173"
+                    VPOS="30"
+                    WIDTH="226"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="174 43 174 55 399 50 399 40 397 30 173 30 174 43"/></Shape>
+	    <String CONTENT="Auschwitz by R. Lasker"
+                    HPOS="173"
+                    VPOS="30"
+                    WIDTH="226"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9eeabbd7"
+                    
+                    BASELINE="430 41 471 40" 
+                    HPOS="428"
+                    VPOS="30"
+                    WIDTH="42"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="429 40 429 46 469 53 470 39 467 30 428 30 429 40"/></Shape>
+	    <String CONTENT="-5-"
+                    HPOS="428"
+                    VPOS="30"
+                    WIDTH="42"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_047c391a"
+                    TAGREFS="LT3625"
+                    BASELINE="89 123 740 119" 
+                    HPOS="88"
+                    VPOS="102"
+                    WIDTH="652"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="89 123 89 132 739 130 740 119 738 106 707 102 706 102 705 102 694 106 692 107 592 107 586 106 565 103 564 103 544 106 539 107 535 106 513 103 512 103 511 103 498 107 496 107 494 107 482 103 481 103 480 103 480 103 471 107 469 108 456 107 423 104 422 104 421 104 410 107 405 109 88 109 89 123"/></Shape>
+	    <String CONTENT="sechs Monate mussten sie den gleichen Weg gehen wie diejenigen, die"
+                    HPOS="88"
+                    VPOS="102"
+                    WIDTH="652"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1d7ff55"
+                    TAGREFS="LT3625"
+                    BASELINE="90 157 730 151" 
+                    HPOS="89"
+                    VPOS="141"
+                    WIDTH="641"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="90 157 90 165 729 161 730 151 728 141 180 141 180 141 144 145 95 142 94 142 93 142 92 142 89 144 90 157"/></Shape>
+	    <String CONTENT="sie verbrennen mussten. Das Sonderkommando wurde alle sechs Monate"
+                    HPOS="89"
+                    VPOS="141"
+                    WIDTH="641"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_520b9621"
+                    TAGREFS="LT3625"
+                    BASELINE="89 188 747 183" 
+                    HPOS="88"
+                    VPOS="172"
+                    WIDTH="659"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="89 188 89 198 746 191 747 183 745 172 88 176 89 188"/></Shape>
+	    <String CONTENT="umgewechselt, damit keine Gefahr bestand, dass es nach dem Krieg ir-"
+                    HPOS="88"
+                    VPOS="172"
+                    WIDTH="659"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34e502ab"
+                    TAGREFS="LT3625"
+                    BASELINE="90 220 712 213" 
+                    HPOS="89"
+                    VPOS="202"
+                    WIDTH="623"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="90 220 90 229 711 221 712 213 710 203 366 202 365 202 89 210 90 220"/></Shape>
+	    <String CONTENT="gendwelche Ueberlebende gaebe, die Augenzeugenberichte von ihrer"
+                    HPOS="89"
+                    VPOS="202"
+                    WIDTH="623"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a6525b5"
+                    TAGREFS="LT3625"
+                    BASELINE="91 251 730 246" 
+                    HPOS="90"
+                    VPOS="236"
+                    WIDTH="640"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="91 251 91 259 729 254 730 246 727 236 90 240 91 251"/></Shape>
+	    <String CONTENT="Arbeit geben konnten.- Im Spaetherbst 1944 brach unter dem Sonder-"
+                    HPOS="90"
+                    VPOS="236"
+                    WIDTH="640"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08653b46"
+                    TAGREFS="LT3625"
+                    BASELINE="90 283 740 277" 
+                    HPOS="89"
+                    VPOS="268"
+                    WIDTH="651"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="90 283 90 290 178 295 179 295 180 295 180 295 185 290 265 294 266 294 369 289 726 290 727 290 727 290 740 285 740 277 738 268 89 272 90 283"/></Shape>
+	    <String CONTENT="kommando, das darauf gefasst war, in den naechsten Tagen umgebracht"
+                    HPOS="89"
+                    VPOS="268"
+                    WIDTH="651"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c86c18d0"
+                    TAGREFS="LT3625"
+                    BASELINE="92 315 718 309" 
+                    HPOS="91"
+                    VPOS="299"
+                    WIDTH="627"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="92 315 92 323 538 323 538 322 539 322 540 322 541 321 547 318 617 321 627 321 628 321 633 321 670 317 717 321 718 309 716 299 91 303 92 315"/></Shape>
+	    <String CONTENT="zu werden, eine Revolte aus, die aber misslang. Das Resultat war,"
+                    HPOS="91"
+                    VPOS="299"
+                    WIDTH="627"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ef90de1"
+                    TAGREFS="LT3625"
+                    BASELINE="91 345 749 342" 
+                    HPOS="90"
+                    VPOS="330"
+                    WIDTH="659"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="91 345 91 353 748 350 749 342 747 332 103 330 102 330 101 330 90 334 91 345"/></Shape>
+	    <String CONTENT="dass alle erschossen wurden, als sie versuchten, aus dem Lager auszu-"
+                    HPOS="90"
+                    VPOS="330"
+                    WIDTH="659"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e25f19e"
+                    TAGREFS="LT3625"
+                    BASELINE="92 377 178 377" 
+                    HPOS="92"
+                    VPOS="366"
+                    WIDTH="86"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="92 377 92 385 177 387 178 377 178 366 92 366 92 377"/></Shape>
+	    <String CONTENT="brechen."
+                    HPOS="92"
+                    VPOS="366"
+                    WIDTH="86"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7d506eb"
+                    TAGREFS="LT3625"
+                    BASELINE="171 408 761 406" 
+                    HPOS="170"
+                    VPOS="392"
+                    WIDTH="591"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="171 408 171 415 759 416 761 406 759 395 180 392 179 392 178 392 170 395 171 408"/></Shape>
+	    <String CONTENT="Ich erkrankte zwei Wochen nach meiner Ankunft in Auschwitz an"
+                    HPOS="170"
+                    VPOS="392"
+                    WIDTH="591"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_709f1b6c"
+                    TAGREFS="LT3625"
+                    BASELINE="92 439 734 439" 
+                    HPOS="92"
+                    VPOS="428"
+                    WIDTH="642"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="92 439 92 448 734 446 734 439 734 428 92 428 92 439"/></Shape>
+	    <String CONTENT="Flecktyphus, einer Krankheit, die jeden Winter im Lager grassierte"
+                    HPOS="92"
+                    VPOS="428"
+                    WIDTH="642"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d774dcb"
+                    TAGREFS="LT3625"
+                    BASELINE="93 473 765 471" 
+                    HPOS="92"
+                    VPOS="459"
+                    WIDTH="673"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="93 473 93 480 765 480 765 471 762 459 92 461 93 473"/></Shape>
+	    <String CONTENT="und nicht bekaempft werden konnte, da wir alle voellig verlaust waren,"
+                    HPOS="92"
+                    VPOS="459"
+                    WIDTH="673"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48c23a78"
+                    TAGREFS="LT3625"
+                    BASELINE="93 504 745 502" 
+                    HPOS="92"
+                    VPOS="487"
+                    WIDTH="653"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="93 504 93 511 745 509 745 502 743 491 542 487 541 487 514 491 512 491 502 491 310 488 309 488 308 488 293 492 291 493 92 493 93 504"/></Shape>
+	    <String CONTENT="und der Flecktyphusbazillus sich durch Laeuse uebertragt. Ich wurde"
+                    HPOS="92"
+                    VPOS="487"
+                    WIDTH="653"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb78e5f1"
+                    TAGREFS="LT3625"
+                    BASELINE="95 537 760 533" 
+                    HPOS="94"
+                    VPOS="523"
+                    WIDTH="666"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="95 537 95 543 752 545 753 545 754 545 754 545 760 541 760 533 758 523 94 525 95 537"/></Shape>
+	    <String CONTENT="zweimal zur Vergasung aufgeschrieben, wurde aber beide mal im letzten"
+                    HPOS="94"
+                    VPOS="523"
+                    WIDTH="666"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af3e1cb9"
+                    TAGREFS="LT3625"
+                    BASELINE="95 567 752 565" 
+                    HPOS="94"
+                    VPOS="559"
+                    WIDTH="658"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="95 574 751 572 752 565 751 559 94 562 95 567"/></Shape>
+	    <String CONTENT="Moment gerettet; das erste mal, weil meine  chwester, die dem Lager-"
+                    HPOS="94"
+                    VPOS="559"
+                    WIDTH="658"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_518a6841"
+                    TAGREFS="LT3625"
+                    BASELINE="96 599 753 598" 
+                    HPOS="95"
+                    VPOS="586"
+                    WIDTH="658"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="96 599 96 607 752 605 753 598 750 586 95 588 96 599"/></Shape>
+	    <String CONTENT="orchester angehoerte, an die Lagerkommandanten appellierte, die eine"
+                    HPOS="95"
+                    VPOS="586"
+                    WIDTH="658"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_821e8231"
+                    TAGREFS="LT3625"
+                    BASELINE="103 633 752 629" 
+                    HPOS="102"
+                    VPOS="616"
+                    WIDTH="650"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="103 633 103 639 751 635 752 629 750 618 242 616 241 616 240 616 231 621 119 617 119 617 118 617 102 621 103 633"/></Shape>
+	    <String CONTENT="schwaeche fuer Musik hatte, und das zweite mal weil einer der Selek-"
+                    HPOS="102"
+                    VPOS="616"
+                    WIDTH="650"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d718ee4"
+                    TAGREFS="LT3625"
+                    BASELINE="97 662 761 660" 
+                    HPOS="96"
+                    VPOS="646"
+                    WIDTH="665"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="97 662 97 669 760 668 761 660 759 650 455 646 454 646 429 650 427 651 96 651 97 662"/></Shape>
+	    <String CONTENT="tionsoffiziere namens Hessler, der uebrigens seitdem in Hameln hin-"
+                    HPOS="96"
+                    VPOS="646"
+                    WIDTH="665"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e55e9fa8"
+                    TAGREFS="LT3625"
+                    BASELINE="96 696 770 691" 
+                    HPOS="95"
+                    VPOS="680"
+                    WIDTH="675"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="96 696 96 706 770 699 770 691 767 680 95 682 96 696"/></Shape>
+	    <String CONTENT="gerichtet wurde, einen Moment menschlich wurde und meine Nummer wieder"
+                    HPOS="95"
+                    VPOS="680"
+                    WIDTH="675"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e9dbfe0"
+                    TAGREFS="LT3625"
+                    BASELINE="96 724 201 726" 
+                    HPOS="95"
+                    VPOS="713"
+                    WIDTH="106"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="96 724 95 733 105 738 106 738 107 738 141 734 150 739 151 739 152 739 200 734 201 726 200 714 96 713 96 724"/></Shape>
+	    <String CONTENT="ausstrich."
+                    HPOS="95"
+                    VPOS="713"
+                    WIDTH="106"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4f44146"
+                    TAGREFS="LT3625"
+                    BASELINE="172 757 768 755" 
+                    HPOS="171"
+                    VPOS="739"
+                    WIDTH="597"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="172 757 172 765 767 762 768 755 767 744 569 739 568 739 568 739 554 744 552 744 551 744 546 740 546 740 545 740 544 740 543 740 533 744 531 744 410 744 409 744 398 740 397 740 396 740 377 744 369 745 316 745 313 744 307 740 306 740 305 740 304 740 299 744 296 744 294 744 286 740 286 740 285 740 269 744 260 744 251 744 233 740 232 740 171 743 172 757"/></Shape>
+	    <String CONTENT="Aerztliche Behandlung gab es ueberhaupt nicht aus dem einfach-"
+                    HPOS="171"
+                    VPOS="739"
+                    WIDTH="597"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b5963fd"
+                    TAGREFS="LT3625"
+                    BASELINE="151 789 758 788" 
+                    HPOS="149"
+                    VPOS="776"
+                    WIDTH="608"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="150 788 150 798 520 794 755 797 757 787 754 776 149 777 150 788"/></Shape>
+	    <String CONTENT="rund, weil keine Medikamente da waren. Die wenigen Medikamente,"
+                    HPOS="149"
+                    VPOS="776"
+                    WIDTH="608"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_567a379b"
+                    TAGREFS="LT3625"
+                    BASELINE="97 820 770 818" 
+                    HPOS="96"
+                    VPOS="806"
+                    WIDTH="674"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="97 820 97 827 769 828 770 818 767 806 96 808 97 820"/></Shape>
+	    <String CONTENT="die unter grosser  efahr von Haeftlingen, die in den Depots arbeiteten"
+                    HPOS="96"
+                    VPOS="806"
+                    WIDTH="674"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a61e928"
+                    TAGREFS="LT3625"
+                    BASELINE="98 852 745 850" 
+                    HPOS="97"
+                    VPOS="837"
+                    WIDTH="648"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="98 852 98 864 130 860 265 863 303 863 304 863 304 863 307 863 314 859 407 862 461 863 462 863 745 858 745 850 743 837 97 839 98 852"/></Shape>
+	    <String CONTENT="ins  ager geschmuggelt wurden, waren nur dann erhaeltlich, wenn man"
+                    HPOS="97"
+                    VPOS="837"
+                    WIDTH="648"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bdb57a9"
+                    TAGREFS="LT3625"
+                    BASELINE="99 885 736 883" 
+                    HPOS="98"
+                    VPOS="868"
+                    WIDTH="638"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="99 885 99 893 734 894 736 883 734 872 417 868 416 868 415 868 399 872 113 869 112 869 111 869 98 873 99 885"/></Shape>
+	    <String CONTENT="einen kostbaren Tauschartikel hatte.- Neben Typhus litten wir fast"
+                    HPOS="98"
+                    VPOS="868"
+                    WIDTH="638"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

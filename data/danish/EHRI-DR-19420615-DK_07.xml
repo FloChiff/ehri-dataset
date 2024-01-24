@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19420615-DK_07.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2496"
+          HEIGHT="3370"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2496"
+                  HEIGHT="3370">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c4211af2"
+                    TAGREFS="LT3627"
+                    BASELINE="1051 345 1287 353" 
+                    HPOS="1048"
+                    VPOS="306"
+                    WIDTH="239"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1051 345 1048 379 1203 379 1205 379 1222 393 1225 393 1228 393 1231 393 1233 393 1284 379 1287 353 1284 314 1051 306 1051 345"/></Shape>
+	    <String CONTENT="Blad 4."
+                    HPOS="1048"
+                    VPOS="306"
+                    WIDTH="239"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f470f207"
+                    TAGREFS="LT3627"
+                    BASELINE="463 497 2273 522" 
+                    HPOS="460"
+                    VPOS="452"
+                    WIDTH="1813"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="463 497 460 522 2268 547 2273 522 2271 483 1711 463 1708 463 1706 463 1675 474 1672 474 1669 474 1644 457 1641 457 1638 457 1635 457 1506 471 1484 471 1458 468 1267 452 1264 452 463 454 463 497"/></Shape>
+	    <String CONTENT="med Jøder eller i lige Linie besvogrede med saadanne, ude-"
+                    HPOS="460"
+                    VPOS="452"
+                    WIDTH="1813"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94a9c638"
+                    TAGREFS="LT3627"
+                    BASELINE="466 598 2377 629" 
+                    HPOS="463"
+                    VPOS="553"
+                    WIDTH="1914"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="466 598 463 629 550 651 553 651 632 634 643 634 753 637 812 659 815 659 817 659 980 645 1000 662 1003 662 1006 662 1009 662 1250 651 1335 665 1337 665 1340 665 1343 665 1368 648 1371 648 1444 651 1500 651 1512 668 1515 668 1515 671 1517 671 1520 671 1523 674 1585 674 1585 671 1588 671 1590 671 1613 654 1619 651 1647 654 1753 668 1756 668 1804 657 1821 654 1827 657 1852 676 1855 676 1857 676 1860 676 1863 676 1911 659 1922 657 2172 657 2181 665 2198 679 2198 682 2200 682 2203 682 2206 682 2209 682 2212 682 2228 668 2302 682 2304 682 2307 682 2310 682 2327 668 2332 665 2372 668 2377 629 2375 589 466 553 466 598"/></Shape>
+	    <String CONTENT="lukket fra enhver Virksomhed indenfor den landsegne Retspleje."
+                    HPOS="463"
+                    VPOS="553"
+                    WIDTH="1914"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

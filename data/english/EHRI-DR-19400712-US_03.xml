@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19400712-US_03.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1919"
+          HEIGHT="3130"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1919"
+                  HEIGHT="3130">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6ea5cf38"
+                    TAGREFS="LT3626"
+                    BASELINE="1020 99 1133 99" 
+                    HPOS="1018"
+                    VPOS="65"
+                    WIDTH="112"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1018 96 1018 117 1130 117 1130 96 1130 65 1018 65 1018 96"/></Shape>
+	    <String CONTENT="- 3 -"
+                    HPOS="1018"
+                    VPOS="65"
+                    WIDTH="112"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7926822b"
+                    TAGREFS="LT3626"
+                    BASELINE="214 281 1545 289" 
+                    HPOS="211"
+                    VPOS="247"
+                    WIDTH="1334"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="214 281 211 302 1540 310 1545 289 1545 250 214 247 214 281"/></Shape>
+	    <String CONTENT="to Rumanian citizens enjoying full civil rights."
+                    HPOS="211"
+                    VPOS="247"
+                    WIDTH="1334"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bec9f2ab"
+                    TAGREFS="LT3626"
+                    BASELINE="211 370 1665 375" 
+                    HPOS="208"
+                    VPOS="336"
+                    WIDTH="1457"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="211 370 208 393 232 406 234 406 237 406 869 396 939 409 942 409 1663 396 1665 375 1663 341 211 336 211 370"/></Shape>
+	    <String CONTENT="Since Jews do not enjoy full civil rights, not being"
+                    HPOS="208"
+                    VPOS="336"
+                    WIDTH="1457"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ada1b29a"
+                    TAGREFS="LT3626"
+                    BASELINE="211 464 1691 464" 
+                    HPOS="211"
+                    VPOS="432"
+                    WIDTH="1480"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="211 464 211 492 1691 487 1691 464 1691 432 211 432 211 464"/></Shape>
+	    <String CONTENT="eligible to membership in the Party of the Nation, it"
+                    HPOS="211"
+                    VPOS="432"
+                    WIDTH="1480"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc735ad2"
+                    TAGREFS="LT3626"
+                    BASELINE="211 552 1689 547" 
+                    HPOS="208"
+                    VPOS="516"
+                    WIDTH="1481"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="211 552 211 579 1686 573 1689 547 1681 516 208 519 211 552"/></Shape>
+	    <String CONTENT="is obvious that the intention is to exclude them also"
+                    HPOS="208"
+                    VPOS="516"
+                    WIDTH="1481"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d8d456b"
+                    TAGREFS="LT3626"
+                    BASELINE="206 644 1057 644" 
+                    HPOS="206"
+                    VPOS="612"
+                    WIDTH="851"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="206 644 206 670 1057 670 1057 644 1057 612 206 612 206 644"/></Shape>
+	    <String CONTENT="from the practice of medicine."
+                    HPOS="206"
+                    VPOS="612"
+                    WIDTH="851"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa290e12"
+                    TAGREFS="LT3626"
+                    BASELINE="339 727 1689 735" 
+                    HPOS="336"
+                    VPOS="693"
+                    WIDTH="1353"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="339 727 336 756 355 766 357 766 360 766 362 766 759 756 785 769 788 769 791 769 1686 759 1689 735 1686 701 339 693 339 727"/></Shape>
+	    <String CONTENT="The Government appears to be making every effort"
+                    HPOS="336"
+                    VPOS="693"
+                    WIDTH="1353"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38938ef3"
+                    TAGREFS="LT3626"
+                    BASELINE="203 829 1605 829" 
+                    HPOS="203"
+                    VPOS="795"
+                    WIDTH="1402"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="203 829 203 850 1605 850 1605 829 1605 795 203 795 203 829"/></Shape>
+	    <String CONTENT="on the one hand to appease the Jews by restraining"
+                    HPOS="203"
+                    VPOS="795"
+                    WIDTH="1402"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6773ee48"
+                    TAGREFS="LT3626"
+                    BASELINE="198 912 1584 918" 
+                    HPOS="195"
+                    VPOS="879"
+                    WIDTH="1389"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="198 912 195 933 1579 939 1584 918 1582 884 198 879 198 912"/></Shape>
+	    <String CONTENT="molestation of all kinds, while on the other hand"
+                    HPOS="195"
+                    VPOS="879"
+                    WIDTH="1389"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8f4b2af"
+                    TAGREFS="LT3626"
+                    BASELINE="195 1009 1775 1009" 
+                    HPOS="195"
+                    VPOS="975"
+                    WIDTH="1580"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="195 1009 195 1035 1775 1035 1775 1009 1775 975 195 975 195 1009"/></Shape>
+	    <String CONTENT="proceeding with such discriminatory regulations as those"
+                    HPOS="195"
+                    VPOS="975"
+                    WIDTH="1580"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_566c66a1"
+                    TAGREFS="LT3626"
+                    BASELINE="198 1103 1660 1098" 
+                    HPOS="195"
+                    VPOS="1066"
+                    WIDTH="1465"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="198 1103 198 1124 1657 1118 1660 1098 1652 1066 195 1069 198 1103"/></Shape>
+	    <String CONTENT="just mentioned. Some are suspected of clandestinely"
+                    HPOS="195"
+                    VPOS="1066"
+                    WIDTH="1465"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45f56db4"
+                    TAGREFS="LT3626"
+                    BASELINE="198 1189 1684 1197" 
+                    HPOS="195"
+                    VPOS="1155"
+                    WIDTH="1489"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="198 1189 195 1212 211 1223 214 1223 216 1223 219 1223 527 1212 691 1225 694 1225 1681 1215 1684 1197 1681 1163 198 1155 198 1189"/></Shape>
+	    <String CONTENT="encouraging attacks on the Jews because of their con-"
+                    HPOS="195"
+                    VPOS="1155"
+                    WIDTH="1489"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_beb403cb"
+                    TAGREFS="LT3626"
+                    BASELINE="193 1278 1631 1285" 
+                    HPOS="190"
+                    VPOS="1244"
+                    WIDTH="1441"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="193 1278 190 1298 234 1314 237 1314 240 1314 665 1304 684 1317 686 1317 689 1317 691 1317 1629 1306 1631 1285 1631 1252 193 1244 193 1278"/></Shape>
+	    <String CONTENT="viction that (a) this is the solution of the entire"
+                    HPOS="190"
+                    VPOS="1244"
+                    WIDTH="1441"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c8035fb"
+                    TAGREFS="LT3626"
+                    BASELINE="190 1371 1707 1377" 
+                    HPOS="187"
+                    VPOS="1338"
+                    WIDTH="1520"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="190 1371 187 1395 1702 1411 1707 1377 1704 1343 190 1338 190 1371"/></Shape>
+	    <String CONTENT="Rumanian problem and (b) it will curry favor with Ger-"
+                    HPOS="187"
+                    VPOS="1338"
+                    WIDTH="1520"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e48ef30b"
+                    TAGREFS="LT3626"
+                    BASELINE="187 1463 1576 1471" 
+                    HPOS="185"
+                    VPOS="1429"
+                    WIDTH="1391"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="187 1463 185 1486 208 1499 211 1499 214 1499 1574 1491 1576 1471 1574 1437 187 1429 187 1463"/></Shape>
+	    <String CONTENT="many. Rumanians in general seem to wish to wreak"
+                    HPOS="185"
+                    VPOS="1429"
+                    WIDTH="1391"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89fcafb4"
+                    TAGREFS="LT3626"
+                    BASELINE="190 1559 1660 1565" 
+                    HPOS="187"
+                    VPOS="1515"
+                    WIDTH="1473"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="190 1559 187 1588 1657 1585 1660 1565 1657 1531 1287 1531 1287 1528 1274 1518 1274 1515 1271 1515 1268 1515 1266 1515 190 1523 190 1559"/></Shape>
+	    <String CONTENT="their wrath either actively or passively on the Jews"
+                    HPOS="187"
+                    VPOS="1515"
+                    WIDTH="1473"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_454fbad0"
+                    TAGREFS="LT3626"
+                    BASELINE="190 1648 1644 1653" 
+                    HPOS="187"
+                    VPOS="1614"
+                    WIDTH="1457"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="190 1648 187 1669 258 1684 261 1684 1642 1677 1644 1653 1642 1619 190 1614 190 1648"/></Shape>
+	    <String CONTENT="for the events which have taken place in Bessarabia,"
+                    HPOS="187"
+                    VPOS="1614"
+                    WIDTH="1457"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c67d9d9c"
+                    TAGREFS="LT3626"
+                    BASELINE="187 1742 1631 1742" 
+                    HPOS="187"
+                    VPOS="1705"
+                    WIDTH="1444"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="187 1742 187 1773 1631 1773 1631 1742 1629 1705 187 1708 187 1742"/></Shape>
+	    <String CONTENT="particularly the many instances which are gradually"
+                    HPOS="187"
+                    VPOS="1705"
+                    WIDTH="1444"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a5f34a0"
+                    TAGREFS="LT3626"
+                    BASELINE="187 1831 1574 1838" 
+                    HPOS="185"
+                    VPOS="1797"
+                    WIDTH="1389"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="187 1831 185 1851 1569 1859 1574 1838 1571 1804 187 1797 187 1831"/></Shape>
+	    <String CONTENT="becoming known in which the Jews, either aided or"
+                    HPOS="185"
+                    VPOS="1797"
+                    WIDTH="1389"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c8c3ba8"
+                    TAGREFS="LT3626"
+                    BASELINE="185 1924 1574 1930" 
+                    HPOS="182"
+                    VPOS="1891"
+                    WIDTH="1392"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="185 1924 182 1943 344 1958 347 1958 874 1948 890 1961 892 1961 895 1961 898 1961 1571 1948 1574 1930 1571 1896 185 1891 185 1924"/></Shape>
+	    <String CONTENT="encouraged by communists and other members of the"
+                    HPOS="182"
+                    VPOS="1891"
+                    WIDTH="1392"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94ad3fe4"
+                    TAGREFS="LT3626"
+                    BASELINE="187 2013 1710 2024" 
+                    HPOS="185"
+                    VPOS="1979"
+                    WIDTH="1525"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="187 2013 185 2037 1704 2047 1710 2024 1710 1990 187 1979 187 2013"/></Shape>
+	    <String CONTENT="local populations, rose against the departing Rumanian"
+                    HPOS="185"
+                    VPOS="1979"
+                    WIDTH="1525"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ab7b7fa"
+                    TAGREFS="LT3626"
+                    BASELINE="187 2107 1391 2112" 
+                    HPOS="185"
+                    VPOS="2073"
+                    WIDTH="1206"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="187 2107 185 2125 339 2141 342 2141 1388 2133 1391 2112 1388 2078 187 2073 187 2107"/></Shape>
+	    <String CONTENT="officials at the time of the Russian entry."
+                    HPOS="185"
+                    VPOS="2073"
+                    WIDTH="1206"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc9e8550"
+                    TAGREFS="LT3626"
+                    BASELINE="321 2196 1623 2206" 
+                    HPOS="318"
+                    VPOS="2162"
+                    WIDTH="1305"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="321 2196 318 2219 1618 2230 1623 2206 1621 2172 321 2162 321 2196"/></Shape>
+	    <String CONTENT="Continual reports of persecutions and killings"
+                    HPOS="318"
+                    VPOS="2162"
+                    WIDTH="1305"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f73b24b8"
+                    TAGREFS="LT3626"
+                    BASELINE="182 2290 1626 2300" 
+                    HPOS="180"
+                    VPOS="2253"
+                    WIDTH="1446"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="182 2290 180 2310 1621 2321 1626 2300 1626 2264 182 2253 182 2290"/></Shape>
+	    <String CONTENT="of Jews in the provinces, particularly in Moldavian"
+                    HPOS="180"
+                    VPOS="2253"
+                    WIDTH="1446"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6438cdd"
+                    TAGREFS="LT3626"
+                    BASELINE="182 2384 1673 2384" 
+                    HPOS="182"
+                    VPOS="2352"
+                    WIDTH="1491"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="182 2384 182 2410 1673 2410 1673 2384 1673 2352 182 2352 182 2384"/></Shape>
+	    <String CONTENT="villages and towns along the new frontier, are drift-"
+                    HPOS="182"
+                    VPOS="2352"
+                    WIDTH="1491"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7b044d2"
+                    TAGREFS="LT3626"
+                    BASELINE="185 2472 1545 2480" 
+                    HPOS="182"
+                    VPOS="2436"
+                    WIDTH="1363"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="185 2472 182 2493 250 2509 253 2509 613 2498 650 2511 652 2511 655 2511 1543 2501 1545 2480 1543 2444 185 2436 185 2472"/></Shape>
+	    <String CONTENT="ing into Bucharest daily, but it is difficult to"
+                    HPOS="182"
+                    VPOS="2436"
+                    WIDTH="1363"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61b57113"
+                    TAGREFS="LT3626"
+                    BASELINE="185 2566 1610 2574" 
+                    HPOS="182"
+                    VPOS="2530"
+                    WIDTH="1428"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="185 2566 182 2584 1605 2592 1610 2574 1608 2537 185 2530 185 2566"/></Shape>
+	    <String CONTENT="ascertain just what proportion of them may be true."
+                    HPOS="182"
+                    VPOS="2530"
+                    WIDTH="1428"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c30ccd61"
+                    TAGREFS="LT3626"
+                    BASELINE="318 2655 1642 2663" 
+                    HPOS="315"
+                    VPOS="2621"
+                    WIDTH="1327"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="318 2655 315 2676 1637 2683 1642 2663 1642 2629 318 2621 318 2655"/></Shape>
+	    <String CONTENT="As of possible interest in this general connec-"
+                    HPOS="315"
+                    VPOS="2621"
+                    WIDTH="1327"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f125b4d"
+                    TAGREFS="LT3626"
+                    BASELINE="185 2751 1566 2751" 
+                    HPOS="185"
+                    VPOS="2720"
+                    WIDTH="1381"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="185 2751 185 2775 1566 2775 1566 2751 1566 2720 185 2720 185 2751"/></Shape>
+	    <String CONTENT="tion I am enclosing herewith a copy of a covertly"
+                    HPOS="185"
+                    VPOS="2720"
+                    WIDTH="1381"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_099a262d"
+                    TAGREFS="LT3626"
+                    BASELINE="187 2835 1482 2845" 
+                    HPOS="185"
+                    VPOS="2801"
+                    WIDTH="1297"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="187 2835 185 2858 1477 2869 1482 2845 1480 2811 187 2801 187 2835"/></Shape>
+	    <String CONTENT="circulated statement issued by the self-styled"
+                    HPOS="185"
+                    VPOS="2801"
+                    WIDTH="1297"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c6b527b"
+                    TAGREFS="LT3626"
+                    BASELINE="1394 2976 1652 2983" 
+                    HPOS="1391"
+                    VPOS="2942"
+                    WIDTH="261"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1394 2976 1391 2996 1480 3015 1482 3015 1650 3004 1652 2983 1652 2950 1394 2942 1394 2976"/></Shape>
+	    <String CONTENT="&quot;Central"
+                    HPOS="1391"
+                    VPOS="2942"
+                    WIDTH="261"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

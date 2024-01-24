@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-ZIH3010905_01.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9604" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3614" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1294"
+          HEIGHT="1785"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1294"
+                  HEIGHT="1785">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_02184f85"
+                    TAGREFS="LT3614"
+                    BASELINE="119 46 1175 27" 
+                    HPOS="116"
+                    VPOS="10"
+                    WIDTH="1058"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1158 10 1143 10 1128 10 1113 10 1098 11 1084 11 1069 11 1054 11 1039 11 1024 11 1009 11 994 11 979 13 964 13 950 13 935 13 920 13 905 13 868 13 860 14 845 14 830 14 817 14 760 14 756 16 741 16 729 16 116 25 117 44 117 60 1173 40 1174 26 1170 10 1158 10"/></Shape>
+	    <String CONTENT="II. Anzelm Landesmann. Lat 12. Pochodzi ze Skałatu. Ma dwóch"
+                    HPOS="116"
+                    VPOS="10"
+                    WIDTH="1058"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07138dc1"
+                    TAGREFS="LT3614"
+                    BASELINE="183 71 1188 56" 
+                    HPOS="181"
+                    VPOS="32"
+                    WIDTH="1007"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="183 71 183 89 282 77 300 86 302 86 303 86 393 77 442 84 443 84 445 84 486 74 537 83 539 83 540 83 568 75 579 83 580 83 582 83 583 83 686 71 750 80 751 80 830 69 868 78 869 78 871 78 926 71 973 77 975 77 976 77 1006 66 1085 74 1087 74 1088 74 1113 65 1185 74 1188 56 1183 32 181 46 183 71"/></Shape>
+	    <String CONTENT="braci, jeden jest kapralem w Wojsku Polskim, a drugi, lat"
+                    HPOS="181"
+                    VPOS="32"
+                    WIDTH="1007"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7fafe15"
+                    TAGREFS="LT3614"
+                    BASELINE="168 93 1155 80" 
+                    HPOS="165"
+                    VPOS="60"
+                    WIDTH="989"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="166 92 166 102 1154 90 1154 78 1149 60 165 71 166 92"/></Shape>
+	    <String CONTENT="17, dał się ochrzcić i został u Ukraińców w okolicach"
+                    HPOS="165"
+                    VPOS="60"
+                    WIDTH="989"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1c68e64"
+                    TAGREFS="LT3614"
+                    BASELINE="178 117 1224 101" 
+                    HPOS="177"
+                    VPOS="77"
+                    WIDTH="1047"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1145 81 1130 81 1115 81 1100 81 1085 81 1070 81 1055 81 1040 83 1025 83 1011 83 996 83 981 83 966 83 951 83 936 83 921 84 906 84 891 84 877 84 862 84 847 84 832 84 817 84 802 86 787 86 772 86 757 86 743 86 728 86 713 86 698 87 683 87 668 87 653 87 638 87 623 87 610 87 589 87 579 89 564 89 549 89 534 89 522 89 482 89 475 90 460 90 445 90 436 90 355 90 355 92 348 92 177 93 178 117 178 132 1222 119 1224 101 1219 77 1146 77 1145 81"/></Shape>
+	    <String CONTENT="Skałatu. Anzelm zwany przez Ukraińców &quot;Jaśko&quot; przyjechał do"
+                    HPOS="177"
+                    VPOS="77"
+                    WIDTH="1047"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6bab744"
+                    TAGREFS="LT3614"
+                    BASELINE="193 142 1206 127" 
+                    HPOS="192"
+                    VPOS="107"
+                    WIDTH="1014"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="193 142 193 157 1206 142 1206 127 1201 107 192 120 193 142"/></Shape>
+	    <String CONTENT="Gliwic z transportem repatriantów i oddany został do do"
+                    HPOS="192"
+                    VPOS="107"
+                    WIDTH="1014"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6feede03"
+                    TAGREFS="LT3614"
+                    BASELINE="178 166 606 162" 
+                    HPOS="177"
+                    VPOS="141"
+                    WIDTH="429"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="178 166 178 178 318 185 320 185 606 177 606 162 601 141 177 144 178 166"/></Shape>
+	    <String CONTENT="mu Dziecka w Chorzowie."
+                    HPOS="177"
+                    VPOS="141"
+                    WIDTH="429"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d434987"
+                    TAGREFS="LT3614"
+                    BASELINE="34 193 312 193" 
+                    HPOS="34"
+                    VPOS="159"
+                    WIDTH="278"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="227 166 212 166 209 166 183 171 157 163 141 159 139 159 138 159 136 159 135 159 135 160 132 162 123 172 104 172 93 162 93 160 92 160 90 160 34 159 34 193 34 209 312 208 312 193 311 171 245 171 241 166 227 166"/></Shape>
+	    <String CONTENT="Janek opowiada:"
+                    HPOS="34"
+                    VPOS="159"
+                    WIDTH="278"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7374facc"
+                    TAGREFS="LT3614"
+                    BASELINE="29 243 1209 223" 
+                    HPOS="28"
+                    VPOS="190"
+                    WIDTH="1181"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="29 243 29 260 1209 240 1209 223 1204 190 1146 200 1103 193 1101 193 951 206 826 206 808 197 807 197 805 197 804 197 768 209 655 209 619 200 617 200 616 200 530 212 486 203 485 203 425 211 382 205 381 205 379 205 378 205 361 215 309 206 308 206 257 217 148 209 147 209 99 220 86 211 84 211 83 211 28 211 29 243"/></Shape>
+	    <String CONTENT="U nas było siedmioro dzieci. Wstałem rano. Akcja. Ja uciekłem tędy,"
+                    HPOS="28"
+                    VPOS="190"
+                    WIDTH="1181"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12dbcbbe"
+                    TAGREFS="LT3614"
+                    BASELINE="34 269 1225 254" 
+                    HPOS="32"
+                    VPOS="229"
+                    WIDTH="1193"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="34 269 34 282 1225 267 1225 254 1221 229 32 246 34 269"/></Shape>
+	    <String CONTENT="mama tędy, młodszy brat tędy. Gdy uciekłem, Niemiec strzelił za mną"
+                    HPOS="32"
+                    VPOS="229"
+                    WIDTH="1193"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc506031"
+                    TAGREFS="LT3614"
+                    BASELINE="37 294 1174 276" 
+                    HPOS="35"
+                    VPOS="255"
+                    WIDTH="1139"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1167 255 1152 255 1137 255 1122 255 1107 255 1092 257 1078 257 1063 257 1048 257 1033 257 1018 257 1003 257 994 257 987 257 973 258 958 258 944 258 929 258 914 258 906 258 860 258 854 260 839 260 824 260 820 260 735 260 735 261 732 261 35 272 37 294 37 309 1173 291 1174 276 1170 255 1167 255"/></Shape>
+	    <String CONTENT="i ranił mnie w głowę. Upadłem. Myśleli, że jestem nieżywy i wszyscy"
+                    HPOS="35"
+                    VPOS="255"
+                    WIDTH="1139"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8508939c"
+                    TAGREFS="LT3614"
+                    BASELINE="34 318 1210 300" 
+                    HPOS="32"
+                    VPOS="281"
+                    WIDTH="1178"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="34 318 34 328 1210 316 1210 300 1206 281 32 297 34 318"/></Shape>
+	    <String CONTENT="deptali po mnie, ja nawet nie sapałem i leżałem. Niemcy pojechali,"
+                    HPOS="32"
+                    VPOS="281"
+                    WIDTH="1178"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba9c1e53"
+                    TAGREFS="LT3614"
+                    BASELINE="38 345 1192 327" 
+                    HPOS="37"
+                    VPOS="307"
+                    WIDTH="1155"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="38 345 38 357 1192 340 1192 327 1188 307 37 324 38 345"/></Shape>
+	    <String CONTENT="ja wstałem i poszedłem do szpitala, gdzie mi owiązali głowę. Wró"
+                    HPOS="37"
+                    VPOS="307"
+                    WIDTH="1155"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68106897"
+                    TAGREFS="LT3614"
+                    BASELINE="24 361 1225 351" 
+                    HPOS="22"
+                    VPOS="328"
+                    WIDTH="1202"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="900 331 885 331 871 331 856 331 841 331 826 331 818 331 810 331 796 333 781 333 766 333 751 333 737 333 722 333 707 334 692 334 677 334 662 334 647 334 632 334 617 334 603 336 588 336 573 336 558 336 543 336 528 336 513 337 498 337 483 337 469 337 454 337 439 337 424 337 409 339 394 339 379 339 364 339 349 339 335 339 320 340 305 340 290 340 275 340 260 340 245 340 230 340 215 342 201 342 186 342 171 342 156 342 141 342 126 343 111 343 96 343 81 343 67 343 52 343 37 343 35 336 22 336 23 359 23 374 1222 367 1224 349 1219 328 906 330 900 331"/></Shape>
+	    <String CONTENT="ciłem do domu, rodziców już nie było i byłem u gospodarza znajomego."
+                    HPOS="22"
+                    VPOS="328"
+                    WIDTH="1202"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee5c543c"
+                    TAGREFS="LT3614"
+                    BASELINE="18 393 1212 374" 
+                    HPOS="16"
+                    VPOS="354"
+                    WIDTH="1194"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="17 392 17 401 1209 391 1210 373 1206 354 16 371 17 392"/></Shape>
+	    <String CONTENT="Później znów przyszli Niemcy, złapali mnie do bóżnicy i na au"
+                    HPOS="16"
+                    VPOS="354"
+                    WIDTH="1194"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf0cc1ec"
+                    TAGREFS="LT3614"
+                    BASELINE="27 415 1186 401" 
+                    HPOS="25"
+                    VPOS="380"
+                    WIDTH="1160"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="472 386 457 386 442 386 427 386 412 386 409 386 396 386 382 388 367 388 352 388 338 388 323 388 308 388 293 388 278 389 263 389 248 389 233 389 218 389 204 389 189 391 174 391 159 391 144 391 129 391 114 391 99 392 84 392 69 392 55 392 40 392 25 392 26 413 26 425 1183 417 1185 400 1180 380 476 385 472 386"/></Shape>
+	    <String CONTENT="to i do Tarnopola. Z Tarnopola wszystkich wywieziono do Bełżca."
+                    HPOS="25"
+                    VPOS="380"
+                    WIDTH="1160"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db1b3c85"
+                    TAGREFS="LT3614"
+                    BASELINE="22 441 1209 423" 
+                    HPOS="19"
+                    VPOS="400"
+                    WIDTH="1188"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1180 401 1165 401 1151 401 1136 401 1121 401 1106 401 1103 401 1052 401 1046 403 1031 403 1017 403 1005 403 912 403 912 404 906 404 19 416 20 440 20 455 1206 438 1207 422 1203 400 1180 400 1180 401"/></Shape>
+	    <String CONTENT="Siostra moja uciekła z auta i padła ubita kulą. Uciekła w dzień i"
+                    HPOS="19"
+                    VPOS="400"
+                    WIDTH="1188"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1202796f"
+                    TAGREFS="LT3614"
+                    BASELINE="29 464 1226 449" 
+                    HPOS="26"
+                    VPOS="423"
+                    WIDTH="1199"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="324 437 323 437 131 438 131 440 123 440 26 440 28 462 28 478 276 477 278 477 279 477 291 470 333 475 345 477 346 477 357 475 394 468 445 474 457 475 458 475 467 474 507 467 562 473 574 474 576 474 585 473 628 465 693 471 707 473 708 473 710 473 714 471 747 464 795 471 802 471 804 471 973 470 975 470 976 470 976 468 985 462 1021 468 1024 468 1025 468 1027 468 1043 461 1076 468 1082 468 1084 468 1225 465 1225 447 1221 423 622 432 324 435 324 437"/></Shape>
+	    <String CONTENT="dlatego się jej nie udało, dlatego ja i brat uciekliśmy wieczorem."
+                    HPOS="26"
+                    VPOS="423"
+                    WIDTH="1199"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ceec498c"
+                    TAGREFS="LT3614"
+                    BASELINE="28 492 1173 473" 
+                    HPOS="25"
+                    VPOS="452"
+                    WIDTH="1146"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="26 490 26 504 1171 483 1171 471 1167 452 25 465 26 490"/></Shape>
+	    <String CONTENT="Niemiec strzelił, ranił brata w nogę, a mnie w twarz. /Janek jest"
+                    HPOS="25"
+                    VPOS="452"
+                    WIDTH="1146"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d00d70ed"
+                    TAGREFS="LT3614"
+                    BASELINE="30 512 1210 496" 
+                    HPOS="28"
+                    VPOS="473"
+                    WIDTH="1181"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="891 477 883 477 823 477 817 478 802 478 787 478 775 478 737 478 728 480 713 480 698 480 683 480 668 480 650 480 638 481 623 481 609 481 594 481 579 481 564 481 549 483 534 483 519 483 504 483 489 483 475 483 460 484 445 484 430 484 415 484 400 484 385 484 370 486 355 486 340 486 326 486 311 486 296 486 281 487 266 487 251 487 236 487 221 487 206 487 192 489 177 489 162 489 147 489 132 489 117 489 102 490 87 490 72 490 58 490 43 490 28 490 29 511 29 526 564 514 760 519 771 519 772 519 774 519 775 519 775 517 783 511 1207 513 1209 495 1204 473 891 475 891 477"/></Shape>
+	    <String CONTENT="dwa razy raniony w głowę i w twarz./ Myśmy jednak uciekli i chodzi"
+                    HPOS="28"
+                    VPOS="473"
+                    WIDTH="1181"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e2e2d00"
+                    TAGREFS="LT3614"
+                    BASELINE="37 536 1192 522" 
+                    HPOS="35"
+                    VPOS="498"
+                    WIDTH="1157"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="37 536 37 550 1191 536 1192 522 1188 498 35 516 37 536"/></Shape>
+	    <String CONTENT="liśmy tylko w nocy. Co robić...? My się rozeszli, brat w jed"
+                    HPOS="35"
+                    VPOS="498"
+                    WIDTH="1157"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b9af8ef"
+                    TAGREFS="LT3614"
+                    BASELINE="38 563 1146 544" 
+                    HPOS="37"
+                    VPOS="523"
+                    WIDTH="1109"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1139 523 1124 523 1109 523 1094 523 1079 523 1064 525 1049 525 1034 525 1020 525 1005 525 990 525 975 525 960 526 945 526 930 526 915 526 900 526 885 526 871 526 856 526 841 528 826 528 811 528 796 528 781 528 766 528 751 528 737 528 722 529 707 529 692 529 677 529 662 529 647 529 632 529 631 529 614 529 603 531 588 531 573 531 558 531 544 531 488 531 483 532 469 532 460 532 379 532 379 534 375 534 37 538 38 563 38 572 1146 559 1146 544 1142 523 1139 523"/></Shape>
+	    <String CONTENT="ną stronę, ja w drugą. Poszedłem na wieś i zaszedłem do chaty."
+                    HPOS="37"
+                    VPOS="523"
+                    WIDTH="1109"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56914b28"
+                    TAGREFS="LT3614"
+                    BASELINE="41 586 1215 571" 
+                    HPOS="40"
+                    VPOS="547"
+                    WIDTH="1175"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="367 559 357 559 281 559 278 560 263 560 251 560 212 560 204 562 189 562 174 562 159 562 144 562 126 562 114 563 99 563 84 563 69 563 55 563 40 563 41 586 41 602 1213 586 1215 571 1210 547 369 557 367 559"/></Shape>
+	    <String CONTENT="Ukraińców było tylko dwoje, ja im mówiłem, że jestem z Drohobycza,"
+                    HPOS="40"
+                    VPOS="547"
+                    WIDTH="1175"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb57d51c"
+                    TAGREFS="LT3614"
+                    BASELINE="41 611 1215 597" 
+                    HPOS="40"
+                    VPOS="575"
+                    WIDTH="1175"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="41 611 41 626 171 617 275 623 276 623 278 623 302 615 430 621 431 621 823 609 915 615 917 615 954 608 1212 612 1215 597 1210 575 40 590 41 611"/></Shape>
+	    <String CONTENT="że tam głód i ja tam pracuję. Powiedziałem jednak, że tu chcę pra"
+                    HPOS="40"
+                    VPOS="575"
+                    WIDTH="1175"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_252b0994"
+                    TAGREFS="LT3614"
+                    BASELINE="37 636 1213 618" 
+                    HPOS="35"
+                    VPOS="599"
+                    WIDTH="1178"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1197 599 1182 599 1167 599 1152 599 1137 599 1122 599 1107 599 1101 599 1091 599 1078 600 1063 600 1048 600 1033 600 1018 600 1003 600 994 600 953 600 944 602 929 602 914 602 899 602 887 602 814 602 810 603 795 603 780 603 692 603 690 605 676 605 673 605 35 612 37 636 37 653 1212 635 1213 618 1209 599 1197 599"/></Shape>
+	    <String CONTENT="cować. Ucieszyli się, że będę pasł krowy. Dobrze mówiłem po ukraiń"
+                    HPOS="35"
+                    VPOS="599"
+                    WIDTH="1178"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7198692e"
+                    TAGREFS="LT3614"
+                    BASELINE="37 660 1218 644" 
+                    HPOS="35"
+                    VPOS="624"
+                    WIDTH="1183"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="37 660 37 672 1216 655 1218 644 1213 624 35 639 37 660"/></Shape>
+	    <String CONTENT="sku, bo w domu bawiłem się z dziećmi sąsiadów. Umiałem pacierz po"
+                    HPOS="35"
+                    VPOS="624"
+                    WIDTH="1183"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a620e90"
+                    TAGREFS="LT3614"
+                    BASELINE="38 684 1213 667" 
+                    HPOS="37"
+                    VPOS="650"
+                    WIDTH="1176"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="38 684 38 700 1212 684 1213 667 1209 650 37 664 38 684"/></Shape>
+	    <String CONTENT="polsku i ukraińsku. Służyłem u nich, zapomniałem po żydowsku, ale"
+                    HPOS="37"
+                    VPOS="650"
+                    WIDTH="1176"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_761610a3"
+                    TAGREFS="LT3614"
+                    BASELINE="38 709 1231 693" 
+                    HPOS="37"
+                    VPOS="673"
+                    WIDTH="1194"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="38 709 38 721 1229 709 1231 693 1226 673 37 688 38 709"/></Shape>
+	    <String CONTENT="czasem w stajni chciałem powiedzieć do konia coś po żydowsku, ale"
+                    HPOS="37"
+                    VPOS="673"
+                    WIDTH="1194"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4990f53e"
+                    TAGREFS="LT3614"
+                    BASELINE="38 733 1170 718" 
+                    HPOS="37"
+                    VPOS="700"
+                    WIDTH="1133"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="38 733 38 743 1168 728 1170 718 1165 700 37 711 38 733"/></Shape>
+	    <String CONTENT="w gardle coś mi stanęło i nie pozwoliło. Sołtys przeszedł i py"
+                    HPOS="37"
+                    VPOS="700"
+                    WIDTH="1133"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5918e57a"
+                    TAGREFS="LT3614"
+                    BASELINE="46 757 1232 743" 
+                    HPOS="44"
+                    VPOS="719"
+                    WIDTH="1188"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="46 757 46 773 98 766 437 769 439 769 440 769 442 769 458 761 549 767 550 767 552 767 583 760 1076 761 1078 761 1079 761 1101 754 1229 760 1232 743 1228 719 44 733 46 757"/></Shape>
+	    <String CONTENT="tał, jak się nazywa mój ojciec, moja matka. Ja mówię: Michał i Nastu"
+                    HPOS="44"
+                    VPOS="719"
+                    WIDTH="1188"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2202bc6"
+                    TAGREFS="LT3614"
+                    BASELINE="38 782 1198 767" 
+                    HPOS="37"
+                    VPOS="749"
+                    WIDTH="1161"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="38 782 38 797 1198 777 1198 767 1194 749 37 763 38 782"/></Shape>
+	    <String CONTENT="sia. Wymyśliłem imię i dla dziadka, i dla babki. Raz pasłem krowy,"
+                    HPOS="37"
+                    VPOS="749"
+                    WIDTH="1161"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6280019c"
+                    TAGREFS="LT3614"
+                    BASELINE="46 807 1244 791" 
+                    HPOS="44"
+                    VPOS="767"
+                    WIDTH="1200"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1191 769 1176 769 1161 769 1154 769 1072 769 1072 770 1069 770 44 786 46 807 46 824 1244 807 1244 791 1240 767 1191 767 1191 769"/></Shape>
+	    <String CONTENT="słyszę, ktoś śpiewa, hołos /głos/ znajomy. Podbiegam do szosy, patrzę"
+                    HPOS="44"
+                    VPOS="767"
+                    WIDTH="1200"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05057411"
+                    TAGREFS="LT3614"
+                    BASELINE="47 833 1195 816" 
+                    HPOS="46"
+                    VPOS="797"
+                    WIDTH="1149"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="47 833 47 849 1194 831 1195 816 1191 797 46 807 47 833"/></Shape>
+	    <String CONTENT="mój brat, podniosłem rękę, płaczę, krzyczę, stanął, zeszedł z wozu,"
+                    HPOS="46"
+                    VPOS="797"
+                    WIDTH="1149"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c35ccd88"
+                    TAGREFS="LT3614"
+                    BASELINE="47 856 1231 843" 
+                    HPOS="46"
+                    VPOS="824"
+                    WIDTH="1185"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="47 856 47 865 1231 858 1231 843 1226 824 46 835 47 856"/></Shape>
+	    <String CONTENT="też płakał. Potem pojechał dalej i już ani razu brata nie widzia"
+                    HPOS="46"
+                    VPOS="824"
+                    WIDTH="1185"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f715bf4"
+                    TAGREFS="LT3614"
+                    BASELINE="55 879 1209 867" 
+                    HPOS="53"
+                    VPOS="849"
+                    WIDTH="1156"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="306 855 291 855 281 855 180 855 172 856 157 856 142 856 128 856 113 856 98 856 83 856 68 856 53 856 55 879 55 892 1209 882 1209 867 1204 849 308 853 306 855"/></Shape>
+	    <String CONTENT="łem. Służyłem tak do zimy 1944 r. Później przyszli Sowieci, ja myś"
+                    HPOS="53"
+                    VPOS="849"
+                    WIDTH="1156"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38cb722b"
+                    TAGREFS="LT3614"
+                    BASELINE="52 905 1189 892" 
+                    HPOS="50"
+                    VPOS="870"
+                    WIDTH="1139"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="52 905 52 917 1189 908 1189 892 1185 870 50 882 52 905"/></Shape>
+	    <String CONTENT="lałem, że nikogo z Żydów nie ma, ale pojechałem do Skałatu zoba"
+                    HPOS="50"
+                    VPOS="870"
+                    WIDTH="1139"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc12a3bc"
+                    TAGREFS="LT3614"
+                    BASELINE="68 931 1165 913" 
+                    HPOS="65"
+                    VPOS="893"
+                    WIDTH="1099"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="67 929 67 944 160 944 162 944 169 950 171 950 181 950 196 944 201 943 206 944 224 949 226 949 227 949 291 943 339 940 367 943 391 946 394 946 409 946 409 947 415 949 416 949 457 943 483 938 585 941 677 944 679 944 680 944 690 941 710 934 722 941 725 943 726 943 728 943 729 944 793 944 793 943 795 943 796 943 799 940 807 935 935 940 976 940 978 940 979 940 981 940 981 938 991 932 1031 938 1034 938 1036 938 1037 938 1063 931 1162 937 1164 911 1159 893 65 908 67 929"/></Shape>
+	    <String CONTENT="czyć nasz dom, patrzę, a tu mój wujek spaceruje ulicą, on mnie"
+                    HPOS="65"
+                    VPOS="893"
+                    WIDTH="1099"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1431aabc"
+                    TAGREFS="LT3614"
+                    BASELINE="50 955 419 949" 
+                    HPOS="47"
+                    VPOS="928"
+                    WIDTH="371"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="49 954 49 980 110 980 110 978 111 978 113 978 135 966 235 966 256 974 257 974 259 974 260 974 262 974 276 965 416 972 418 947 413 928 47 929 49 954"/></Shape>
+	    <String CONTENT="przywiózł do Gliwic."
+                    HPOS="47"
+                    VPOS="928"
+                    WIDTH="371"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b43543f5"
+                    TAGREFS="LT3614"
+                    BASELINE="49 1075 729 1068" 
+                    HPOS="46"
+                    VPOS="1035"
+                    WIDTH="682"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="47 1073 49 1109 89 1096 116 1108 117 1108 119 1108 120 1108 122 1108 123 1108 123 1106 144 1093 187 1088 251 1088 265 1099 266 1099 268 1099 269 1099 271 1099 272 1099 284 1088 336 1087 367 1097 384 1103 385 1103 452 1105 454 1105 525 1103 527 1103 528 1103 542 1091 544 1088 553 1091 591 1102 592 1102 594 1102 595 1102 638 1088 652 1084 725 1084 728 1066 722 1036 690 1044 631 1036 610 1035 609 1035 607 1035 606 1035 604 1036 595 1044 445 1047 376 1039 355 1038 354 1038 352 1038 345 1039 314 1048 282 1041 276 1039 275 1039 273 1039 256 1041 175 1050 46 1044 47 1073"/></Shape>
+	    <String CONTENT="Protokołowała: Gliksztejn Ida. Bytom."
+                    HPOS="46"
+                    VPOS="1035"
+                    WIDTH="682"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

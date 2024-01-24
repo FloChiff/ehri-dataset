@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-WL1375B307_06.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="793"
+          HEIGHT="1122"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="793"
+                  HEIGHT="1122">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a056a2da"
+                    TAGREFS="LT3625"
+                    BASELINE="247 41 311 41" 
+                    HPOS="246"
+                    VPOS="28"
+                    WIDTH="64"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="246 40 246 48 310 48 310 40 310 28 246 28 246 40"/></Shape>
+	    <String CONTENT="- 6 -"
+                    HPOS="246"
+                    VPOS="28"
+                    WIDTH="64"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_145667ac"
+                    TAGREFS="LT3625"
+                    BASELINE="13 86 444 84" 
+                    HPOS="12"
+                    VPOS="67"
+                    WIDTH="432"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="13 86 13 95 443 92 444 84 442 71 155 67 154 67 153 67 138 71 65 68 64 68 12 72 13 86"/></Shape>
+	    <String CONTENT="so etwas im 20.Jahrhundert passiert ist."
+                    HPOS="12"
+                    VPOS="67"
+                    WIDTH="432"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64468f13"
+                    TAGREFS="LT3625"
+                    BASELINE="68 109 753 111" 
+                    HPOS="67"
+                    VPOS="96"
+                    WIDTH="686"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="68 109 67 117 751 118 753 111 752 98 68 96 68 109"/></Shape>
+	    <String CONTENT="Ihr werdet sicherlich nun auch verstehen, warum ich eingangs das"
+                    HPOS="67"
+                    VPOS="96"
+                    WIDTH="686"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0a0c18f"
+                    TAGREFS="LT3625"
+                    BASELINE="13 126 761 129" 
+                    HPOS="12"
+                    VPOS="114"
+                    WIDTH="749"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="13 126 12 133 759 136 761 129 760 116 13 114 13 126"/></Shape>
+	    <String CONTENT="Motto des Redners bei der Chanukafeier auf dem Schiff zitiert habe und"
+                    HPOS="12"
+                    VPOS="114"
+                    WIDTH="749"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4204cd2"
+                    TAGREFS="LT3625"
+                    BASELINE="14 145 761 147" 
+                    HPOS="14"
+                    VPOS="132"
+                    WIDTH="747"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="14 145 14 155 760 155 761 147 760 134 14 132 14 145"/></Shape>
+	    <String CONTENT="mӧchte nur nochmals erwӓhnen, dass diese Vorkommnisse nicht nur unsere"
+                    HPOS="14"
+                    VPOS="132"
+                    WIDTH="747"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb50be79"
+                    TAGREFS="LT3625"
+                    BASELINE="14 161 772 165" 
+                    HPOS="14"
+                    VPOS="149"
+                    WIDTH="758"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="14 161 14 170 770 173 772 165 772 152 14 149 14 161"/></Shape>
+	    <String CONTENT="Generation sondern auch die folgenden gut im Gedӓtnis behalten sollen"
+                    HPOS="14"
+                    VPOS="149"
+                    WIDTH="758"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d72f435"
+                    TAGREFS="LT3625"
+                    BASELINE="14 181 504 181" 
+                    HPOS="14"
+                    VPOS="169"
+                    WIDTH="490"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="14 181 14 189 504 192 504 181 504 169 14 169 14 181"/></Shape>
+	    <String CONTENT="und etwas derartiges kein Jude vergessen soll."
+                    HPOS="14"
+                    VPOS="169"
+                    WIDTH="490"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95d0c3bc"
+                    TAGREFS="LT3625"
+                    BASELINE="66 203 713 207" 
+                    HPOS="65"
+                    VPOS="191"
+                    WIDTH="648"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="66 203 65 213 78 218 79 218 80 218 330 215 389 220 390 220 712 216 713 207 712 195 66 191 66 203"/></Shape>
+	    <String CONTENT="&quot;Kinder Israels vergesst nicht, was Amalek Euch angetan hat.&quot;"
+                    HPOS="65"
+                    VPOS="191"
+                    WIDTH="648"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2dc14017"
+                    TAGREFS="LT3625"
+                    BASELINE="66 238 771 243" 
+                    HPOS="65"
+                    VPOS="225"
+                    WIDTH="706"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="66 238 65 248 769 250 771 243 770 230 66 225 66 238"/></Shape>
+	    <String CONTENT="Jetzt will ich aber kurz noch erwӓhnen, was in dieser Zeit für die"
+                    HPOS="65"
+                    VPOS="225"
+                    WIDTH="706"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5e3dfed"
+                    TAGREFS="LT3625"
+                    BASELINE="12 257 750 260" 
+                    HPOS="11"
+                    VPOS="244"
+                    WIDTH="739"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="12 257 11 264 749 268 750 260 750 248 12 244 12 257"/></Shape>
+	    <String CONTENT="Auswanderung alles zu erledigen war. Dies will ich aber nicht tun, um"
+                    HPOS="11"
+                    VPOS="244"
+                    WIDTH="739"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eba0145"
+                    TAGREFS="LT3625"
+                    BASELINE="13 273 788 277" 
+                    HPOS="12"
+                    VPOS="261"
+                    WIDTH="776"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="13 273 12 285 786 286 788 277 788 265 13 261 13 273"/></Shape>
+	    <String CONTENT="Euch mitzuteilen, was ich alles zu tun hatte, sondern damit Ihr verstehen"
+                    HPOS="12"
+                    VPOS="261"
+                    WIDTH="776"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cd4ddd6"
+                    TAGREFS="LT3625"
+                    BASELINE="11 293 729 297" 
+                    HPOS="10"
+                    VPOS="281"
+                    WIDTH="719"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="11 293 10 302 727 305 729 297 728 285 11 281 11 293"/></Shape>
+	    <String CONTENT="kӧnnt, wenn Ihr evtl. Euch Gedanken macht, es hӓtte dies oder jenes"
+                    HPOS="10"
+                    VPOS="281"
+                    WIDTH="719"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b53d83b"
+                    TAGREFS="LT3625"
+                    BASELINE="10 313 313 313" 
+                    HPOS="10"
+                    VPOS="301"
+                    WIDTH="303"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="10 313 10 321 312 322 313 313 313 301 10 301 10 313"/></Shape>
+	    <String CONTENT="noch erledigt werden kӧnnen."
+                    HPOS="10"
+                    VPOS="301"
+                    WIDTH="303"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_339d9326"
+                    TAGREFS="LT3625"
+                    BASELINE="10 337 751 340" 
+                    HPOS="9"
+                    VPOS="324"
+                    WIDTH="742"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="10 337 9 345 749 347 751 340 750 327 10 324 10 337"/></Shape>
+	    <String CONTENT="Wie Ihr wisst, waren wir am 9. August beim Konsulat auf Grund der von"
+                    HPOS="9"
+                    VPOS="324"
+                    WIDTH="742"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d85543f"
+                    TAGREFS="LT3625"
+                    BASELINE="66 356 750 358" 
+                    HPOS="64"
+                    VPOS="343"
+                    WIDTH="685"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="65 355 64 362 748 364 749 357 749 345 65 343 65 355"/></Shape>
+	    <String CONTENT=".... besorgten Bürgschaft vorgeladen. Da noch eine Formalitӓt bei den"
+                    HPOS="64"
+                    VPOS="343"
+                    WIDTH="685"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9339c02c"
+                    TAGREFS="LT3625"
+                    BASELINE="12 371 769 374" 
+                    HPOS="11"
+                    VPOS="359"
+                    WIDTH="758"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="12 371 11 380 767 382 769 374 768 362 12 359 12 371"/></Shape>
+	    <String CONTENT="Bürgschaften zu erledigen war, bekamen wir unsere Visen erst am 12. Sep-"
+                    HPOS="11"
+                    VPOS="359"
+                    WIDTH="758"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42d879d6"
+                    TAGREFS="LT3625"
+                    BASELINE="12 389 769 392" 
+                    HPOS="11"
+                    VPOS="377"
+                    WIDTH="758"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="12 389 11 398 767 402 769 392 768 380 12 377 12 389"/></Shape>
+	    <String CONTENT="tember. Das Schreiben ans brasilianische Konsulat habe ich selbstredend"
+                    HPOS="11"
+                    VPOS="377"
+                    WIDTH="758"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ec4a0ea"
+                    TAGREFS="LT3625"
+                    BASELINE="13 408 759 410" 
+                    HPOS="12"
+                    VPOS="395"
+                    WIDTH="747"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="13 408 12 415 757 417 759 410 758 397 13 395 13 408"/></Shape>
+	    <String CONTENT="seinerzeit sofort in Frankfurt abgegeben. Seinerzeit sagte mir der Se-"
+                    HPOS="12"
+                    VPOS="395"
+                    WIDTH="747"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d47a5b0a"
+                    TAGREFS="LT3625"
+                    BASELINE="11 424 749 427" 
+                    HPOS="10"
+                    VPOS="412"
+                    WIDTH="739"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="11 424 10 431 747 434 749 427 748 415 11 412 11 424"/></Shape>
+	    <String CONTENT="kretӓr beim Konsulat, es kӧnnte drei Monate dauern und Mama soll froh"
+                    HPOS="10"
+                    VPOS="412"
+                    WIDTH="739"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0feac2c0"
+                    TAGREFS="LT3625"
+                    BASELINE="10 443 749 445" 
+                    HPOS="9"
+                    VPOS="430"
+                    WIDTH="740"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="10 443 9 450 747 452 749 445 748 431 10 430 10 443"/></Shape>
+	    <String CONTENT="sein, wenn sie überhaupt das Visum bekӓme, da es nur ein Empfehlungs-"
+                    HPOS="9"
+                    VPOS="430"
+                    WIDTH="740"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c1b7ba6"
+                    TAGREFS="LT3625"
+                    BASELINE="12 460 769 462" 
+                    HPOS="11"
+                    VPOS="447"
+                    WIDTH="758"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="12 460 11 467 767 470 769 462 768 450 12 447 12 460"/></Shape>
+	    <String CONTENT="schreiben sein. Wie ich euch ja mitgeteilt habe, hat Mama das Visum noch"
+                    HPOS="11"
+                    VPOS="447"
+                    WIDTH="758"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe6769ca"
+                    TAGREFS="LT3625"
+                    BASELINE="9 477 647 479" 
+                    HPOS="8"
+                    VPOS="465"
+                    WIDTH="639"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="9 477 8 486 645 488 647 479 646 467 9 465 9 477"/></Shape>
+	    <String CONTENT="erhalten und erübrigt sichs, hierüber nochmals zu schreiben."
+                    HPOS="8"
+                    VPOS="465"
+                    WIDTH="639"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c6f9e1e"
+                    TAGREFS="LT3625"
+                    BASELINE="72 503 769 506" 
+                    HPOS="72"
+                    VPOS="491"
+                    WIDTH="697"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="72 503 72 512 767 514 769 506 768 494 72 491 72 503"/></Shape>
+	    <String CONTENT="Ausserdem habe ich die Einwanderung nach Uruguay betrieben. Hier-"
+                    HPOS="72"
+                    VPOS="491"
+                    WIDTH="697"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3833c7"
+                    TAGREFS="LT3625"
+                    BASELINE="9 519 783 523" 
+                    HPOS="8"
+                    VPOS="507"
+                    WIDTH="775"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="9 519 8 528 781 532 783 523 783 511 9 507 9 519"/></Shape>
+	    <String CONTENT="für habe ich für uns beide auch ca. 1000,-- bereits ausgegeben. Das Visum"
+                    HPOS="8"
+                    VPOS="507"
+                    WIDTH="775"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fe57122"
+                    TAGREFS="LT3625"
+                    BASELINE="10 539 778 542" 
+                    HPOS="9"
+                    VPOS="526"
+                    WIDTH="769"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="10 539 9 546 776 548 778 542 777 529 10 526 10 539"/></Shape>
+	    <String CONTENT="sollte erst in Hamburg erteilt werden und sagte mir der Konsul in Frank-"
+                    HPOS="9"
+                    VPOS="526"
+                    WIDTH="769"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a44f052"
+                    TAGREFS="LT3625"
+                    BASELINE="9 556 758 560" 
+                    HPOS="8"
+                    VPOS="543"
+                    WIDTH="750"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="9 556 8 564 756 567 758 560 757 546 9 543 9 556"/></Shape>
+	    <String CONTENT="furt, ich solle alles packen und dann nach Hamburg fahren. Dort bekӓme"
+                    HPOS="8"
+                    VPOS="543"
+                    WIDTH="750"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac478f4f"
+                    TAGREFS="LT3625"
+                    BASELINE="8 574 778 576" 
+                    HPOS="7"
+                    VPOS="561"
+                    WIDTH="771"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="8 574 7 582 776 585 778 576 777 564 8 561 8 574"/></Shape>
+	    <String CONTENT="ich nach Erledigung verschiedener Formalitӓten das Visum. In dieser Zeit"
+                    HPOS="7"
+                    VPOS="561"
+                    WIDTH="771"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_713480d2"
+                    TAGREFS="LT3625"
+                    BASELINE="9 591 783 594" 
+                    HPOS="8"
+                    VPOS="579"
+                    WIDTH="775"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="9 591 8 600 781 603 783 594 782 582 9 579 9 591"/></Shape>
+	    <String CONTENT="war aber auch die Sache mit Argentinien, dass nӓmlich die Leute alles vor-"
+                    HPOS="8"
+                    VPOS="579"
+                    WIDTH="775"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8402e48"
+                    TAGREFS="LT3625"
+                    BASELINE="10 609 766 612" 
+                    HPOS="9"
+                    VPOS="596"
+                    WIDTH="757"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="10 609 9 617 764 619 766 612 765 599 10 596 10 609"/></Shape>
+	    <String CONTENT="bereitet hatten und dann kam die Sperre und die Leute erhielten das Vi-"
+                    HPOS="9"
+                    VPOS="596"
+                    WIDTH="757"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bf542a0"
+                    TAGREFS="LT3625"
+                    BASELINE="7 628 752 630" 
+                    HPOS="6"
+                    VPOS="615"
+                    WIDTH="746"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="7 628 6 635 750 638 752 630 751 617 7 615 7 628"/></Shape>
+	    <String CONTENT="sum in Hamburg nicht und hatten die Wohnung aufgegeben und kein Visum."
+                    HPOS="6"
+                    VPOS="615"
+                    WIDTH="746"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf6b1932"
+                    TAGREFS="LT3625"
+                    BASELINE="70 652 766 655" 
+                    HPOS="69"
+                    VPOS="640"
+                    WIDTH="697"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="70 652 69 660 764 662 766 655 765 642 70 640 70 652"/></Shape>
+	    <String CONTENT="Aus diesem Grunde war mir die Sache mit Uruguay etwas riskant und"
+                    HPOS="69"
+                    VPOS="640"
+                    WIDTH="697"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efb90ed1"
+                    TAGREFS="LT3625"
+                    BASELINE="4 671 765 673" 
+                    HPOS="3"
+                    VPOS="658"
+                    WIDTH="762"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="4 671 3 678 764 680 765 673 764 660 4 658 4 671"/></Shape>
+	    <String CONTENT="konnte ich hierfür das Visum in Frankfurt nicht vor der Packerei erhal-"
+                    HPOS="3"
+                    VPOS="658"
+                    WIDTH="762"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1685ee9d"
+                    TAGREFS="LT3625"
+                    BASELINE="7 688 776 691" 
+                    HPOS="5"
+                    VPOS="675"
+                    WIDTH="770"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="6 687 5 695 773 699 775 690 774 678 6 675 6 687"/></Shape>
+	    <String CONTENT="ten. Dies ist ja nun erledigt und habe ich diese Unterlagen mitgenommen,"
+                    HPOS="5"
+                    VPOS="675"
+                    WIDTH="770"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d7c6d43"
+                    TAGREFS="LT3625"
+                    BASELINE="5 705 433 708" 
+                    HPOS="4"
+                    VPOS="693"
+                    WIDTH="429"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="5 705 4 714 432 717 433 708 432 696 5 693 5 705"/></Shape>
+	    <String CONTENT="wenn man sie evtl. einmal brauchen kann."
+                    HPOS="4"
+                    VPOS="693"
+                    WIDTH="429"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2a5fa6b"
+                    TAGREFS="LT3625"
+                    BASELINE="69 731 766 733" 
+                    HPOS="68"
+                    VPOS="719"
+                    WIDTH="698"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="69 731 68 740 764 742 766 733 765 720 69 719 69 731"/></Shape>
+	    <String CONTENT="Mama hatte also in diesen kritischen Tagen zunӓchst ihr Visum für"
+                    HPOS="68"
+                    VPOS="719"
+                    WIDTH="698"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab76fee3"
+                    TAGREFS="LT3625"
+                    BASELINE="5 748 765 752" 
+                    HPOS="4"
+                    VPOS="735"
+                    WIDTH="761"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="5 748 4 756 764 764 765 752 764 740 5 735 5 748"/></Shape>
+	    <String CONTENT="USA und ich dasselbe. Nach Frankfurt mussten wir noch verschiedene Male"
+                    HPOS="4"
+                    VPOS="735"
+                    WIDTH="761"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c18fd9c"
+                    TAGREFS="LT3625"
+                    BASELINE="6 767 774 769" 
+                    HPOS="5"
+                    VPOS="755"
+                    WIDTH="769"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="6 767 5 776 772 777 774 769 773 757 6 755 6 767"/></Shape>
+	    <String CONTENT="bis Mama das brasilianische Visum erhalten hat. Wir waren z.B. in Frank-"
+                    HPOS="5"
+                    VPOS="755"
+                    WIDTH="769"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e21b7c33"
+                    TAGREFS="LT3625"
+                    BASELINE="6 785 774 788" 
+                    HPOS="5"
+                    VPOS="772"
+                    WIDTH="769"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="6 785 5 793 772 795 774 788 773 775 6 772 6 785"/></Shape>
+	    <String CONTENT="furt an einem Tage, als sie dort immer noch Leute verhafteten, obwohl die"
+                    HPOS="5"
+                    VPOS="772"
+                    WIDTH="769"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a5e2f38"
+                    TAGREFS="LT3625"
+                    BASELINE="5 802 743 805" 
+                    HPOS="4"
+                    VPOS="790"
+                    WIDTH="739"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="5 802 4 810 741 813 743 805 742 792 5 790 5 802"/></Shape>
+	    <String CONTENT="Aktion, wie sie das Ganze nannten, abgeblasen sein sollte. Der Konsul"
+                    HPOS="4"
+                    VPOS="790"
+                    WIDTH="739"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65f647d7"
+                    TAGREFS="LT3625"
+                    BASELINE="5 821 754 820" 
+                    HPOS="4"
+                    VPOS="809"
+                    WIDTH="750"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="5 821 5 830 753 829 754 820 751 809 4 809 5 821"/></Shape>
+	    <String CONTENT="von Uruguay bat mich, ich sollte sofort nach Hamburg fahren und mit dem"
+                    HPOS="4"
+                    VPOS="809"
+                    WIDTH="750"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_596a689e"
+                    TAGREFS="LT3625"
+                    BASELINE="6 837 773 840" 
+                    HPOS="5"
+                    VPOS="825"
+                    WIDTH="768"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="6 837 5 845 771 848 773 840 772 828 6 825 6 837"/></Shape>
+	    <String CONTENT="nӓchsten Schiff ausreisen, denn in Frankfurt würdn sie immer noch Leute"
+                    HPOS="5"
+                    VPOS="825"
+                    WIDTH="768"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7fb2a72"
+                    TAGREFS="LT3625"
+                    BASELINE="4 855 773 858" 
+                    HPOS="3"
+                    VPOS="842"
+                    WIDTH="770"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="4 855 3 862 771 864 773 858 772 845 4 842 4 855"/></Shape>
+	    <String CONTENT="holen. Es bedurfte natürlich allerhand Anstrengung, in dieser Zeit nicht"
+                    HPOS="3"
+                    VPOS="842"
+                    WIDTH="770"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18af5af6"
+                    TAGREFS="LT3625"
+                    BASELINE="4 873 763 875" 
+                    HPOS="3"
+                    VPOS="861"
+                    WIDTH="760"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="4 873 3 880 761 882 763 875 762 863 4 861 4 873"/></Shape>
+	    <String CONTENT="den Kopf zu verlieren. Auf den Konsulaten und auf den Büros der Schiff-"
+                    HPOS="3"
+                    VPOS="861"
+                    WIDTH="760"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e40dfb8"
+                    TAGREFS="LT3625"
+                    BASELINE="5 891 774 892" 
+                    HPOS="4"
+                    VPOS="878"
+                    WIDTH="770"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="5 891 4 899 772 901 774 892 773 880 5 878 5 891"/></Shape>
+	    <String CONTENT="fahrtslinien sah man die Juden in Schlangen stehen und waren die Gesich-"
+                    HPOS="4"
+                    VPOS="878"
+                    WIDTH="770"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8f5baf1"
+                    TAGREFS="LT3625"
+                    BASELINE="3 908 568 910" 
+                    HPOS="2"
+                    VPOS="896"
+                    WIDTH="566"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="3 908 2 917 566 920 568 910 567 898 3 896 3 908"/></Shape>
+	    <String CONTENT="ter dieser gehetzten Menschen fürchterlich anzusehen."
+                    HPOS="2"
+                    VPOS="896"
+                    WIDTH="566"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4759fdf5"
+                    TAGREFS="LT3625"
+                    BASELINE="66 933 781 935" 
+                    HPOS="65"
+                    VPOS="920"
+                    WIDTH="716"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="66 933 65 942 779 945 781 935 780 922 66 920 66 933"/></Shape>
+	    <String CONTENT="Über die Visenfrage seid Ihr nun orientiert. Nun waren noch die"
+                    HPOS="65"
+                    VPOS="920"
+                    WIDTH="716"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec04672f"
+                    TAGREFS="LT3625"
+                    BASELINE="1 950 763 953" 
+                    HPOS="0"
+                    VPOS="937"
+                    WIDTH="763"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1 950 0 959 761 962 763 953 763 942 1 937 1 950"/></Shape>
+	    <String CONTENT="Lifts abzufertigen, da wir ja das Glück hatten, dass unsere Mӧbel nicht"
+                    HPOS="0"
+                    VPOS="937"
+                    WIDTH="763"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2f53ef6"
+                    TAGREFS="LT3625"
+                    BASELINE="3 971 774 972" 
+                    HPOS="2"
+                    VPOS="958"
+                    WIDTH="772"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="3 971 2 978 772 979 774 972 773 959 3 958 3 971"/></Shape>
+	    <String CONTENT="zusammengeschlagen wurden. Da wir am 10. Oktober nach .... übergesiedelt"
+                    HPOS="2"
+                    VPOS="958"
+                    WIDTH="772"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c860336c"
+                    TAGREFS="LT3625"
+                    BASELINE="3 988 742 990" 
+                    HPOS="2"
+                    VPOS="976"
+                    WIDTH="740"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="3 988 2 995 740 997 742 990 741 978 3 976 3 988"/></Shape>
+	    <String CONTENT="waren, war für uns die Devisenstelle in .... zustӓndig und ist diesem"
+                    HPOS="2"
+                    VPOS="976"
+                    WIDTH="740"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c47ceffe"
+                    TAGREFS="LT3625"
+                    BASELINE="3 1006 761 1007" 
+                    HPOS="2"
+                    VPOS="992"
+                    WIDTH="759"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="3 1006 2 1013 759 1015 761 1007 760 994 3 992 3 1006"/></Shape>
+	    <String CONTENT="Amt konziliater als die Devisenstelle in .... Bachdem wir vier Wochen"
+                    HPOS="2"
+                    VPOS="992"
+                    WIDTH="759"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73a78411"
+                    TAGREFS="LT3625"
+                    BASELINE="2 1023 772 1025" 
+                    HPOS="1"
+                    VPOS="1010"
+                    WIDTH="771"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="2 1023 1 1032 770 1034 772 1025 771 1012 2 1010 2 1023"/></Shape>
+	    <String CONTENT="in ...... gemeldet waren, hatte ich die Absicht, für die Packerlaubnis in ."
+                    HPOS="1"
+                    VPOS="1010"
+                    WIDTH="771"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0984062"
+                    TAGREFS="LT3625"
+                    BASELINE="78 1045 778 1050" 
+                    HPOS="76"
+                    VPOS="1031"
+                    WIDTH="701"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="77 1044 76 1052 775 1062 777 1049 777 1035 77 1031 77 1044"/></Shape>
+	    <String CONTENT="..... einzureichen. Das Geschirr und die Wӓsche wurden beim Umzug in ..."
+                    HPOS="76"
+                    VPOS="1031"
+                    WIDTH="701"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

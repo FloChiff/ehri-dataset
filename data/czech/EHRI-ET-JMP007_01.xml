@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-ET-JMP007_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3628" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="3454"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="3454">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_7988c08b"
+                    TAGREFS="LT3628"
+                    BASELINE="838 279 1118 284" 
+                    HPOS="835"
+                    VPOS="195"
+                    WIDTH="283"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="835 302 850 313 853 313 855 313 858 313 962 302 971 313 974 313 974 316 976 316 979 316 982 316 1115 302 1118 284 1118 224 1060 207 1057 207 1054 207 997 212 904 221 841 195 838 279 835 302"/></Shape>
+	    <String CONTENT="Děti"
+                    HPOS="835"
+                    VPOS="195"
+                    WIDTH="283"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d61c8e9c"
+                    TAGREFS="LT3628"
+                    BASELINE="608 529 2141 523" 
+                    HPOS="605"
+                    VPOS="463"
+                    WIDTH="1536"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="608 529 608 555 2138 549 2141 523 2135 483 1876 466 1873 466 1700 480 1654 466 1651 466 1648 466 1521 480 1458 466 1455 466 1452 466 1449 466 1409 480 1360 463 1357 463 1354 463 1351 463 1305 483 1282 463 1279 463 1276 463 1273 463 1184 477 1034 463 1031 463 873 483 824 466 821 466 818 466 815 466 812 466 792 483 642 469 639 469 636 469 605 483 608 529"/></Shape>
+	    <String CONTENT="Děti přijely do Terezína hned prvními transporty z"
+                    HPOS="605"
+                    VPOS="463"
+                    WIDTH="1536"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cbfbd65"
+                    TAGREFS="LT3628"
+                    BASELINE="247 581 2233 575" 
+                    HPOS="244"
+                    VPOS="532"
+                    WIDTH="1989"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="247 581 247 607 2230 607 2233 575 2227 538 244 532 247 581"/></Shape>
+	    <String CONTENT="Brna a Prahy v roku 1941. Zásluhou Gondy Redlicha a Fredy Hirsche,"
+                    HPOS="244"
+                    VPOS="532"
+                    WIDTH="1989"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88102984"
+                    TAGREFS="LT3628"
+                    BASELINE="253 630 2244 624" 
+                    HPOS="250"
+                    VPOS="590"
+                    WIDTH="1994"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="253 630 253 653 2242 647 2244 624 2236 590 250 592 253 630"/></Shape>
+	    <String CONTENT="kteří věrni tradici hnutí mládeže, z kterého vyšli, ihned se uja-"
+                    HPOS="250"
+                    VPOS="590"
+                    WIDTH="1994"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_613d4ad1"
+                    TAGREFS="LT3628"
+                    BASELINE="259 679 2146 673" 
+                    HPOS="256"
+                    VPOS="636"
+                    WIDTH="1890"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="259 679 259 702 2141 708 2146 673 2138 636 256 641 259 679"/></Shape>
+	    <String CONTENT="li těchto dětí a prosazovali pro ně v nejhorším lepší podmínky,"
+                    HPOS="256"
+                    VPOS="636"
+                    WIDTH="1890"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_084320cc"
+                    TAGREFS="LT3628"
+                    BASELINE="253 731 2230 722" 
+                    HPOS="250"
+                    VPOS="687"
+                    WIDTH="1980"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="253 731 253 762 2227 745 2230 722 2221 687 250 693 253 731"/></Shape>
+	    <String CONTENT="vznikly brzo první speciální místnosti pro děti a později v únoru"
+                    HPOS="250"
+                    VPOS="687"
+                    WIDTH="1980"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34188f82"
+                    TAGREFS="LT3628"
+                    BASELINE="256 782 2164 777" 
+                    HPOS="253"
+                    VPOS="739"
+                    WIDTH="1911"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="256 782 256 803 2161 800 2164 777 2155 739 253 745 256 782"/></Shape>
+	    <String CONTENT="1942 první dětský domov. A našlo se také několik lidí ve vedení"
+                    HPOS="253"
+                    VPOS="739"
+                    WIDTH="1911"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d0a6533"
+                    TAGREFS="LT3628"
+                    BASELINE="253 834 2193 823" 
+                    HPOS="250"
+                    VPOS="788"
+                    WIDTH="1943"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="253 834 253 854 2190 854 2193 823 2184 788 250 797 253 834"/></Shape>
+	    <String CONTENT="ghetta, kteří pochopili zodpovědnost, kterou jsme vůči dětem měli"
+                    HPOS="250"
+                    VPOS="788"
+                    WIDTH="1943"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd78294b"
+                    TAGREFS="LT3628"
+                    BASELINE="253 880 2167 869" 
+                    HPOS="250"
+                    VPOS="834"
+                    WIDTH="1917"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="253 880 253 906 2164 895 2167 869 2158 834 250 840 253 880"/></Shape>
+	    <String CONTENT="a snažili se jim život v ghettě všemožně ulehčit. Byl to především"
+                    HPOS="250"
+                    VPOS="834"
+                    WIDTH="1917"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad3b68a8"
+                    TAGREFS="LT3628"
+                    BASELINE="253 929 2141 918" 
+                    HPOS="250"
+                    VPOS="883"
+                    WIDTH="1891"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="253 929 253 952 2138 941 2141 918 2132 883 250 892 253 929"/></Shape>
+	    <String CONTENT="opět náš Jakub Edelstein, který v těžké a zodpovědné diskusi v"
+                    HPOS="250"
+                    VPOS="883"
+                    WIDTH="1891"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21ccc9c9"
+                    TAGREFS="LT3628"
+                    BASELINE="253 978 2253 969" 
+                    HPOS="250"
+                    VPOS="935"
+                    WIDTH="2003"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="253 978 253 998 2253 990 2253 969 2244 935 250 941 253 978"/></Shape>
+	    <String CONTENT="Radě starších, kde se jednalo o zásadu, komu má být krajíček zkrá-"
+                    HPOS="250"
+                    VPOS="935"
+                    WIDTH="2003"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_440a5c54"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1033 2167 1021" 
+                    HPOS="253"
+                    VPOS="987"
+                    WIDTH="1914"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 1033 256 1053 2164 1041 2167 1021 2158 987 253 995 256 1033"/></Shape>
+	    <String CONTENT="cen a komu přidán, odvážnou a jasnou analysou přispěl k roz-"
+                    HPOS="253"
+                    VPOS="987"
+                    WIDTH="1914"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1fd9e85"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1076 2224 1067" 
+                    HPOS="250"
+                    VPOS="1033"
+                    WIDTH="1974"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="253 1076 253 1099 2221 1090 2224 1067 2216 1033 250 1033 253 1076"/></Shape>
+	    <String CONTENT="hodnutí ve prospěch dětí, snad trochu nezvyklému a krutému, v ne-"
+                    HPOS="250"
+                    VPOS="1033"
+                    WIDTH="1974"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f58f0a1"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1131 2195 1119" 
+                    HPOS="250"
+                    VPOS="1082"
+                    WIDTH="1945"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="253 1131 253 1154 2193 1142 2195 1119 2187 1082 250 1093 253 1131"/></Shape>
+	    <String CONTENT="prospěch starých, ale z tehdejšího hlediska jedinému správnému; ve"
+                    HPOS="250"
+                    VPOS="1082"
+                    WIDTH="1945"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ceafd50a"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1182 2167 1171" 
+                    HPOS="250"
+                    VPOS="1136"
+                    WIDTH="1917"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="253 1182 253 1206 2164 1194 2167 1171 2158 1136 250 1145 253 1182"/></Shape>
+	    <String CONTENT="prospěch lepší budoucnosti židovského národa. A toto rozhodnutí"
+                    HPOS="250"
+                    VPOS="1136"
+                    WIDTH="1917"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50ebaa19"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1229 2250 1223" 
+                    HPOS="250"
+                    VPOS="1188"
+                    WIDTH="2000"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="253 1229 253 1257 2247 1246 2250 1223 2242 1188 250 1191 253 1229"/></Shape>
+	    <String CONTENT="Rady starších jakoby se přenášelo do všech ubikací, kuchyní a ulic,"
+                    HPOS="250"
+                    VPOS="1188"
+                    WIDTH="2000"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b81f418"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1283 2218 1272" 
+                    HPOS="253"
+                    VPOS="1237"
+                    WIDTH="1965"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 1283 256 1303 2216 1292 2218 1272 2210 1237 253 1246 256 1283"/></Shape>
+	    <String CONTENT="všude byly děti zahrnovány zvláštní péčí, všude jim byly poskyto-"
+                    HPOS="253"
+                    VPOS="1237"
+                    WIDTH="1965"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75af8568"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1332 2221 1326" 
+                    HPOS="250"
+                    VPOS="1289"
+                    WIDTH="1971"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="253 1332 253 1355 2218 1349 2221 1326 2213 1289 250 1295 253 1332"/></Shape>
+	    <String CONTENT="vány výhody a byl-li v Terezíně možný radostný pohled, byl to po-"
+                    HPOS="250"
+                    VPOS="1289"
+                    WIDTH="1971"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31093695"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1381 2193 1375" 
+                    HPOS="253"
+                    VPOS="1341"
+                    WIDTH="1940"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 1381 256 1407 2190 1398 2193 1375 2187 1341 253 1341 256 1381"/></Shape>
+	    <String CONTENT="hled na radostně si hrající děti, poměrně dobře a na oko bezsta-"
+                    HPOS="253"
+                    VPOS="1341"
+                    WIDTH="1940"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b7d302e"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1433 2123 1430" 
+                    HPOS="253"
+                    VPOS="1395"
+                    WIDTH="1870"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="256 1433 256 1453 2118 1462 2123 1430 2115 1395 253 1395 256 1433"/></Shape>
+	    <String CONTENT="rostně vypadající. Kdo ale pracoval v Terezíně s dětmi, ten ví,"
+                    HPOS="253"
+                    VPOS="1395"
+                    WIDTH="1870"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44eef43a"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1482 2259 1473" 
+                    HPOS="253"
+                    VPOS="1439"
+                    WIDTH="2006"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="256 1482 256 1502 2259 1493 2259 1473 2253 1439 253 1439 256 1482"/></Shape>
+	    <String CONTENT="že se někdy oko toho dítěte divně zalesklo, ten zná pohled, v kte-"
+                    HPOS="253"
+                    VPOS="1439"
+                    WIDTH="2006"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5f7c9a2"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1531 2250 1531" 
+                    HPOS="256"
+                    VPOS="1493"
+                    WIDTH="1994"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="256 1531 256 1554 2250 1551 2250 1531 2250 1493 256 1493 256 1531"/></Shape>
+	    <String CONTENT="rém bylo tolik &quot;proč&quot;, a na který žádný vychovatel neznal své &quot;pro-"
+                    HPOS="256"
+                    VPOS="1493"
+                    WIDTH="1994"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f448f103"
+                    TAGREFS="LT3628"
+                    BASELINE="259 1583 2242 1574" 
+                    HPOS="256"
+                    VPOS="1539"
+                    WIDTH="1986"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="259 1583 259 1603 2242 1603 2242 1574 2233 1539 256 1542 259 1583"/></Shape>
+	    <String CONTENT="to&quot;, ten ví, že děti v noci probuzející se, otevíraly oči a zí-"
+                    HPOS="256"
+                    VPOS="1539"
+                    WIDTH="1986"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_199a460c"
+                    TAGREFS="LT3628"
+                    BASELINE="259 1629 2195 1629" 
+                    HPOS="259"
+                    VPOS="1588"
+                    WIDTH="1936"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="259 1629 259 1655 2193 1655 2195 1629 2193 1594 259 1588 259 1629"/></Shape>
+	    <String CONTENT="raly do prázdné tmy, ten slyšel někdy jejich tichý pláč, pro který"
+                    HPOS="259"
+                    VPOS="1588"
+                    WIDTH="1936"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cb42e0b"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1683 2221 1675" 
+                    HPOS="253"
+                    VPOS="1632"
+                    WIDTH="1968"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="256 1683 256 1703 2218 1695 2221 1675 2213 1632 253 1646 256 1683"/></Shape>
+	    <String CONTENT="nebylo léku, ten zná komplikace a tragiku židovského dítěte a je-"
+                    HPOS="253"
+                    VPOS="1632"
+                    WIDTH="1968"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12129d98"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1729 2224 1729" 
+                    HPOS="256"
+                    VPOS="1695"
+                    WIDTH="1968"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="256 1729 256 1758 2221 1750 2224 1729 2221 1695 256 1695 256 1729"/></Shape>
+	    <String CONTENT="ho duše, pro jejíž uklidnění ještě nebyla napsána žádná psycholo-"
+                    HPOS="256"
+                    VPOS="1695"
+                    WIDTH="1968"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc4c0920"
+                    TAGREFS="LT3628"
+                    BASELINE="253 1784 717 1778" 
+                    HPOS="250"
+                    VPOS="1732"
+                    WIDTH="467"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="567 1732 538 1732 510 1732 481 1732 455 1732 443 1741 435 1744 250 1744 253 1784 253 1816 714 1804 717 1778 711 1738 590 1732 567 1732"/></Shape>
+	    <String CONTENT="gická učebnice."
+                    HPOS="250"
+                    VPOS="1732"
+                    WIDTH="467"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ceb45c2"
+                    TAGREFS="LT3628"
+                    BASELINE="610 1830 2207 1824" 
+                    HPOS="608"
+                    VPOS="1790"
+                    WIDTH="1599"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="610 1830 610 1856 2204 1850 2207 1824 2201 1790 608 1790 610 1830"/></Shape>
+	    <String CONTENT="Tak se vyvíjel v domovech život pro děti odděleně od"
+                    HPOS="608"
+                    VPOS="1790"
+                    WIDTH="1599"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8020d8f9"
+                    TAGREFS="LT3628"
+                    BASELINE="256 1885 2221 1876" 
+                    HPOS="253"
+                    VPOS="1836"
+                    WIDTH="1968"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="256 1885 256 1908 2218 1899 2221 1876 2213 1836 253 1842 256 1885"/></Shape>
+	    <String CONTENT="ostatních podle zásad kolektivní výchovy tvořily jednotlivé poko-"
+                    HPOS="253"
+                    VPOS="1836"
+                    WIDTH="1968"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_912c5ac2"
+                    TAGREFS="LT3628"
+                    BASELINE="262 1934 2190 1925" 
+                    HPOS="259"
+                    VPOS="1885"
+                    WIDTH="1931"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="262 1934 262 1960 2187 1951 2190 1925 2181 1885 259 1896 262 1934"/></Shape>
+	    <String CONTENT="je uzavřené domovy, které si řídily rozvrh celého dne. Mimo vy-"
+                    HPOS="259"
+                    VPOS="1885"
+                    WIDTH="1931"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8572ecb7"
+                    TAGREFS="LT3628"
+                    BASELINE="259 1980 2141 1974" 
+                    HPOS="256"
+                    VPOS="1939"
+                    WIDTH="1885"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="259 1980 259 2003 2138 1997 2141 1974 2132 1939 256 1942 259 1980"/></Shape>
+	    <String CONTENT="učování byly děti zaměstnány domácími pracemi a pořádaly časté"
+                    HPOS="256"
+                    VPOS="1939"
+                    WIDTH="1885"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9b0a627"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2029 2198 2023" 
+                    HPOS="253"
+                    VPOS="1988"
+                    WIDTH="1945"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="256 2029 256 2052 2195 2046 2198 2023 2190 1988 253 1991 256 2029"/></Shape>
+	    <String CONTENT="večery s programem. Opatrovníci bydleli společně s dětmi, tak že"
+                    HPOS="253"
+                    VPOS="1988"
+                    WIDTH="1945"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b77bf84"
+                    TAGREFS="LT3628"
+                    BASELINE="253 2081 2167 2072" 
+                    HPOS="250"
+                    VPOS="2037"
+                    WIDTH="1917"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="253 2081 253 2101 2164 2095 2167 2072 2161 2037 250 2037 253 2081"/></Shape>
+	    <String CONTENT="mohli podstatně ovlivňovat celý jejich život. Bohužel, bylo jen"
+                    HPOS="250"
+                    VPOS="2037"
+                    WIDTH="1917"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85f3fbfb"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2127 2169 2127" 
+                    HPOS="256"
+                    VPOS="2083"
+                    WIDTH="1913"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="256 2127 256 2150 2169 2150 2169 2127 2169 2092 256 2083 256 2127"/></Shape>
+	    <String CONTENT="velmi málo kvalifikovaných sil a leckdy neschopnost opatrovníka"
+                    HPOS="256"
+                    VPOS="2083"
+                    WIDTH="1913"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df8e156f"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2176 2250 2170" 
+                    HPOS="253"
+                    VPOS="2135"
+                    WIDTH="1997"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 2176 256 2201 2247 2201 2250 2170 2242 2135 253 2138 256 2176"/></Shape>
+	    <String CONTENT="zavinovala v domově těžkou krizi. Péče o děti od 4 – 18 let v domo"
+                    HPOS="253"
+                    VPOS="2135"
+                    WIDTH="1997"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31b072a6"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2227 2167 2224" 
+                    HPOS="253"
+                    VPOS="2190"
+                    WIDTH="1914"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="256 2227 256 2247 2164 2245 2167 2224 2161 2190 253 2190 256 2227"/></Shape>
+	    <String CONTENT="vech vykazovala v době největšího počtu dětí v Terezíně, t.j. v"
+                    HPOS="253"
+                    VPOS="2190"
+                    WIDTH="1914"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14667835"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2276 2247 2271" 
+                    HPOS="256"
+                    VPOS="2236"
+                    WIDTH="1991"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="259 2276 259 2299 2244 2294 2247 2271 2239 2236 256 2239 259 2276"/></Shape>
+	    <String CONTENT="létě 1943, 2300 dětí. O děti do 4 let pečovalo zdravotnictví, kte-"
+                    HPOS="256"
+                    VPOS="2236"
+                    WIDTH="1991"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_150e35c4"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2328 2224 2319" 
+                    HPOS="253"
+                    VPOS="2282"
+                    WIDTH="1971"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="256 2328 256 2351 2221 2342 2224 2319 2216 2282 253 2282 256 2328"/></Shape>
+	    <String CONTENT="ré je umisťovala jednak v domově pro kojence; jednak v domově pro"
+                    HPOS="253"
+                    VPOS="2282"
+                    WIDTH="1971"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c8aaf98"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2377 2135 2371" 
+                    HPOS="253"
+                    VPOS="2337"
+                    WIDTH="1882"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="256 2377 256 2400 2132 2394 2135 2371 2126 2337 253 2340 256 2377"/></Shape>
+	    <String CONTENT="batolata spolu s matkami a personálem. Děti nebyly však nuceny"
+                    HPOS="253"
+                    VPOS="2337"
+                    WIDTH="1882"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32194677"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2429 2253 2423" 
+                    HPOS="256"
+                    VPOS="2386"
+                    WIDTH="1997"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="259 2429 259 2452 2253 2449 2253 2423 2244 2386 256 2386 259 2429"/></Shape>
+	    <String CONTENT="stěhovat se do domovů. O děti mimo domovy se starala otevřená péče"
+                    HPOS="256"
+                    VPOS="2386"
+                    WIDTH="1997"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a1fe8c7"
+                    TAGREFS="LT3628"
+                    BASELINE="265 2478 2190 2469" 
+                    HPOS="262"
+                    VPOS="2435"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="265 2478 265 2504 2187 2501 2190 2469 2181 2435 262 2435 265 2478"/></Shape>
+	    <String CONTENT="o mládež. Instituce otevřené péče se skládaly z domova pro matky"
+                    HPOS="262"
+                    VPOS="2435"
+                    WIDTH="1928"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfae1e37"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2524 2207 2530" 
+                    HPOS="256"
+                    VPOS="2486"
+                    WIDTH="1951"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="259 2524 256 2541 2201 2558 2207 2530 2204 2489 259 2486 259 2524"/></Shape>
+	    <String CONTENT="a děti /bez personálu/, dále z české, německé a hebrejské školky,"
+                    HPOS="256"
+                    VPOS="2486"
+                    WIDTH="1951"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5b9c5af"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2578 482 2577" 
+                    HPOS="253"
+                    VPOS="2541"
+                    WIDTH="228"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="253 2576 253 2599 481 2596 481 2576 481 2541 253 2541 253 2576"/></Shape>
+	    <String CONTENT="kterou"
+                    HPOS="253"
+                    VPOS="2541"
+                    WIDTH="228"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_163f512d"
+                    
+                    BASELINE="920 2576 2164 2573" 
+                    HPOS="916"
+                    VPOS="2535"
+                    WIDTH="1245"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="919 2573 919 2599 2155 2607 2161 2570 2155 2538 916 2535 919 2573"/></Shape>
+	    <String CONTENT="navštěvovalo více než 500 dětí. Otevřenou"
+                    HPOS="916"
+                    VPOS="2535"
+                    WIDTH="1245"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28808eff"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2630 2138 2622" 
+                    HPOS="256"
+                    VPOS="2587"
+                    WIDTH="1882"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="259 2630 259 2653 2135 2648 2138 2622 2129 2587 256 2590 259 2630"/></Shape>
+	    <String CONTENT="péči o mládež prováděly také sociální sestry, které pravidelně"
+                    HPOS="256"
+                    VPOS="2587"
+                    WIDTH="1882"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df8f0f17"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2676 2227 2676" 
+                    HPOS="256"
+                    VPOS="2642"
+                    WIDTH="1971"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="256 2676 256 2702 2227 2702 2227 2676 2227 2642 256 2642 256 2676"/></Shape>
+	    <String CONTENT="navštěvovaly děti, zjišťovaly jejich zdravotní stav a obstarávaly"
+                    HPOS="256"
+                    VPOS="2642"
+                    WIDTH="1971"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc62d555"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2731 2221 2731" 
+                    HPOS="259"
+                    VPOS="2694"
+                    WIDTH="1962"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="259 2731 259 2751 2221 2748 2221 2731 2221 2694 259 2694 259 2731"/></Shape>
+	    <String CONTENT="jim v rámci možností vše potřebné. Děti ve věku do 14 let, bydlí-"
+                    HPOS="259"
+                    VPOS="2694"
+                    WIDTH="1962"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb05de6f"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2783 2190 2777" 
+                    HPOS="256"
+                    VPOS="2743"
+                    WIDTH="1934"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="259 2783 259 2803 2187 2797 2190 2777 2181 2743 256 2745 259 2783"/></Shape>
+	    <String CONTENT="cí u rodičů, docházely denně do útulku, kde měly přes přísný zá-"
+                    HPOS="256"
+                    VPOS="2743"
+                    WIDTH="1934"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70cf6630"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2826 2141 2832" 
+                    HPOS="253"
+                    VPOS="2786"
+                    WIDTH="1888"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 2826 253 2846 2135 2852 2141 2832 2138 2794 256 2786 256 2826"/></Shape>
+	    <String CONTENT="kaz Gestapa, dík odvaze a obětavosti opatrovníků za nejtěžších"
+                    HPOS="253"
+                    VPOS="2786"
+                    WIDTH="1888"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cdff794"
+                    TAGREFS="LT3628"
+                    BASELINE="259 2881 2218 2881" 
+                    HPOS="259"
+                    VPOS="2843"
+                    WIDTH="1959"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="259 2881 259 2907 2218 2907 2218 2881 2218 2843 259 2843 259 2881"/></Shape>
+	    <String CONTENT="okolností, vyučování. Mládež nad 14 let, bydlící buď u rodičů ne-"
+                    HPOS="259"
+                    VPOS="2843"
+                    WIDTH="1959"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b1ab7e1"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2930 2164 2933" 
+                    HPOS="253"
+                    VPOS="2892"
+                    WIDTH="1911"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="256 2930 253 2947 2158 2950 2164 2933 2161 2895 256 2892 256 2930"/></Shape>
+	    <String CONTENT="bo v domovech podléhala pracovní povinnosti. K tomu účelů bylo"
+                    HPOS="253"
+                    VPOS="2892"
+                    WIDTH="1911"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_491bd270"
+                    TAGREFS="LT3628"
+                    BASELINE="256 2979 2106 2984" 
+                    HPOS="253"
+                    VPOS="2941"
+                    WIDTH="1853"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="256 2979 253 2996 2100 3002 2106 2984 2103 2947 256 2941 256 2979"/></Shape>
+	    <String CONTENT="zřízeno v úzké spolupráci s referátem mládeže a ústředím práce"
+                    HPOS="253"
+                    VPOS="2941"
+                    WIDTH="1853"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2de278e8"
+                    TAGREFS="LT3628"
+                    BASELINE="262 3028 2129 3033" 
+                    HPOS="259"
+                    VPOS="2987"
+                    WIDTH="1870"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="262 3028 259 3048 2123 3053 2129 3033 2126 2993 262 2987 262 3028"/></Shape>
+	    <String CONTENT="zvláštní oddělení pro začlenění mládeže do pracovního procesu."
+                    HPOS="259"
+                    VPOS="2987"
+                    WIDTH="1870"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88f6b504"
+                    TAGREFS="LT3628"
+                    BASELINE="256 3074 2193 3082" 
+                    HPOS="253"
+                    VPOS="3036"
+                    WIDTH="1940"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="256 3074 253 3094 2187 3102 2193 3082 2190 3045 256 3036 256 3074"/></Shape>
+	    <String CONTENT="V létě 1943 bylo v tomto oddělení zaregistrováno celkem 1673 dě-"
+                    HPOS="253"
+                    VPOS="3036"
+                    WIDTH="1940"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72144d3c"
+                    TAGREFS="LT3628"
+                    BASELINE="259 3128 2190 3134" 
+                    HPOS="256"
+                    VPOS="3088"
+                    WIDTH="1934"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="259 3128 256 3148 2184 3154 2190 3134 2187 3097 259 3088 259 3128"/></Shape>
+	    <String CONTENT="tí. Mladiství byli začleňováni hlavně do oborů, kde měli možnost"
+                    HPOS="256"
+                    VPOS="3088"
+                    WIDTH="1934"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_171b9a88"
+                    TAGREFS="LT3628"
+                    BASELINE="262 3177 2155 3183" 
+                    HPOS="259"
+                    VPOS="3140"
+                    WIDTH="1896"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="262 3177 259 3194 2149 3200 2155 3183 2152 3146 262 3140 262 3177"/></Shape>
+	    <String CONTENT="něčemu se do budoucího naučiti, na př. do zemědělství a zahra-"
+                    HPOS="259"
+                    VPOS="3140"
+                    WIDTH="1896"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e6fd7f7"
+                    TAGREFS="LT3628"
+                    BASELINE="256 3223 2164 3232" 
+                    HPOS="253"
+                    VPOS="3183"
+                    WIDTH="1911"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="256 3223 253 3249 2158 3266 2164 3232 2161 3192 256 3183 256 3223"/></Shape>
+	    <String CONTENT="da, řemesla a produkce, zdravotnictví a výchova. O tuto mládež"
+                    HPOS="253"
+                    VPOS="3183"
+                    WIDTH="1911"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

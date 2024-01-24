@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19420615-DK_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2485"
+          HEIGHT="3317"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2485"
+                  HEIGHT="3317">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_04f970ca"
+                    TAGREFS="LT3627"
+                    BASELINE="1578 254 2261 254" 
+                    HPOS="1578"
+                    VPOS="193"
+                    WIDTH="683"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1578 254 1578 301 2261 301 2261 254 2261 215 2161 193 2158 193 2075 210 2056 193 2053 193 2051 193 1962 193 1959 193 1957 193 1915 212 1896 196 1896 193 1893 193 1890 193 1887 193 1885 193 1835 215 1578 215 1578 254"/></Shape>
+	    <String CONTENT="Journal Nr.14.D.23.b."
+                    HPOS="1578"
+                    VPOS="193"
+                    WIDTH="683"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca1aa6a8"
+                    TAGREFS="LT3627"
+                    BASELINE="1769 331 2086 326" 
+                    HPOS="1766"
+                    VPOS="290"
+                    WIDTH="320"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1769 331 1769 362 2084 364 2086 326 2078 290 1766 293 1769 331"/></Shape>
+	    <String CONTENT="L.Nr.4689"
+                    HPOS="1766"
+                    VPOS="290"
+                    WIDTH="320"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2fce825"
+                    TAGREFS="LT3627"
+                    BASELINE="1780 660 2067 660" 
+                    HPOS="1780"
+                    VPOS="621"
+                    WIDTH="287"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1780 660 1780 691 1934 691 1937 691 1965 713 1968 713 1970 713 1973 715 2045 715 2045 713 2048 713 2051 713 2051 710 2067 693 2067 660 2067 621 1780 621 1780 660"/></Shape>
+	    <String CONTENT="Nr. 1654"
+                    HPOS="1780"
+                    VPOS="621"
+                    WIDTH="287"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a752f42"
+                    TAGREFS="LT3627"
+                    BASELINE="1603 738 2432 743" 
+                    HPOS="1600"
+                    VPOS="666"
+                    WIDTH="832"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1603 738 1600 773 2426 779 2432 743 2432 699 2294 679 2291 679 2180 691 2161 677 2158 677 2156 677 2153 677 2150 677 2147 677 2128 691 2117 696 1885 696 1874 685 1857 668 1857 666 1854 666 1852 666 1849 666 1603 677 1603 738"/></Shape>
+	    <String CONTENT="Ostland: Jødernes Stilling."
+                    HPOS="1600"
+                    VPOS="666"
+                    WIDTH="832"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2b09250"
+                    TAGREFS="LT3627"
+                    BASELINE="1788 843 2203 840" 
+                    HPOS="1785"
+                    VPOS="804"
+                    WIDTH="418"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1788 843 1788 873 2200 876 2203 840 2194 804 1785 804 1788 843"/></Shape>
+	    <String CONTENT="4 Gennemslag."
+                    HPOS="1785"
+                    VPOS="804"
+                    WIDTH="418"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61557657"
+                    TAGREFS="LT3627"
+                    BASELINE="555 1053 2125 1044" 
+                    HPOS="552"
+                    VPOS="959"
+                    WIDTH="1573"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="555 1053 555 1086 2125 1072 2125 1044 2120 975 1929 959 1926 959 1923 959 1921 959 1904 972 1887 959 1885 959 1882 959 1810 959 1807 959 1805 959 1802 959 1777 972 1763 961 1763 959 1760 959 1758 959 1619 959 1617 959 1614 959 1611 959 1592 975 1586 978 1564 975 1495 964 1492 964 1489 964 1487 964 1473 975 1470 978 1470 975 1451 961 1448 961 1445 961 1442 961 1172 975 1058 981 1025 975 972 967 970 967 967 967 964 967 964 970 956 975 950 984 843 984 818 975 765 964 762 964 552 975 555 1053"/></Shape>
+	    <String CONTENT="Som i det tyske Rige gælder der i Ostland en Række"
+                    HPOS="552"
+                    VPOS="959"
+                    WIDTH="1573"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b4d3043"
+                    TAGREFS="LT3627"
+                    BASELINE="403 1158 2095 1141" 
+                    HPOS="400"
+                    VPOS="1066"
+                    WIDTH="1695"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="403 1158 403 1185 2095 1177 2095 1141 2092 1091 2042 1066 2039 1066 1860 1066 1857 1066 1854 1066 1852 1066 1824 1089 1802 1072 1802 1069 1799 1069 1796 1069 1523 1069 1520 1069 1277 1075 1274 1075 1271 1075 1238 1102 1232 1108 400 1111 403 1158"/></Shape>
+	    <String CONTENT="særlige Bestmmelser for Jøder. Disse Bestemmelser er"
+                    HPOS="400"
+                    VPOS="1066"
+                    WIDTH="1695"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c626959"
+                    TAGREFS="LT3627"
+                    BASELINE="409 1260 2095 1246" 
+                    HPOS="406"
+                    VPOS="1172"
+                    WIDTH="1689"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="409 1260 409 1285 2092 1282 2095 1246 2089 1210 1926 1210 1923 1207 1890 1174 1890 1172 1887 1172 1885 1172 1882 1172 1879 1172 1816 1205 1810 1210 1749 1213 1558 1213 1550 1202 1523 1177 1523 1174 1520 1174 1517 1174 1514 1174 1404 1180 1401 1180 1398 1180 1398 1183 1379 1202 1365 1216 1227 1216 1210 1199 1202 1194 1202 1191 1199 1191 1196 1191 1194 1191 1191 1191 1188 1191 1188 1194 1183 1199 1166 1216 945 1216 923 1196 906 1183 906 1180 903 1180 901 1180 898 1180 613 1183 610 1183 608 1183 608 1185 599 1191 591 1202 563 1191 539 1183 536 1183 533 1183 406 1188 409 1260"/></Shape>
+	    <String CONTENT="kun i yderst begrænset Omfang udfærdiget af de øverste"
+                    HPOS="406"
+                    VPOS="1172"
+                    WIDTH="1689"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c26d2b7"
+                    TAGREFS="LT3627"
+                    BASELINE="406 1359 2095 1351" 
+                    HPOS="403"
+                    VPOS="1304"
+                    WIDTH="1692"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="406 1359 406 1387 2092 1379 2095 1351 2086 1304 1658 1318 1630 1304 1628 1304 1625 1304 1622 1304 1611 1304 1525 1321 1390 1307 1384 1307 1382 1307 1379 1307 1340 1321 1227 1307 1216 1307 1213 1307 1202 1307 1089 1321 1050 1307 1047 1307 1044 1307 1042 1307 1031 1307 959 1324 903 1310 901 1310 898 1310 895 1310 892 1310 867 1324 403 1312 406 1359"/></Shape>
+	    <String CONTENT="Forvaltningsmyndigheder. Saaledes ses der kun at være"
+                    HPOS="403"
+                    VPOS="1304"
+                    WIDTH="1692"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_207a2460"
+                    TAGREFS="LT3627"
+                    BASELINE="409 1465 2183 1453" 
+                    HPOS="406"
+                    VPOS="1379"
+                    WIDTH="1777"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="409 1465 409 1492 2180 1489 2183 1453 2175 1379 406 1387 409 1465"/></Shape>
+	    <String CONTENT="udstedt en enkelt herhenhørende Forskrift af Rigsministe-"
+                    HPOS="406"
+                    VPOS="1379"
+                    WIDTH="1777"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5923e4e"
+                    TAGREFS="LT3627"
+                    BASELINE="406 1567 2098 1550" 
+                    HPOS="403"
+                    VPOS="1467"
+                    WIDTH="1695"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="406 1567 406 1594 2095 1589 2098 1550 2095 1503 2012 1473 2009 1473 1857 1467 1854 1467 1852 1467 1796 1487 1752 1478 1749 1478 1746 1478 1744 1478 1744 1481 1722 1500 1719 1506 1459 1506 1451 1500 1429 1478 1429 1476 1426 1476 1423 1476 1420 1476 1418 1476 1368 1487 1282 1473 1279 1473 1277 1473 1274 1473 1241 1498 1227 1509 1177 1498 1078 1476 1075 1476 1011 1489 956 1478 953 1478 950 1478 948 1478 948 1481 928 1498 917 1506 856 1495 749 1478 746 1478 688 1484 685 1484 682 1484 671 1495 657 1506 644 1495 635 1489 635 1487 632 1487 630 1487 627 1487 403 1492 406 1567"/></Shape>
+	    <String CONTENT="ren for de besatte østlige Omraader, se nedenfor under"
+                    HPOS="403"
+                    VPOS="1467"
+                    WIDTH="1695"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff159e38"
+                    TAGREFS="LT3627"
+                    BASELINE="409 1664 2211 1652" 
+                    HPOS="406"
+                    VPOS="1575"
+                    WIDTH="1805"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="409 1664 409 1694 2211 1691 2211 1652 2205 1597 2064 1597 2064 1594 2045 1578 2045 1575 2042 1575 2039 1575 2037 1575 1760 1578 1758 1578 1722 1594 1713 1597 1705 1594 1664 1581 1661 1581 1658 1581 1586 1594 1570 1597 1564 1594 1547 1581 1547 1578 1545 1578 1542 1578 1539 1578 1536 1578 1534 1578 1514 1592 1500 1581 1500 1578 1498 1578 1495 1578 1492 1578 1254 1581 1252 1581 1249 1581 1249 1583 1235 1592 1227 1603 1078 1603 1064 1592 1050 1583 1047 1583 1044 1583 1042 1583 959 1592 909 1597 901 1592 890 1581 887 1581 884 1581 881 1581 879 1581 843 1592 823 1597 804 1592 776 1583 773 1583 771 1583 768 1583 749 1592 721 1603 406 1592 409 1664"/></Shape>
+	    <String CONTENT="B.VIII, og Rigskommissærens Anordningsvirksomhed indskræn-"
+                    HPOS="406"
+                    VPOS="1575"
+                    WIDTH="1805"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e171437"
+                    TAGREFS="LT3627"
+                    BASELINE="406 1771 2131 1758" 
+                    HPOS="403"
+                    VPOS="1675"
+                    WIDTH="1728"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="406 1771 406 1802 2128 1796 2131 1758 2125 1705 2081 1705 2045 1675 2042 1675 2039 1675 1785 1675 1782 1675 1780 1675 1777 1675 1744 1705 1741 1708 1636 1708 1633 1705 1605 1680 1605 1677 1603 1677 1600 1677 1597 1677 1462 1705 1434 1711 1362 1711 1357 1705 1332 1683 1332 1680 1329 1680 1326 1680 1324 1680 1141 1683 1138 1683 1136 1683 1136 1686 1113 1705 1111 1708 1100 1705 1069 1691 1066 1691 1064 1691 1061 1691 1036 1705 1019 1711 995 1705 920 1683 917 1683 914 1683 809 1702 768 1683 765 1683 762 1683 641 1702 530 1688 527 1688 403 1702 406 1771"/></Shape>
+	    <String CONTENT="ker sig i det væsentlige til en Anordning af 13. Oktober"
+                    HPOS="403"
+                    VPOS="1675"
+                    WIDTH="1728"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8420f517"
+                    TAGREFS="LT3627"
+                    BASELINE="406 1871 2156 1857" 
+                    HPOS="403"
+                    VPOS="1777"
+                    WIDTH="1753"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="406 1871 406 1901 2153 1887 2156 1857 2150 1796 2034 1780 2031 1780 2028 1780 2001 1793 1970 1777 1968 1777 1965 1777 1556 1793 1359 1782 1357 1782 1354 1782 1351 1782 1351 1785 1337 1796 1335 1799 1324 1796 1230 1782 1227 1782 1224 1782 1185 1799 1180 1799 1172 1799 1105 1785 1102 1785 931 1799 914 1799 912 1799 881 1785 879 1785 876 1785 751 1799 699 1805 666 1799 597 1788 594 1788 403 1799 406 1871"/></Shape>
+	    <String CONTENT="f.A. vedrørende Behandlingen af jødisk Formue i Rigskom-"
+                    HPOS="403"
+                    VPOS="1777"
+                    WIDTH="1753"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_433cbc9d"
+                    TAGREFS="LT3627"
+                    BASELINE="406 1973 2189 1962" 
+                    HPOS="403"
+                    VPOS="1885"
+                    WIDTH="1786"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="406 1973 406 2004 2189 2004 2189 1962 2186 1915 2156 1898 2153 1898 2150 1898 2147 1898 2117 1915 2053 1915 1702 1915 1694 1912 1655 1885 1652 1885 1650 1885 1542 1885 1539 1885 1536 1885 1484 1907 1459 1885 1456 1885 1453 1885 1451 1885 1448 1885 1445 1885 1418 1904 1395 1885 1393 1885 1390 1885 1387 1885 1384 1885 1382 1885 1346 1910 1335 1915 1324 1910 1277 1887 1274 1887 1271 1887 1268 1887 1194 1907 1180 1912 1174 1907 1155 1893 1155 1890 1152 1890 1149 1890 1147 1890 1028 1893 1025 1893 1000 1907 989 1912 981 1907 948 1890 945 1890 942 1890 832 1893 829 1893 798 1907 785 1912 773 1904 757 1893 754 1893 751 1893 749 1893 403 1901 406 1973"/></Shape>
+	    <String CONTENT="missariatet Ostland. Langt de fleste Bestemmelser er ud-"
+                    HPOS="403"
+                    VPOS="1885"
+                    WIDTH="1786"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08ba89e0"
+                    TAGREFS="LT3627"
+                    BASELINE="411 2075 2219 2064" 
+                    HPOS="409"
+                    VPOS="2028"
+                    WIDTH="1810"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="411 2075 411 2106 2216 2095 2219 2064 2211 2028 409 2034 411 2075"/></Shape>
+	    <String CONTENT="færdiget af Gebietskommissærerne eller af Selvstyrets For-"
+                    HPOS="409"
+                    VPOS="2028"
+                    WIDTH="1810"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29866ca6"
+                    TAGREFS="LT3627"
+                    BASELINE="414 2178 2250 2164" 
+                    HPOS="411"
+                    VPOS="2084"
+                    WIDTH="1839"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="414 2178 414 2211 2247 2197 2250 2164 2244 2117 1937 2117 1934 2111 1898 2084 1896 2084 1893 2084 1890 2084 1887 2084 1885 2084 1838 2111 1829 2117 1821 2111 1774 2086 1771 2086 1769 2086 1545 2089 1542 2089 1539 2089 1509 2109 1495 2120 1481 2109 1459 2089 1456 2089 1453 2089 1451 2089 1448 2089 1393 2109 1357 2122 1191 2122 1174 2106 1155 2089 1152 2089 1149 2089 1147 2089 1028 2106 1011 2106 1006 2103 975 2092 972 2092 970 2092 713 2095 710 2095 696 2100 666 2117 646 2100 644 2100 641 2100 411 2100 414 2178"/></Shape>
+	    <String CONTENT="valtningsmyndigheder, og mange af disse Bestemmelser findes"
+                    HPOS="411"
+                    VPOS="2084"
+                    WIDTH="1839"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a12f09cb"
+                    TAGREFS="LT3627"
+                    BASELINE="406 2283 2219 2269" 
+                    HPOS="403"
+                    VPOS="2191"
+                    WIDTH="1816"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="406 2283 406 2316 1398 2316 1398 2313 1583 2299 1594 2299 1603 2299 1849 2310 1852 2310 2017 2297 2194 2308 2197 2308 2200 2308 2203 2308 2219 2294 2219 2269 2214 2227 1990 2227 1954 2194 1954 2191 1951 2191 1948 2191 1854 2191 1852 2191 1849 2191 1791 2208 1630 2194 1628 2194 1625 2194 1622 2194 1589 2225 1528 2227 1487 2233 1329 2233 1326 2230 1307 2214 1307 2211 1304 2211 1301 2211 1299 2211 1296 2211 1263 2225 1188 2197 1185 2197 1183 2197 1180 2197 1177 2197 1127 2230 1119 2236 981 2236 975 2230 945 2203 945 2200 942 2200 939 2200 937 2200 934 2200 901 2214 785 2200 782 2200 779 2200 776 2200 754 2219 738 2205 738 2203 735 2203 732 2203 500 2203 497 2203 494 2203 403 2230 406 2283"/></Shape>
+	    <String CONTENT="næppe offentliggjort. Som Følge heraf er Indholdet af de"
+                    HPOS="403"
+                    VPOS="2191"
+                    WIDTH="1816"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fad835a6"
+                    TAGREFS="LT3627"
+                    BASELINE="414 2388 2191 2371" 
+                    HPOS="411"
+                    VPOS="2294"
+                    WIDTH="1780"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="414 2388 414 2415 2189 2399 2191 2371 2183 2330 1567 2332 1553 2319 1525 2297 1525 2294 1523 2294 1520 2294 1517 2294 1271 2297 1268 2297 1265 2297 1265 2299 1246 2316 1224 2338 1138 2338 1113 2313 1097 2299 1097 2297 1094 2297 1091 2297 1089 2297 953 2310 948 2310 934 2310 721 2299 718 2299 715 2299 696 2308 668 2321 655 2308 649 2305 649 2302 646 2302 644 2302 641 2302 411 2302 414 2388"/></Shape>
+	    <String CONTENT="paagældende Forskrifter vanskeligere tilgængeligt for Ge-"
+                    HPOS="411"
+                    VPOS="2294"
+                    WIDTH="1780"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce8621e7"
+                    TAGREFS="LT3627"
+                    BASELINE="417 2487 2191 2471" 
+                    HPOS="414"
+                    VPOS="2410"
+                    WIDTH="1777"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="417 2487 417 2515 2191 2498 2191 2471 2189 2437 2109 2410 2106 2410 2103 2410 2100 2410 2098 2410 2064 2437 1934 2437 1299 2443 1290 2440 1271 2424 1268 2424 1265 2424 1263 2424 1174 2440 1158 2443 1152 2440 1119 2410 1116 2410 1113 2410 1008 2410 1006 2410 1003 2410 1000 2410 1000 2413 997 2413 989 2424 981 2415 981 2413 978 2413 975 2413 710 2413 707 2413 704 2413 668 2426 436 2415 433 2415 431 2415 428 2415 428 2418 414 2432 417 2487"/></Shape>
+	    <String CONTENT="sandtskabet, og der kan ogsaa være visse mindre Forskelle"
+                    HPOS="414"
+                    VPOS="2410"
+                    WIDTH="1777"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea7ff3f9"
+                    TAGREFS="LT3627"
+                    BASELINE="414 2590 2164 2578" 
+                    HPOS="411"
+                    VPOS="2540"
+                    WIDTH="1753"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="414 2590 414 2617 2161 2606 2164 2578 2156 2540 411 2548 414 2590"/></Shape>
+	    <String CONTENT="i Reglerne paa de forskellige Steder. Gesandtskabet vil"
+                    HPOS="411"
+                    VPOS="2540"
+                    WIDTH="1753"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8b928cc"
+                    TAGREFS="LT3627"
+                    BASELINE="417 2689 2280 2681" 
+                    HPOS="414"
+                    VPOS="2595"
+                    WIDTH="1866"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="417 2689 417 2714 2280 2706 2280 2681 2274 2625 1940 2625 1937 2623 1910 2598 1910 2595 1907 2595 1904 2595 1852 2595 1849 2595 1846 2595 1843 2595 1807 2623 1805 2623 1799 2620 1713 2595 1711 2595 1708 2595 1478 2603 1476 2603 1473 2603 1462 2614 1448 2603 1445 2603 1442 2603 1252 2598 1249 2598 1246 2598 1191 2617 1183 2620 1174 2617 1116 2598 1113 2598 1111 2598 826 2612 823 2612 815 2614 790 2628 760 2614 726 2601 724 2601 721 2601 644 2603 641 2603 638 2603 621 2614 599 2628 574 2614 552 2603 550 2603 547 2603 414 2612 417 2689"/></Shape>
+	    <String CONTENT="tillade sig i det følgende at omtale en Del af de for Jøder-"
+                    HPOS="414"
+                    VPOS="2595"
+                    WIDTH="1866"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e83759d9"
+                    TAGREFS="LT3627"
+                    BASELINE="417 2794 2197 2777" 
+                    HPOS="414"
+                    VPOS="2697"
+                    WIDTH="1783"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="417 2794 417 2822 2194 2811 2197 2777 2191 2725 1904 2697 1901 2697 1821 2703 1818 2703 1816 2703 1816 2706 1793 2725 1793 2728 1583 2728 1575 2725 1534 2703 1531 2703 1528 2703 1404 2722 1384 2706 1382 2706 1379 2706 1119 2700 1116 2700 1113 2700 1058 2728 1036 2708 1033 2708 1031 2708 1028 2708 881 2725 832 2706 829 2706 713 2706 710 2706 707 2706 704 2706 674 2728 671 2730 668 2728 649 2711 646 2711 644 2711 641 2711 594 2719 574 2706 572 2706 569 2706 566 2706 442 2708 439 2708 436 2708 414 2719 417 2794"/></Shape>
+	    <String CONTENT="ne i Ostland gældende særlige Bestemmelser. Som Følge af"
+                    HPOS="414"
+                    VPOS="2697"
+                    WIDTH="1783"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ae30b18"
+                    TAGREFS="LT3627"
+                    BASELINE="420 2896 2225 2880" 
+                    HPOS="417"
+                    VPOS="2811"
+                    WIDTH="1808"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="420 2896 420 2930 2222 2913 2225 2880 2216 2844 1335 2847 1332 2847 1285 2813 1282 2813 1279 2813 1028 2811 1025 2811 856 2827 843 2816 843 2813 840 2813 837 2813 834 2813 478 2816 475 2816 417 2847 420 2896"/></Shape>
+	    <String CONTENT="det foran udviklede er det ikke givet, alle de nedenfor"
+                    HPOS="417"
+                    VPOS="2811"
+                    WIDTH="1808"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16299831"
+                    TAGREFS="LT3627"
+                    BASELINE="234 2993 364 2993" 
+                    HPOS="234"
+                    VPOS="2907"
+                    WIDTH="130"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="234 2993 234 3021 281 3037 284 3037 287 3037 364 3021 364 2993 362 2907 234 2930 234 2993"/></Shape>
+	    <String CONTENT="Til"
+                    HPOS="234"
+                    VPOS="2907"
+                    WIDTH="130"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53cc0012"
+                    TAGREFS="LT3627"
+                    BASELINE="395 3046 1025 3040" 
+                    HPOS="392"
+                    VPOS="3001"
+                    WIDTH="633"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="395 3046 395 3084 704 3098 707 3098 710 3098 713 3098 732 3084 735 3084 1025 3084 1025 3040 1017 3001 392 3004 395 3046"/></Shape>
+	    <String CONTENT="Udenrigsministeriet."
+                    HPOS="392"
+                    VPOS="3001"
+                    WIDTH="633"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-NISKO-19391112_DE_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3625" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1400"
+          HEIGHT="1996"
+          PHYSICAL_IMG_NR="54"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1400"
+                  HEIGHT="1996">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_57080509"
+                    TAGREFS="LT3625"
+                    BASELINE="556 61 620 58" 
+                    HPOS="554"
+                    VPOS="38"
+                    WIDTH="70"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="556 71 619 73 624 72 619 40 554 38 556 61"/></Shape>
+	    <String CONTENT="-4-"
+                    HPOS="554"
+                    VPOS="38"
+                    WIDTH="70"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_984901ed"
+                    TAGREFS="LT3625"
+                    BASELINE="389 141 1286 149" 
+                    HPOS="387"
+                    VPOS="109"
+                    WIDTH="899"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="389 141 387 156 1283 164 1286 149 1286 123 1225 113 1223 113 1131 119 1110 121 1098 119 1050 111 1048 111 960 118 930 119 802 119 797 116 787 109 785 109 784 109 782 109 389 109 389 141"/></Shape>
+	    <String CONTENT="Wir bitten Sie daher sehr geehrter Herr Amtsdirektor"
+                    HPOS="387"
+                    VPOS="109"
+                    WIDTH="899"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_521978a8"
+                    TAGREFS="LT3625"
+                    BASELINE="164 174 1253 177" 
+                    HPOS="163"
+                    VPOS="149"
+                    WIDTH="1090"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="164 174 163 187 1250 191 1253 177 1251 154 164 149 164 174"/></Shape>
+	    <String CONTENT="in erster Linie uns darüber Mitteilungen zu machen, was mit uns"
+                    HPOS="163"
+                    VPOS="149"
+                    WIDTH="1090"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe181b2b"
+                    TAGREFS="LT3625"
+                    BASELINE="164 202 1253 206" 
+                    HPOS="163"
+                    VPOS="181"
+                    WIDTH="1090"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="164 202 163 216 1250 224 1253 206 1251 184 164 181 164 202"/></Shape>
+	    <String CONTENT="weiter geschehen wird. Wir wollen soweit dies Ihnen möglich ist,"
+                    HPOS="163"
+                    VPOS="181"
+                    WIDTH="1090"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7615ad8e"
+                    TAGREFS="LT3625"
+                    BASELINE="166 229 1265 236" 
+                    HPOS="164"
+                    VPOS="207"
+                    WIDTH="1101"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="166 229 164 242 1261 249 1265 236 1263 212 166 207 166 229"/></Shape>
+	    <String CONTENT="Klarheit dar über, ob wir nach Polen abtransportiert werden, oder"
+                    HPOS="164"
+                    VPOS="207"
+                    WIDTH="1101"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88c41148"
+                    TAGREFS="LT3625"
+                    BASELINE="164 261 1298 261" 
+                    HPOS="164"
+                    VPOS="241"
+                    WIDTH="1134"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="164 261 164 276 1296 279 1298 261 1298 241 164 241 164 261"/></Shape>
+	    <String CONTENT="nicht. Wenn ja, zu welchem Zeitpunkte. Sollte der Transport in ab-"
+                    HPOS="164"
+                    VPOS="241"
+                    WIDTH="1134"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38277bfb"
+                    TAGREFS="LT3625"
+                    BASELINE="166 289 1300 291" 
+                    HPOS="164"
+                    VPOS="266"
+                    WIDTH="1136"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="166 289 164 304 1296 306 1300 291 1296 266 166 266 166 289"/></Shape>
+	    <String CONTENT="sehbarer Zeit nicht durchgeführt werden, so ist es eine selbstver-"
+                    HPOS="164"
+                    VPOS="266"
+                    WIDTH="1136"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6ee7c28"
+                    TAGREFS="LT3625"
+                    BASELINE="168 317 1211 321" 
+                    HPOS="166"
+                    VPOS="296"
+                    WIDTH="1045"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="168 317 166 331 1208 337 1211 321 1210 299 168 296 168 317"/></Shape>
+	    <String CONTENT="ständliche Frage, wie lange wir noch hier bleiben müssen. Die"
+                    HPOS="166"
+                    VPOS="296"
+                    WIDTH="1045"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de5adbd7"
+                    TAGREFS="LT3625"
+                    BASELINE="164 347 1285 347" 
+                    HPOS="164"
+                    VPOS="327"
+                    WIDTH="1121"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="164 347 164 362 1283 365 1285 347 1285 327 164 327 164 347"/></Shape>
+	    <String CONTENT="meisten Leute unseres Transportes haben ihre Wohnungen liquidiert"
+                    HPOS="164"
+                    VPOS="327"
+                    WIDTH="1121"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7192939"
+                    TAGREFS="LT3625"
+                    BASELINE="163 374 1248 377" 
+                    HPOS="161"
+                    VPOS="352"
+                    WIDTH="1087"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="163 374 161 387 1245 394 1248 377 1246 355 163 352 163 374"/></Shape>
+	    <String CONTENT="und sorgen sich Tag und Nacht, was geschehen wird, im Falle wir"
+                    HPOS="161"
+                    VPOS="352"
+                    WIDTH="1087"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a515ef97"
+                    TAGREFS="LT3625"
+                    BASELINE="163 404 1308 405" 
+                    HPOS="161"
+                    VPOS="382"
+                    WIDTH="1147"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="163 404 161 417 1305 422 1308 405 1306 382 163 382 163 404"/></Shape>
+	    <String CONTENT="nach Hause gehen dürfen, da wir ja kein &quot;nach Hause“ mehr besitzen."
+                    HPOS="161"
+                    VPOS="382"
+                    WIDTH="1147"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13821d01"
+                    TAGREFS="LT3625"
+                    BASELINE="166 430 1296 437" 
+                    HPOS="164"
+                    VPOS="409"
+                    WIDTH="1132"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="166 430 164 444 1293 450 1296 437 1295 414 166 409 166 430"/></Shape>
+	    <String CONTENT="Wird der Transport doch durchgeführt, woher sollen wir uns Lebens-"
+                    HPOS="164"
+                    VPOS="409"
+                    WIDTH="1132"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e2f3269"
+                    TAGREFS="LT3625"
+                    BASELINE="163 460 1301 465" 
+                    HPOS="161"
+                    VPOS="437"
+                    WIDTH="1140"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="163 460 161 474 1298 479 1301 465 1300 444 163 437 163 460"/></Shape>
+	    <String CONTENT="mittel für die Dauer des Transportes verschaffen? Bei allen diesen"
+                    HPOS="161"
+                    VPOS="437"
+                    WIDTH="1140"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1f01bc5"
+                    TAGREFS="LT3625"
+                    BASELINE="164 490 1265 494" 
+                    HPOS="163"
+                    VPOS="469"
+                    WIDTH="1102"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="164 490 163 503 1261 512 1265 494 1263 469 164 469 164 490"/></Shape>
+	    <String CONTENT="für uns besonders wichtigen Fragen muss auch in Betracht gezogen"
+                    HPOS="163"
+                    VPOS="469"
+                    WIDTH="1102"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f340a793"
+                    TAGREFS="LT3625"
+                    BASELINE="163 518 1333 522" 
+                    HPOS="161"
+                    VPOS="494"
+                    WIDTH="1172"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="163 518 161 533 1330 542 1333 522 1333 502 163 494 163 518"/></Shape>
+	    <String CONTENT="werden, dass wir nicht so wie beim ersten und zweiten Polentransport"
+                    HPOS="161"
+                    VPOS="494"
+                    WIDTH="1172"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e272790"
+                    TAGREFS="LT3625"
+                    BASELINE="163 548 1266 552" 
+                    HPOS="161"
+                    VPOS="527"
+                    WIDTH="1105"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="163 548 161 567 1263 568 1266 552 1265 530 163 527 163 548"/></Shape>
+	    <String CONTENT="eine Gruppe nur aus Männern bestehend sind, sondern viele Frauen"
+                    HPOS="161"
+                    VPOS="527"
+                    WIDTH="1105"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b06a2122"
+                    TAGREFS="LT3625"
+                    BASELINE="163 577 660 582" 
+                    HPOS="161"
+                    VPOS="555"
+                    WIDTH="499"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="163 577 161 593 657 597 660 582 659 560 163 555 163 577"/></Shape>
+	    <String CONTENT="und Kinder zu betreuen haben."
+                    HPOS="161"
+                    VPOS="555"
+                    WIDTH="499"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52fa78c5"
+                    TAGREFS="LT3625"
+                    BASELINE="386 637 1320 633" 
+                    HPOS="384"
+                    VPOS="610"
+                    WIDTH="936"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="386 637 386 652 1320 648 1320 633 1315 610 384 613 386 637"/></Shape>
+	    <String CONTENT="Wir sind uns dessen überzeugt, dass Sie, sehr geehrter"
+                    HPOS="384"
+                    VPOS="610"
+                    WIDTH="936"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c29b672c"
+                    TAGREFS="LT3625"
+                    BASELINE="159 662 1317 664" 
+                    HPOS="156"
+                    VPOS="637"
+                    WIDTH="1160"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="158 660 156 678 1313 681 1316 663 1316 642 158 637 158 660"/></Shape>
+	    <String CONTENT="Herr Amtsdirektor, unseren Bericht in einem für uns günstigen Sinne"
+                    HPOS="156"
+                    VPOS="637"
+                    WIDTH="1160"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05351d01"
+                    TAGREFS="LT3625"
+                    BASELINE="161 695 1265 698" 
+                    HPOS="159"
+                    VPOS="670"
+                    WIDTH="1106"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="161 695 159 713 1261 716 1265 698 1263 676 161 670 161 695"/></Shape>
+	    <String CONTENT="erledigen und genehmigen Sie den Ausdruck unserer vorzüglichsten"
+                    HPOS="159"
+                    VPOS="670"
+                    WIDTH="1106"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3767c1a1"
+                    TAGREFS="LT3625"
+                    BASELINE="907 751 1118 755" 
+                    HPOS="905"
+                    VPOS="728"
+                    WIDTH="213"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="907 751 905 768 920 776 922 776 923 778 1117 778 1118 755 1117 728 907 728 907 751"/></Shape>
+	    <String CONTENT="Hochachtung"
+                    HPOS="905"
+                    VPOS="728"
+                    WIDTH="213"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

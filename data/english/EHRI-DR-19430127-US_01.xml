@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19430127-US_01.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2351"
+          HEIGHT="3218"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2351"
+                  HEIGHT="3218">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0c5aad08"
+                    TAGREFS="LT3626"
+                    BASELINE="407 986 560 986" 
+                    HPOS="407"
+                    VPOS="951"
+                    WIDTH="153"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="407 986 407 1013 560 1013 560 986 560 951 407 951 407 986"/></Shape>
+	    <String CONTENT="SIR:"
+                    HPOS="407"
+                    VPOS="951"
+                    WIDTH="153"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78df6a24"
+                    TAGREFS="LT3626"
+                    BASELINE="560 1080 2034 1088" 
+                    HPOS="558"
+                    VPOS="1045"
+                    WIDTH="1476"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="560 1080 558 1102 2028 1110 2034 1088 2031 1053 560 1045 560 1080"/></Shape>
+	    <String CONTENT="I have the honor to report below various measures"
+                    HPOS="558"
+                    VPOS="1045"
+                    WIDTH="1476"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_874e2095"
+                    TAGREFS="LT3626"
+                    BASELINE="415 1131 1940 1139" 
+                    HPOS="413"
+                    VPOS="1096"
+                    WIDTH="1527"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="415 1131 413 1155 426 1166 429 1166 432 1166 434 1166 1390 1158 1427 1171 1430 1171 1433 1171 1937 1158 1940 1139 1937 1104 415 1096 415 1131"/></Shape>
+	    <String CONTENT="taken by the Rumanian Government against the Jewish"
+                    HPOS="413"
+                    VPOS="1096"
+                    WIDTH="1527"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d3be2ca"
+                    TAGREFS="LT3626"
+                    BASELINE="415 1187 1932 1187" 
+                    HPOS="415"
+                    VPOS="1155"
+                    WIDTH="1517"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="415 1187 415 1212 1932 1209 1932 1187 1932 1155 415 1155 415 1187"/></Shape>
+	    <String CONTENT="population of its territories within recent months."
+                    HPOS="415"
+                    VPOS="1155"
+                    WIDTH="1517"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34bf02de"
+                    TAGREFS="LT3626"
+                    BASELINE="418 1233 2004 1238" 
+                    HPOS="415"
+                    VPOS="1198"
+                    WIDTH="1589"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="418 1233 415 1255 1999 1257 2004 1238 2002 1204 418 1198 418 1233"/></Shape>
+	    <String CONTENT="It seems that anti-semitic measures are becoming more"
+                    HPOS="415"
+                    VPOS="1198"
+                    WIDTH="1589"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6be23478"
+                    TAGREFS="LT3626"
+                    BASELINE="413 1287 1884 1281" 
+                    HPOS="410"
+                    VPOS="1246"
+                    WIDTH="1474"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="413 1287 413 1308 1881 1303 1884 1281 1875 1246 410 1249 413 1287"/></Shape>
+	    <String CONTENT="stringent in administration and that anti-semitic"
+                    HPOS="410"
+                    VPOS="1246"
+                    WIDTH="1474"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98cf61d5"
+                    TAGREFS="LT3626"
+                    BASELINE="418 1338 1884 1335" 
+                    HPOS="415"
+                    VPOS="1300"
+                    WIDTH="1469"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="418 1338 418 1367 1881 1354 1884 1335 1875 1300 415 1300 418 1338"/></Shape>
+	    <String CONTENT="propaganda increases in direct proportion to news"
+                    HPOS="415"
+                    VPOS="1300"
+                    WIDTH="1469"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16145465"
+                    TAGREFS="LT3626"
+                    BASELINE="413 1383 1924 1378" 
+                    HPOS="410"
+                    VPOS="1346"
+                    WIDTH="1514"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="413 1383 413 1405 1921 1399 1924 1378 1916 1346 410 1348 413 1383"/></Shape>
+	    <String CONTENT="of Russian successes upon the eastern front. This"
+                    HPOS="410"
+                    VPOS="1346"
+                    WIDTH="1514"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_973d8736"
+                    TAGREFS="LT3626"
+                    BASELINE="413 1432 1795 1434" 
+                    HPOS="410"
+                    VPOS="1397"
+                    WIDTH="1385"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="413 1432 410 1448 456 1464 458 1464 461 1464 1792 1450 1795 1434 1792 1399 413 1397 413 1432"/></Shape>
+	    <String CONTENT="activity is reported to be encouraged by those"
+                    HPOS="410"
+                    VPOS="1397"
+                    WIDTH="1385"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d91130e1"
+                    TAGREFS="LT3626"
+                    BASELINE="413 1474 1945 1480" 
+                    HPOS="410"
+                    VPOS="1440"
+                    WIDTH="1535"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="413 1474 410 1496 1940 1501 1945 1480 1943 1445 413 1440 413 1474"/></Shape>
+	    <String CONTENT="Romanians who have benefited from the confiscations"
+                    HPOS="410"
+                    VPOS="1440"
+                    WIDTH="1535"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9873ccf"
+                    TAGREFS="LT3626"
+                    BASELINE="413 1531 1945 1533" 
+                    HPOS="410"
+                    VPOS="1493"
+                    WIDTH="1535"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="413 1531 410 1550 1940 1552 1945 1533 1943 1496 413 1493 413 1531"/></Shape>
+	    <String CONTENT="of Jewish property and their forced retirement from"
+                    HPOS="410"
+                    VPOS="1493"
+                    WIDTH="1535"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84e37baf"
+                    TAGREFS="LT3626"
+                    BASELINE="410 1576 1038 1582" 
+                    HPOS="407"
+                    VPOS="1541"
+                    WIDTH="631"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="410 1576 407 1598 1033 1603 1038 1582 1035 1547 410 1541 410 1576"/></Shape>
+	    <String CONTENT="Romanian public life."
+                    HPOS="407"
+                    VPOS="1541"
+                    WIDTH="631"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cbd20d6"
+                    TAGREFS="LT3626"
+                    BASELINE="405 1678 1022 1673" 
+                    HPOS="402"
+                    VPOS="1638"
+                    WIDTH="620"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="405 1678 405 1718 1019 1713 1022 1673 1014 1638 402 1641 405 1678"/></Shape>
+	    <String CONTENT="Jewish Registration:"
+                    HPOS="402"
+                    VPOS="1638"
+                    WIDTH="620"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ce7ed80"
+                    TAGREFS="LT3626"
+                    BASELINE="552 1764 2122 1775" 
+                    HPOS="550"
+                    VPOS="1729"
+                    WIDTH="1572"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="552 1764 550 1788 2117 1799 2122 1775 2120 1740 552 1729 552 1764"/></Shape>
+	    <String CONTENT="The MONITOR OFFICIAL of December 23, 1942, according"
+                    HPOS="550"
+                    VPOS="1729"
+                    WIDTH="1572"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58e5edd2"
+                    TAGREFS="LT3626"
+                    BASELINE="407 1823 2106 1823" 
+                    HPOS="407"
+                    VPOS="1791"
+                    WIDTH="1699"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="407 1823 407 1847 2104 1853 2106 1823 2106 1791 407 1791 407 1823"/></Shape>
+	    <String CONTENT="to UNIVERSUL of December 24, published an order requiring"
+                    HPOS="407"
+                    VPOS="1791"
+                    WIDTH="1699"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01d9cba9"
+                    TAGREFS="LT3626"
+                    BASELINE="407 1869 2112 1874" 
+                    HPOS="405"
+                    VPOS="1834"
+                    WIDTH="1707"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="407 1869 405 1890 2106 1895 2112 1874 2109 1839 407 1834 407 1869"/></Shape>
+	    <String CONTENT="all Rumanian natives of Jewish parentage, who previously"
+                    HPOS="405"
+                    VPOS="1834"
+                    WIDTH="1707"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a61f8ed0"
+                    TAGREFS="LT3626"
+                    BASELINE="410 1925 2189 1920" 
+                    HPOS="407"
+                    VPOS="1887"
+                    WIDTH="1782"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="410 1925 410 1946 2184 1952 2189 1920 2181 1887 407 1890 410 1925"/></Shape>
+	    <String CONTENT="had been registered in the Jewish Central Office of Rumania,"
+                    HPOS="407"
+                    VPOS="1887"
+                    WIDTH="1782"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_486af5a6"
+                    TAGREFS="LT3626"
+                    BASELINE="410 1973 2200 1968" 
+                    HPOS="407"
+                    VPOS="1936"
+                    WIDTH="1793"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="410 1973 410 1997 2198 1997 2200 1968 2192 1936 407 1938 410 1973"/></Shape>
+	    <String CONTENT="to report to that Office of any of its country-wide district"
+                    HPOS="407"
+                    VPOS="1936"
+                    WIDTH="1793"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e033f7b"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2021 2173 2016" 
+                    HPOS="407"
+                    VPOS="1984"
+                    WIDTH="1766"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="410 2021 410 2046 2171 2040 2173 2016 2165 1984 407 1987 410 2021"/></Shape>
+	    <String CONTENT="branches, in the event any changers had taken place in their"
+                    HPOS="407"
+                    VPOS="1984"
+                    WIDTH="1766"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c71cddf1"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2070 2147 2070" 
+                    HPOS="410"
+                    VPOS="2038"
+                    WIDTH="1737"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="410 2070 410 2094 2147 2094 2147 2070 2147 2038 410 2038 410 2070"/></Shape>
+	    <String CONTENT="family or employment status since the last census day, May"
+                    HPOS="410"
+                    VPOS="2038"
+                    WIDTH="1737"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8754ad2"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2118 2090 2118" 
+                    HPOS="410"
+                    VPOS="2086"
+                    WIDTH="1680"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="410 2118 410 2145 2087 2145 2090 2118 2087 2086 410 2086 410 2118"/></Shape>
+	    <String CONTENT="20, 1942. All changes were to be reported within thirty"
+                    HPOS="410"
+                    VPOS="2086"
+                    WIDTH="1680"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e406c277"
+                    TAGREFS="LT3626"
+                    BASELINE="407 2172 566 2169" 
+                    HPOS="405"
+                    VPOS="2134"
+                    WIDTH="161"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="407 2172 407 2196 499 2209 501 2209 566 2193 566 2169 558 2134 405 2134 407 2172"/></Shape>
+	    <String CONTENT="days."
+                    HPOS="405"
+                    VPOS="2134"
+                    WIDTH="161"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_551132a3"
+                    TAGREFS="LT3626"
+                    BASELINE="402 2271 1084 2266" 
+                    HPOS="399"
+                    VPOS="2228"
+                    WIDTH="685"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="402 2271 402 2306 1084 2303 1084 2266 1076 2228 399 2231 402 2271"/></Shape>
+	    <String CONTENT="Property Confiscation:"
+                    HPOS="399"
+                    VPOS="2228"
+                    WIDTH="685"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2525b29b"
+                    TAGREFS="LT3626"
+                    BASELINE="552 2357 2157 2365" 
+                    HPOS="550"
+                    VPOS="2311"
+                    WIDTH="1607"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="552 2357 550 2384 560 2394 563 2394 566 2394 568 2397 2155 2397 2157 2365 2155 2314 2007 2327 1561 2316 1368 2311 1366 2311 1323 2316 1266 2325 552 2322 552 2357"/></Shape>
+	    <String CONTENT="The DEUTSCHE ZEITUNG IN KROATIEN of December 19, 1942,"
+                    HPOS="550"
+                    VPOS="2311"
+                    WIDTH="1607"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37f89faa"
+                    TAGREFS="LT3626"
+                    BASELINE="407 2413 2238 2413" 
+                    HPOS="407"
+                    VPOS="2381"
+                    WIDTH="1831"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="407 2413 407 2442 2238 2442 2238 2413 2238 2381 407 2381 407 2413"/></Shape>
+	    <String CONTENT="states that under the land nationalization program of Rumania"
+                    HPOS="407"
+                    VPOS="2381"
+                    WIDTH="1831"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d33b7f46"
+                    TAGREFS="LT3626"
+                    BASELINE="407 2469 2031 2461" 
+                    HPOS="405"
+                    VPOS="2429"
+                    WIDTH="1626"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="407 2469 407 2491 2028 2483 2031 2461 2023 2429 405 2434 407 2469"/></Shape>
+	    <String CONTENT="proceeding in Bucovina there have been 18,542 hectares"
+                    HPOS="405"
+                    VPOS="2429"
+                    WIDTH="1626"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e817019"
+                    TAGREFS="LT3626"
+                    BASELINE="418 2518 2055 2507" 
+                    HPOS="415"
+                    VPOS="2475"
+                    WIDTH="1640"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="418 2518 418 2536 767 2547 770 2547 993 2534 1001 2534 1003 2534 1068 2547 1070 2547 1073 2547 1113 2534 1202 2547 1205 2547 1207 2547 1210 2547 1237 2531 1239 2531 1320 2531 1333 2531 1642 2544 1645 2544 1784 2528 1811 2542 1814 2542 1816 2544 2034 2544 2034 2542 2036 2542 2039 2542 2055 2526 2055 2507 2047 2475 415 2483 418 2518"/></Shape>
+	    <String CONTENT="(1 hectare. 10,000 sq. m.) of farm properties recently"
+                    HPOS="415"
+                    VPOS="2475"
+                    WIDTH="1640"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ced3541"
+                    TAGREFS="LT3626"
+                    BASELINE="413 2566 2120 2558" 
+                    HPOS="410"
+                    VPOS="2526"
+                    WIDTH="1710"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="413 2566 413 2585 2117 2577 2120 2558 2112 2526 410 2531 413 2566"/></Shape>
+	    <String CONTENT="confiscated by the State. Of this total, 16,624 hectares"
+                    HPOS="410"
+                    VPOS="2526"
+                    WIDTH="1710"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2dac15d2"
+                    TAGREFS="LT3626"
+                    BASELINE="413 2609 2109 2611" 
+                    HPOS="413"
+                    VPOS="2574"
+                    WIDTH="1696"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="413 2609 413 2633 2106 2633 2109 2611 2106 2577 413 2574 413 2609"/></Shape>
+	    <String CONTENT="formerly belonged to Jewish owners. In the same district"
+                    HPOS="413"
+                    VPOS="2574"
+                    WIDTH="1696"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95879dd3"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2654 2125 2660" 
+                    HPOS="407"
+                    VPOS="2619"
+                    WIDTH="1718"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="410 2654 407 2676 2120 2681 2125 2660 2122 2625 410 2619 410 2654"/></Shape>
+	    <String CONTENT="with a total of 34,292 hectares of forest properties that"
+                    HPOS="407"
+                    VPOS="2619"
+                    WIDTH="1718"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d6568cb"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2708 2071 2705" 
+                    HPOS="407"
+                    VPOS="2673"
+                    WIDTH="1664"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="410 2708 410 2732 2069 2729 2071 2705 2063 2673 407 2673 410 2708"/></Shape>
+	    <String CONTENT="were confiscated, 32,414 hectares were said formerly to"
+                    HPOS="407"
+                    VPOS="2673"
+                    WIDTH="1664"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7020d1a"
+                    TAGREFS="LT3626"
+                    BASELINE="413 2756 2002 2748" 
+                    HPOS="410"
+                    VPOS="2716"
+                    WIDTH="1592"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="413 2756 413 2780 1999 2772 2002 2748 1994 2716 410 2721 413 2756"/></Shape>
+	    <String CONTENT="have belonged to Jews. In the rural districts 11,759"
+                    HPOS="410"
+                    VPOS="2716"
+                    WIDTH="1592"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ceed60c3"
+                    TAGREFS="LT3626"
+                    BASELINE="410 2805 1999 2805" 
+                    HPOS="410"
+                    VPOS="2772"
+                    WIDTH="1589"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="410 2805 410 2831 1999 2831 1999 2805 1999 2772 410 2772 410 2805"/></Shape>
+	    <String CONTENT="dwellings have been expropriated, of which 8,590 have"
+                    HPOS="410"
+                    VPOS="2772"
+                    WIDTH="1589"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f31f5a7"
+                    TAGREFS="LT3626"
+                    BASELINE="413 2853 1038 2858" 
+                    HPOS="410"
+                    VPOS="2818"
+                    WIDTH="628"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="413 2853 410 2874 1033 2882 1038 2858 1035 2823 413 2818 413 2853"/></Shape>
+	    <String CONTENT="been taken from Jews."
+                    HPOS="410"
+                    VPOS="2818"
+                    WIDTH="628"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b61b1289"
+                    TAGREFS="LT3626"
+                    BASELINE="1733 2987 1822 2992" 
+                    HPOS="1731"
+                    VPOS="2952"
+                    WIDTH="91"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1733 2987 1731 3011 1779 3030 1782 3030 1784 3030 1787 3030 1819 3016 1822 2992 1822 2957 1733 2952 1733 2987"/></Shape>
+	    <String CONTENT="To"
+                    HPOS="1731"
+                    VPOS="2952"
+                    WIDTH="91"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

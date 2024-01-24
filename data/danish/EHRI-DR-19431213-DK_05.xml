@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-DR-19431213-DK_05.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3627" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2355"
+          HEIGHT="3192"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2355"
+                  HEIGHT="3192">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d3ff9f56"
+                    TAGREFS="LT3627"
+                    BASELINE="1069 215 1240 215" 
+                    HPOS="1069"
+                    VPOS="151"
+                    WIDTH="171"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1069 215 1069 258 1240 250 1240 215 1240 172 1069 151 1069 215"/></Shape>
+	    <String CONTENT="- 5 -"
+                    HPOS="1069"
+                    VPOS="151"
+                    WIDTH="171"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84c02e6a"
+                    TAGREFS="LT3627"
+                    BASELINE="428 380 987 367 2075 372" 
+                    HPOS="425"
+                    VPOS="297"
+                    WIDTH="1650"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="428 380 428 414 729 399 824 412 827 412 984 399 1003 414 1005 414 1005 417 1008 417 1011 417 1013 420 1479 420 1479 417 1482 417 1498 412 1543 399 2070 409 2075 372 2072 327 1993 303 1990 303 1987 303 1985 303 1942 324 1891 305 1889 305 1886 305 1884 305 1820 327 1790 300 1790 297 1788 297 1785 297 1671 297 1668 297 1665 297 1580 329 1466 329 1431 303 1428 303 1426 303 1354 300 1351 300 1349 300 1290 327 1237 297 1234 297 1232 297 1229 297 1184 321 1160 303 1157 303 1154 303 1005 297 1003 297 1000 297 928 329 513 329 484 313 481 313 478 313 476 313 425 329 428 380"/></Shape>
+	    <String CONTENT="processen. Ialt er 10.000 Personer af semitisk Herkomst"
+                    HPOS="425"
+                    VPOS="297"
+                    WIDTH="1650"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f01be746"
+                    TAGREFS="LT3627"
+                    BASELINE="431 473 2019 465" 
+                    HPOS="428"
+                    VPOS="425"
+                    WIDTH="1591"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="431 473 431 497 864 510 867 510 870 510 899 500 910 497 915 500 928 510 931 510 934 510 936 510 1091 502 1221 494 1279 502 1319 508 1322 508 1325 508 1327 508 1333 502 1349 494 1436 502 1460 505 1463 505 1476 502 1543 492 1570 505 1572 505 1575 505 1577 508 2017 508 2019 465 2011 425 428 430 431 473"/></Shape>
+	    <String CONTENT="blevet udjaget. En Del af Roms Jøder har allerede for"
+                    HPOS="428"
+                    VPOS="425"
+                    WIDTH="1591"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83bfb3f1"
+                    TAGREFS="LT3627"
+                    BASELINE="431 577 1088 563 2099 566" 
+                    HPOS="428"
+                    VPOS="518"
+                    WIDTH="1671"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="431 577 431 603 2096 598 2099 566 2096 529 1072 518 1069 518 428 534 431 577"/></Shape>
+	    <String CONTENT="nogen Tid siden forladt Byen og begivet sig til det nord-"
+                    HPOS="428"
+                    VPOS="518"
+                    WIDTH="1671"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_131568cf"
+                    TAGREFS="LT3627"
+                    BASELINE="428 670 2088 665" 
+                    HPOS="425"
+                    VPOS="617"
+                    WIDTH="1663"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="428 670 428 699 1327 702 1330 702 1335 702 1391 688 1413 702 1415 702 1418 702 1420 702 1423 702 1426 702 1442 688 1559 688 1607 702 1609 702 1612 702 1617 702 1692 688 1708 702 1711 702 1713 702 1716 704 1926 704 1926 702 1929 702 1985 688 2083 702 2088 665 2080 617 425 630 428 670"/></Shape>
+	    <String CONTENT="lige Italien. Man regner med, at der paa den Maade vil"
+                    HPOS="425"
+                    VPOS="617"
+                    WIDTH="1663"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81e510c0"
+                    TAGREFS="LT3627"
+                    BASELINE="428 768 2136 758" 
+                    HPOS="425"
+                    VPOS="707"
+                    WIDTH="1711"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="428 768 428 803 2134 787 2136 758 2131 720 1724 707 1721 707 1719 707 1716 707 1695 723 1692 723 1684 723 1577 710 1575 710 1484 723 1482 723 1287 710 1285 710 1282 710 1279 710 1258 723 1003 712 1000 712 997 712 942 726 625 718 622 718 425 731 428 768"/></Shape>
+	    <String CONTENT="blive frigjort ca. 20.000 Lejligheder, som vil blive stil-"
+                    HPOS="425"
+                    VPOS="707"
+                    WIDTH="1711"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acbbef60"
+                    TAGREFS="LT3627"
+                    BASELINE="431 867 2168 859" 
+                    HPOS="428"
+                    VPOS="808"
+                    WIDTH="1740"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="431 867 431 899 2166 896 2168 859 2163 824 1721 808 1719 808 1596 824 1583 824 1524 824 1027 811 1024 811 1021 811 1019 811 1003 824 1000 827 995 824 965 813 963 813 960 813 428 824 431 867"/></Shape>
+	    <String CONTENT="let til Disposition for skadelidte romerske Familier og for"
+                    HPOS="428"
+                    VPOS="808"
+                    WIDTH="1740"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b5f6f1b"
+                    TAGREFS="LT3627"
+                    BASELINE="425 965 1200 957" 
+                    HPOS="423"
+                    VPOS="920"
+                    WIDTH="777"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="425 965 425 1000 1200 1000 1200 957 1192 920 423 925 425 965"/></Shape>
+	    <String CONTENT="Flygtninge fra Syditalien."
+                    HPOS="423"
+                    VPOS="920"
+                    WIDTH="777"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c496a2e5"
+                    TAGREFS="LT3627"
+                    BASELINE="596 1061 2139 1053" 
+                    HPOS="593"
+                    VPOS="1002"
+                    WIDTH="1546"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="596 1061 596 1090 2136 1082 2139 1053 2134 1018 2054 1002 2051 1002 2048 1002 2011 1016 2011 1018 1801 1018 1801 1016 1785 1002 1782 1002 1780 1002 1777 1002 1596 1016 1556 1018 1535 1016 1468 1005 1338 1005 1335 1005 1333 1005 1330 1005 1330 1008 1319 1016 1317 1018 1306 1016 1256 1005 1253 1005 1141 1016 1077 1021 1053 1016 1024 1008 1021 1008 1019 1008 979 1016 947 1021 593 1016 596 1061"/></Shape>
+	    <String CONTENT="Rom-Bladene har dog ikke indeholdt nogen saadan Med-"
+                    HPOS="593"
+                    VPOS="1002"
+                    WIDTH="1546"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45ba566c"
+                    TAGREFS="LT3627"
+                    BASELINE="425 1165 2174 1154" 
+                    HPOS="423"
+                    VPOS="1109"
+                    WIDTH="1751"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="425 1165 425 1204 715 1215 718 1215 769 1204 798 1199 851 1204 926 1212 928 1212 931 1212 934 1212 934 1210 942 1204 955 1194 1077 1194 1091 1204 1099 1210 1099 1212 1101 1212 1104 1212 1106 1215 1173 1215 1173 1212 1176 1212 1178 1212 1192 1204 1205 1194 1229 1204 1245 1210 1248 1210 1250 1210 1295 1202 1357 1194 1383 1202 1402 1210 1405 1210 1407 1212 1530 1212 1530 1210 1532 1210 1546 1202 1570 1191 1687 1191 1809 1202 1881 1207 1884 1207 1886 1207 1889 1207 1897 1202 1918 1189 1998 1202 2043 1207 2046 1207 2171 1199 2174 1154 2168 1109 864 1109 862 1109 423 1125 425 1165"/></Shape>
+	    <String CONTENT="delelse, ligesom Gesandtskabet ikke fra anden Side har hørt"
+                    HPOS="423"
+                    VPOS="1109"
+                    WIDTH="1751"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_325f898a"
+                    TAGREFS="LT3627"
+                    BASELINE="431 1263 904 1258" 
+                    HPOS="428"
+                    VPOS="1218"
+                    WIDTH="476"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="431 1263 431 1319 667 1298 686 1311 689 1311 691 1311 694 1311 795 1298 822 1316 824 1316 827 1316 830 1319 904 1319 904 1258 899 1223 428 1218 431 1263"/></Shape>
+	    <String CONTENT="denne bekræftet."
+                    HPOS="428"
+                    VPOS="1218"
+                    WIDTH="476"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

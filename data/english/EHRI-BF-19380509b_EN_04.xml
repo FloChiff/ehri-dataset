@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380509b_EN_04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3626" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="940"
+          HEIGHT="1180"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="940"
+                  HEIGHT="1180">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_42e24da9"
+                    TAGREFS="LT3626"
+                    BASELINE="470 42 513 40" 
+                    HPOS="469"
+                    VPOS="24"
+                    WIDTH="44"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="470 42 470 51 511 53 513 40 511 25 469 24 470 42"/></Shape>
+	    <String CONTENT="-4-"
+                    HPOS="469"
+                    VPOS="24"
+                    WIDTH="44"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c2c0d29"
+                    TAGREFS="LT3626"
+                    BASELINE="122 137 882 140" 
+                    HPOS="122"
+                    VPOS="116"
+                    WIDTH="760"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="122 137 122 150 881 149 882 140 881 124 834 117 833 117 793 123 791 123 608 123 608 122 593 116 592 116 591 116 540 120 500 116 499 116 498 116 497 116 489 121 489 122 487 121 464 116 463 116 462 116 353 121 340 121 336 121 309 116 308 116 276 120 269 122 231 122 229 120 218 116 217 116 216 116 215 116 203 120 200 121 122 120 122 137"/></Shape>
+	    <String CONTENT="2. It is necessary to care primarily for the immediate existence"
+                    HPOS="122"
+                    VPOS="116"
+                    WIDTH="760"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0383ee7"
+                    TAGREFS="LT3626"
+                    BASELINE="119 159 811 161" 
+                    HPOS="119"
+                    VPOS="144"
+                    WIDTH="692"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="119 159 119 171 810 170 811 161 810 147 119 144 119 159"/></Shape>
+	    <String CONTENT="of their life, and then for the emigration of these people."
+                    HPOS="119"
+                    VPOS="144"
+                    WIDTH="692"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e5d0532"
+                    TAGREFS="LT3626"
+                    BASELINE="122 195 869 199" 
+                    HPOS="121"
+                    VPOS="181"
+                    WIDTH="748"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="122 195 121 208 867 212 869 199 868 181 122 181 122 195"/></Shape>
+	    <String CONTENT="3. The Council will approach the Governments of the great demo-"
+                    HPOS="121"
+                    VPOS="181"
+                    WIDTH="748"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba19506c"
+                    TAGREFS="LT3626"
+                    BASELINE="124 216 833 218" 
+                    HPOS="123"
+                    VPOS="203"
+                    WIDTH="710"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="124 216 123 224 831 228 833 218 832 204 124 203 124 216"/></Shape>
+	    <String CONTENT="cracies for the sake of the Jews of the &quot;Burgenland&quot; who find"
+                    HPOS="123"
+                    VPOS="203"
+                    WIDTH="710"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94d7a5cf"
+                    TAGREFS="LT3626"
+                    BASELINE="124 236 868 238" 
+                    HPOS="124"
+                    VPOS="220"
+                    WIDTH="744"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="124 236 124 248 867 248 868 238 867 225 124 220 124 236"/></Shape>
+	    <String CONTENT="themselves in a particularly desperate situation with a view to"
+                    HPOS="124"
+                    VPOS="220"
+                    WIDTH="744"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a31a2e0a"
+                    TAGREFS="LT3626"
+                    BASELINE="125 257 834 257" 
+                    HPOS="125"
+                    VPOS="244"
+                    WIDTH="709"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="125 257 125 267 834 267 834 257 834 244 125 244 125 257"/></Shape>
+	    <String CONTENT="obtaining exceptional facilities for emigration, as this will"
+                    HPOS="125"
+                    VPOS="244"
+                    WIDTH="709"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adc184d4"
+                    TAGREFS="LT3626"
+                    BASELINE="123 277 602 277" 
+                    HPOS="123"
+                    VPOS="263"
+                    WIDTH="479"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="123 277 123 293 177 293 177 292 178 292 179 292 185 287 211 292 212 292 251 287 561 292 565 292 566 292 567 292 578 287 601 292 602 277 602 264 123 263 123 277"/></Shape>
+	    <String CONTENT="apply only to a limited number of people."
+                    HPOS="123"
+                    VPOS="263"
+                    WIDTH="479"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a1297b7"
+                    TAGREFS="LT3626"
+                    BASELINE="123 314 858 312" 
+                    HPOS="122"
+                    VPOS="293"
+                    WIDTH="736"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="123 314 123 323 454 328 455 328 456 328 457 328 464 323 689 327 690 327 691 327 700 322 708 327 709 327 710 327 711 328 849 328 849 327 850 327 851 327 858 321 858 312 856 298 598 293 597 293 596 293 595 293 586 297 334 294 333 294 332 294 312 298 275 294 274 294 273 294 263 298 256 294 255 294 254 294 158 294 157 294 122 299 123 314"/></Shape>
+	    <String CONTENT="4. The Council will likewise support financially the privately"
+                    HPOS="122"
+                    VPOS="293"
+                    WIDTH="736"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4403a9a8"
+                    TAGREFS="LT3626"
+                    BASELINE="124 332 857 334" 
+                    HPOS="124"
+                    VPOS="319"
+                    WIDTH="733"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="124 332 124 345 856 343 857 334 856 321 124 319 124 332"/></Shape>
+	    <String CONTENT="instituted Aid-Committee which has saved many people and cannot"
+                    HPOS="124"
+                    VPOS="319"
+                    WIDTH="733"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49a41df9"
+                    TAGREFS="LT3626"
+                    BASELINE="123 354 894 354" 
+                    HPOS="123"
+                    VPOS="341"
+                    WIDTH="771"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="123 354 123 365 894 363 894 354 894 341 123 341 123 354"/></Shape>
+	    <String CONTENT="carry on. I should like to submit proposals for the distribution"
+                    HPOS="123"
+                    VPOS="341"
+                    WIDTH="771"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c870dc6d"
+                    TAGREFS="LT3626"
+                    BASELINE="123 374 570 374" 
+                    HPOS="123"
+                    VPOS="358"
+                    WIDTH="447"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="123 374 123 383 172 389 173 389 229 384 244 389 245 389 246 390 320 390 320 389 321 389 334 384 368 389 369 389 370 389 379 384 405 389 406 389 438 384 542 389 543 389 570 383 570 374 570 361 123 358 123 374"/></Shape>
+	    <String CONTENT="of such money given to this Committee."
+                    HPOS="123"
+                    VPOS="358"
+                    WIDTH="447"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78947c26"
+                    TAGREFS="LT3626"
+                    BASELINE="122 412 848 412" 
+                    HPOS="122"
+                    VPOS="391"
+                    WIDTH="726"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="122 412 122 421 848 421 848 412 848 397 805 391 804 391 803 391 792 396 790 396 750 391 749 391 726 396 722 396 709 396 638 391 637 391 636 391 622 395 616 397 555 397 551 394 546 391 545 391 544 391 543 391 526 394 516 396 122 392 122 412"/></Shape>
+	    <String CONTENT="5. The Council will take care that in regard to the financial"
+                    HPOS="122"
+                    VPOS="391"
+                    WIDTH="726"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42b28bd2"
+                    TAGREFS="LT3626"
+                    BASELINE="124 431 894 429" 
+                    HPOS="123"
+                    VPOS="417"
+                    WIDTH="771"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="124 431 124 441 892 442 894 429 891 417 123 418 124 431"/></Shape>
+	    <String CONTENT="support and the organisations of the emigration, impartially will"
+                    HPOS="123"
+                    VPOS="417"
+                    WIDTH="771"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af0f7626"
+                    TAGREFS="LT3626"
+                    BASELINE="123 451 892 451" 
+                    HPOS="123"
+                    VPOS="435"
+                    WIDTH="769"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="123 451 123 460 891 464 892 451 892 438 123 435 123 451"/></Shape>
+	    <String CONTENT="reign, thus accordingly not to disregard distressed orthodox parts"
+                    HPOS="123"
+                    VPOS="435"
+                    WIDTH="769"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7270f46f"
+                    TAGREFS="LT3626"
+                    BASELINE="124 472 883 470" 
+                    HPOS="123"
+                    VPOS="456"
+                    WIDTH="760"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="124 472 124 479 881 481 883 470 880 456 123 456 124 472"/></Shape>
+	    <String CONTENT="of these Jews. In order to attain this aim, The Council will do"
+                    HPOS="123"
+                    VPOS="456"
+                    WIDTH="760"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_456f772e"
+                    TAGREFS="LT3626"
+                    BASELINE="122 491 892 491" 
+                    HPOS="122"
+                    VPOS="477"
+                    WIDTH="770"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="122 491 122 499 891 501 892 491 892 477 122 477 122 491"/></Shape>
+	    <String CONTENT="all in its power to secure this aid-Committee in a future creation"
+                    HPOS="122"
+                    VPOS="477"
+                    WIDTH="770"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f03d2fc9"
+                    TAGREFS="LT3626"
+                    BASELINE="123 511 869 508" 
+                    HPOS="122"
+                    VPOS="494"
+                    WIDTH="747"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="123 511 123 521 868 520 869 508 866 494 122 497 123 511"/></Shape>
+	    <String CONTENT="of a General Committee comprising all sections of the Jews, that"
+                    HPOS="122"
+                    VPOS="494"
+                    WIDTH="747"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ea22bab"
+                    TAGREFS="LT3626"
+                    BASELINE="122 530 496 529" 
+                    HPOS="121"
+                    VPOS="516"
+                    WIDTH="375"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="122 530 122 540 495 540 496 529 493 516 121 516 122 530"/></Shape>
+	    <String CONTENT="collaboration which it deserves."
+                    HPOS="121"
+                    VPOS="516"
+                    WIDTH="375"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a23a0cc8"
+                    TAGREFS="LT3626"
+                    BASELINE="123 566 916 568" 
+                    HPOS="122"
+                    VPOS="550"
+                    WIDTH="794"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="123 566 122 574 135 580 136 580 137 580 406 577 504 576 914 581 916 568 915 553 123 550 123 566"/></Shape>
+	    <String CONTENT="6. For the necessities of the orthodox &quot;Schiffschulgemeinde,&quot; which"
+                    HPOS="122"
+                    VPOS="550"
+                    WIDTH="794"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4aa49e3e"
+                    TAGREFS="LT3626"
+                    BASELINE="123 588 870 586" 
+                    HPOS="122"
+                    VPOS="572"
+                    WIDTH="748"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="123 588 123 599 869 597 870 586 868 574 122 572 123 588"/></Shape>
+	    <String CONTENT="has hitherto maintaineditself, care will be taken by the Council"
+                    HPOS="122"
+                    VPOS="572"
+                    WIDTH="748"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2688d662"
+                    TAGREFS="LT3626"
+                    BASELINE="122 607 658 605" 
+                    HPOS="121"
+                    VPOS="593"
+                    WIDTH="537"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="122 607 122 618 656 621 658 605 656 593 121 593 122 607"/></Shape>
+	    <String CONTENT="within the framework of the General Committee."
+                    HPOS="121"
+                    VPOS="593"
+                    WIDTH="537"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fc8f489"
+                    TAGREFS="LT3626"
+                    BASELINE="214 664 894 664" 
+                    HPOS="214"
+                    VPOS="648"
+                    WIDTH="680"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="214 664 214 673 893 675 894 664 894 650 214 648 214 664"/></Shape>
+	    <String CONTENT="We have agreed to use a password which will be told to the"
+                    HPOS="214"
+                    VPOS="648"
+                    WIDTH="680"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0312419f"
+                    TAGREFS="LT3626"
+                    BASELINE="122 684 892 684" 
+                    HPOS="122"
+                    VPOS="668"
+                    WIDTH="770"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="122 684 122 694 891 698 892 684 892 670 122 668 122 684"/></Shape>
+	    <String CONTENT="Secretary of the Council for every member of the Committee dealing"
+                    HPOS="122"
+                    VPOS="668"
+                    WIDTH="770"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02d655c1"
+                    TAGREFS="LT3626"
+                    BASELINE="117 702 847 705" 
+                    HPOS="116"
+                    VPOS="690"
+                    WIDTH="731"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="117 702 116 709 845 712 847 705 847 692 117 690 117 702"/></Shape>
+	    <String CONTENT="with a visiting member of another Committee that is unknown to"
+                    HPOS="116"
+                    VPOS="690"
+                    WIDTH="731"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f961630"
+                    TAGREFS="LT3626"
+                    BASELINE="125 723 847 721" 
+                    HPOS="124"
+                    VPOS="707"
+                    WIDTH="723"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="125 723 125 734 846 731 847 721 844 707 124 708 125 723"/></Shape>
+	    <String CONTENT="this Aid-Committee as only then a full and free discussion of"
+                    HPOS="124"
+                    VPOS="707"
+                    WIDTH="723"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e3402c8"
+                    TAGREFS="LT3626"
+                    BASELINE="125 742 869 742" 
+                    HPOS="125"
+                    VPOS="727"
+                    WIDTH="744"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="125 742 125 753 868 757 869 742 869 727 125 727 125 742"/></Shape>
+	    <String CONTENT="these problems can be guaranteed in this atmosphere full of dis-"
+                    HPOS="125"
+                    VPOS="727"
+                    WIDTH="744"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1c84ebd"
+                    TAGREFS="LT3626"
+                    BASELINE="124 761 335 763" 
+                    HPOS="123"
+                    VPOS="749"
+                    WIDTH="212"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="123 769 131 774 132 774 133 774 334 772 335 763 334 749 123 752 124 761"/></Shape>
+	    <String CONTENT="trust and anxiety."
+                    HPOS="123"
+                    VPOS="749"
+                    WIDTH="212"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5df9db5"
+                    TAGREFS="LT3626"
+                    BASELINE="213 799 872 801" 
+                    HPOS="213"
+                    VPOS="779"
+                    WIDTH="659"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="213 799 213 811 871 809 872 801 871 786 580 786 554 782 533 780 532 780 442 781 238 784 213 779 213 799"/></Shape>
+	    <String CONTENT="I cannot close without saying that the state of the Jews"
+                    HPOS="213"
+                    VPOS="779"
+                    WIDTH="659"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_551a2369"
+                    TAGREFS="LT3626"
+                    BASELINE="123 820 823 819" 
+                    HPOS="122"
+                    VPOS="804"
+                    WIDTH="701"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="123 820 123 829 822 828 823 819 821 807 122 804 123 820"/></Shape>
+	    <String CONTENT="of Burgenland, robbed and driven out of their country, is so"
+                    HPOS="122"
+                    VPOS="804"
+                    WIDTH="701"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c6bf58a"
+                    TAGREFS="LT3626"
+                    BASELINE="123 839 824 839" 
+                    HPOS="123"
+                    VPOS="824"
+                    WIDTH="701"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="123 839 123 856 824 856 824 839 824 826 123 824 123 839"/></Shape>
+	    <String CONTENT="terrible and unbearable that a solution must be found in the"
+                    HPOS="123"
+                    VPOS="824"
+                    WIDTH="701"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47a75a73"
+                    TAGREFS="LT3626"
+                    BASELINE="123 860 392 858" 
+                    HPOS="122"
+                    VPOS="845"
+                    WIDTH="270"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="123 860 123 873 131 878 132 878 133 878 134 878 135 878 140 874 142 872 184 872 189 875 195 879 196 879 197 879 198 880 226 880 226 879 248 876 283 871 297 877 301 879 302 879 303 879 304 879 305 879 307 878 312 874 319 878 322 879 323 879 324 880 391 880 392 858 389 845 122 846 123 860"/></Shape>
+	    <String CONTENT="shortest possible time."
+                    HPOS="122"
+                    VPOS="845"
+                    WIDTH="270"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3515e99"
+                    TAGREFS="LT3626"
+                    BASELINE="442 895 635 897" 
+                    HPOS="441"
+                    VPOS="877"
+                    WIDTH="194"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="442 895 441 906 450 911 451 911 452 911 634 907 635 897 633 877 442 878 442 895"/></Shape>
+	    <String CONTENT="Yours sincerely,"
+                    HPOS="441"
+                    VPOS="877"
+                    WIDTH="194"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

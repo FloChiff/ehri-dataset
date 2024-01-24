@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>EHRI-BF-19380421e_SK_02.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT9589" LABEL="numbering" DESCRIPTION="block type numbering"/><OtherTag ID="BT9588" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT3604" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1876"
+          HEIGHT="2592"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1876"
+                  HEIGHT="2592">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1f1143d5"
+                    TAGREFS="LT3604"
+                    BASELINE="881 213 1007 211" 
+                    HPOS="879"
+                    VPOS="170"
+                    WIDTH="128"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="881 213 881 244 1007 241 1007 211 1002 174 879 170 881 213"/></Shape>
+	    <String CONTENT="- 2 -"
+                    HPOS="879"
+                    VPOS="170"
+                    WIDTH="128"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3eecfb92"
+                    TAGREFS="LT3604"
+                    BASELINE="350 336 1253 332" 
+                    HPOS="347"
+                    VPOS="295"
+                    WIDTH="906"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="350 336 350 360 466 375 468 375 559 362 568 362 577 362 652 375 654 375 925 373 959 367 985 360 1251 367 1253 332 1247 295 347 300 350 336"/></Shape>
+	    <String CONTENT="náčelník v Bratislave dodatočně toto:"
+                    HPOS="347"
+                    VPOS="295"
+                    WIDTH="906"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5df75a1c"
+                    TAGREFS="LT3604"
+                    BASELINE="618 414 1690 421" 
+                    HPOS="615"
+                    VPOS="369"
+                    WIDTH="1075"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="618 414 615 438 652 451 654 451 657 451 1301 442 1329 455 1331 455 1333 455 1687 442 1690 421 1687 388 1491 373 1489 373 1486 373 1484 373 1469 386 1467 388 1352 388 1348 386 1327 371 1324 371 1322 371 1320 371 1262 384 1260 384 1164 373 1162 373 1108 384 1106 384 1095 373 1093 373 1091 373 1089 373 998 384 985 384 979 384 940 371 937 371 935 371 933 371 903 382 883 369 881 369 879 369 877 369 875 369 827 382 825 382 819 382 663 369 661 369 659 369 618 380 618 414"/></Shape>
+	    <String CONTENT="&quot;Pramice, na ktorých uvedené osoby z Rakúska"
+                    HPOS="615"
+                    VPOS="369"
+                    WIDTH="1075"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b408b79"
+                    TAGREFS="LT3604"
+                    BASELINE="397 507 1733 507" 
+                    HPOS="397"
+                    VPOS="451"
+                    WIDTH="1336"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="397 507 397 524 484 540 486 540 488 540 490 540 507 527 525 540 527 540 529 540 531 540 615 529 631 540 633 540 635 540 637 542 752 542 752 540 754 540 756 540 769 527 771 527 775 527 840 540 842 540 918 529 933 527 1015 527 1022 529 1043 540 1046 540 1048 540 1104 529 1119 527 1151 529 1238 537 1240 537 1337 531 1387 527 1419 531 1486 540 1489 540 1733 531 1733 507 1733 475 1463 475 1454 468 1443 462 1441 462 1439 462 1437 462 1404 468 1378 473 1372 468 1359 457 1357 457 1355 457 1352 457 1350 457 1333 466 1262 451 1260 451 1257 451 1255 451 1240 464 1229 475 1156 475 1126 464 1089 451 1087 451 1084 451 1082 451 1059 462 1035 473 823 462 821 462 743 473 719 455 715 451 713 451 711 451 397 451 397 507"/></Shape>
+	    <String CONTENT="boly prevezené, vrátily sa zpäť na rakúsku stranu a boly"
+                    HPOS="397"
+                    VPOS="451"
+                    WIDTH="1336"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee086790"
+                    TAGREFS="LT3604"
+                    BASELINE="397 587 1709 587" 
+                    HPOS="397"
+                    VPOS="557"
+                    WIDTH="1312"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="397 587 397 606 1709 606 1709 587 1709 557 397 557 397 587"/></Shape>
+	    <String CONTENT="vlečené dvoma motorovými člnmi - údajně vojenskými - z"
+                    HPOS="397"
+                    VPOS="557"
+                    WIDTH="1312"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8eb56ba"
+                    TAGREFS="LT3604"
+                    BASELINE="399 667 1776 676" 
+                    HPOS="397"
+                    VPOS="626"
+                    WIDTH="1379"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="399 667 397 689 860 693 886 714 888 714 890 714 1432 719 1435 721 1549 721 1549 719 1551 719 1553 719 1553 717 1575 699 1774 699 1776 676 1776 648 1662 632 1659 632 1508 643 1482 643 1471 641 1426 630 1424 630 1422 630 1210 637 1095 641 1069 635 1035 628 1033 628 1030 628 1013 635 998 639 922 632 855 628 853 628 825 632 769 639 399 626 399 667"/></Shape>
+	    <String CONTENT="čoho možno usudzovať, že dopravu osob cez Dunaj previedli"
+                    HPOS="397"
+                    VPOS="626"
+                    WIDTH="1379"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b91294a"
+                    TAGREFS="LT3604"
+                    BASELINE="393 753 1765 760" 
+                    HPOS="391"
+                    VPOS="708"
+                    WIDTH="1374"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="393 753 391 773 406 784 408 784 410 784 412 784 756 773 791 792 793 792 795 792 851 794 1314 797 1316 797 1318 797 1320 797 1352 777 1530 777 1558 788 1560 788 1562 788 1681 777 1711 790 1713 790 1716 790 1718 790 1763 775 1765 760 1765 723 1314 723 1309 721 1268 710 1266 710 1264 710 1262 710 1236 721 1234 721 1225 721 1151 710 1149 710 998 719 966 721 961 719 944 710 942 710 940 710 868 719 851 721 847 719 825 708 823 708 821 708 819 708 782 719 780 719 775 719 706 708 704 708 702 708 678 719 676 719 393 719 393 753"/></Shape>
+	    <String CONTENT="pioníri, kterí sú posádkou v Hainburgu a že o doprave ne-"
+                    HPOS="391"
+                    VPOS="708"
+                    WIDTH="1374"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f37611cb"
+                    TAGREFS="LT3604"
+                    BASELINE="395 833 1752 840" 
+                    HPOS="393"
+                    VPOS="797"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="395 833 393 855 1748 861 1752 840 1750 810 395 797 395 833"/></Shape>
+	    <String CONTENT="mecké štátne úrady maly vedomosť. Prepravu samu vykonali"
+                    HPOS="393"
+                    VPOS="797"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3278bb"
+                    TAGREFS="LT3604"
+                    BASELINE="395 918 940 922" 
+                    HPOS="393"
+                    VPOS="887"
+                    WIDTH="547"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="395 918 393 941 935 946 940 922 937 892 395 887 395 918"/></Shape>
+	    <String CONTENT="ľudia v civilnom šate."
+                    HPOS="393"
+                    VPOS="887"
+                    WIDTH="547"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d406ab8b"
+                    TAGREFS="LT3604"
+                    BASELINE="626 1002 1746 1010" 
+                    HPOS="624"
+                    VPOS="969"
+                    WIDTH="1122"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="626 1002 624 1023 1741 1030 1746 1010 1744 969 626 969 626 1002"/></Shape>
+	    <String CONTENT="Podl&#x27;a výpovedi na československé územie preve-"
+                    HPOS="624"
+                    VPOS="969"
+                    WIDTH="1122"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22ba5800"
+                    TAGREFS="LT3604"
+                    BASELINE="393 1084 1772 1095" 
+                    HPOS="391"
+                    VPOS="1054"
+                    WIDTH="1381"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="393 1084 391 1105 402 1114 404 1114 406 1114 408 1114 570 1105 667 1116 670 1118 1770 1118 1772 1095 1770 1054 393 1054 393 1084"/></Shape>
+	    <String CONTENT="zených osôb, musely tieto podpísat&#x27; v Rakúsku reverz, že sa"
+                    HPOS="391"
+                    VPOS="1054"
+                    WIDTH="1381"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf0ad27a"
+                    TAGREFS="LT3604"
+                    BASELINE="393 1170 1750 1177" 
+                    HPOS="391"
+                    VPOS="1138"
+                    WIDTH="1359"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="393 1170 391 1190 501 1205 503 1205 505 1205 507 1205 523 1194 525 1194 1059 1194 1072 1205 1084 1216 1087 1216 1089 1216 1091 1216 1327 1209 1478 1207 1497 1213 1510 1218 1512 1218 1515 1220 1748 1220 1750 1177 1748 1144 393 1138 393 1170"/></Shape>
+	    <String CONTENT="vzdájú všetkých práv voči nemeckému štátu, že sa vzdá-"
+                    HPOS="391"
+                    VPOS="1138"
+                    WIDTH="1359"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4739e736"
+                    TAGREFS="LT3604"
+                    BASELINE="393 1252 1798 1265" 
+                    HPOS="391"
+                    VPOS="1220"
+                    WIDTH="1407"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="393 1252 391 1304 881 1311 883 1311 886 1311 888 1311 888 1308 901 1300 925 1276 955 1276 1381 1289 1383 1289 1499 1280 1595 1291 1646 1296 1649 1296 1796 1287 1798 1265 1796 1231 393 1220 393 1252"/></Shape>
+	    <String CONTENT="vajú všetkého majetku a že územie bývalého Rakúska opustia."
+                    HPOS="391"
+                    VPOS="1220"
+                    WIDTH="1407"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_324491c0"
+                    TAGREFS="LT3604"
+                    BASELINE="603 1337 1726 1345" 
+                    HPOS="600"
+                    VPOS="1306"
+                    WIDTH="1126"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="603 1337 600 1356 641 1371 644 1371 646 1371 816 1360 838 1360 842 1362 855 1371 858 1371 860 1371 862 1371 918 1362 927 1362 985 1365 1242 1375 1244 1375 1279 1369 1311 1365 1337 1371 1355 1375 1357 1375 1359 1375 1387 1371 1443 1365 1461 1373 1469 1378 1471 1378 1474 1378 1512 1375 1597 1367 1722 1378 1726 1345 1724 1315 603 1306 603 1337"/></Shape>
+	    <String CONTENT="Dropavené na československé štátne územie boly"
+                    HPOS="600"
+                    VPOS="1306"
+                    WIDTH="1126"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6da8c4a6"
+                    TAGREFS="LT3604"
+                    BASELINE="391 1423 698 1419" 
+                    HPOS="389"
+                    VPOS="1386"
+                    WIDTH="309"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="391 1423 391 1445 698 1445 698 1419 693 1388 389 1386 391 1423"/></Shape>
+	    <String CONTENT="tieto osoby:"
+                    HPOS="389"
+                    VPOS="1386"
+                    WIDTH="309"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_159c2569"
+                    TAGREFS="LT3604"
+                    BASELINE="410 1507 1227 1509" 
+                    HPOS="408"
+                    VPOS="1475"
+                    WIDTH="819"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="410 1507 408 1529 423 1537 425 1537 427 1537 430 1537 1225 1527 1227 1509 1225 1477 410 1475 410 1507"/></Shape>
+	    <String CONTENT="1/ Gabriel Berger, narodený 1895"
+                    HPOS="408"
+                    VPOS="1475"
+                    WIDTH="819"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72d1aef1"
+                    TAGREFS="LT3604"
+                    BASELINE="393 1589 1078 1591" 
+                    HPOS="391"
+                    VPOS="1559"
+                    WIDTH="687"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="393 1589 391 1609 417 1620 419 1620 421 1620 486 1611 689 1622 691 1622 693 1622 713 1615 724 1611 778 1615 838 1622 840 1622 842 1622 845 1622 845 1620 849 1617 855 1611 927 1611 1074 1622 1078 1591 1076 1561 393 1559 393 1589"/></Shape>
+	    <String CONTENT="2/ Bergerová Risa, 41 ročná"
+                    HPOS="391"
+                    VPOS="1559"
+                    WIDTH="687"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94f89c6c"
+                    TAGREFS="LT3604"
+                    BASELINE="406 1671 1067 1678" 
+                    HPOS="404"
+                    VPOS="1639"
+                    WIDTH="663"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="406 1671 404 1693 1063 1697 1067 1678 1065 1645 406 1639 406 1671"/></Shape>
+	    <String CONTENT="3/ Grün Heinrich, 36 ročný,"
+                    HPOS="404"
+                    VPOS="1639"
+                    WIDTH="663"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af1ed741"
+                    TAGREFS="LT3604"
+                    BASELINE="406 1753 1030 1758" 
+                    HPOS="404"
+                    VPOS="1725"
+                    WIDTH="626"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="406 1753 404 1775 1026 1779 1030 1758 1028 1730 406 1725 406 1753"/></Shape>
+	    <String CONTENT="4/ Grünová Anna, 68 ročná"
+                    HPOS="404"
+                    VPOS="1725"
+                    WIDTH="626"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9712a1da"
+                    TAGREFS="LT3604"
+                    BASELINE="404 1840 1100 1846" 
+                    HPOS="402"
+                    VPOS="1807"
+                    WIDTH="698"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="404 1840 402 1859 1095 1866 1100 1846 1097 1814 404 1807 404 1840"/></Shape>
+	    <String CONTENT="5/ Grünová Hedvika, 33 ročná"
+                    HPOS="402"
+                    VPOS="1807"
+                    WIDTH="698"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ab86282"
+                    TAGREFS="LT3604"
+                    BASELINE="404 1924 981 1931" 
+                    HPOS="402"
+                    VPOS="1883"
+                    WIDTH="579"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="404 1924 402 1944 436 1956 438 1956 440 1956 979 1950 981 1931 979 1894 404 1883 404 1924"/></Shape>
+	    <String CONTENT="6/ Grün Karol, 27 ročný"
+                    HPOS="402"
+                    VPOS="1883"
+                    WIDTH="579"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_790b7fab"
+                    TAGREFS="LT3604"
+                    BASELINE="402 2010 1026 2017" 
+                    HPOS="399"
+                    VPOS="1980"
+                    WIDTH="627"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="402 2010 399 2030 1022 2036 1026 2017 1026 1987 402 1980 402 2010"/></Shape>
+	    <String CONTENT="7/ Singer Jakob, 45 ročný"
+                    HPOS="399"
+                    VPOS="1980"
+                    WIDTH="627"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bc4ccf0"
+                    TAGREFS="LT3604"
+                    BASELINE="402 2097 1121 2103" 
+                    HPOS="399"
+                    VPOS="2064"
+                    WIDTH="722"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="402 2097 399 2118 1117 2131 1121 2103 1119 2071 402 2064 402 2097"/></Shape>
+	    <String CONTENT="8/ Singerová Helena, 52 ročná"
+                    HPOS="399"
+                    VPOS="2064"
+                    WIDTH="722"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16a7b21a"
+                    TAGREFS="LT3604"
+                    BASELINE="399 2181 1076 2185" 
+                    HPOS="397"
+                    VPOS="2151"
+                    WIDTH="679"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="399 2181 397 2201 430 2214 432 2214 434 2214 436 2214 438 2214 456 2203 481 2214 484 2214 486 2214 644 2203 654 2211 654 2214 657 2214 659 2214 752 2216 754 2218 836 2218 836 2216 838 2216 840 2216 840 2214 849 2205 873 2216 875 2216 877 2216 879 2216 918 2205 1048 2216 1050 2216 1052 2216 1074 2203 1076 2185 1074 2155 399 2151 399 2181"/></Shape>
+	    <String CONTENT="9/ Singer Vilhelm, 77 ročný"
+                    HPOS="397"
+                    VPOS="2151"
+                    WIDTH="679"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9aa53e6c"
+                    TAGREFS="LT3604"
+                    BASELINE="376 2265 1095 2272" 
+                    HPOS="373"
+                    VPOS="2233"
+                    WIDTH="722"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="376 2265 373 2287 1091 2293 1095 2272 1095 2239 376 2233 376 2265"/></Shape>
+	    <String CONTENT="10/ Singerová Berta, 82 ročná"
+                    HPOS="373"
+                    VPOS="2233"
+                    WIDTH="722"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a071916c"
+                    TAGREFS="LT3604"
+                    BASELINE="376 2354 1268 2363" 
+                    HPOS="373"
+                    VPOS="2319"
+                    WIDTH="895"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="376 2354 373 2382 730 2395 732 2395 734 2395 737 2395 737 2393 741 2391 747 2384 845 2393 892 2395 894 2395 896 2395 901 2393 914 2386 922 2393 927 2397 929 2397 931 2397 933 2397 966 2395 1037 2386 1069 2397 1080 2399 1082 2399 1084 2399 1121 2397 1234 2388 1262 2399 1268 2363 1266 2328 376 2319 376 2354"/></Shape>
+	    <String CONTENT="11/ Morgernsteinová Helena, 57 ročná"
+                    HPOS="373"
+                    VPOS="2319"
+                    WIDTH="895"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

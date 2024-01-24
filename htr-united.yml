@@ -99,7 +99,7 @@ time:
   notAfter: "1958"
 hands: 
   count: 'unknown'
-  precision: 'estimate'
+  precision: 'estimated'
 license:
   - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: 'Alto-XML'
